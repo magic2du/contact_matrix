@@ -1,4 +1,4 @@
 contact_matrix
 ==============
 
-contact matrix prediction
+contact matrix prediction. This is for internal use of sync. 
