@@ -1,4 +1,4 @@
 contact_matrix
 ==============
 
-contact matrix prediction. This is for internal use of sync. 
+Protein Protein Interaction Contact Matrix Prediction Project. This is for internal use of sync code.
