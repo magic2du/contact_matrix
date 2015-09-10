@@ -1,0 +1,8 @@
+import _mysql
+from dealFile import *
+ddis=readDDIsFile('listOfDDIsAtLeast1InterfacesHave15-20Examples.txt')
+for ddi in ddis:
+	[domain1,domain2]=ddi
+	if domain1==domain2:
+		ddis.remove(ddi)
+writeListFile('listOfDDIsAtLeast1InterfacesHave15-20ExamplesWithDifferentDomain.txt',ddis)

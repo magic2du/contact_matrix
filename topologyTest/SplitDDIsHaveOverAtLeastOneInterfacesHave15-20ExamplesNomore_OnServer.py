@@ -1,0 +1,105 @@
+import _mysql
+import os
+import re
+import time,sys
+from dealFile import *
+def writeSplit(didOriginal,ddi,topologyFolder,Examples):
+
+	NumberOfexamples=0
+	for example in Examples:
+		if isIn(example,didOriginal):
+			NumberOfexamples+=1
+	if NumberOfexamples<=15:
+		return False
+	originalFile=open(didOriginal,'r')
+	if not os.path.exists(topologyFolder):#need r to check folder recursively
+		os.makedirs(topologyFolder)
+	newFile=open(topologyFolder+ddi+'.3did','w')
+	newFile.write(originalFile.readline())
+	originalFile.close()
+	for example in Examples:
+		if isIn(example,didOriginal):
+			block=getBlock(didOriginal,example)
+			newFile.writelines(block)
+	newFile.write('//')
+	newFile.close()
+	return True
+def isIn(example,didOriginal):#check whether element of is in the object
+	#example=('85870', '2i33', 'A', 'B', '15', '222', '15', '222', '30.95', '6.49939', None, '0', '0', 'Acid_phosphat_B', 'Pfam', 'Acid_phosphat_B', 'Pfam', '85870')
+	#did="#=3D	2i33	A:15-222	B:15-222	30.95	6.49939"
+	(pdb,chain1,chain2,chain1Start,chain1End,chain2Start,chain2End)=example[1:8]
+	regex="^#=3D[\s]*"+pdb+"[\s]*"+chain1+":"+chain1Start+'-'+chain1End+'[\s]*'+chain2+":"+chain2Start+'-'+chain2End+'*'
+	#print regex
+	pattern=re.compile(regex)
+	originalFile=open(didOriginal,'r')
+	for line in originalFile:
+		if pattern.match(line):
+			#print "This exmaple is in the 3did file"
+			return True
+	print "this exmaple is not in the 3did file"	
+	return False
+def getBlock(didOriginal,example):#get the the example block if it is in the didOriginal file 
+	block=[]
+	(pdb,chain1,chain2,chain1Start,chain1End,chain2Start,chain2End)=example[1:8]
+	regex="^#=3D[\s]*"+pdb+"[\s]*"+chain1+":"+chain1Start+'-'+chain1End+'[\s]*'+chain2+":"+chain2Start+'-'+chain2End+'*'#expression of title
+	pattern=re.compile(regex)
+	regex2="^\w\s\w\s*"#expression of details
+	originalFile=open(didOriginal,'r')
+	blockStart=False
+	print example
+	for line in originalFile:#get the element of a line and check with example
+		if pattern.match(line):
+			blockStart=True
+			block.append(line)
+			continue
+		if re.search(regex2, line) and blockStart==True:
+			block.append(line)
+			continue
+		if blockStart==True and re.search('^#=3D', line):
+			break
+	return block
+#Get of Domains which has more than 2 interfaces have 16-20 examples
+db=_mysql.connect(host="localhost",user="du",passwd="zxcv4321",db="alvaro")
+#db.query("""select COUNT(*) from PPI inner join example on (ID = PPI_ID) where domain1="ACT" and domain2="ACT" and topology_1 = 6 and topology_2 = 6""")
+#db.query("""select * from PPI inner join example on (ID = PPI_ID) where domain1="ACT" and domain2="ACT" """)
+toSplitFile=sys.argv[1]
+Folder='/home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/topologyTest/dom_dom_ints/'# set the working folder
+ddiList=readDDIsFile(toSplitFile)#read ddi to list [domain1, domain2]
+#Number of Domains which has 2 interfaces have more than 15 examples
+SUCCESS=[]
+for ddi in ddiList:
+   	[domain1,domain2]=ddi
+	ddiFolder=Folder+domain1+'_int_'+domain2+'/'
+	query='SELECT DISTINCT topology_1,topology_2 from DDItopology WHERE domain1="'+domain1+'" AND domain2="'+domain2+'"'
+	db.query(query)
+	result=db.store_result()
+	rTopology=result.fetch_row(0)
+	topologyList=[]
+	for val in rTopology[0:]:
+	    	[topology1,topology2]=val
+		#print topology1+':'+topology2
+		try:
+			query='SELECT COUNT(*) from DDItopology WHERE domain1="'+domain1+'" AND domain2="'+domain2+'" AND topology_1='+topology1+' AND topology_2='+topology2
+			#print query
+			db.query(query)
+			result=db.store_result()
+			numExample=result.fetch_row(0)
+			if int(numExample[0][0])>=15 and int(numExample[0][0])<=20:# if 15-20 example creat fold and split
+				topologyFolder=ddiFolder+topology1+'_int_'+topology2+'/'
+				print numExample[0][0]+'in folder'+topologyFolder
+			
+				query='SELECT * from DDItopology WHERE domain1="'+domain1+'" AND domain2="'+domain2+'" AND topology_1='+topology1+' AND topology_2='+topology2
+				#print query
+				db.query(query)
+				result=db.store_result()
+				Examples=result.fetch_row(0)
+				#print Examples
+				didOriginal=Folder+domain1+'_int_'+domain2+'/'+domain1+'_int_'+domain2+'.3did'
+				if writeSplit(didOriginal,domain1+'_int_'+domain2,topologyFolder,Examples):
+					topologyList.append(topology1+'_int_'+topology2)
+		except:
+			print 'There is a error'
+	if len(topologyList)>0:
+		writeListFile(ddiFolder+'topologyList.txt',topologyList)
+		SUCCESS.append('_int_'.join(ddi))
+writeListFile('log_'+'SplitDDI'+str(time.clock()),SUCCESS)

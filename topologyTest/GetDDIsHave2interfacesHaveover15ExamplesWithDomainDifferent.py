@@ -1,0 +1,10 @@
+from dealFile import *
+ddis=readDDIsFile('listOfDDIsHave2InterfacesOver15.txt')
+newDDI=[]
+for ddi in ddis:
+	[domain1,domain2]=ddi
+	if domain1<>domain2:
+		string='_int_'.join(ddi)
+		newDDI.append(string)	
+writeListFile('listOfDDIsHave2InterfacesOver15WithDomainDifferent',newDDI)
+

@@ -1,0 +1,64 @@
+import _mysql
+from dealFile import *
+#Get of Domains which has 2 interfaces have more than 15 examples
+db=_mysql.connect(host="localhost",user="root",passwd="zxcv4321",db="DDI")
+#db.query("""select COUNT(*) from PPI inner join example on (ID = PPI_ID) where domain1="ACT" and domain2="ACT" and topology_1 = 6 and topology_2 = 6""")
+#db.query("""select * from PPI inner join example on (ID = PPI_ID) where domain1="ACT" and domain2="ACT" """)
+#db.query("""CREATE TABLE TEMP1 (select * from PPI inner join example on (ID = PPI_ID) where domain1="ACT" and domain2="ACT") """)
+#db.query("""CREATE TABLE DDItopology (select * from PPI inner join example on (ID = PPI_ID) )""")
+db.query("""select domain1,domain2 from DDI1 """)
+result=db.store_result()
+
+r=result.fetch_row(0)
+numDomains=[0]*100
+#for i in r[0:]:
+numDomains2Over15Examples=0
+ddis=[]
+#Number of Domains which has 2 interfaces have more than 15 examples
+for i in r[0:]:
+    [domain1,domain2]=i
+    #print i
+    #print domain1
+    #print domain2
+    #query='SELECT DISTINCT topology_1,topology_2 from DDItopology WHERE domain1="'+domain1+'" AND domain2="'+domain2+'"'
+    #query='SELECT DISTINCT topology_1,topology_2 from DDItopology WHERE domain1="'+domain1+'" AND domain2="'+domain2+'"'
+    query='SELECT COUNT(DISTINCT topology_1,topology_2) from DDItopology WHERE domain1="'+domain1+'" AND domain2="'+domain2+'"'
+    #print query
+    #query='select domain1,domain2 from DDI1'
+    db.query(query)
+    result=db.store_result()
+    numTopology=result.fetch_row(0)
+    #print numTopology[0][0]
+    if int(numTopology[0][0])>1:
+        query='SELECT DISTINCT topology_1,topology_2 from DDItopology WHERE domain1="'+domain1+'" AND domain2="'+domain2+'"'
+        db.query(query)
+        result=db.store_result()
+        rTopology=result.fetch_row(0)
+        numOver15=0
+        for val in rTopology[0:]:
+            [topology1,topology2]=val
+            try:
+                #print topology1+':'+topology2
+                query='SELECT COUNT(*) from DDItopology WHERE domain1="'+domain1+'" AND domain2="'+domain2+'" AND topology_1='+topology1+' AND topology_2='+topology2
+                #print query
+                db.query(query)
+                result=db.store_result()
+                numExample=result.fetch_row(0)
+                #print numExample[0][0]
+            except:
+                break            
+            if int(numExample[0][0])>15:
+                numOver15+=1#increase number of interfaces that have more than 15 examples
+            if numOver15>1:# if number of interfaces is 2 or more break save ddi
+                numDomains2Over15Examples+=1
+		ddis.append(domain1+'_int_'+domain2)
+                break
+                
+    '''
+    for index in range(len(numDomains)):
+        if str(index)==numTopology[0][0]:
+            numDomains[index]=1+numDomains[index]
+    '''
+writeListFile('listOfDDIsHave2InterfacesOver15',ddis)
+#print result.fetch_row()
+#print r[0][0]

@@ -1,0 +1,7 @@
+import os, sys
+from dealFile import *
+ToDoList=sys.argv[1]
+listOfAll=readListFile(ToDoList)
+for folders in listOfAll:
+	sh='cp -ru /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/'+folders+' /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/topologyTest/dom_dom_ints/'
+	os.system(sh)

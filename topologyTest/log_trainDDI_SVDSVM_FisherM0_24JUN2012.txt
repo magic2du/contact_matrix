@@ -1,0 +1,173 @@
+2012-6-24 6:27 STARTED.
+Scanning examples...done
+Reading examples into memory...OK. (36 examples read)
+Setting default regularization parameter C=0.0000
+Optimizing...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................done. (516 iterations)
+Optimization finished (11 misclassified, maxdiff=0.00093).
+Runtime in cpu-seconds: 0.04
+Number of SV: 29 (including 22 at upper bound)
+L1 loss: loss=22.15116
+Norm of weight vector: |w|=0.00012
+Norm of longest example vector: |x|=88916.20319
+Estimated VCdim of classifier: VCdim<=120.68812
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=80.56% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>16.67% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>17.65% (rho=1.00,depth=0)
+Number of kernel evaluations: 2700
+Writing model file...done
+
+
+
+2012-6-24 6:27 SUCCESS: CmcI_int_CmcI.
+
+
+Scanning examples...done
+Reading examples into memory...OK. (34 examples read)
+Setting default regularization parameter C=0.0000
+Optimizing......................done. (23 iterations)
+Optimization finished (14 misclassified, maxdiff=0.00000).
+Runtime in cpu-seconds: 0.02
+Number of SV: 30 (including 28 at upper bound)
+L1 loss: loss=28.29127
+Norm of weight vector: |w|=0.00002
+Norm of longest example vector: |x|=161021.21959
+Estimated VCdim of classifier: VCdim<=6.83538
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=88.24% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>11.76% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>11.76% (rho=1.00,depth=0)
+Number of kernel evaluations: 1142
+Writing model file...done
+
+
+
+2012-6-24 6:28 SUCCESS: CoA_transf_3_int_CoA_transf_3.
+
+
+Scanning examples...done
+Reading examples into memory...OK. (32 examples read)
+Setting default regularization parameter C=0.0000
+Optimizing.............................................................................................................................................................................................................done. (206 iterations)
+Optimization finished (6 misclassified, maxdiff=0.00013).
+Runtime in cpu-seconds: 0.02
+Number of SV: 26 (including 21 at upper bound)
+L1 loss: loss=12.02027
+Norm of weight vector: |w|=0.00002
+Norm of longest example vector: |x|=692570.18537
+Estimated VCdim of classifier: VCdim<=193.93855
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=78.12% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>18.75% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>20.00% (rho=1.00,depth=0)
+Number of kernel evaluations: 3020
+Writing model file...done
+
+
+
+2012-6-24 6:28 SUCCESS: Copper-bind_int_Copper-bind.
+
+
+Scanning examples...done
+Reading examples into memory...OK. (38 examples read)
+Setting default regularization parameter C=0.0000
+Optimizing......................done. (23 iterations)
+Optimization finished (18 misclassified, maxdiff=0.00056).
+Runtime in cpu-seconds: 0.02
+Number of SV: 38 (including 36 at upper bound)
+L1 loss: loss=36.00309
+Norm of weight vector: |w|=0.00002
+Norm of longest example vector: |x|=114006.97568
+Estimated VCdim of classifier: VCdim<=6.21305
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=100.00% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>0.00% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>0.00% (rho=1.00,depth=0)
+Number of kernel evaluations: 1353
+Writing model file...done
+
+
+
+2012-6-24 6:28 SUCCESS: Desulfoferrod_N_int_Desulfoferrodox.
+
+
+Scanning examples...done
+Reading examples into memory...OK. (36 examples read)
+Setting default regularization parameter C=0.0000
+Optimizing...............................done. (32 iterations)
+Optimization finished (16 misclassified, maxdiff=0.00000).
+Runtime in cpu-seconds: 0.04
+Number of SV: 36 (including 34 at upper bound)
+L1 loss: loss=33.80529
+Norm of weight vector: |w|=0.00002
+Norm of longest example vector: |x|=120559.59050
+Estimated VCdim of classifier: VCdim<=6.98554
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=94.44% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>5.56% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>5.56% (rho=1.00,depth=0)
+Number of kernel evaluations: 1279
+Writing model file...done
+
+
+
+2012-6-24 6:29 SUCCESS: Flavodoxin_1_int_Lactamase_B.
+
+
+2012-6-24 6:29 ERROR: Hemocyanin_M_int_Hemocyanin_M. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/topologyTest/dom_dom_ints/Hemocyanin_M_int_Hemocyanin_M/FisherA.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/topologyTest/run3DID_trainDDI_SVDSVM_FisherM0_Light.m; run3DID_trainDDI_SVDSVM_FisherM0_Light; 44
+/home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/topologyTest/trainDDI_SVDSVM.m; trainDDI_SVDSVM; 9
+Scanning examples...done
+Reading examples into memory...OK. (32 examples read)
+Setting default regularization parameter C=0.0000
+Optimizing.......................................done. (40 iterations)
+Optimization finished (1 misclassified, maxdiff=0.00053).
+Runtime in cpu-seconds: 0.02
+Number of SV: 11 (including 5 at upper bound)
+L1 loss: loss=3.52050
+Norm of weight vector: |w|=0.00053
+Norm of longest example vector: |x|=9195.19655
+Estimated VCdim of classifier: VCdim<=24.80422
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=28.12% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>68.75% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>73.33% (rho=1.00,depth=0)
+Number of kernel evaluations: 1719
+Writing model file...done
+
+
+
+2012-6-24 6:30 SUCCESS: Herpes_TK_int_Herpes_TK.
+
+
+Scanning examples...done
+Reading examples into memory...OK. (38 examples read)
+Setting default regularization parameter C=0.0000
+Optimizing......................................................................................................................................done. (135 iterations)
+Optimization finished (2 misclassified, maxdiff=0.00098).
+Runtime in cpu-seconds: 0.00
+Number of SV: 15 (including 10 at upper bound)
+L1 loss: loss=5.74907
+Norm of weight vector: |w|=0.00001
+Norm of longest example vector: |x|=683578.33629
+Estimated VCdim of classifier: VCdim<=34.93303
+Computing XiAlpha-estimates...done
+Runtime for XiAlpha-estimates in cpu-seconds: 0.00
+XiAlpha-estimate of the error: error<=39.47% (rho=1.00,depth=0)
+XiAlpha-estimate of the recall: recall=>57.89% (rho=1.00,depth=0)
+XiAlpha-estimate of the precision: precision=>61.11% (rho=1.00,depth=0)
+Number of kernel evaluations: 1529
+Writing model file...done
+
+
+
+2012-6-24 6:31 SUCCESS: HlyD_int_HlyD.
+
+
+2012-6-24 6:31 FINISHED.
