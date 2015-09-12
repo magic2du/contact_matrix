@@ -1,0 +1,69 @@
+function [trainData , trainLabels, mu, whMat]=processRawData(trainFilePath, chooseNegtive, choseNegRatio)
+% get the whitened trainging data and mu (mean), whMat(whitening matrix) used for precess testData, true for random select negative data.
+rawData=load(trainFilePath);
+    if chooseNegtive
+        trueIndex=find(rawData(:,end)==1);
+        selectedIndex=getSelectedIndex(trueIndex, rawData, choseNegRatio);
+        selectedData=rawData(selectedIndex, :);
+        trainLabels=selectedData(:,end);
+        trainDataWithoutWhiten=selectedData(:,1:end-1);
+        [trainData, mu, invMat, whMat] = whiten(trainDataWithoutWhiten, 0.0001);
+        
+        
+    else
+        trainLabels=rawData(:,end);
+        [trainData, mu, invMat, whMat] = whiten(rawData(:,1:end-1), 0.0001);
+    end
+end
+
+
+function selectedIndex=getSelectedIndex(trueIndex, rawData, choseNegRatio)
+    selectedIndex=[];
+    positaveStart=1;
+    positiveEnding=1;
+    negStart=1;
+    negEnding=1;
+    for i= 2:length(trueIndex)
+        trueIndex(i);
+        if trueIndex(i)-trueIndex(i-1)~=1
+            positiveEnding=trueIndex(i-1);
+            posLenght=positiveEnding-positaveStart+1;
+            selectedIndex=[selectedIndex [positaveStart: trueIndex(i-1)]];
+            negStart=trueIndex(i-1)+1;
+            negEnding=trueIndex(i)-1;
+            negLength=negEnding-negStart+1;
+            neg=[negStart:negEnding];
+            tmp=randperm(negLength);
+            chosenNegLength=posLenght*choseNegRatio;
+            if chosenNegLength>=negLength
+                posLenght=trueIndex(end)-positaveStart+1;
+                negStart=trueIndex(end)+1;
+                negLength=negEnding-negStart+1;
+                neg=[negStart:negEnding];
+                tmp=randperm(negLength);
+                chosenNegLength=posLenght*choseNegRatio;
+                if chosenNegLength>=negLength
+                    chosenNegLength=negLength;
+                end                
+                selectedNeg=neg(tmp(1:chosenNegLength));
+                selectedIndex=[selectedIndex selectedNeg];
+            end
+            
+        elseif i==length(trueIndex)    
+            negEnding=length(rawData(:,end));
+            selectedIndex=[selectedIndex [positaveStart: trueIndex(end)]];
+            posLenght=trueIndex(end)-positaveStart+1;
+            negStart=trueIndex(end)+1;
+            negLength=negEnding-negStart+1;
+            neg=[negStart:negEnding];
+            tmp=randperm(negLength);
+            chosenNegLength=posLenght*choseNegRatio;
+            if chosenNegLength>=negLength
+                chosenNegLength=negLength;
+            end               
+            selectedNeg=neg(tmp(1:chosenNegLength));
+            selectedIndex=[selectedIndex selectedNeg];
+            
+        end
+    end
+end

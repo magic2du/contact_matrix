@@ -1,0 +1,189 @@
+2015-05-18 16:52:45,745 - __main__ - INFO - Input DDI file: list_of_DDIs_for_contact_matrix_paper123.txt
+2015-05-18 16:52:45,746 - __main__ - INFO - DL: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - SVM: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - n_outs: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-18 16:52:45,746 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - DL_U: 0
+2015-05-18 16:52:45,746 - __main__ - INFO - DL_S: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - sparsity_weight: 0
+2015-05-18 16:52:45,746 - __main__ - INFO - DL_old: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - SVM_POLY: 0
+2015-05-18 16:52:45,746 - __main__ - INFO - reduce_ratio: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - SVM_RBF: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - DL_xy: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - batch_size: 100
+2015-05-18 16:52:45,746 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-18 16:52:45,746 - __main__ - INFO - filename: list_of_DDIs_for_contact_matrix_paper123.txt
+2015-05-18 16:52:45,746 - __main__ - INFO - SAE_SVM: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - DL_S_new: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-18 16:52:45,746 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-18 16:52:45,746 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-18 16:52:45,746 - __main__ - INFO - pretraining_interations: 10000
+2015-05-18 16:52:45,747 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-18 16:52:45,747 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-18 16:52:45,747 - __main__ - INFO - training_interations: 20000
+2015-05-18 16:52:45,747 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-18 16:52:45,747 - __main__ - INFO - finetune_lr: 1
+2015-05-18 16:52:45,747 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-18 16:52:45,747 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-18 16:52:45,747 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-18 16:52:45,747 - __main__ - INFO - n_cores: 1
+2015-05-18 16:52:45,747 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-18 16:52:45,747 - __main__ - INFO - sparsity: 0
+2015-05-18 16:52:45,747 - __main__ - INFO - with_auc_score: False
+2015-05-18 16:52:45,747 - __main__ - INFO - Sda_new: 1
+2015-05-18 16:52:45,747 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-18 16:52:45,747 - __main__ - INFO - learning_rate: 0.001
+2015-05-18 16:52:45,747 - __main__ - INFO - lrate_pre: D:1:0.5:0.05,0.005:
+2015-05-18 16:52:45,827 - __main__ - INFO - DDI: AAA_int_CDC48_N
+2015-05-18 17:00:10,155 - __main__ - DEBUG - There is a error in this ddi: AAA_int_CDC48_N
+2015-05-18 17:00:10,155 - __main__ - INFO - Expected sequence or array-like, got 0.001
+2015-05-18 17:00:10,156 - __main__ - INFO - DDI: ABC_tran_int_CFTR_R
+2015-05-18 17:00:10,177 - __main__ - DEBUG - There is a error in this ddi: ABC_tran_int_CFTR_R
+2015-05-18 17:00:10,177 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/ABC_tran_int_CFTR_R/allPairs.txt'
+2015-05-18 17:00:10,177 - __main__ - INFO - DDI: Adaptin_N_int_Clat_adaptor_s
+2015-05-18 17:00:10,178 - __main__ - DEBUG - There is a error in this ddi: Adaptin_N_int_Clat_adaptor_s
+2015-05-18 17:00:10,178 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Adaptin_N_int_Clat_adaptor_s/allPairs.txt'
+2015-05-18 17:00:10,178 - __main__ - INFO - DDI: AlkA_N_int_HhH-GPD
+2015-05-18 17:00:10,178 - __main__ - DEBUG - There is a error in this ddi: AlkA_N_int_HhH-GPD
+2015-05-18 17:00:10,178 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/AlkA_N_int_HhH-GPD/allPairs.txt'
+2015-05-18 17:00:10,178 - __main__ - INFO - DDI: Alpha-amylase_C_int_TIG
+2015-05-18 17:00:10,178 - __main__ - DEBUG - There is a error in this ddi: Alpha-amylase_C_int_TIG
+2015-05-18 17:00:10,178 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Alpha-amylase_C_int_TIG/allPairs.txt'
+2015-05-18 17:00:10,178 - __main__ - INFO - DDI: Alpha-amylase_int_DUF3459
+2015-05-18 17:00:10,178 - __main__ - DEBUG - There is a error in this ddi: Alpha-amylase_int_DUF3459
+2015-05-18 17:00:10,178 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Alpha-amylase_int_DUF3459/allPairs.txt'
+2015-05-18 17:00:10,178 - __main__ - INFO - DDI: Amidase_int_GatB_N
+2015-05-18 17:00:10,179 - __main__ - DEBUG - There is a error in this ddi: Amidase_int_GatB_N
+2015-05-18 17:00:10,179 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Amidase_int_GatB_N/allPairs.txt'
+2015-05-18 17:00:10,179 - __main__ - INFO - DDI: Amidase_int_Glu-tRNAGln
+2015-05-18 17:00:10,179 - __main__ - DEBUG - There is a error in this ddi: Amidase_int_Glu-tRNAGln
+2015-05-18 17:00:10,179 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Amidase_int_Glu-tRNAGln/allPairs.txt'
+2015-05-18 17:00:10,179 - __main__ - INFO - DDI: AMNp_N_int_PNP_UDP_1
+2015-05-18 17:00:10,179 - __main__ - DEBUG - There is a error in this ddi: AMNp_N_int_PNP_UDP_1
+2015-05-18 17:00:10,179 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/AMNp_N_int_PNP_UDP_1/allPairs.txt'
+2015-05-18 17:00:10,179 - __main__ - INFO - DDI: Arg_repressor_int_Arg_repressor_C
+2015-05-18 17:00:10,179 - __main__ - DEBUG - There is a error in this ddi: Arg_repressor_int_Arg_repressor_C
+2015-05-18 17:00:10,179 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Arg_repressor_int_Arg_repressor_C/allPairs.txt'
+2015-05-18 17:00:10,179 - __main__ - INFO - DDI: Arrestin_C_int_Arrestin_N
+2015-05-18 17:00:10,179 - __main__ - DEBUG - There is a error in this ddi: Arrestin_C_int_Arrestin_N
+2015-05-18 17:00:10,179 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Arrestin_C_int_Arrestin_N/allPairs.txt'
+2015-05-18 17:00:10,179 - __main__ - INFO - DDI: Asn_synthase_int_GATase_7
+2015-05-18 17:00:37,131 - __main__ - DEBUG - There is a error in this ddi: Asn_synthase_int_GATase_7
+2015-05-18 17:00:37,132 - __main__ - INFO - [Errno 32] Broken pipe
+2015-05-18 17:00:37,134 - __main__ - INFO - DDI: ATLF_int_Anthrax-tox_M
+2015-05-18 17:01:09,565 - __main__ - INFO - Input DDI file: list_of_DDIs_for_contact_matrix_paper123.txt
+2015-05-18 17:01:09,565 - __main__ - INFO - DL: 1
+2015-05-18 17:01:09,566 - __main__ - INFO - SVM: 1
+2015-05-18 17:01:09,566 - __main__ - INFO - n_outs: 1
+2015-05-18 17:01:09,566 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-18 17:01:09,566 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-18 17:01:09,567 - __main__ - INFO - DL_U: 0
+2015-05-18 17:01:09,567 - __main__ - INFO - DL_S: 1
+2015-05-18 17:01:09,567 - __main__ - INFO - sparsity_weight: 0
+2015-05-18 17:01:09,567 - __main__ - INFO - DL_old: 1
+2015-05-18 17:01:09,568 - __main__ - INFO - SVM_POLY: 0
+2015-05-18 17:01:09,568 - __main__ - INFO - reduce_ratio: 1
+2015-05-18 17:01:09,568 - __main__ - INFO - SVM_RBF: 1
+2015-05-18 17:01:09,568 - __main__ - INFO - DL_xy: 1
+2015-05-18 17:01:09,568 - __main__ - INFO - batch_size: 100
+2015-05-18 17:01:09,569 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-18 17:01:09,569 - __main__ - INFO - filename: list_of_DDIs_for_contact_matrix_paper123.txt
+2015-05-18 17:01:09,569 - __main__ - INFO - SAE_SVM: 1
+2015-05-18 17:01:09,569 - __main__ - INFO - DL_S_new: 1
+2015-05-18 17:01:09,569 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-18 17:01:09,570 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-18 17:01:09,570 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-18 17:01:09,570 - __main__ - INFO - pretraining_interations: 10000
+2015-05-18 17:01:09,570 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-18 17:01:09,570 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-18 17:01:09,571 - __main__ - INFO - training_interations: 20000
+2015-05-18 17:01:09,571 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-18 17:01:09,571 - __main__ - INFO - finetune_lr: 1
+2015-05-18 17:01:09,571 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-18 17:01:09,571 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-18 17:01:09,572 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-18 17:01:09,572 - __main__ - INFO - n_cores: 1
+2015-05-18 17:01:09,572 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-18 17:01:09,572 - __main__ - INFO - sparsity: 0
+2015-05-18 17:01:09,572 - __main__ - INFO - with_auc_score: False
+2015-05-18 17:01:09,573 - __main__ - INFO - Sda_new: 1
+2015-05-18 17:01:09,573 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-18 17:01:09,573 - __main__ - INFO - learning_rate: 0.001
+2015-05-18 17:01:09,573 - __main__ - INFO - lrate_pre: D:1:0.5:0.05,0.005:
+2015-05-18 17:01:11,321 - __main__ - INFO - DDI: AAA_int_CDC48_N
+2015-05-18 17:21:12,207 - __main__ - INFO - Input DDI file: list_of_DDIs_for_contact_matrix_paper123.txt
+2015-05-18 17:21:12,207 - __main__ - INFO - DL: 1
+2015-05-18 17:21:12,207 - __main__ - INFO - SVM: 1
+2015-05-18 17:21:12,207 - __main__ - INFO - n_outs: 1
+2015-05-18 17:21:12,208 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-18 17:21:12,208 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-18 17:21:12,208 - __main__ - INFO - DL_U: 0
+2015-05-18 17:21:12,208 - __main__ - INFO - DL_S: 1
+2015-05-18 17:21:12,209 - __main__ - INFO - sparsity_weight: 0
+2015-05-18 17:21:12,209 - __main__ - INFO - DL_old: 1
+2015-05-18 17:21:12,209 - __main__ - INFO - SVM_POLY: 0
+2015-05-18 17:21:12,209 - __main__ - INFO - reduce_ratio: 1
+2015-05-18 17:21:12,209 - __main__ - INFO - SVM_RBF: 1
+2015-05-18 17:21:12,210 - __main__ - INFO - DL_xy: 1
+2015-05-18 17:21:12,210 - __main__ - INFO - batch_size: 100
+2015-05-18 17:21:12,210 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-18 17:21:12,210 - __main__ - INFO - filename: list_of_DDIs_for_contact_matrix_paper123.txt
+2015-05-18 17:21:12,210 - __main__ - INFO - SAE_SVM: 1
+2015-05-18 17:21:12,211 - __main__ - INFO - DL_S_new: 1
+2015-05-18 17:21:12,211 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-18 17:21:12,211 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-18 17:21:12,211 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-18 17:21:12,211 - __main__ - INFO - pretraining_interations: 10000
+2015-05-18 17:21:12,212 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-18 17:21:12,212 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-18 17:21:12,212 - __main__ - INFO - training_interations: 20000
+2015-05-18 17:21:12,212 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-18 17:21:12,212 - __main__ - INFO - finetune_lr: 1
+2015-05-18 17:21:12,213 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-18 17:21:12,213 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-18 17:21:12,213 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-18 17:21:12,213 - __main__ - INFO - n_cores: 1
+2015-05-18 17:21:12,213 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-18 17:21:12,214 - __main__ - INFO - sparsity: 0
+2015-05-18 17:21:12,214 - __main__ - INFO - with_auc_score: False
+2015-05-18 17:21:12,214 - __main__ - INFO - Sda_new: 1
+2015-05-18 17:21:12,214 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-18 17:21:12,214 - __main__ - INFO - learning_rate: 0.001
+2015-05-18 17:21:12,215 - __main__ - INFO - lrate_pre: D:1:0.5:0.05,0.005:
+2015-05-18 17:21:14,046 - __main__ - INFO - DDI: AAA_int_CDC48_N
+2015-05-19 12:10:54,034 - __main__ - DEBUG - There is a error in this ddi: AAA_int_CDC48_N
+2015-05-19 12:11:06,441 - __main__ - INFO - Cannot convert Type TensorType(float32, vector) (of Variable Subtensor{int64:int64:}.0) into Type TensorType(float32, matrix). You can try to manually convert Subtensor{int64:int64:}.0 into a TensorType(float32, matrix).
+2015-05-19 12:11:28,559 - __main__ - INFO - DDI: ABC_tran_int_CFTR_R
+2015-05-19 12:11:28,581 - __main__ - DEBUG - There is a error in this ddi: ABC_tran_int_CFTR_R
+2015-05-19 12:11:28,581 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/ABC_tran_int_CFTR_R/allPairs.txt'
+2015-05-19 12:11:28,581 - __main__ - INFO - DDI: Adaptin_N_int_Clat_adaptor_s
+2015-05-19 12:11:28,582 - __main__ - DEBUG - There is a error in this ddi: Adaptin_N_int_Clat_adaptor_s
+2015-05-19 12:11:28,582 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Adaptin_N_int_Clat_adaptor_s/allPairs.txt'
+2015-05-19 12:11:28,583 - __main__ - INFO - DDI: AlkA_N_int_HhH-GPD
+2015-05-19 12:11:28,583 - __main__ - DEBUG - There is a error in this ddi: AlkA_N_int_HhH-GPD
+2015-05-19 12:11:28,583 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/AlkA_N_int_HhH-GPD/allPairs.txt'
+2015-05-19 12:11:28,584 - __main__ - INFO - DDI: Alpha-amylase_C_int_TIG
+2015-05-19 12:11:28,584 - __main__ - DEBUG - There is a error in this ddi: Alpha-amylase_C_int_TIG
+2015-05-19 12:11:28,584 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Alpha-amylase_C_int_TIG/allPairs.txt'
+2015-05-19 12:11:40,876 - __main__ - INFO - DDI: Alpha-amylase_int_DUF3459
+2015-05-19 12:11:40,877 - __main__ - DEBUG - There is a error in this ddi: Alpha-amylase_int_DUF3459
+2015-05-19 12:11:40,877 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Alpha-amylase_int_DUF3459/allPairs.txt'
+2015-05-19 12:11:40,877 - __main__ - INFO - DDI: Amidase_int_GatB_N
+2015-05-19 12:11:40,877 - __main__ - DEBUG - There is a error in this ddi: Amidase_int_GatB_N
+2015-05-19 12:11:40,878 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Amidase_int_GatB_N/allPairs.txt'
+2015-05-19 12:11:40,878 - __main__ - INFO - DDI: Amidase_int_Glu-tRNAGln
+2015-05-19 12:11:40,878 - __main__ - DEBUG - There is a error in this ddi: Amidase_int_Glu-tRNAGln
+2015-05-19 12:11:40,878 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Amidase_int_Glu-tRNAGln/allPairs.txt'
+2015-05-19 12:11:40,879 - __main__ - INFO - DDI: AMNp_N_int_PNP_UDP_1
+2015-05-19 12:11:40,879 - __main__ - DEBUG - There is a error in this ddi: AMNp_N_int_PNP_UDP_1
+2015-05-19 12:11:40,879 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/AMNp_N_int_PNP_UDP_1/allPairs.txt'
+2015-05-19 12:11:40,879 - __main__ - INFO - DDI: Arg_repressor_int_Arg_repressor_C
+2015-05-19 12:11:40,880 - __main__ - DEBUG - There is a error in this ddi: Arg_repressor_int_Arg_repressor_C
+2015-05-19 12:11:40,880 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Arg_repressor_int_Arg_repressor_C/allPairs.txt'
+2015-05-19 12:11:40,880 - __main__ - INFO - DDI: Arrestin_C_int_Arrestin_N
+2015-05-19 12:11:40,880 - __main__ - DEBUG - There is a error in this ddi: Arrestin_C_int_Arrestin_N
+2015-05-19 12:11:40,881 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Arrestin_C_int_Arrestin_N/allPairs.txt'
+2015-05-19 12:11:40,881 - __main__ - INFO - DDI: Asn_synthase_int_GATase_7

@@ -1,0 +1,3 @@
+function [reducedTrainingData, reducedTrainingLabel]=getReducedTrainingAndLabel(trainIdx,dataFolder, reduceRatio)
+
+end

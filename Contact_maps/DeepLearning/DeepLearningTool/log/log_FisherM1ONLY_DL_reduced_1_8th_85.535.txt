@@ -1,0 +1,3454 @@
+2013-11-7 16:4 STARTED.
+Starting matlabpool using the 'local' profile ... connected to 8 labs.
+
+n =
+
+    64
+
+Training AE 1/2
+
+n =
+
+    89
+
+Training AE 1/2
+
+n =
+
+   124
+
+
+n =
+
+    15
+
+Training AE 1/2
+Training AE 1/2
+
+n =
+
+    90
+
+Training AE 1/2
+
+n =
+
+    16
+
+Training AE 2/2
+Training AE 1/2
+
+n =
+
+   401
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+PF00032.9_int_PF02939.8, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 91.667%
+Testing recall: 83.333%
+Testing precision: 100.000%
+Testing f_measure: 90.909%
+
+
+
+PF00033.11_int_PF02271.8, seqPair 1, auc = 1.000, sens = 0.833, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.750%
+Training recall: 100.000%
+Training precision: 88.889%
+Training f_measure: 94.118%
+Testing accuracy: 76.984%
+Testing recall: 84.127%
+Testing precision: 73.611%
+Testing f_measure: 78.519%
+
+
+
+PF00149.20_int_PF08321.4, seqPair 1, auc = 0.845, sens = 0.841, spec = 0.736, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    88
+
+Training accuracy: 75.000%
+Training recall: 58.333%
+Training precision: 87.500%
+Training f_measure: 70.000%
+Testing accuracy: 82.051%
+Testing recall: 66.667%
+Testing precision: 96.296%
+Testing f_measure: 78.788%
+
+
+
+PF00104.22_int_PF08832.2, seqPair 1, auc = 0.945, sens = 0.667, spec = 0.963, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+
+n =
+
+    63
+
+Training AE 1/2
+Training accuracy: 93.750%
+Training recall: 100.000%
+Training precision: 88.889%
+Training f_measure: 94.118%
+Testing accuracy: 90.625%
+Testing recall: 100.000%
+Testing precision: 84.211%
+Testing f_measure: 91.429%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 1, auc = 0.937, sens = 1.000, spec = 0.842, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+PF00034.13_int_PF02239.8, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    14
+
+Training AE 1/2
+
+n =
+
+   169
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   104
+
+Training AE 2/2
+
+n =
+
+   146
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+     9
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 87.255%
+Training recall: 84.314%
+Training precision: 89.583%
+Training f_measure: 86.869%
+Testing accuracy: 78.261%
+Testing recall: 81.159%
+Testing precision: 76.712%
+Testing f_measure: 78.873%
+
+
+
+PF00243.10_int_PF00243.10, seqPair 1, auc = 0.836, sens = 0.812, spec = 0.767, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 76.562%
+Testing recall: 68.750%
+Testing precision: 81.481%
+Testing f_measure: 74.576%
+
+
+
+PF00149.20_int_PF08321.4, seqPair 3, auc = 0.882, sens = 0.688, spec = 0.815, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:11 SUCCESS: PF00149.20_int_PF08321.4.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 85.714%
+Testing recall: 71.429%
+Testing precision: 100.000%
+Testing f_measure: 83.333%
+
+
+
+PF00033.11_int_PF02271.8, seqPair 2, auc = 1.000, sens = 0.714, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 90.385%
+Testing recall: 80.769%
+Testing precision: 100.000%
+Testing f_measure: 89.362%
+
+
+
+PF00032.9_int_PF02939.8, seqPair 2, auc = 0.993, sens = 0.808, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   393
+
+
+n =
+
+    13
+
+Training AE 1/2
+Training AE 1/2
+
+n =
+
+    79
+
+Training accuracy: 84.615%
+Training recall: 76.923%
+Training precision: 90.909%
+Training f_measure: 83.333%
+Testing accuracy: 80.000%
+Testing recall: 72.000%
+Testing precision: 85.714%
+Testing f_measure: 78.261%
+
+
+
+PF00104.22_int_PF08832.2, seqPair 4, auc = 0.917, sens = 0.720, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 79.545%
+Training recall: 63.636%
+Training precision: 93.333%
+Training f_measure: 75.676%
+Testing accuracy: 88.462%
+Testing recall: 89.744%
+Testing precision: 87.500%
+Testing f_measure: 88.608%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 1, auc = 0.951, sens = 0.897, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 87.500%
+Testing recall: 75.000%
+Testing precision: 100.000%
+Testing f_measure: 85.714%
+
+
+
+PF00034.13_int_PF02239.8, seqPair 6, auc = 1.000, sens = 0.750, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:13 SUCCESS: PF00034.13_int_PF02239.8.
+
+
+
+n =
+
+    19
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.368%
+Training recall: 94.737%
+Training precision: 100.000%
+Training f_measure: 97.297%
+Testing accuracy: 67.308%
+Testing recall: 34.615%
+Testing precision: 100.000%
+Testing f_measure: 51.429%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 2, auc = 0.840, sens = 0.346, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+    97
+
+Training AE 1/2
+
+n =
+
+    18
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   166
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+PF00033.11_int_PF02271.8, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:16 SUCCESS: PF00033.11_int_PF02271.8.
+
+
+Training accuracy: 95.000%
+Training recall: 100.000%
+Training precision: 90.909%
+Training f_measure: 95.238%
+Testing accuracy: 82.857%
+Testing recall: 65.714%
+Testing precision: 100.000%
+Testing f_measure: 79.310%
+
+
+
+PF00032.9_int_PF02939.8, seqPair 5, auc = 0.999, sens = 0.657, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 92.857%
+Testing recall: 85.714%
+Testing precision: 100.000%
+Testing f_measure: 92.308%
+
+
+
+PF00127.12_int_PF06433.3, seqPair 1, auc = 1.000, sens = 0.857, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    86
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 56.250%
+Testing recall: 12.500%
+Testing precision: 100.000%
+Testing f_measure: 22.222%
+
+
+
+PF00034.13_int_PF00141.15, seqPair 1, auc = 1.000, sens = 0.125, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 84.615%
+Training recall: 84.615%
+Training precision: 84.615%
+Training f_measure: 84.615%
+Testing accuracy: 89.062%
+Testing recall: 78.125%
+Testing precision: 100.000%
+Testing f_measure: 87.719%
+
+
+
+PF00104.22_int_PF08832.2, seqPair 9, auc = 0.969, sens = 0.781, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   183
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+    56
+
+Training AE 1/2
+Training accuracy: 83.000%
+Training recall: 80.000%
+Training precision: 85.106%
+Training f_measure: 82.474%
+Testing accuracy: 84.416%
+Testing recall: 77.922%
+Testing precision: 89.552%
+Testing f_measure: 83.333%
+
+
+
+PF00243.10_int_PF00243.10, seqPair 2, auc = 0.946, sens = 0.779, spec = 0.896, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+     8
+
+
+n =
+
+    96
+
+Training AE 1/2
+Training AE 1/2
+
+n =
+
+    14
+
+Training AE 1/2
+Training accuracy: 97.619%
+Training recall: 95.238%
+Training precision: 100.000%
+Training f_measure: 97.561%
+Testing accuracy: 91.667%
+Testing recall: 83.333%
+Testing precision: 100.000%
+Testing f_measure: 90.909%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 5, auc = 1.000, sens = 0.833, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+   133
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   395
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 85.714%
+Testing recall: 71.429%
+Testing precision: 100.000%
+Testing f_measure: 83.333%
+
+
+
+PF00032.9_int_PF02939.8, seqPair 31, auc = 0.983, sens = 0.714, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:20 SUCCESS: PF00032.9_int_PF02939.8.
+
+
+
+n =
+
+    55
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 55.556%
+Testing recall: 11.111%
+Testing precision: 100.000%
+Testing f_measure: 20.000%
+
+
+
+PF00034.13_int_PF00141.15, seqPair 7, auc = 1.000, sens = 0.111, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:21 SUCCESS: PF00034.13_int_PF00141.15.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 87.500%
+Testing recall: 83.333%
+Testing precision: 90.909%
+Testing f_measure: 86.957%
+
+
+
+PF00127.12_int_PF06433.3, seqPair 15, auc = 0.944, sens = 0.833, spec = 0.909, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    14
+
+Training AE 1/2
+Training accuracy: 58.696%
+Training recall: 26.087%
+Training precision: 75.000%
+Training f_measure: 38.710%
+Testing accuracy: 54.000%
+Testing recall: 8.000%
+Testing precision: 100.000%
+Testing f_measure: 14.815%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 2, auc = 0.941, sens = 0.080, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+PF00033.11_int_PF00355.18, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 87.500%
+Training recall: 91.667%
+Training precision: 84.615%
+Training f_measure: 88.000%
+Testing accuracy: 83.333%
+Testing recall: 75.758%
+Testing precision: 89.286%
+Testing f_measure: 81.967%
+
+
+
+PF00104.22_int_PF08832.2, seqPair 11, auc = 0.950, sens = 0.758, spec = 0.893, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:22 SUCCESS: PF00104.22_int_PF08832.2.
+
+
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+   192
+
+Training AE 1/2
+Training accuracy: 94.118%
+Training recall: 88.235%
+Training precision: 100.000%
+Training f_measure: 93.750%
+Testing accuracy: 80.769%
+Testing recall: 64.103%
+Testing precision: 96.154%
+Testing f_measure: 76.923%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 7, auc = 0.977, sens = 0.641, spec = 0.962, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    19
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   164
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 93.750%
+Testing recall: 87.500%
+Testing precision: 100.000%
+Testing f_measure: 93.333%
+
+
+
+PF00032.9_int_PF02271.8, seqPair 1, auc = 1.000, sens = 0.875, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+
+
+
+PF00033.11_int_PF02939.8, seqPair 1, auc = 1.000, sens = 0.500, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    55
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+    53
+
+Training AE 1/2
+
+n =
+
+    12
+
+Training AE 1/2
+Training accuracy: 83.000%
+Training recall: 84.000%
+Training precision: 82.353%
+Training f_measure: 83.168%
+Testing accuracy: 82.000%
+Testing recall: 78.667%
+Testing precision: 84.286%
+Testing f_measure: 81.379%
+
+
+
+PF00243.10_int_PF00243.10, seqPair 3, auc = 0.894, sens = 0.787, spec = 0.843, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 78.571%
+Testing recall: 57.143%
+Testing precision: 100.000%
+Testing f_measure: 72.727%
+
+
+
+PF00127.12_int_PF06433.3, seqPair 27, auc = 1.000, sens = 0.571, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:27 SUCCESS: PF00127.12_int_PF06433.3.
+
+
+
+n =
+
+   199
+
+Training AE 1/2
+Training accuracy: 75.000%
+Training recall: 58.333%
+Training precision: 87.500%
+Training f_measure: 70.000%
+Testing accuracy: 67.391%
+Testing recall: 34.783%
+Testing precision: 100.000%
+Testing f_measure: 51.613%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 1, auc = 0.928, sens = 0.348, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   460
+
+Training AE 1/2
+
+n =
+
+    75
+
+Training AE 1/2
+
+n =
+
+   193
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+PF00033.11_int_PF00355.18, seqPair 3, auc = 0.967, sens = 1.000, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 94.444%
+Testing recall: 88.889%
+Testing precision: 100.000%
+Testing f_measure: 94.118%
+
+
+
+PF00032.9_int_PF02271.8, seqPair 2, auc = 0.994, sens = 0.889, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00033.11_int_PF02939.8, seqPair 2, auc = 1.000, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.619%
+Training recall: 95.238%
+Training precision: 100.000%
+Training f_measure: 97.561%
+Testing accuracy: 87.500%
+Testing recall: 87.500%
+Testing precision: 87.500%
+Testing f_measure: 87.500%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 12, auc = 0.969, sens = 0.875, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+    50
+
+Training AE 1/2
+
+n =
+
+    14
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   165
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+    56
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 86.000%
+Training recall: 80.000%
+Training precision: 90.909%
+Training f_measure: 85.106%
+Testing accuracy: 88.889%
+Testing recall: 77.778%
+Testing precision: 100.000%
+Testing f_measure: 87.500%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 3, auc = 1.000, sens = 0.778, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.000%
+Training recall: 80.000%
+Training precision: 100.000%
+Training f_measure: 88.889%
+Testing accuracy: 86.364%
+Testing recall: 100.000%
+Testing precision: 78.571%
+Testing f_measure: 88.000%
+
+
+
+PF00385.16_int_PF00385.16, seqPair 1, auc = 0.909, sens = 1.000, spec = 0.786, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+    76
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 88.000%
+Training recall: 80.000%
+Training precision: 95.238%
+Training f_measure: 86.957%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 2, auc = 0.496, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 97.619%
+Testing recall: 100.000%
+Testing precision: 95.455%
+Testing f_measure: 97.674%
+
+
+
+PF00032.9_int_PF02271.8, seqPair 5, auc = 1.000, sens = 1.000, spec = 0.955, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   184
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 58.333%
+Testing recall: 16.667%
+Testing precision: 100.000%
+Testing f_measure: 28.571%
+
+
+
+PF00033.11_int_PF02939.8, seqPair 26, auc = 1.000, sens = 0.167, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:33 SUCCESS: PF00033.11_int_PF02939.8.
+
+
+Training AE 2/2
+
+n =
+
+    55
+
+Training AE 1/2
+Training accuracy: 87.931%
+Training recall: 89.655%
+Training precision: 86.667%
+Training f_measure: 88.136%
+Testing accuracy: 65.000%
+Testing recall: 30.000%
+Testing precision: 100.000%
+Testing f_measure: 46.154%
+
+
+
+PF00243.10_int_PF00243.10, seqPair 4, auc = 0.760, sens = 0.300, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.238%
+Training recall: 90.476%
+Training precision: 100.000%
+Training f_measure: 95.000%
+Testing accuracy: 71.429%
+Testing recall: 42.857%
+Testing precision: 100.000%
+Testing f_measure: 60.000%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 26, auc = 1.000, sens = 0.429, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 85.000%
+Testing recall: 70.000%
+Testing precision: 100.000%
+Testing f_measure: 82.353%
+
+
+
+PF00033.11_int_PF00355.18, seqPair 7, auc = 1.000, sens = 0.700, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+   167
+
+Training AE 1/2
+
+n =
+
+   380
+
+Training AE 1/2
+Training accuracy: 95.000%
+Training recall: 90.000%
+Training precision: 100.000%
+Training f_measure: 94.737%
+Testing accuracy: 90.000%
+Testing recall: 100.000%
+Testing precision: 83.333%
+Testing f_measure: 90.909%
+
+
+
+PF00385.16_int_PF00385.16, seqPair 11, auc = 0.850, sens = 1.000, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    77
+
+Training AE 1/2
+
+n =
+
+   182
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+    58
+
+Training accuracy: 71.739%
+Training recall: 56.522%
+Training precision: 81.250%
+Training f_measure: 66.667%
+Testing accuracy: 80.645%
+Testing recall: 77.419%
+Testing precision: 82.759%
+Testing f_measure: 80.000%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 4, auc = 0.907, sens = 0.774, spec = 0.828, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 96.875%
+Testing recall: 93.750%
+Testing precision: 100.000%
+Testing f_measure: 96.774%
+
+
+
+PF00032.9_int_PF02271.8, seqPair 31, auc = 1.000, sens = 0.938, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:37 SUCCESS: PF00032.9_int_PF02271.8.
+
+
+Training AE 2/2
+
+n =
+
+   193
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+    94
+
+Training AE 1/2
+Training accuracy: 95.238%
+Training recall: 90.476%
+Training precision: 100.000%
+Training f_measure: 95.000%
+Testing accuracy: 60.000%
+Testing recall: 20.000%
+Testing precision: 100.000%
+Testing f_measure: 33.333%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 40, auc = 1.000, sens = 0.200, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.000%
+Training recall: 90.000%
+Training precision: 100.000%
+Training f_measure: 94.737%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00385.16_int_PF00385.16, seqPair 13, auc = 0.889, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+    68
+
+Training AE 1/2
+
+n =
+
+        1195
+
+Training AE 1/2
+
+n =
+
+   139
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 68.750%
+Testing recall: 37.500%
+Testing precision: 100.000%
+Testing f_measure: 54.545%
+
+
+
+PF00033.11_int_PF00355.18, seqPair 8, auc = 1.000, sens = 0.375, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 78.261%
+Training recall: 60.870%
+Training precision: 93.333%
+Training f_measure: 73.684%
+Testing accuracy: 75.000%
+Testing recall: 53.846%
+Testing precision: 93.333%
+Testing f_measure: 68.293%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 6, auc = 0.951, sens = 0.538, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 85.417%
+Training recall: 87.500%
+Training precision: 84.000%
+Training f_measure: 85.714%
+Testing accuracy: 72.222%
+Testing recall: 60.000%
+Testing precision: 79.412%
+Testing f_measure: 68.354%
+
+
+
+PF00243.10_int_PF00243.10, seqPair 7, auc = 0.810, sens = 0.600, spec = 0.794, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 75.000%
+Training recall: 50.000%
+Training precision: 100.000%
+Training f_measure: 66.667%
+Testing accuracy: 59.091%
+Testing recall: 18.182%
+Testing precision: 100.000%
+Testing f_measure: 30.769%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 1, auc = 0.975, sens = 0.182, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 76.000%
+Training recall: 52.000%
+Training precision: 100.000%
+Training f_measure: 68.421%
+Testing accuracy: 86.364%
+Testing recall: 72.727%
+Testing precision: 100.000%
+Testing f_measure: 84.211%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 5, auc = 0.959, sens = 0.727, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   403
+
+Training AE 1/2
+
+n =
+
+    58
+
+
+n =
+
+   199
+
+Training accuracy: 72.222%
+Training recall: 44.444%
+Training precision: 100.000%
+Training f_measure: 61.538%
+Testing accuracy: 66.667%
+Testing recall: 33.333%
+Testing precision: 100.000%
+Testing f_measure: 50.000%
+
+
+
+PF00385.16_int_PF00385.16, seqPair 17, auc = 0.830, sens = 0.333, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+
+n =
+
+    98
+
+Training AE 1/2
+
+n =
+
+    67
+
+Training AE 1/2
+Training accuracy: 94.444%
+Training recall: 88.889%
+Training precision: 100.000%
+Training f_measure: 94.118%
+Testing accuracy: 90.909%
+Testing recall: 87.879%
+Testing precision: 93.548%
+Testing f_measure: 90.625%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 42, auc = 0.964, sens = 0.879, spec = 0.935, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:44 SUCCESS: PF00081.14_int_PF00081.14.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+    37
+
+Training AE 1/2
+
+n =
+
+   186
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+PF00033.11_int_PF00355.18, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 60.526%
+Testing recall: 26.316%
+Testing precision: 83.333%
+Testing f_measure: 40.000%
+
+
+
+PF00385.16_int_PF00385.16, seqPair 18, auc = 0.712, sens = 0.263, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 76.923%
+Training recall: 53.846%
+Training precision: 100.000%
+Training f_measure: 70.000%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 3, auc = 1.000, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+    67
+
+Training AE 1/2
+Training accuracy: 80.000%
+Training recall: 64.000%
+Training precision: 94.118%
+Training f_measure: 76.190%
+Testing accuracy: 93.750%
+Testing recall: 87.500%
+Testing precision: 100.000%
+Testing f_measure: 93.333%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 6, auc = 0.988, sens = 0.875, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 78.431%
+Training recall: 80.392%
+Training precision: 77.358%
+Training f_measure: 78.846%
+Testing accuracy: 82.836%
+Testing recall: 82.090%
+Testing precision: 83.333%
+Testing f_measure: 82.707%
+
+
+
+PF00243.10_int_PF00243.10, seqPair 8, auc = 0.892, sens = 0.821, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    79
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 90.000%
+Training recall: 80.000%
+Training precision: 100.000%
+Training f_measure: 88.889%
+Testing accuracy: 85.185%
+Testing recall: 74.074%
+Testing precision: 95.238%
+Testing f_measure: 83.333%
+
+
+
+PF00074.12_int_PF07686.9, seqPair 1, auc = 0.933, sens = 0.741, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   193
+
+Training AE 1/2
+
+n =
+
+    57
+
+Training AE 1/2
+
+n =
+
+    50
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   388
+
+Training AE 1/2
+Training accuracy: 81.250%
+Training recall: 66.667%
+Training precision: 94.118%
+Training f_measure: 78.049%
+Testing accuracy: 84.091%
+Testing recall: 72.727%
+Testing precision: 94.118%
+Testing f_measure: 82.051%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 7, auc = 0.926, sens = 0.727, spec = 0.941, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.444%
+Training recall: 88.889%
+Training precision: 100.000%
+Training f_measure: 94.118%
+Testing accuracy: 52.632%
+Testing recall: 10.526%
+Testing precision: 66.667%
+Testing f_measure: 18.182%
+
+
+
+PF00385.16_int_PF00385.16, seqPair 19, auc = 0.693, sens = 0.105, spec = 0.667, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:51 SUCCESS: PF00385.16_int_PF00385.16.
+
+
+Training accuracy: 79.667%
+Training recall: 72.000%
+Training precision: 85.039%
+Training f_measure: 77.978%
+Testing accuracy: 76.354%
+Testing recall: 69.314%
+Testing precision: 80.672%
+Testing f_measure: 74.563%
+
+
+
+PF00393.11_int_PF00393.11, seqPair 1, auc = 0.848, sens = 0.693, spec = 0.807, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.000%
+Training recall: 80.000%
+Training precision: 100.000%
+Training f_measure: 88.889%
+Testing accuracy: 55.769%
+Testing recall: 11.538%
+Testing precision: 100.000%
+Testing f_measure: 20.690%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 7, auc = 0.657, sens = 0.115, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+    77
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+PF00033.11_int_PF00355.18, seqPair 16, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 78.571%
+Training recall: 71.429%
+Training precision: 83.333%
+Training f_measure: 76.923%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+
+
+
+PF00074.12_int_PF07686.9, seqPair 7, auc = 0.888, sens = 0.500, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    96
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+    41
+
+Training AE 1/2
+Training accuracy: 82.000%
+Training recall: 72.000%
+Training precision: 90.000%
+Training f_measure: 80.000%
+Testing accuracy: 56.818%
+Testing recall: 18.182%
+Testing precision: 80.000%
+Testing f_measure: 29.630%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 7, auc = 0.744, sens = 0.182, spec = 0.800, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+   192
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   204
+
+Training AE 1/2
+
+n =
+
+    56
+
+Training AE 1/2
+Training accuracy: 72.449%
+Training recall: 65.306%
+Training precision: 76.190%
+Training f_measure: 70.330%
+Testing accuracy: 81.707%
+Testing recall: 73.171%
+Testing precision: 88.235%
+Testing f_measure: 80.000%
+
+
+
+PF00243.10_int_PF00243.10, seqPair 12, auc = 0.912, sens = 0.732, spec = 0.882, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:56 SUCCESS: PF00243.10_int_PF00243.10.
+
+
+Training accuracy: 75.000%
+Training recall: 60.000%
+Training precision: 85.714%
+Training f_measure: 70.588%
+Testing accuracy: 67.391%
+Testing recall: 43.478%
+Testing precision: 83.333%
+Testing f_measure: 57.143%
+
+
+
+PF00254.20_int_PF00254.20, seqPair 1, auc = 0.732, sens = 0.435, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 91.667%
+Training recall: 83.333%
+Training precision: 100.000%
+Training f_measure: 90.909%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 8, auc = 0.802, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 50.000%
+Testing recall: 4.348%
+Testing precision: 50.000%
+Testing f_measure: 8.000%
+
+
+
+PF00074.12_int_PF07686.9, seqPair 8, auc = 0.336, sens = 0.043, spec = 0.500, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:57 SUCCESS: PF00074.12_int_PF07686.9.
+
+
+
+n =
+
+    84
+
+Training AE 1/2
+
+n =
+
+   213
+
+Training AE 1/2
+
+n =
+
+    87
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+    87
+
+Training AE 1/2
+
+n =
+
+        1165
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 95.000%
+Testing recall: 90.000%
+Testing precision: 100.000%
+Testing f_measure: 94.737%
+
+
+
+PF00033.11_int_PF00355.18, seqPair 39, auc = 1.000, sens = 0.900, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 16:59 SUCCESS: PF00033.11_int_PF00355.18.
+
+
+Training accuracy: 82.692%
+Training recall: 69.231%
+Training precision: 94.737%
+Training f_measure: 80.000%
+Testing accuracy: 36.364%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 8, auc = 0.273, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 91.667%
+Training recall: 87.500%
+Training precision: 95.455%
+Training f_measure: 91.304%
+Testing accuracy: 96.875%
+Testing recall: 100.000%
+Testing precision: 94.118%
+Testing f_measure: 96.970%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 10, auc = 0.984, sens = 1.000, spec = 0.941, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+   200
+
+Training AE 1/2
+Training accuracy: 95.455%
+Training recall: 100.000%
+Training precision: 91.667%
+Training f_measure: 95.652%
+Testing accuracy: 65.625%
+Testing recall: 43.750%
+Testing precision: 77.778%
+Testing f_measure: 56.000%
+
+
+
+PF00254.20_int_PF00254.20, seqPair 7, auc = 0.703, sens = 0.438, spec = 0.778, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    78
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 86.364%
+Training recall: 72.727%
+Training precision: 100.000%
+Training f_measure: 84.211%
+Testing accuracy: 61.111%
+Testing recall: 22.222%
+Testing precision: 100.000%
+Testing f_measure: 36.364%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 1, auc = 0.296, sens = 0.222, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.741%
+Training recall: 92.593%
+Training precision: 89.286%
+Training f_measure: 90.909%
+Testing accuracy: 60.000%
+Testing recall: 33.333%
+Testing precision: 71.429%
+Testing f_measure: 45.455%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 1, auc = 0.773, sens = 0.333, spec = 0.714, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 72.727%
+Training recall: 45.455%
+Training precision: 100.000%
+Training f_measure: 62.500%
+Testing accuracy: 83.333%
+Testing recall: 77.778%
+Testing precision: 87.500%
+Testing f_measure: 82.353%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 19, auc = 0.907, sens = 0.778, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    87
+
+Training AE 1/2
+
+n =
+
+   253
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   191
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+    95
+
+Training AE 1/2
+
+n =
+
+   168
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 80.000%
+Training recall: 64.000%
+Training precision: 94.118%
+Training f_measure: 76.190%
+Testing accuracy: 83.333%
+Testing recall: 80.000%
+Testing precision: 85.714%
+Testing f_measure: 82.759%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 10, auc = 0.947, sens = 0.800, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+   182
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 65.000%
+Training recall: 30.000%
+Training precision: 100.000%
+Training f_measure: 46.154%
+Testing accuracy: 54.545%
+Testing recall: 9.091%
+Testing precision: 100.000%
+Testing f_measure: 16.667%
+
+
+
+PF00254.20_int_PF00254.20, seqPair 9, auc = 0.413, sens = 0.091, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 77.273%
+Training recall: 72.727%
+Training precision: 80.000%
+Training f_measure: 76.190%
+Testing accuracy: 83.333%
+Testing recall: 66.667%
+Testing precision: 100.000%
+Testing f_measure: 80.000%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 3, auc = 0.975, sens = 0.667, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    92
+
+Training AE 1/2
+
+n =
+
+    89
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 90.625%
+Training recall: 87.500%
+Training precision: 93.333%
+Training f_measure: 90.323%
+Testing accuracy: 84.545%
+Testing recall: 74.545%
+Testing precision: 93.182%
+Testing f_measure: 82.828%
+
+
+
+PF00033.11_int_PF00033.11, seqPair 1, auc = 0.968, sens = 0.745, spec = 0.932, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 66.667%
+Training recall: 33.333%
+Training precision: 100.000%
+Training f_measure: 50.000%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 20, auc = 0.950, sens = 0.500, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 79.167%
+Training recall: 70.833%
+Training precision: 85.000%
+Training f_measure: 77.273%
+Testing accuracy: 67.568%
+Testing recall: 59.459%
+Testing precision: 70.968%
+Testing f_measure: 64.706%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 2, auc = 0.827, sens = 0.595, spec = 0.710, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 85.714%
+Training recall: 80.952%
+Training precision: 89.474%
+Training f_measure: 85.000%
+Testing accuracy: 47.500%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 11, auc = 0.696, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    99
+
+Training AE 1/2
+Training accuracy: 83.219%
+Training recall: 77.397%
+Training precision: 87.597%
+Training f_measure: 82.182%
+Testing accuracy: 78.827%
+Testing recall: 72.964%
+Testing precision: 82.657%
+Testing f_measure: 77.509%
+
+
+
+PF00393.11_int_PF00393.11, seqPair 2, auc = 0.876, sens = 0.730, spec = 0.827, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 76.087%
+Training recall: 60.870%
+Training precision: 87.500%
+Training f_measure: 71.795%
+Testing accuracy: 83.333%
+Testing recall: 78.788%
+Testing precision: 86.667%
+Testing f_measure: 82.540%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 12, auc = 0.905, sens = 0.788, spec = 0.867, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   191
+
+Training AE 1/2
+Training accuracy: 91.667%
+Training recall: 91.667%
+Training precision: 91.667%
+Training f_measure: 91.667%
+Testing accuracy: 81.250%
+Testing recall: 75.000%
+Testing precision: 85.714%
+Testing f_measure: 80.000%
+
+
+
+PF00254.20_int_PF00254.20, seqPair 15, auc = 0.734, sens = 0.750, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 87.500%
+Training recall: 75.000%
+Training precision: 100.000%
+Training f_measure: 85.714%
+Testing accuracy: 64.286%
+Testing recall: 42.857%
+Testing precision: 75.000%
+Testing f_measure: 54.545%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 4, auc = 0.796, sens = 0.429, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   195
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+    86
+
+Training AE 1/2
+
+n =
+
+    80
+
+Training AE 1/2
+
+n =
+
+   253
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 73.077%
+Training recall: 46.154%
+Training precision: 100.000%
+Training f_measure: 63.158%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 21, auc = 0.861, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   194
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 83.333%
+Training recall: 79.167%
+Training precision: 86.364%
+Training f_measure: 82.609%
+Testing accuracy: 70.270%
+Testing recall: 56.757%
+Testing precision: 77.778%
+Testing f_measure: 65.625%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 6, auc = 0.826, sens = 0.568, spec = 0.778, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.455%
+Training recall: 90.909%
+Training precision: 100.000%
+Training f_measure: 95.238%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 5, auc = 0.640, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    87
+
+Training AE 1/2
+Training accuracy: 80.000%
+Training recall: 60.000%
+Training precision: 100.000%
+Training f_measure: 75.000%
+Testing accuracy: 62.500%
+Testing recall: 40.000%
+Testing precision: 72.727%
+Testing f_measure: 51.613%
+
+
+
+PF00254.20_int_PF00254.20, seqPair 16, auc = 0.667, sens = 0.400, spec = 0.727, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 78.000%
+Training recall: 60.000%
+Training precision: 93.750%
+Training f_measure: 73.171%
+Testing accuracy: 77.500%
+Testing recall: 55.000%
+Testing precision: 100.000%
+Testing f_measure: 70.968%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 16, auc = 0.845, sens = 0.550, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:15 SUCCESS: PF00087.13_int_PF00087.13.
+
+
+
+n =
+
+    87
+
+Training AE 1/2
+
+n =
+
+   185
+
+Training AE 1/2
+
+n =
+
+   202
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+    89
+
+
+n =
+
+        1166
+
+Training AE 1/2
+Training accuracy: 98.438%
+Training recall: 96.875%
+Training precision: 100.000%
+Training f_measure: 98.413%
+Testing accuracy: 81.818%
+Testing recall: 67.273%
+Testing precision: 94.872%
+Testing f_measure: 78.723%
+
+
+
+PF00033.11_int_PF00033.11, seqPair 2, auc = 0.951, sens = 0.673, spec = 0.949, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 74.000%
+Training recall: 56.000%
+Training precision: 87.500%
+Training f_measure: 68.293%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 15, auc = 0.699, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 86.364%
+Training recall: 72.727%
+Training precision: 100.000%
+Training f_measure: 84.211%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 22, auc = 0.460, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:18 SUCCESS: PF00028.9_int_PF00028.9.
+
+
+Training accuracy: 81.818%
+Training recall: 81.818%
+Training precision: 81.818%
+Training f_measure: 81.818%
+Testing accuracy: 55.556%
+Testing recall: 44.444%
+Testing precision: 57.143%
+Testing f_measure: 50.000%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 6, auc = 0.679, sens = 0.444, spec = 0.571, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 81.250%
+Training recall: 75.000%
+Training precision: 85.714%
+Training f_measure: 80.000%
+Testing accuracy: 69.767%
+Testing recall: 58.140%
+Testing precision: 75.758%
+Testing f_measure: 65.789%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 7, auc = 0.835, sens = 0.581, spec = 0.758, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    82
+
+Training AE 1/2
+Training accuracy: 79.167%
+Training recall: 75.000%
+Training precision: 81.818%
+Training f_measure: 78.261%
+Testing accuracy: 77.273%
+Testing recall: 63.636%
+Testing precision: 87.500%
+Testing f_measure: 73.684%
+
+
+
+PF00254.20_int_PF00254.20, seqPair 18, auc = 0.835, sens = 0.636, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:20 SUCCESS: PF00254.20_int_PF00254.20.
+
+
+Training accuracy: 94.231%
+Training recall: 92.308%
+Training precision: 96.000%
+Training f_measure: 94.118%
+Testing accuracy: 83.333%
+Testing recall: 73.333%
+Testing precision: 91.667%
+Testing f_measure: 81.481%
+
+
+
+PF00511.9_int_PF00511.9, seqPair 1, auc = 0.950, sens = 0.733, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+   256
+
+
+n =
+
+    43
+
+Training AE 1/2
+
+n =
+
+   192
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   210
+
+Training AE 1/2
+
+n =
+
+   161
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+   191
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 90.909%
+Training recall: 81.818%
+Training precision: 100.000%
+Training f_measure: 90.000%
+Testing accuracy: 71.429%
+Testing recall: 50.000%
+Testing precision: 87.500%
+Testing f_measure: 63.636%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 11, auc = 0.862, sens = 0.500, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+    81
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 65.625%
+Testing recall: 37.500%
+Testing precision: 85.714%
+Testing f_measure: 52.174%
+
+
+
+PF00617.11_int_PF00618.12, seqPair 1, auc = 0.894, sens = 0.375, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 98.438%
+Training recall: 96.875%
+Training precision: 100.000%
+Training f_measure: 98.413%
+Testing accuracy: 78.846%
+Testing recall: 59.615%
+Testing precision: 96.875%
+Testing f_measure: 73.810%
+
+
+
+PF00033.11_int_PF00033.11, seqPair 5, auc = 0.950, sens = 0.596, spec = 0.969, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    32
+
+Training AE 1/2
+Training accuracy: 93.750%
+Training recall: 91.667%
+Training precision: 95.652%
+Training f_measure: 93.617%
+Testing accuracy: 93.750%
+Testing recall: 97.500%
+Testing precision: 90.698%
+Testing f_measure: 93.976%
+
+
+
+PF00511.9_int_PF00511.9, seqPair 2, auc = 0.941, sens = 0.975, spec = 0.907, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+   192
+
+Training AE 1/2
+Training accuracy: 81.481%
+Training recall: 70.370%
+Training precision: 90.476%
+Training f_measure: 79.167%
+Testing accuracy: 61.111%
+Testing recall: 33.333%
+Testing precision: 75.000%
+Testing f_measure: 46.154%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 11, auc = 0.849, sens = 0.333, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 70.833%
+Training recall: 41.667%
+Training precision: 100.000%
+Training f_measure: 58.824%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 21, auc = 0.917, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:26 SUCCESS: PF00025.13_int_PF00025.13.
+
+
+Training accuracy: 59.524%
+Training recall: 28.571%
+Training precision: 75.000%
+Training f_measure: 41.379%
+Testing accuracy: 50.000%
+Testing recall: 4.348%
+Testing precision: 50.000%
+Testing f_measure: 8.000%
+
+
+
+PF00563.12_int_PF00563.12, seqPair 1, auc = 0.565, sens = 0.043, spec = 0.500, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 79.110%
+Training recall: 76.712%
+Training precision: 80.576%
+Training f_measure: 78.596%
+Testing accuracy: 79.412%
+Testing recall: 87.908%
+Testing precision: 75.140%
+Testing f_measure: 81.024%
+
+
+
+PF00393.11_int_PF00393.11, seqPair 5, auc = 0.891, sens = 0.879, spec = 0.751, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+   113
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   200
+
+Training accuracy: 86.364%
+Training recall: 72.727%
+Training precision: 100.000%
+Training f_measure: 84.211%
+Testing accuracy: 43.333%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 12, auc = 0.591, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 86.047%
+Testing recall: 79.070%
+Testing precision: 91.892%
+Testing f_measure: 85.000%
+
+
+
+PF00617.11_int_PF00618.12, seqPair 11, auc = 0.946, sens = 0.791, spec = 0.919, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:29 SUCCESS: PF00617.11_int_PF00618.12.
+
+
+
+n =
+
+    73
+
+
+n =
+
+    10
+
+Training AE 1/2
+Training AE 1/2
+
+n =
+
+   264
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 86.250%
+Testing recall: 72.500%
+Testing precision: 100.000%
+Testing f_measure: 84.058%
+
+
+
+PF00511.9_int_PF00511.9, seqPair 3, auc = 0.985, sens = 0.725, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+   152
+
+Training AE 1/2
+
+n =
+
+   198
+
+Training AE 1/2
+Training accuracy: 83.333%
+Training recall: 80.000%
+Training precision: 85.714%
+Training f_measure: 82.759%
+Testing accuracy: 75.000%
+Testing recall: 55.556%
+Testing precision: 90.909%
+Testing f_measure: 68.966%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 1, auc = 0.889, sens = 0.556, spec = 0.909, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+   113
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 33.333%
+Testing recall: 33.333%
+Testing precision: 33.333%
+Testing f_measure: 33.333%
+
+
+
+PF00711.11_int_PF00711.11, seqPair 1, auc = 0.250, sens = 0.333, spec = 0.333, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+
+n =
+
+     6
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 70.000%
+Training recall: 48.000%
+Training precision: 85.714%
+Training f_measure: 61.538%
+Testing accuracy: 94.643%
+Testing recall: 89.286%
+Testing precision: 100.000%
+Testing f_measure: 94.340%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 24, auc = 1.000, sens = 0.893, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.000%
+Training recall: 90.000%
+Training precision: 100.000%
+Training f_measure: 94.737%
+Testing accuracy: 65.217%
+Testing recall: 47.826%
+Testing precision: 73.333%
+Testing f_measure: 57.895%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 16, auc = 0.758, sens = 0.478, spec = 0.733, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:32 SUCCESS: PF00051.10_int_PF00051.10.
+
+
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+        1186
+
+
+n =
+
+    57
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.485%
+Training recall: 96.970%
+Training precision: 100.000%
+Training f_measure: 98.462%
+Testing accuracy: 84.091%
+Testing recall: 68.182%
+Testing precision: 100.000%
+Testing f_measure: 81.081%
+
+
+
+PF00033.11_int_PF00033.11, seqPair 6, auc = 0.989, sens = 0.682, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 57.895%
+Training recall: 26.316%
+Training precision: 71.429%
+Training f_measure: 38.462%
+Testing accuracy: 48.182%
+Testing recall: 3.636%
+Testing precision: 33.333%
+Testing f_measure: 6.557%
+
+
+
+PF00563.12_int_PF00563.12, seqPair 2, auc = 0.669, sens = 0.036, spec = 0.333, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   214
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 65.000%
+Testing recall: 50.000%
+Testing precision: 71.429%
+Testing f_measure: 58.824%
+
+
+
+PF00711.11_int_PF00711.11, seqPair 23, auc = 0.510, sens = 0.500, spec = 0.714, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:35 SUCCESS: PF00711.11_int_PF00711.11.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 70.588%
+Testing recall: 55.882%
+Testing precision: 79.167%
+Testing f_measure: 65.517%
+
+
+
+PF00511.9_int_PF00511.9, seqPair 7, auc = 0.899, sens = 0.559, spec = 0.792, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 83.333%
+Training recall: 66.667%
+Training precision: 100.000%
+Training f_measure: 80.000%
+Testing accuracy: 61.111%
+Testing recall: 22.222%
+Testing precision: 100.000%
+Testing f_measure: 36.364%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 2, auc = 0.765, sens = 0.222, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   180
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   120
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 91.176%
+Testing recall: 82.353%
+Testing precision: 100.000%
+Testing f_measure: 90.323%
+
+
+
+PF00712.11_int_PF02768.7, seqPair 1, auc = 0.995, sens = 0.824, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+
+n =
+
+    63
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   238
+
+Training AE 1/2
+
+n =
+
+   151
+
+Training AE 1/2
+
+n =
+
+   113
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 77.778%
+Training recall: 74.074%
+Training precision: 80.000%
+Training f_measure: 76.923%
+Testing accuracy: 78.571%
+Testing recall: 64.286%
+Testing precision: 90.000%
+Testing f_measure: 75.000%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 25, auc = 0.913, sens = 0.643, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 81.731%
+Testing recall: 65.385%
+Testing precision: 97.143%
+Testing f_measure: 78.161%
+
+
+
+PF00511.9_int_PF00511.9, seqPair 9, auc = 0.959, sens = 0.654, spec = 0.971, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 80.000%
+Training recall: 66.667%
+Training precision: 90.909%
+Training f_measure: 76.923%
+Testing accuracy: 81.818%
+Testing recall: 72.727%
+Testing precision: 88.889%
+Testing f_measure: 80.000%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 4, auc = 0.876, sens = 0.727, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   196
+
+Training AE 1/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 94.643%
+Testing recall: 92.857%
+Testing precision: 96.296%
+Testing f_measure: 94.545%
+
+
+
+PF00712.11_int_PF02768.7, seqPair 7, auc = 0.990, sens = 0.929, spec = 0.963, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   192
+
+Training AE 1/2
+
+n =
+
+   123
+
+Training AE 1/2
+
+n =
+
+    62
+
+Training AE 1/2
+Training accuracy: 68.421%
+Training recall: 42.105%
+Training precision: 88.889%
+Training f_measure: 57.143%
+Testing accuracy: 50.000%
+Testing recall: 12.500%
+Testing precision: 50.000%
+Testing f_measure: 20.000%
+
+
+
+PF00563.12_int_PF00563.12, seqPair 4, auc = 0.506, sens = 0.125, spec = 0.500, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 76.667%
+Training recall: 53.333%
+Training precision: 100.000%
+Training f_measure: 69.565%
+Testing accuracy: 75.000%
+Testing recall: 66.667%
+Testing precision: 80.000%
+Testing f_measure: 72.727%
+
+
+
+PF00782.12_int_PF00782.12, seqPair 1, auc = 0.917, sens = 0.667, spec = 0.800, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.000%
+Training recall: 90.000%
+Training precision: 100.000%
+Training f_measure: 94.737%
+Testing accuracy: 95.000%
+Testing recall: 95.714%
+Testing precision: 94.366%
+Testing f_measure: 95.035%
+
+
+
+PF00033.11_int_PF00033.11, seqPair 9, auc = 0.981, sens = 0.957, spec = 0.944, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 84.228%
+Training recall: 82.550%
+Training precision: 85.417%
+Training f_measure: 83.959%
+Testing accuracy: 83.042%
+Testing recall: 80.070%
+Testing precision: 85.130%
+Testing f_measure: 82.523%
+
+
+
+PF00393.11_int_PF00393.11, seqPair 7, auc = 0.889, sens = 0.801, spec = 0.851, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 81.250%
+Training recall: 68.750%
+Training precision: 91.667%
+Training f_measure: 78.571%
+Testing accuracy: 56.250%
+Testing recall: 37.500%
+Testing precision: 60.000%
+Testing f_measure: 46.154%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 5, auc = 0.562, sens = 0.375, spec = 0.600, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 89.583%
+Training recall: 83.333%
+Training precision: 95.238%
+Training f_measure: 88.889%
+Testing accuracy: 93.056%
+Testing recall: 100.000%
+Testing precision: 87.805%
+Testing f_measure: 93.506%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 26, auc = 0.964, sens = 1.000, spec = 0.878, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:45 SUCCESS: PF00167.10_int_PF07679.8.
+
+
+
+n =
+
+   114
+
+Training AE 1/2
+Training accuracy: 98.000%
+Training recall: 96.000%
+Training precision: 100.000%
+Training f_measure: 97.959%
+Testing accuracy: 95.833%
+Testing recall: 91.667%
+Testing precision: 100.000%
+Testing f_measure: 95.652%
+
+
+
+PF00511.9_int_PF00511.9, seqPair 15, auc = 0.992, sens = 0.917, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:45 SUCCESS: PF00511.9_int_PF00511.9.
+
+
+
+n =
+
+   106
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 96.552%
+Testing recall: 93.103%
+Testing precision: 100.000%
+Testing f_measure: 96.429%
+
+
+
+PF00712.11_int_PF02768.7, seqPair 9, auc = 1.000, sens = 0.931, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:45 SUCCESS: PF00712.11_int_PF02768.7.
+
+
+Training AE 1/2
+
+n =
+
+   157
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+
+n =
+
+   276
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.333%
+Training recall: 86.667%
+Training precision: 100.000%
+Training f_measure: 92.857%
+Testing accuracy: 50.000%
+Testing recall: 11.765%
+Testing precision: 50.000%
+Testing f_measure: 19.048%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 7, auc = 0.702, sens = 0.118, spec = 0.500, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 78.571%
+Training recall: 57.143%
+Training precision: 100.000%
+Training f_measure: 72.727%
+Testing accuracy: 73.077%
+Testing recall: 53.846%
+Testing precision: 87.500%
+Testing f_measure: 66.667%
+
+
+
+PF00782.12_int_PF00782.12, seqPair 2, auc = 0.888, sens = 0.538, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   113
+
+Training AE 1/2
+Training accuracy: 57.500%
+Training recall: 100.000%
+Training precision: 54.054%
+Training f_measure: 70.175%
+Testing accuracy: 30.000%
+Testing recall: 52.000%
+Testing precision: 36.111%
+Testing f_measure: 42.623%
+
+
+
+PF00563.12_int_PF00563.12, seqPair 9, auc = 0.323, sens = 0.520, spec = 0.361, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:50 SUCCESS: PF00563.12_int_PF00563.12.
+
+
+Training AE 2/2
+
+n =
+
+        1176
+
+Training AE 1/2
+Training accuracy: 97.143%
+Training recall: 97.143%
+Training precision: 97.143%
+Training f_measure: 97.143%
+Testing accuracy: 98.438%
+Testing recall: 96.875%
+Testing precision: 100.000%
+Testing f_measure: 98.413%
+
+
+
+PF00033.11_int_PF00033.11, seqPair 20, auc = 1.000, sens = 0.969, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 17:51 SUCCESS: PF00033.11_int_PF00033.11.
+
+
+
+n =
+
+   108
+
+Training AE 1/2
+Training accuracy: 80.000%
+Training recall: 66.667%
+Training precision: 90.909%
+Training f_measure: 76.923%
+Testing accuracy: 55.556%
+Testing recall: 22.222%
+Testing precision: 66.667%
+Testing f_measure: 33.333%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 8, auc = 0.793, sens = 0.222, spec = 0.667, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   124
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 82.143%
+Training recall: 64.286%
+Training precision: 100.000%
+Training f_measure: 78.261%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00782.12_int_PF00782.12, seqPair 3, auc = 0.545, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 65.625%
+Training recall: 37.500%
+Training precision: 85.714%
+Training f_measure: 52.174%
+Testing accuracy: 71.429%
+Testing recall: 42.857%
+Testing precision: 100.000%
+Testing f_measure: 60.000%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 20, auc = 0.918, sens = 0.429, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   119
+
+Training AE 1/2
+Training AE 2/2
+
+n =
+
+   103
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 83.333%
+Training recall: 80.000%
+Training precision: 85.714%
+Training f_measure: 82.759%
+Testing accuracy: 83.333%
+Testing recall: 66.667%
+Testing precision: 100.000%
+Testing f_measure: 80.000%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 21, auc = 0.938, sens = 0.667, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 80.272%
+Training recall: 76.871%
+Training precision: 82.482%
+Training f_measure: 79.577%
+Testing accuracy: 80.405%
+Testing recall: 72.973%
+Testing precision: 85.714%
+Testing f_measure: 78.832%
+
+
+
+PF00393.11_int_PF00393.11, seqPair 11, auc = 0.904, sens = 0.730, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 18:1 SUCCESS: PF00393.11_int_PF00393.11.
+
+
+
+n =
+
+   109
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 88.462%
+Training recall: 76.923%
+Training precision: 100.000%
+Training f_measure: 86.957%
+Testing accuracy: 46.875%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00782.12_int_PF00782.12, seqPair 4, auc = 0.555, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 78.571%
+Training recall: 85.714%
+Training precision: 75.000%
+Training f_measure: 80.000%
+Testing accuracy: 63.636%
+Testing recall: 45.455%
+Testing precision: 71.429%
+Testing f_measure: 55.556%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 22, auc = 0.581, sens = 0.455, spec = 0.714, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 18:5 SUCCESS: PF00017.16_int_PF00018.20.
+
+
+
+n =
+
+    94
+
+Training AE 1/2
+
+n =
+
+   105
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 67.969%
+Testing recall: 43.750%
+Testing precision: 84.848%
+Testing f_measure: 57.732%
+
+
+
+PF00004.21_int_PF09336.2, seqPair 1, auc = 0.854, sens = 0.438, spec = 0.848, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   110
+
+Training AE 1/2
+Training accuracy: 78.571%
+Training recall: 57.143%
+Training precision: 100.000%
+Training f_measure: 72.727%
+Testing accuracy: 64.286%
+Testing recall: 28.571%
+Testing precision: 100.000%
+Testing f_measure: 44.444%
+
+
+
+PF00782.12_int_PF00782.12, seqPair 7, auc = 0.811, sens = 0.286, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 92.857%
+Training recall: 100.000%
+Training precision: 87.500%
+Training f_measure: 93.333%
+Testing accuracy: 77.083%
+Testing recall: 81.250%
+Testing precision: 75.000%
+Testing f_measure: 78.000%
+
+
+
+PF00004.21_int_PF09336.2, seqPair 2, auc = 0.821, sens = 0.812, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+    86
+
+Training AE 1/2
+
+n =
+
+   112
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 77.273%
+Training recall: 54.545%
+Training precision: 100.000%
+Training f_measure: 70.588%
+Testing accuracy: 54.545%
+Testing recall: 12.121%
+Testing precision: 80.000%
+Testing f_measure: 21.053%
+
+
+
+PF00782.12_int_PF00782.12, seqPair 11, auc = 0.754, sens = 0.121, spec = 0.800, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+PF00004.21_int_PF09336.2, seqPair 7, auc = 0.978, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 18:17 SUCCESS: PF00004.21_int_PF09336.2.
+
+
+
+n =
+
+   104
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 80.769%
+Training recall: 69.231%
+Training precision: 90.000%
+Training f_measure: 78.261%
+Testing accuracy: 76.667%
+Testing recall: 66.667%
+Testing precision: 83.333%
+Testing f_measure: 74.074%
+
+
+
+PF00782.12_int_PF00782.12, seqPair 13, auc = 0.684, sens = 0.667, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+n =
+
+   108
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 89.286%
+Training recall: 85.714%
+Training precision: 92.308%
+Training f_measure: 88.889%
+Testing accuracy: 45.455%
+Testing recall: 18.182%
+Testing precision: 40.000%
+Testing f_measure: 25.000%
+
+
+
+PF00782.12_int_PF00782.12, seqPair 18, auc = 0.620, sens = 0.182, spec = 0.400, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-7 18:30 SUCCESS: PF00782.12_int_PF00782.12.
+
+
+Sending a stop signal to all the labs ... stopped.
+2013-11-7 18:30 FINISHED.
+Number of total DDI is: 30
+Number of successed DDI is: 30
+Number of total sequence is: 155
+FisherMode: FisherM1ONLY SVMMode: DL Kernel: DL, choseNegRatio: 1, choseNegRatioTest: 1
+The baseline AUC: 0.000%
+The baseline recall: 0.000%
+The baseline precision: 0.000%
+Testing AUC: 85.535%
+Testing recall: 55.336%
+Testing precision: 78.832%
+Testing f_measure: 61.874%
+Training accuracy: 87.962%
+Training recall: 81.087%
+Training precision: 94.173%
+Training f_measure: 85.865%

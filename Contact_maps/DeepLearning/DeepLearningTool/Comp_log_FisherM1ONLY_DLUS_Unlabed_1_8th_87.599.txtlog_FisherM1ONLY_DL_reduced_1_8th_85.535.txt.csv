@@ -1,0 +1,14 @@
+t-Test: Paired Two Sample for Means,,,,,,,,
+,,,,,,,,
+,Variable 1,Variable 2,,,,,,
+Mean,0.881334762,0.863915622,,,,,Variable 1,Variable 2
+Variance,0.021214637,0.023125634,,,,Mean,0.881334762,0.863915622
+Observations,30,30,,,,Variance,0.021214637,0.023125634
+Pearson Correlation,0.954618842,,,,,P(T<=t) one-tail,0.021968584,
+Hypothesized Mean Difference,0,,,,,,,
+df,29,,,,,,,
+t Stat,2.106430085,,,,,,,
+P(T<=t) one-tail,0.021968584,,,,,,,
+t Critical one-tail,1.699127027,,,,,,,
+P(T<=t) two-tail,0.043937169,,,,,,,
+t Critical two-tail,2.045229642,,,,,,,

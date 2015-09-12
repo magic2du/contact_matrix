@@ -1,0 +1,16 @@
+function V=getAAindexVector(seqence, indices)
+%seqence is the protein sequence, indices is those index you we want to get AAindex
+V=[];
+load aaIndex.mat; %load the aaIndex struct and access aaIndex.A or aaIndex.C
+for idxCtr = 1:length(indices)
+    AA=seqence(indices(idxCtr));
+    if AA=='-'
+        tmpV=zeros(17,1);
+    else
+        cmd=['aaIndex.' AA];
+        tmpV=eval(cmd);
+    end    
+    V=[V tmpV'];
+end
+
+end

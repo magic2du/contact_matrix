@@ -1,0 +1,14 @@
+Activin_recp_int_TGF_beta
+Desulfoferrod_N_int_Desulfoferrodox
+DrsE_int_DsrH
+E2_bind_int_ThiF
+efhand_int_Troponin
+EpoR_lig-bind_int_fn3
+FGF_int_I-set
+Gelsolin_int_Sec23_helical
+GFRP_int_GTP_cyclohydroI
+MHC_II_alpha_int_V-set
+Ribosomal_L28_int_Ribosomal_L9_N
+Rieske_int_V-set
+TetR_C_2_int_TetR_N
+UreE_C_int_UreE_N2013-11-1

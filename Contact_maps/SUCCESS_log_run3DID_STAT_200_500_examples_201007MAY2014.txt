@@ -1,0 +1,28 @@
+2014-5-7 :59 SUCCESS: 4HBT_int_4HBT
+2014-5-7 :59 SUCCESS: Actin_int_Actin
+2014-5-7 :59 SUCCESS: Acyl-CoA_dh_1_int_Acyl-CoA_dh_1
+2014-5-7 :59 SUCCESS: Acyl-CoA_dh_1_int_Acyl-CoA_dh_M2014-5-7 :59 ERROR: ADH_N_int_ADH_zinc_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ADH_N_int_ADH_zinc_N/ddi_str_array.mat: No such file or directory.
+2014-5-7 :59 SUCCESS: AhpC-TSA_int_AhpC-TSA2014-5-7 :59 ERROR: Aldedh_int_Aldedh. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Aldedh_int_Aldedh/ddi_str_array.mat: No such file or directory.
+2014-5-7 :59 SUCCESS: Alpha-amylase_int_Alpha-amylase_C
+2014-5-7 :59 SUCCESS: Ank_int_Ank2014-5-7 :59 ERROR: Annexin_int_Annexin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Annexin_int_Annexin/ddi_str_array.mat: No such file or directory.
+2014-5-7 :59 SUCCESS: AP_endonuc_2_int_AP_endonuc_2
+2014-5-7 :59 SUCCESS: Arginase_int_Arginase
+2014-5-7 :59 SUCCESS: ATP-gua_Ptrans_int_ATP-gua_PtransN
+2014-5-7 :59 SUCCESS: ATP-synt_int_ATP-synt_ab2014-5-7 :59 ERROR: ATP-synt_ab_int_ATP-synt_ab. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_ab_int_ATP-synt_ab/ddi_str_array.mat: No such file or directory.
+2014-5-7 :59 SUCCESS: ATP-synt_ab_int_ATP-synt_ab_N
+2014-5-7 :59 SUCCESS: ATP-synt_ab_N_int_ATP-synt_ab_N2014-5-7 :59 ERROR: ATP-synt_C_int_ATP-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_C_int_ATP-synt_C/ddi_str_array.mat: No such file or directory.
+2014-5-7 :59 SUCCESS: C1-set_int_MHC_II_alpha2014-5-7 :59 ERROR: C4_int_C4. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/C4_int_C4/ddi_str_array.mat: No such file or directory.
+2014-5-7 1: SUCCESS: CPSase_L_chain_int_CPSase_L_D22014-5-7 1: ERROR: Cu-oxidase_int_Cu-oxidase_3. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cu-oxidase_int_Cu-oxidase_3/ddi_str_array.mat: No such file or directory.
+2014-5-7 1: SUCCESS: ECH_int_ECH2014-5-7 1: ERROR: efhand_int_efhand. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/efhand_int_efhand/ddi_str_array.mat: No such file or directory.
+2014-5-7 1: SUCCESS: ELFV_dehydrog_int_ELFV_dehydrog_N
+2014-5-7 1: SUCCESS: Fib_alpha_int_Fibrinogen_C2014-5-7 1: ERROR: Fib_alpha_int_Fib_alpha. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Fib_alpha_int_Fib_alpha/ddi_str_array.mat: No such file or directory.
+2014-5-7 1: SUCCESS: Glyco_hydro_2_int_Glyco_hydro_2_N2014-5-7 1: ERROR: Glyco_hydro_2_C_int_Glyco_hydro_2_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyco_hydro_2_C_int_Glyco_hydro_2_N/ddi_str_array.mat: No such file or directory.
+2014-5-7 1: SUCCESS: MR_MLE_int_MR_MLE
+2014-5-7 1: SUCCESS: MR_MLE_int_MR_MLE_N2014-5-7 1: ERROR: MR_MLE_N_int_MR_MLE_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/MR_MLE_N_int_MR_MLE_N/ddi_str_array.mat: No such file or directory.
+2014-5-7 1: SUCCESS: RVT_1_int_RVT_thumb
+2014-5-7 1: SUCCESS: RVT_connect_int_RVT_thumb
+2014-5-7 1: SUCCESS: SIS_int_SIS
+2014-5-7 1: SUCCESS: Sod_Cu_int_Sod_Cu2014-5-7 1: ERROR: Sod_Fe_C_int_Sod_Fe_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Sod_Fe_C_int_Sod_Fe_N/ddi_str_array.mat: No such file or directory.
+2014-5-7 1: SUCCESS: Tautomerase_int_Tautomerase2014-5-7 1: ERROR: Thiolase_C_int_Thiolase_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Thiolase_C_int_Thiolase_N/ddi_str_array.mat: No such file or directory.
+2014-5-7 1: SUCCESS: TPP_enzyme_C_int_TPP_enzyme_M2014-5-7 1: ERROR: TPP_enzyme_C_int_TPP_enzyme_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TPP_enzyme_C_int_TPP_enzyme_N/ddi_str_array.mat: No such file or directory.
+2014-5-7 1: SUCCESS: Transketolase_C_int_Transket_pyr2014-5-7 1: ERROR: Transthyretin_int_Transthyretin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Transthyretin_int_Transthyretin/ddi_str_array.mat: No such file or directory.

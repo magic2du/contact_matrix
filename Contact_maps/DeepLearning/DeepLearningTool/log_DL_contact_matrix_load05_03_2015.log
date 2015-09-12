@@ -1,0 +1,889 @@
+2015-05-03 17:02:20,452 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:02:20,452 - __main__ - INFO - DL: 0
+2015-05-03 17:02:20,453 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:02:20,453 - __main__ - INFO - DL_S: 0
+2015-05-03 17:02:20,453 - __main__ - INFO - DL_U: 0
+2015-05-03 17:02:20,453 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:02:20,453 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:02:20,453 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:02:20,453 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:02:20,453 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:02:20,453 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:02:20,453 - __main__ - INFO - SVM: 1
+2015-05-03 17:02:20,453 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:02:20,453 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:02:20,453 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:02:20,453 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:02:20,453 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:02:20,453 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:02:20,453 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:02:20,453 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:02:20,453 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:02:20,453 - __main__ - INFO - n_cores: 1
+2015-05-03 17:02:20,453 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:02:20,453 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:02:20,523 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:02:28,022 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:02:28,022 - __main__ - INFO - global name 'performance_score' is not defined
+2015-05-03 17:03:45,389 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:03:45,390 - __main__ - INFO - DL: 0
+2015-05-03 17:03:45,390 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:03:45,390 - __main__ - INFO - DL_S: 0
+2015-05-03 17:03:45,390 - __main__ - INFO - DL_U: 0
+2015-05-03 17:03:45,390 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:03:45,390 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:03:45,390 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:03:45,390 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:03:45,390 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:03:45,390 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:03:45,390 - __main__ - INFO - SVM: 1
+2015-05-03 17:03:45,390 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:03:45,390 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:03:45,390 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:03:45,390 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:03:45,390 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:03:45,390 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:03:45,390 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:03:45,390 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:03:45,390 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:03:45,390 - __main__ - INFO - n_cores: 1
+2015-05-03 17:03:45,390 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:03:45,390 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:03:45,394 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:03:48,973 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:03:48,973 - __main__ - INFO - global name 'Preprocessing_Scaler_with_mean_point5' is not defined
+2015-05-03 17:04:07,868 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:04:07,868 - __main__ - INFO - DL: 0
+2015-05-03 17:04:07,868 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:04:07,868 - __main__ - INFO - DL_S: 0
+2015-05-03 17:04:07,868 - __main__ - INFO - DL_U: 0
+2015-05-03 17:04:07,868 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:04:07,868 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:04:07,868 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:04:07,868 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:04:07,868 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:04:07,868 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:04:07,868 - __main__ - INFO - SVM: 1
+2015-05-03 17:04:07,868 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:04:07,868 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:04:07,868 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:04:07,869 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:04:07,869 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:04:07,869 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:04:07,869 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:04:07,869 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:04:07,869 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:04:07,869 - __main__ - INFO - n_cores: 1
+2015-05-03 17:04:07,869 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:04:07,869 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:04:07,873 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:04:11,594 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:04:11,594 - __main__ - INFO - global name 'cal_epochs' is not defined
+2015-05-03 17:04:26,012 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:04:26,012 - __main__ - INFO - DL: 0
+2015-05-03 17:04:26,012 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:04:26,012 - __main__ - INFO - DL_S: 0
+2015-05-03 17:04:26,012 - __main__ - INFO - DL_U: 0
+2015-05-03 17:04:26,012 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:04:26,012 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:04:26,012 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:04:26,012 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:04:26,013 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:04:26,013 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:04:26,013 - __main__ - INFO - SVM: 1
+2015-05-03 17:04:26,013 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:04:26,013 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:04:26,013 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:04:26,013 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:04:26,013 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:04:26,013 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:04:26,013 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:04:26,013 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:04:26,013 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:04:26,013 - __main__ - INFO - n_cores: 1
+2015-05-03 17:04:26,013 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:04:26,013 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:04:26,016 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:04:31,498 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:04:31,498 - __main__ - INFO - Shape mismatch: x has 41 cols (and 100 rows) but y has 785 rows (and 200 cols)
+Apply node that caused the error: Dot22(Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)].0, W)
+Inputs shapes: [(100, 41), (785, 200)]
+Inputs strides: [(164, 4), (800, 4)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, matrix)]
+Use the Theano flag 'exception_verbosity=high' for a debugprint of this apply node.
+2015-05-03 17:06:57,371 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:06:57,371 - __main__ - INFO - DL: 0
+2015-05-03 17:06:57,371 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:06:57,371 - __main__ - INFO - DL_S: 0
+2015-05-03 17:06:57,372 - __main__ - INFO - DL_U: 0
+2015-05-03 17:06:57,372 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:06:57,372 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:06:57,372 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:06:57,372 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:06:57,372 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:06:57,372 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:06:57,372 - __main__ - INFO - SVM: 1
+2015-05-03 17:06:57,372 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:06:57,372 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:06:57,372 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:06:57,372 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:06:57,372 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:06:57,372 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:06:57,372 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:06:57,372 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:06:57,372 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:06:57,372 - __main__ - INFO - n_cores: 1
+2015-05-03 17:06:57,372 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:06:57,372 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:06:57,375 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:07:04,686 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:07:04,686 - __main__ - INFO - Shape mismatch: x has 41 cols (and 100 rows) but y has 42 rows (and 200 cols)
+Apply node that caused the error: Dot22(Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)].0, W)
+Inputs shapes: [(100, 41), (42, 200)]
+Inputs strides: [(164, 4), (800, 4)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, matrix)]
+Use the Theano flag 'exception_verbosity=high' for a debugprint of this apply node.
+2015-05-03 17:09:46,750 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:09:46,750 - __main__ - INFO - DL: 0
+2015-05-03 17:09:46,750 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:09:46,750 - __main__ - INFO - DL_S: 0
+2015-05-03 17:09:46,750 - __main__ - INFO - DL_U: 0
+2015-05-03 17:09:46,750 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:09:46,750 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:09:46,750 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:09:46,750 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:09:46,750 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:09:46,750 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:09:46,750 - __main__ - INFO - SVM: 1
+2015-05-03 17:09:46,750 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:09:46,750 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:09:46,750 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:09:46,750 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:09:46,750 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:09:46,750 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:09:46,750 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:09:46,751 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:09:46,751 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:09:46,751 - __main__ - INFO - n_cores: 1
+2015-05-03 17:09:46,751 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:09:46,751 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:09:46,754 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:09:51,820 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:09:51,820 - __main__ - INFO - Shape mismatch: x has 41 cols (and 100 rows) but y has 42 rows (and 200 cols)
+Apply node that caused the error: Dot22(Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)].0, W)
+Inputs shapes: [(100, 41), (42, 200)]
+Inputs strides: [(164, 4), (800, 4)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, matrix)]
+Use the Theano flag 'exception_verbosity=high' for a debugprint of this apply node.
+2015-05-03 17:11:05,334 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:11:05,334 - __main__ - INFO - DL: 0
+2015-05-03 17:11:05,334 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:11:05,334 - __main__ - INFO - DL_S: 0
+2015-05-03 17:11:05,334 - __main__ - INFO - DL_U: 0
+2015-05-03 17:11:05,334 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:11:05,334 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:11:05,334 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:11:05,334 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:11:05,334 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:11:05,334 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:11:05,334 - __main__ - INFO - SVM: 1
+2015-05-03 17:11:05,334 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:11:05,334 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:11:05,334 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:11:05,334 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:11:05,334 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:11:05,334 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:11:05,334 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:11:05,335 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:11:05,335 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:11:05,335 - __main__ - INFO - n_cores: 1
+2015-05-03 17:11:05,335 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:11:05,335 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:11:05,337 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:11:10,407 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:11:10,407 - __main__ - INFO - Shape mismatch: x has 41 cols (and 100 rows) but y has 42 rows (and 200 cols)
+Apply node that caused the error: Dot22(Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)].0, W)
+Inputs shapes: [(100, 41), (42, 200)]
+Inputs strides: [(164, 4), (800, 4)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, matrix)]
+Debugprint of the apply node: 
+Dot22 [@A] <TensorType(float32, matrix)> ''   
+ |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@B] <TensorType(float32, matrix)> ''   
+ | |RandomFunction{binomial}.1 [@C] <TensorType(float32, matrix)> ''   
+ | | |<RandomStateType> [@D] <RandomStateType>
+ | | |Elemwise{Cast{int32}} [@E] <TensorType(int32, vector)> ''   
+ | | | |MakeVector [@F] <TensorType(int64, vector)> ''   
+ | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@G] <TensorType(int64, scalar)> ''   
+ | | |   | |Elemwise{add,no_inplace} [@H] <TensorType(int64, scalar)> ''   
+ | | |   | | |TensorConstant{100} [@I] <TensorType(int64, scalar)>
+ | | |   | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | |   | |   |TensorConstant{100} [@I] <TensorType(int64, scalar)>
+ | | |   | |   |index [@K] <TensorType(int64, scalar)>
+ | | |   | |TensorConstant{0} [@L] <TensorType(int8, scalar)>
+ | | |   | |TensorConstant{100} [@I] <TensorType(int64, scalar)>
+ | | |   | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | |   | |Shape_i{0} [@M] <TensorType(int64, scalar)> ''   
+ | | |   | | |<TensorType(float32, matrix)> [@N] <TensorType(float32, matrix)>
+ | | |   | |TensorConstant{-1} [@O] <TensorType(int8, scalar)>
+ | | |   |Shape_i{1} [@P] <TensorType(int64, scalar)> ''   
+ | | |     |<TensorType(float32, matrix)> [@N] <TensorType(float32, matrix)>
+ | | |TensorConstant{1} [@Q] <TensorType(int8, scalar)>
+ | | |Elemwise{sub,no_inplace} [@R] <TensorType(float32, scalar)> ''   
+ | |   |TensorConstant{1.0} [@S] <TensorType(float32, scalar)>
+ | |   |corruption [@T] <TensorType(float32, scalar)>
+ | |Subtensor{int64:int64:} [@U] <TensorType(float32, matrix)> ''   
+ |   |<TensorType(float32, matrix)> [@N] <TensorType(float32, matrix)>
+ |   |ScalarFromTensor [@V] <int64> ''   
+ |   | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ |   |ScalarFromTensor [@W] <int64> ''   
+ |     |Elemwise{add,no_inplace} [@H] <TensorType(int64, scalar)> ''   
+ |W [@X] <TensorType(float32, matrix)>
+
+2015-05-03 17:53:04,450 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:53:04,450 - __main__ - INFO - DL: 0
+2015-05-03 17:53:04,450 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:53:04,450 - __main__ - INFO - DL_S: 0
+2015-05-03 17:53:04,450 - __main__ - INFO - DL_U: 0
+2015-05-03 17:53:04,450 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:53:04,450 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:53:04,450 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:53:04,450 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:53:04,451 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:53:04,451 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:53:04,451 - __main__ - INFO - SVM: 1
+2015-05-03 17:53:04,451 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:53:04,451 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:53:04,451 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:53:04,451 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:53:04,451 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:53:04,451 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:53:04,451 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:53:04,451 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:53:04,451 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:53:04,451 - __main__ - INFO - n_cores: 1
+2015-05-03 17:53:04,451 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:53:04,451 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:53:04,454 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:53:19,059 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:53:19,059 - __main__ - INFO - [Errno 2] No such file or directory: './/nnet.tmp'
+2015-05-03 17:54:47,754 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:54:47,754 - __main__ - INFO - DL: 0
+2015-05-03 17:54:47,754 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:54:47,754 - __main__ - INFO - DL_S: 0
+2015-05-03 17:54:47,754 - __main__ - INFO - DL_U: 0
+2015-05-03 17:54:47,754 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:54:47,754 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:54:47,754 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:54:47,754 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:54:47,754 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:54:47,754 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:54:47,754 - __main__ - INFO - SVM: 1
+2015-05-03 17:54:47,754 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:54:47,754 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:54:47,754 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:54:47,754 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:54:47,754 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:54:47,755 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:54:47,755 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:54:47,755 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:54:47,755 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:54:47,755 - __main__ - INFO - n_cores: 1
+2015-05-03 17:54:47,755 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:54:47,755 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:54:47,758 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:55:05,456 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:55:05,456 - __main__ - INFO - [Errno 2] No such file or directory: './/nnet.tmp'
+2015-05-03 17:56:07,886 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:56:07,886 - __main__ - INFO - DL: 0
+2015-05-03 17:56:07,886 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:56:07,886 - __main__ - INFO - DL_S: 0
+2015-05-03 17:56:07,886 - __main__ - INFO - DL_U: 0
+2015-05-03 17:56:07,886 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:56:07,886 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:56:07,887 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:56:07,887 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:56:07,887 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:56:07,887 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:56:07,887 - __main__ - INFO - SVM: 1
+2015-05-03 17:56:07,887 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:56:07,887 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:56:07,887 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:56:07,887 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:56:07,887 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:56:07,887 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:56:07,887 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:56:07,887 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:56:07,887 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:56:07,887 - __main__ - INFO - n_cores: 1
+2015-05-03 17:56:07,887 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:56:07,887 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:56:07,890 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:58:08,281 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:58:08,281 - __main__ - INFO - DL: 0
+2015-05-03 17:58:08,281 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:58:08,281 - __main__ - INFO - DL_S: 0
+2015-05-03 17:58:08,281 - __main__ - INFO - DL_U: 0
+2015-05-03 17:58:08,281 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:58:08,281 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:58:08,281 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:58:08,281 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:58:08,281 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:58:08,281 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:58:08,281 - __main__ - INFO - SVM: 1
+2015-05-03 17:58:08,281 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:58:08,281 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:58:08,281 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:58:08,282 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:58:08,282 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:58:08,282 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:58:08,282 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:58:08,282 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:58:08,282 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:58:08,282 - __main__ - INFO - n_cores: 1
+2015-05-03 17:58:08,282 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:58:08,282 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:58:08,285 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:58:36,072 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 17:58:36,072 - __main__ - INFO - DL: 0
+2015-05-03 17:58:36,072 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 17:58:36,072 - __main__ - INFO - DL_S: 0
+2015-05-03 17:58:36,072 - __main__ - INFO - DL_U: 0
+2015-05-03 17:58:36,072 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 17:58:36,072 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 17:58:36,072 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 17:58:36,072 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 17:58:36,073 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 17:58:36,073 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 17:58:36,073 - __main__ - INFO - SVM: 1
+2015-05-03 17:58:36,073 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 17:58:36,073 - __main__ - INFO - batch_size: 10000
+2015-05-03 17:58:36,073 - __main__ - INFO - DL_xy: 1
+2015-05-03 17:58:36,073 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 17:58:36,073 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 17:58:36,073 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 17:58:36,073 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 17:58:36,073 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 17:58:36,073 - __main__ - INFO - finetune_lr: 10
+2015-05-03 17:58:36,073 - __main__ - INFO - n_cores: 1
+2015-05-03 17:58:36,073 - __main__ - INFO - with_auc_score: False
+2015-05-03 17:58:36,073 - __main__ - INFO - training_epochs: 10001
+2015-05-03 17:58:36,076 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 17:58:50,294 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 17:58:50,294 - __main__ - INFO - [Errno 2] No such file or directory: './/nnet.tmp'
+2015-05-03 18:03:47,120 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 18:03:47,120 - __main__ - INFO - DL: 0
+2015-05-03 18:03:47,120 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 18:03:47,120 - __main__ - INFO - DL_S: 0
+2015-05-03 18:03:47,120 - __main__ - INFO - DL_U: 0
+2015-05-03 18:03:47,120 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 18:03:47,120 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 18:03:47,120 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 18:03:47,120 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 18:03:47,120 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 18:03:47,120 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 18:03:47,120 - __main__ - INFO - SVM: 1
+2015-05-03 18:03:47,120 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 18:03:47,120 - __main__ - INFO - batch_size: 10000
+2015-05-03 18:03:47,120 - __main__ - INFO - DL_xy: 1
+2015-05-03 18:03:47,120 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 18:03:47,120 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 18:03:47,120 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 18:03:47,120 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 18:03:47,120 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 18:03:47,120 - __main__ - INFO - finetune_lr: 10
+2015-05-03 18:03:47,120 - __main__ - INFO - n_cores: 1
+2015-05-03 18:03:47,120 - __main__ - INFO - with_auc_score: False
+2015-05-03 18:03:47,120 - __main__ - INFO - training_epochs: 10001
+2015-05-03 18:03:47,124 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 18:04:13,671 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 18:04:13,671 - __main__ - INFO - DL: 0
+2015-05-03 18:04:13,671 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 18:04:13,671 - __main__ - INFO - DL_S: 0
+2015-05-03 18:04:13,671 - __main__ - INFO - DL_U: 0
+2015-05-03 18:04:13,671 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 18:04:13,671 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 18:04:13,671 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 18:04:13,672 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 18:04:13,672 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 18:04:13,672 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 18:04:13,672 - __main__ - INFO - SVM: 1
+2015-05-03 18:04:13,672 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 18:04:13,672 - __main__ - INFO - batch_size: 10000
+2015-05-03 18:04:13,672 - __main__ - INFO - DL_xy: 1
+2015-05-03 18:04:13,672 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 18:04:13,672 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 18:04:13,672 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 18:04:13,672 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 18:04:13,672 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 18:04:13,672 - __main__ - INFO - finetune_lr: 10
+2015-05-03 18:04:13,672 - __main__ - INFO - n_cores: 1
+2015-05-03 18:04:13,672 - __main__ - INFO - with_auc_score: False
+2015-05-03 18:04:13,672 - __main__ - INFO - training_epochs: 10001
+2015-05-03 18:04:13,675 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 18:04:27,961 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 18:04:27,961 - __main__ - INFO - [Errno 2] No such file or directory: './nnet.tmp'
+2015-05-03 18:09:04,218 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 18:09:04,218 - __main__ - INFO - DL: 0
+2015-05-03 18:09:04,218 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 18:09:04,218 - __main__ - INFO - DL_S: 0
+2015-05-03 18:09:04,218 - __main__ - INFO - DL_U: 0
+2015-05-03 18:09:04,218 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 18:09:04,218 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 18:09:04,218 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 18:09:04,218 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 18:09:04,218 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 18:09:04,218 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 18:09:04,218 - __main__ - INFO - SVM: 1
+2015-05-03 18:09:04,218 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 18:09:04,218 - __main__ - INFO - batch_size: 10000
+2015-05-03 18:09:04,219 - __main__ - INFO - DL_xy: 1
+2015-05-03 18:09:04,219 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 18:09:04,219 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 18:09:04,219 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 18:09:04,219 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 18:09:04,219 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 18:09:04,219 - __main__ - INFO - finetune_lr: 10
+2015-05-03 18:09:04,219 - __main__ - INFO - n_cores: 1
+2015-05-03 18:09:04,219 - __main__ - INFO - with_auc_score: False
+2015-05-03 18:09:04,219 - __main__ - INFO - training_epochs: 10001
+2015-05-03 18:09:04,222 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 18:09:18,647 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 18:09:18,647 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/tmp/nnet.tmp'
+2015-05-03 18:13:26,847 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 18:13:26,847 - __main__ - INFO - DL: 0
+2015-05-03 18:13:26,847 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 18:13:26,847 - __main__ - INFO - DL_S: 0
+2015-05-03 18:13:26,847 - __main__ - INFO - DL_U: 0
+2015-05-03 18:13:26,847 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 18:13:26,847 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 18:13:26,847 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 18:13:26,847 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 18:13:26,847 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 18:13:26,847 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 18:13:26,847 - __main__ - INFO - SVM: 1
+2015-05-03 18:13:26,848 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 18:13:26,848 - __main__ - INFO - batch_size: 10000
+2015-05-03 18:13:26,848 - __main__ - INFO - DL_xy: 1
+2015-05-03 18:13:26,848 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 18:13:26,848 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 18:13:26,848 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 18:13:26,848 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 18:13:26,848 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 18:13:26,848 - __main__ - INFO - finetune_lr: 10
+2015-05-03 18:13:26,848 - __main__ - INFO - n_cores: 1
+2015-05-03 18:13:26,848 - __main__ - INFO - with_auc_score: False
+2015-05-03 18:13:26,848 - __main__ - INFO - training_epochs: 10001
+2015-05-03 18:13:26,851 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 18:13:41,197 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 18:13:41,197 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/tmp/nnet.tmp'
+2015-05-03 18:13:54,370 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 18:13:54,370 - __main__ - INFO - DL: 0
+2015-05-03 18:13:54,370 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 18:13:54,370 - __main__ - INFO - DL_S: 0
+2015-05-03 18:13:54,370 - __main__ - INFO - DL_U: 0
+2015-05-03 18:13:54,370 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 18:13:54,370 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 18:13:54,370 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 18:13:54,370 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 18:13:54,370 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 18:13:54,370 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 18:13:54,370 - __main__ - INFO - SVM: 1
+2015-05-03 18:13:54,370 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 18:13:54,370 - __main__ - INFO - batch_size: 10000
+2015-05-03 18:13:54,370 - __main__ - INFO - DL_xy: 1
+2015-05-03 18:13:54,371 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 18:13:54,371 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 18:13:54,371 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 18:13:54,371 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 18:13:54,371 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 18:13:54,371 - __main__ - INFO - finetune_lr: 10
+2015-05-03 18:13:54,371 - __main__ - INFO - n_cores: 1
+2015-05-03 18:13:54,371 - __main__ - INFO - with_auc_score: False
+2015-05-03 18:13:54,371 - __main__ - INFO - training_epochs: 10001
+2015-05-03 18:13:54,374 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 18:14:08,736 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 18:14:08,736 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/tmp/nnet.tmp'
+2015-05-03 18:14:17,742 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 18:14:17,742 - __main__ - INFO - DL: 0
+2015-05-03 18:14:17,742 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 18:14:17,742 - __main__ - INFO - DL_S: 0
+2015-05-03 18:14:17,742 - __main__ - INFO - DL_U: 0
+2015-05-03 18:14:17,742 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 18:14:17,742 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 18:14:17,742 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 18:14:17,742 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 18:14:17,742 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 18:14:17,742 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 18:14:17,743 - __main__ - INFO - SVM: 1
+2015-05-03 18:14:17,743 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 18:14:17,743 - __main__ - INFO - batch_size: 10000
+2015-05-03 18:14:17,743 - __main__ - INFO - DL_xy: 1
+2015-05-03 18:14:17,743 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 18:14:17,743 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 18:14:17,743 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 18:14:17,743 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 18:14:17,743 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 18:14:17,743 - __main__ - INFO - finetune_lr: 10
+2015-05-03 18:14:17,743 - __main__ - INFO - n_cores: 1
+2015-05-03 18:14:17,743 - __main__ - INFO - with_auc_score: False
+2015-05-03 18:14:17,743 - __main__ - INFO - training_epochs: 10001
+2015-05-03 18:14:17,746 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 18:14:30,823 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 18:14:30,823 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined
+2015-05-03 18:16:09,235 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 18:16:09,235 - __main__ - INFO - DL: 0
+2015-05-03 18:16:09,235 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 18:16:09,235 - __main__ - INFO - DL_S: 0
+2015-05-03 18:16:09,235 - __main__ - INFO - DL_U: 0
+2015-05-03 18:16:09,235 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 18:16:09,235 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 18:16:09,235 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 18:16:09,235 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 18:16:09,235 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 18:16:09,235 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 18:16:09,236 - __main__ - INFO - SVM: 1
+2015-05-03 18:16:09,236 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 18:16:09,236 - __main__ - INFO - batch_size: 10000
+2015-05-03 18:16:09,236 - __main__ - INFO - DL_xy: 1
+2015-05-03 18:16:09,236 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 18:16:09,236 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 18:16:09,236 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 18:16:09,236 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 18:16:09,236 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 18:16:09,236 - __main__ - INFO - finetune_lr: 10
+2015-05-03 18:16:09,236 - __main__ - INFO - n_cores: 1
+2015-05-03 18:16:09,236 - __main__ - INFO - with_auc_score: False
+2015-05-03 18:16:09,236 - __main__ - INFO - training_epochs: 10001
+2015-05-03 18:16:09,239 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 18:16:25,114 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 18:16:25,114 - __main__ - INFO - Shape mismatch: x has 41 cols (and 100 rows) but y has 201 rows (and 300 cols)
+Apply node that caused the error: Dot22(Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)].0, W)
+Inputs shapes: [(100, 41), (201, 300)]
+Inputs strides: [(164, 4), (1200, 4)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, matrix)]
+Debugprint of the apply node: 
+Dot22 [@A] <TensorType(float32, matrix)> ''   
+ |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@B] <TensorType(float32, matrix)> ''   
+ | |RandomFunction{binomial}.1 [@C] <TensorType(float32, matrix)> ''   
+ | | |<RandomStateType> [@D] <RandomStateType>
+ | | |Elemwise{Cast{int32}} [@E] <TensorType(int32, vector)> ''   
+ | | | |MakeVector [@F] <TensorType(int64, vector)> ''   
+ | | |   |Elemwise{sub,no_inplace} [@G] <TensorType(int64, scalar)> ''   
+ | | |   | |Elemwise{Composite{[Composite{[Composite{[Composite{[Switch(LT(i0, i1), i1, i0)]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2)]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1)]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4)]}}[(0, 0)] [@H] <TensorType(int64, scalar)> ''   
+ | | |   | | |Elemwise{add,no_inplace} [@I] <TensorType(int64, scalar)> ''   
+ | | |   | | | |TensorConstant{100} [@J] <TensorType(int64, scalar)>
+ | | |   | | | |Elemwise{mul,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | |   | | |   |TensorConstant{100} [@J] <TensorType(int64, scalar)>
+ | | |   | | |   |index [@L] <TensorType(int64, scalar)>
+ | | |   | | |TensorConstant{0} [@M] <TensorType(int8, scalar)>
+ | | |   | | |TensorConstant{100} [@J] <TensorType(int64, scalar)>
+ | | |   | | |Elemwise{mul,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | |   | | |Shape_i{0} [@N] <TensorType(int64, scalar)> ''   
+ | | |   | | | |<TensorType(float32, matrix)> [@O] <TensorType(float32, matrix)>
+ | | |   | | |TensorConstant{-1} [@P] <TensorType(int8, scalar)>
+ | | |   | |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Switch(LT(i0, i1), i0, i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), i2)]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, i3)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), i2, i1, i3)]}(Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i0, i1, i2), i1, i2, i3)]}}[(0, 0)] [@Q] <TensorType(int64, scalar)> ''   
+ | | |   |   |Elemwise{mul,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | |   |   |TensorConstant{0} [@M] <TensorType(int8, scalar)>
+ | | |   |   |Shape_i{0} [@N] <TensorType(int64, scalar)> ''   
+ | | |   |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Switch(LT(i0, i1), i1, i0)]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2)]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1)]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4)]}}[(0, 0)] [@H] <TensorType(int64, scalar)> ''   
+ | | |   |Shape_i{1} [@R] <TensorType(int64, scalar)> ''   
+ | | |     |<TensorType(float32, matrix)> [@O] <TensorType(float32, matrix)>
+ | | |TensorConstant{1} [@S] <TensorType(int8, scalar)>
+ | | |Elemwise{sub,no_inplace} [@T] <TensorType(float32, scalar)> ''   
+ | |   |TensorConstant{1.0} [@U] <TensorType(float32, scalar)>
+ | |   |corruption [@V] <TensorType(float32, scalar)>
+ | |Subtensor{int64:int64:} [@W] <TensorType(float32, matrix)> ''   
+ |   |<TensorType(float32, matrix)> [@O] <TensorType(float32, matrix)>
+ |   |ScalarFromTensor [@X] <int64> ''   
+ |   | |Elemwise{mul,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ |   |ScalarFromTensor [@Y] <int64> ''   
+ |     |Elemwise{add,no_inplace} [@I] <TensorType(int64, scalar)> ''   
+ |W [@Z] <TensorType(float32, matrix)>
+
+2015-05-03 20:39:57,753 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 20:39:57,753 - __main__ - INFO - DL: 0
+2015-05-03 20:39:57,753 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 20:39:57,753 - __main__ - INFO - DL_S: 0
+2015-05-03 20:39:57,753 - __main__ - INFO - DL_U: 0
+2015-05-03 20:39:57,753 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 20:39:57,753 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 20:39:57,753 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 20:39:57,753 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 20:39:57,753 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 20:39:57,753 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 20:39:57,753 - __main__ - INFO - SVM: 1
+2015-05-03 20:39:57,753 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 20:39:57,753 - __main__ - INFO - batch_size: 10000
+2015-05-03 20:39:57,753 - __main__ - INFO - DL_xy: 1
+2015-05-03 20:39:57,753 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 20:39:57,754 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 20:39:57,754 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 20:39:57,754 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 20:39:57,754 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 20:39:57,754 - __main__ - INFO - finetune_lr: 10
+2015-05-03 20:39:57,754 - __main__ - INFO - n_cores: 1
+2015-05-03 20:39:57,754 - __main__ - INFO - with_auc_score: False
+2015-05-03 20:39:57,754 - __main__ - INFO - training_epochs: 10001
+2015-05-03 20:39:57,757 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 20:40:01,343 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 20:40:01,343 - __main__ - INFO - pretraining_functions() got multiple values for keyword argument 'train_set_x'
+2015-05-03 20:43:53,957 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 20:43:53,957 - __main__ - INFO - DL: 0
+2015-05-03 20:43:53,958 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 20:43:53,958 - __main__ - INFO - DL_S: 0
+2015-05-03 20:43:53,958 - __main__ - INFO - DL_U: 0
+2015-05-03 20:43:53,958 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 20:43:53,958 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 20:43:53,958 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 20:43:53,958 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 20:43:53,958 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 20:43:53,958 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 20:43:53,958 - __main__ - INFO - SVM: 1
+2015-05-03 20:43:53,958 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 20:43:53,958 - __main__ - INFO - batch_size: 10000
+2015-05-03 20:43:53,958 - __main__ - INFO - DL_xy: 1
+2015-05-03 20:43:53,958 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 20:43:53,958 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 20:43:53,958 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 20:43:53,958 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 20:43:53,958 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 20:43:53,958 - __main__ - INFO - finetune_lr: 10
+2015-05-03 20:43:53,958 - __main__ - INFO - n_cores: 1
+2015-05-03 20:43:53,958 - __main__ - INFO - with_auc_score: False
+2015-05-03 20:43:53,958 - __main__ - INFO - training_epochs: 10001
+2015-05-03 20:43:53,961 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 20:44:11,261 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 20:44:11,262 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined
+2015-05-03 20:46:36,584 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 20:46:36,584 - __main__ - INFO - DL: 0
+2015-05-03 20:46:36,584 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 20:46:36,584 - __main__ - INFO - DL_S: 0
+2015-05-03 20:46:36,584 - __main__ - INFO - DL_U: 0
+2015-05-03 20:46:36,584 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 20:46:36,584 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 20:46:36,584 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 20:46:36,584 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 20:46:36,584 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 20:46:36,584 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 20:46:36,584 - __main__ - INFO - SVM: 1
+2015-05-03 20:46:36,584 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 20:46:36,584 - __main__ - INFO - batch_size: 10000
+2015-05-03 20:46:36,585 - __main__ - INFO - DL_xy: 1
+2015-05-03 20:46:36,585 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 20:46:36,585 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 20:46:36,585 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 20:46:36,585 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 20:46:36,585 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 20:46:36,585 - __main__ - INFO - finetune_lr: 10
+2015-05-03 20:46:36,585 - __main__ - INFO - n_cores: 1
+2015-05-03 20:46:36,585 - __main__ - INFO - with_auc_score: False
+2015-05-03 20:46:36,585 - __main__ - INFO - training_epochs: 10001
+2015-05-03 20:46:36,588 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 21:53:01,459 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 21:53:01,460 - __main__ - INFO - DL: 0
+2015-05-03 21:53:01,460 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 21:53:01,460 - __main__ - INFO - DL_S: 0
+2015-05-03 21:53:01,460 - __main__ - INFO - DL_U: 0
+2015-05-03 21:53:01,460 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 21:53:01,461 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 21:53:01,461 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 21:53:01,461 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 21:53:01,461 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 21:53:01,461 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 21:53:01,462 - __main__ - INFO - SVM: 1
+2015-05-03 21:53:01,462 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 21:53:01,462 - __main__ - INFO - batch_size: 10000
+2015-05-03 21:53:01,462 - __main__ - INFO - DL_xy: 1
+2015-05-03 21:53:01,463 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 21:53:01,463 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 21:53:01,463 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 21:53:01,463 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 21:53:01,463 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 21:53:01,464 - __main__ - INFO - finetune_lr: 10
+2015-05-03 21:53:01,464 - __main__ - INFO - n_cores: 1
+2015-05-03 21:53:01,464 - __main__ - INFO - with_auc_score: False
+2015-05-03 21:53:01,464 - __main__ - INFO - training_epochs: 10001
+2015-05-03 21:53:03,675 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 21:53:18,030 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 21:53:18,030 - __main__ - INFO - DL: 0
+2015-05-03 21:53:18,030 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 21:53:18,030 - __main__ - INFO - DL_S: 0
+2015-05-03 21:53:18,030 - __main__ - INFO - DL_U: 0
+2015-05-03 21:53:18,030 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 21:53:18,030 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 21:53:18,030 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 21:53:18,030 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 21:53:18,030 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 21:53:18,030 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 21:53:18,030 - __main__ - INFO - SVM: 1
+2015-05-03 21:53:18,030 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 21:53:18,030 - __main__ - INFO - batch_size: 10000
+2015-05-03 21:53:18,030 - __main__ - INFO - DL_xy: 1
+2015-05-03 21:53:18,030 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 21:53:18,030 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 21:53:18,030 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 21:53:18,030 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 21:53:18,031 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 21:53:18,031 - __main__ - INFO - finetune_lr: 10
+2015-05-03 21:53:18,031 - __main__ - INFO - n_cores: 1
+2015-05-03 21:53:18,031 - __main__ - INFO - with_auc_score: False
+2015-05-03 21:53:18,031 - __main__ - INFO - training_epochs: 10001
+2015-05-03 21:53:18,034 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 21:54:26,152 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 21:54:26,152 - __main__ - INFO - DL: 0
+2015-05-03 21:54:26,152 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 21:54:26,152 - __main__ - INFO - DL_S: 0
+2015-05-03 21:54:26,152 - __main__ - INFO - DL_U: 0
+2015-05-03 21:54:26,152 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 21:54:26,152 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 21:54:26,152 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 21:54:26,152 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 21:54:26,152 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 21:54:26,152 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 21:54:26,153 - __main__ - INFO - SVM: 1
+2015-05-03 21:54:26,153 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 21:54:26,153 - __main__ - INFO - batch_size: 10000
+2015-05-03 21:54:26,153 - __main__ - INFO - DL_xy: 1
+2015-05-03 21:54:26,153 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 21:54:26,153 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 21:54:26,153 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 21:54:26,153 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 21:54:26,153 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 21:54:26,153 - __main__ - INFO - finetune_lr: 10
+2015-05-03 21:54:26,153 - __main__ - INFO - n_cores: 1
+2015-05-03 21:54:26,153 - __main__ - INFO - with_auc_score: False
+2015-05-03 21:54:26,153 - __main__ - INFO - training_epochs: 10001
+2015-05-03 21:54:26,156 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 21:54:46,745 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 21:54:46,745 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined
+2015-05-03 23:12:48,911 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 23:12:48,911 - __main__ - INFO - DL: 0
+2015-05-03 23:12:48,911 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 23:12:48,911 - __main__ - INFO - DL_S: 0
+2015-05-03 23:12:48,911 - __main__ - INFO - DL_U: 0
+2015-05-03 23:12:48,911 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 23:12:48,911 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 23:12:48,911 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 23:12:48,911 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 23:12:48,912 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 23:12:48,912 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 23:12:48,912 - __main__ - INFO - SVM: 1
+2015-05-03 23:12:48,912 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 23:12:48,912 - __main__ - INFO - batch_size: 10000
+2015-05-03 23:12:48,912 - __main__ - INFO - DL_xy: 1
+2015-05-03 23:12:48,912 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 23:12:48,912 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 23:12:48,912 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 23:12:48,912 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 23:12:48,912 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 23:12:48,912 - __main__ - INFO - finetune_lr: 10
+2015-05-03 23:12:48,912 - __main__ - INFO - n_cores: 1
+2015-05-03 23:12:48,912 - __main__ - INFO - with_auc_score: False
+2015-05-03 23:12:48,912 - __main__ - INFO - training_epochs: 10001
+2015-05-03 23:12:48,915 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 23:13:07,567 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 23:13:07,567 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined
+2015-05-03 23:13:36,743 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 23:13:36,743 - __main__ - INFO - DL: 0
+2015-05-03 23:13:36,743 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 23:13:36,743 - __main__ - INFO - DL_S: 0
+2015-05-03 23:13:36,744 - __main__ - INFO - DL_U: 0
+2015-05-03 23:13:36,744 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 23:13:36,744 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 23:13:36,744 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 23:13:36,745 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 23:13:36,745 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 23:13:36,745 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 23:13:36,745 - __main__ - INFO - SVM: 1
+2015-05-03 23:13:36,745 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 23:13:36,746 - __main__ - INFO - batch_size: 10000
+2015-05-03 23:13:36,746 - __main__ - INFO - DL_xy: 1
+2015-05-03 23:13:36,746 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 23:13:36,746 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 23:13:36,747 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 23:13:36,747 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 23:13:36,747 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 23:13:36,747 - __main__ - INFO - finetune_lr: 10
+2015-05-03 23:13:36,747 - __main__ - INFO - n_cores: 1
+2015-05-03 23:13:36,748 - __main__ - INFO - with_auc_score: False
+2015-05-03 23:13:36,748 - __main__ - INFO - training_epochs: 10001
+2015-05-03 23:13:38,957 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 23:13:51,220 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 23:13:51,221 - __main__ - INFO - DL: 0
+2015-05-03 23:13:51,221 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 23:13:51,221 - __main__ - INFO - DL_S: 0
+2015-05-03 23:13:51,221 - __main__ - INFO - DL_U: 0
+2015-05-03 23:13:51,221 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 23:13:51,221 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 23:13:51,221 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 23:13:51,221 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 23:13:51,221 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 23:13:51,221 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 23:13:51,221 - __main__ - INFO - SVM: 1
+2015-05-03 23:13:51,221 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 23:13:51,221 - __main__ - INFO - batch_size: 10000
+2015-05-03 23:13:51,221 - __main__ - INFO - DL_xy: 1
+2015-05-03 23:13:51,221 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 23:13:51,221 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 23:13:51,221 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 23:13:51,221 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 23:13:51,221 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 23:13:51,221 - __main__ - INFO - finetune_lr: 10
+2015-05-03 23:13:51,221 - __main__ - INFO - n_cores: 1
+2015-05-03 23:13:51,221 - __main__ - INFO - with_auc_score: False
+2015-05-03 23:13:51,221 - __main__ - INFO - training_epochs: 10001
+2015-05-03 23:13:51,224 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 23:18:11,079 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 23:18:11,079 - __main__ - INFO - DL: 0
+2015-05-03 23:18:11,079 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 23:18:11,079 - __main__ - INFO - DL_S: 0
+2015-05-03 23:18:11,079 - __main__ - INFO - DL_U: 0
+2015-05-03 23:18:11,079 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 23:18:11,079 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 23:18:11,079 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 23:18:11,079 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 23:18:11,079 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 23:18:11,079 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 23:18:11,079 - __main__ - INFO - SVM: 1
+2015-05-03 23:18:11,079 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 23:18:11,079 - __main__ - INFO - batch_size: 10000
+2015-05-03 23:18:11,079 - __main__ - INFO - DL_xy: 1
+2015-05-03 23:18:11,079 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 23:18:11,079 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 23:18:11,079 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 23:18:11,080 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 23:18:11,080 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 23:18:11,080 - __main__ - INFO - finetune_lr: 10
+2015-05-03 23:18:11,080 - __main__ - INFO - n_cores: 1
+2015-05-03 23:18:11,080 - __main__ - INFO - with_auc_score: False
+2015-05-03 23:18:11,080 - __main__ - INFO - training_epochs: 10001
+2015-05-03 23:18:11,083 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 23:19:54,054 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 23:19:54,055 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined
+2015-05-03 23:25:17,020 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-03 23:25:17,020 - __main__ - INFO - DL: 0
+2015-05-03 23:25:17,020 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-03 23:25:17,020 - __main__ - INFO - DL_S: 0
+2015-05-03 23:25:17,020 - __main__ - INFO - DL_U: 0
+2015-05-03 23:25:17,020 - __main__ - INFO - SVM_POLY: 0
+2015-05-03 23:25:17,020 - __main__ - INFO - reduce_ratio: 1
+2015-05-03 23:25:17,020 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-03 23:25:17,020 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-03 23:25:17,020 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-03 23:25:17,020 - __main__ - INFO - filename: testDDI.txt
+2015-05-03 23:25:17,020 - __main__ - INFO - SVM: 1
+2015-05-03 23:25:17,020 - __main__ - INFO - SVM_RBF: 0
+2015-05-03 23:25:17,020 - __main__ - INFO - batch_size: 10000
+2015-05-03 23:25:17,020 - __main__ - INFO - DL_xy: 1
+2015-05-03 23:25:17,020 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-03 23:25:17,020 - __main__ - INFO - SAE_SVM: 0
+2015-05-03 23:25:17,020 - __main__ - INFO - pretraining_interations: 10001
+2015-05-03 23:25:17,021 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-03 23:25:17,021 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-03 23:25:17,021 - __main__ - INFO - finetune_lr: 10
+2015-05-03 23:25:17,021 - __main__ - INFO - n_cores: 1
+2015-05-03 23:25:17,021 - __main__ - INFO - with_auc_score: False
+2015-05-03 23:25:17,021 - __main__ - INFO - training_epochs: 10001
+2015-05-03 23:25:17,024 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-03 23:25:23,870 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-03 23:25:23,870 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined

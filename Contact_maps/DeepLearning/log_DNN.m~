@@ -1,0 +1,525 @@
+function
+Problem is the input data is -1 1. I should  make it 0 1 modify stackedAE_DDI_f.m
+trainData=trainData./2+0.5
+stackedAE_DDI_f2('PF00028.9_int_PF00028.9', 40, 40, 1, 1, 10000)
+
+stackedAE_DDI_f2('PF05739.11_int_PF05739.11', 40, 40, 1, 1, 10000)
+Before Finetuning Test Accuracy: 58.523%
+Before Finetuning Test accuracy: 58.523%
+Before Finetuning Test recall: 54.545%
+Before Finetuning Test precision: 59.259%
+Before Finetuning Test sensitivity: 54.545%
+Before Finetuning Test f_measure: 56.805%
+After Finetuning Test Accuracy: 69.318%
+After Finetuning Test accuracy: 69.318%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 61.972%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 76.522%
+DDI: PF05739.11_int_PF05739.11 L1: 40 L2: 40 TrainOnChosenRandom 1 TestOnChosenRandom 1
+
+Before Finetuning Test Accuracy: 48.864%
+Before Finetuning Test accuracy: 48.864%
+Before Finetuning Test recall: 88.636%
+Before Finetuning Test precision: 49.367%
+Before Finetuning Test sensitivity: 88.636%
+Before Finetuning Test f_measure: 63.415%
+After Finetuning Test Accuracy: 68.750%
+After Finetuning Test accuracy: 68.750%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 61.538%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 76.190%
+DDI: PF05739.11_int_PF05739.11 L1: 40 L2: 40 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+Before Finetuning Test f_measure: NaN%
+After Finetuning Test Accuracy: 51.705%
+After Finetuning Test accuracy: 51.705%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 50.867%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 67.433%
+DDI: PF05739.11_int_PF05739.11 L1: 40 L2: 40 TrainAfter Finetuning Test recall: 100.000%
+After Finetuning Test precision: 61.972%
+After Finetuning Test sensitivity: 100.000%
+OnChosenRandom 1 TestOnChosenRandom 1
+
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 50.000%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 66.667%
+After Finetuning Test Accuracy: 78.977%
+After Finetuning Test accuracy: 78.977%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 70.400%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 82.629%
+DDI: PF05739.11_int_PF05739.11 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 50.000%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 66.667%
+After Finetuning Test Accuracy: 76.705%
+After Finetuning Test accuracy: 76.705%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 68.217%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 81.106%
+DDI: PF05739.11_int_PF05739.11 L1: 200 L2: 200 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 0.443%
+Before Finetuning Test accuracy: 0.443%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 0.443%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 0.883%
+After Finetuning Test Accuracy: 60.010%
+After Finetuning Test accuracy: 60.010%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 1.097%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 2.170%
+DDI: PF05739.11_int_PF05739.11 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 0
+
+
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 50.000%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 66.667%
+After Finetuning Test Accuracy: 73.563%
+After Finetuning Test accuracy: 73.563%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 65.414%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 79.091%
+DDI: PF00028.9_int_PF00028.9 L1: 40 L2: 40 TrainOnChosenRandom 1 TestOnChosenRandom 1
+
+Aug 20
+Problem is the input data is -1 1. I should  make it 0 1
+stackedAE_DDI_f('PF00028.9_int_PF00028.9', 40, 40, 1, 1)
+stackedAE_DDI_f('PF00033.11_int_PF00033.11', 40, 40, 1, 1)
+PF05739.11_int_PF05739.11	23	0.201	0.000	0.000	0.500	0.000	0.000Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+Before Finetuning Test f_measure: NaN%
+After Finetuning Test Accuracy: 83.523%
+After Finetuning Test accuracy: 83.523%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 75.214%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 85.854%
+DDI: PF05739.11_int_PF05739.11 L1: 40 L2: 40 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+Before Finetuning Test f_measure: NaN%
+After Finetuning Test Accuracy: 78.977%
+After Finetuning Test accuracy: 78.977%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 70.400%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 82.629%
+DDI: PF05739.11_int_PF05739.11 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+Before Finetuning Test f_measure: NaN%
+After Finetuning Test Accuracy: 79.545%
+After Finetuning Test accuracy: 79.545%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 70.968%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 83.019%
+DDI: PF05739.11_int_PF05739.11 L1: 200 L2: 200 TrainOnChosenRandom 1 TestOnChosenRandom 1
+
+
+
+PF00017.16_int_PF00018.20	22	0.690	0.000	0.000	0.523	0.091	0.667
+
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+Before Finetuning Test f_measure: NaN%
+After Finetuning Test Accuracy: 83.486%
+After Finetuning Test accuracy: 83.486%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 75.172%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 85.827%
+DDI: PF00017.16_int_PF00018.20 L1: 40 L2: 40 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 50.000%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 66.667%
+After Finetuning Test Accuracy: 83.486%
+After Finetuning Test accuracy: 83.486%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 75.172%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 85.827%
+DDI: PF00017.16_int_PF00018.20 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 50.000%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 66.667%
+After Finetuning Test Accuracy: 84.862%
+After Finetuning Test accuracy: 84.862%Before Finetuning Test Accuracy: 48.864%
+Before Finetuning Test accuracy: 48.864%
+Before Finetuning Test recall: 88.636%
+Before Finetuning Test precision: 49.367%
+Before Finetuning Test sensitivity: 88.636%
+Before Finetuning Test f_measure: 63.415%
+After Finetuning Test Accuracy: 68.750%
+After Finetuning Test accuracy: 68.750%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 61.538%Before Finetuning Test Accuracy: 48.864%
+Before Finetuning Test accuracy: 48.864%
+Before Finetuning Test recall: 88.636%
+Before Finetuning Test precision: 49.367%
+Before Finetuning Test sensitivity: 88.636%
+Before Finetuning Test f_measure: 63.415%
+After Finetuning Test Accuracy: 68.750%
+After Finetuning Test accuracy: 68.750%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 61.538%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 76.190%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 76.190%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 76.761%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 86.853%
+DDI: PF00017.16_int_PF00018.20 L1: 200 L2: 200 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 0.282%
+Before Finetuning Test accuracy: 0.282%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 0.282%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 0.562%
+After Finetuning Test Accuracy: 64.477%
+After Finetuning Test accuracy: 64.477%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 0.787%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 1.561%
+DDI: PF00017.16_int_PF00018.20 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 0
+
+
+
+
+PF00028.9_int_PF00028.9	22	1.000	1.000	1.000	0.500	0.000	0.000
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 50.000%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 66.667%
+After Finetuning Test Accuracy: 70.690%
+After Finetuning Test accuracy: 70.690%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 63.043%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 77.333%
+DDI: PF00028.9_int_PF00028.9 L1: 40 L2: 40 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 50.000%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 66.667%
+After Finetuning Test Accuracy: 87.356%
+After Finetuning Test accuracy: 87.356%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 79.817%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 88.776%
+DDI: PF00028.9_int_PF00028.9 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 0.109%
+Before Finetuning Test accuracy: 0.109%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 0.109%
+Before Finetuning Test sensitivity: 100.000%
+Before Finetuning Test f_measure: 0.217%
+After Finetuning Test Accuracy: 50.088%
+After Finetuning Test accuracy: 50.088%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 0.217%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 0.433%
+DDI: PF00028.9_int_PF00028.9 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 0
+
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+Before Finetuning Test f_measure: NaN%
+After Finetuning Test Accuracy: 83.333%
+After Finetuning Test accuracy: 83.333%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 75.000%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 85.714%
+DDI: PF00028.9_int_PF00028.9 L1: 200 L2: 200 TrainOnChosenRandom 1 TestOnChosenRandom 1
+
+Before Finetuning Test Accuracy: 76.437%
+Before Finetuning Test accuracy: 76.437%
+Before Finetuning Test recall: 96.552%
+Before Finetuning Test precision: 68.852%
+Before Finetuning Test sensitivity: 96.552%
+Before Finetuning Test f_measure: 80.383%
+After Finetuning Test Accuracy: 81.034%
+After Finetuning Test accuracy: 81.034%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 72.500%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 84.058%
+DDI: PF00028.9_int_PF00028.9 L1: 300 L2: 300 TrainOnChosenRandom 1 TestOnChosenRandom 1
+
+
+
+
+PF00033.11_int_PF00033.11	20	1.000	1.000	1.000	1.000	1.000	1.000
+Before Finetuning Test Accuracy: 90.399%
+Before Finetuning Test accuracy: 90.399%
+Before Finetuning Test recall: 82.246%
+Before Finetuning Test precision: 98.268%
+Before Finetuning Test sensitivity: 82.246%
+Before Finetuning Test f_measure: 89.546%
+After Finetuning Test Accuracy: 99.819%
+After Finetuning Test accuracy: 99.819%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 99.639%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 99.819%
+DDI: PF00033.11_int_PF00033.11 L1: 40 L2: 20 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 87.138%
+Before Finetuning Test accuracy: 87.138%
+Before Finetuning Test recall: 74.638%
+Before Finetuning Test precision: 99.517%
+Before Finetuning Test sensitivity: 74.638%
+Before Finetuning Test f_measure: 85.300%
+After Finetuning Test Accuracy: 96.377%
+After Finetuning Test accuracy: 96.377%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 93.243%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 96.503%
+DDI: PF00033.11_int_PF00033.11 L1: 40 L2: 40 TrainOnChosenRandom 1 TestOnChosenRandom 1
+
+Before Finetuning Test Accuracy: 78.442%
+Before Finetuning Test accuracy: 78.442%
+Before Finetuning Test recall: 58.333%
+Before Finetuning Test precision: 97.576%
+Before Finetuning Test sensitivity: 58.333%
+Before Finetuning Test f_measure: 73.016%
+After Finetuning Test Accuracy: 98.732%
+After Finetuning Test accuracy: 98.732%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 97.527%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 98.748%
+DDI: PF00033.11_int_PF00033.11 L1: 40 L2: 40 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Function Value changing by less than TolX
+Before Finetuning Test Accuracy: 0.251%
+Before Finetuning Test accuracy: 0.251%
+Before Finetuning Test recall: 74.638%
+Before Finetuning Test precision: 0.094%
+Before Finetuning Test sensitivity: 74.638%
+Before Finetuning Test f_measure: 0.187%
+After Finetuning Test Accuracy: 87.544%
+After Finetuning Test accuracy: 87.544%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 0.995%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 1.970%
+DDI: PF00033.11_int_PF00033.11 L1: 40 L2: 40 TrainOnChosenRandom 1 TestOnChosenRandom 0
+Before Finetuning Test Accuracy: 80.797%
+Before Finetuning Test accuracy: 80.797%
+Before Finetuning Test recall: 61.594%
+Before Finetuning Test precision: 100.000%
+Before Finetuning Test sensitivity: 61.594%
+Before Finetuning Test f_measure: 76.233%
+After Finetuning Test Accuracy: 93.478%
+After Finetuning Test accuracy: 93.478%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 88.462%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 93.878%
+DDI: PF00033.11_int_PF00033.11 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 1
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+Before Finetuning Test f_measure: NaN%
+After Finetuning Test Accuracy: 100.000%
+After Finetuning Test accuracy: 100.000%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 100.000%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 100.000%
+DDI: PF00033.11_int_PF00033.11 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 1
+
+Before Finetuning Test Accuracy: 99.875%
+Before Finetuning Test accuracy: 99.875%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+Before Finetuning Test f_measure: NaN%
+After Finetuning Test Accuracy: 99.509%
+After Finetuning Test accuracy: 99.509%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 20.309%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 33.761%
+DDI: PF00033.11_int_PF00033.11 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 0
+Before Finetuning Test Accuracy: 99.703%
+Before Finetuning Test accuracy: 99.703%
+Before Finetuning Test recall: 56.522%
+Before Finetuning Test precision: 22.576%
+Before Finetuning Test sensitivity: 56.522%
+Before Finetuning Test f_measure: 32.265%
+After Finetuning Test Accuracy: 98.369%
+After Finetuning Test accuracy: 98.369%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 7.126%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 13.304%
+DDI: PF00033.11_int_PF00033.11 L1: 100 L2: 100 TrainOnChosenRandom 1 TestOnChosenRandom 0
+
+Function Value changing by less than TolX
+Before Finetuning Test Accuracy: 99.723%
+Before Finetuning Test accuracy: 99.723%
+Before Finetuning Test recall: 66.304%
+Before Finetuning Test precision: 26.106%
+Before Finetuning Test sensitivity: 66.304%
+Before Finetuning Test f_measure: 37.462%
+After Finetuning Test Accuracy: 94.318%
+After Finetuning Test accuracy: 94.318%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 2.155%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 4.220%
+DDI: PF00033.11_int_PF00033.11 L1: 200 L2: 200 TrainOnChosenRandom 1 TestOnChosenRandom 0
+Function Value changing by less than TolX
+Before Finetuning Test Accuracy: 99.639%
+Before Finetuning Test accuracy: 99.639%
+Before Finetuning Test recall: 74.638%
+Before Finetuning Test precision: 22.127%
+Before Finetuning Test sensitivity: 74.638%
+Before Finetuning Test f_measure: 34.134%
+After Finetuning Test Accuracy: 96.530%
+After Finetuning Test accuracy: 96.530%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 3.481%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 6.728%
+DDI: PF00033.11_int_PF00033.11 L1: 200 L2: 200 TrainOnChosenRandom 1 TestOnChosenRandom 0
+
+Before Finetuning Test Accuracy: 77.899%
+Before Finetuning Test accuracy: 77.899%
+Before Finetuning Test recall: 56.522%
+Before Finetuning Test precision: 98.734%
+Before Finetuning Test sensitivity: 56.522%
+Before Finetuning Test f_measure: 71.889%
+After Finetuning Test Accuracy: 92.754%
+After Finetuning Test accuracy: 92.754%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 87.342%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 93.243%
+DDI: PF00033.11_int_PF00033.11 L1: 200 L2: 200 TrainOnChosenRandom 1 TestOnChosenRandom 1
+
+Function Value changing by less than TolX
+Before Finetuning Test Accuracy: 99.639%
+Before Finetuning Test accuracy: 99.639%
+Before Finetuning Test recall: 74.638%
+Before Finetuning Test precision: 22.127%
+Before Finetuning Test sensitivity: 74.638%
+Before Finetuning Test f_measure: 34.134%
+After Finetuning Test Accuracy: 96.530%
+After Finetuning Test accuracy: 96.530%
+After Finetuning Test recall: 100.000%
+After Finetuning Test precision: 3.481%
+After Finetuning Test sensitivity: 100.000%
+After Finetuning Test f_measure: 6.728%
+DDI: PF00033.11_int_PF00033.11 L1: 200 L2: 200 TrainOnChosenRandom 1 TestOnChosenRandom 0
+
+
+Aug 18:
+PF00028.9_int_PF00028.9
+one ddi choose neg.
+Before Finetuning Test Accuracy: 50.000%
+After Finetuning Test Accuracy: 82.759%
+
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+After Finetuning Test Accuracy: 77.586%
+Before Finetuning Test accuracy: 77.586%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 69.048%
+Before Finetuning Test sensitivity: 100.000%
+
+Training error on chosen neg
+Optimality Condition below TolFun
+Before Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 50.000%
+Before Finetuning Test sensitivity: 100.000%
+After Finetuning Test Accuracy: 50.000%
+Before Finetuning Test accuracy: 50.000%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 50.000%
+Before Finetuning Test sensitivity: 100.000%
+
+using all neg.
+Function Value changing by less than TolX
+Before Finetuning Test Accuracy: 99.891%
+Before Finetuning Test accuracy: 99.891%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+After Finetuning Test Accuracy: 99.891%
+Before Finetuning Test accuracy: 99.891%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+
+train on chosen neg  testing using all neg.
+Before Finetuning Test Accuracy: 99.891%
+Before Finetuning Test accuracy: 99.891%
+Before Finetuning Test recall: 0.000%
+Before Finetuning Test precision: NaN%
+Before Finetuning Test sensitivity: 0.000%
+After Finetuning Test Accuracy: 52.027%
+Before Finetuning Test accuracy: 52.027%
+Before Finetuning Test recall: 100.000%
+Before Finetuning Test precision: 0.226%
+Before Finetuning Test sensitivity: 100.000%

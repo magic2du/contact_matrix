@@ -1,0 +1,7666 @@
+2013-11-25 15:13 STARTED.
+{Warning: Found 3 pre-existing parallel job(s) created by matlabpool that are
+running.
+You can use   'matlabpool close force local'    or create a configuration for
+the parallel.cluster.Local object and use   'matlabpool close force
+<configurationName>'    to remove all jobs created by matlabpool.} 
+{> In distcomp.interactiveclient.pRemoveOldJobs at 55
+  In distcomp.interactiveclient.start at 58
+  In MatlabpoolHelper>MatlabpoolHelper.doOpen at 286
+  In MatlabpoolHelper>MatlabpoolHelper.doMatlabpool at 137
+  In matlabpool at 139
+  In run3DID_AllVectorsChooseNegRand_aaIndex_test_load_DL_remote at 43} 
+Starting matlabpool using the 'local' profile ... connected to 8 labs.
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.813%
+Training recall: 86.264%
+Training precision: 87.222%
+Training f_measure: 86.740%
+Testing accuracy: 92.857%
+Testing recall: 85.714%
+Testing precision: 100.000%
+Testing f_measure: 92.308%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 1, auc = 1.000, sens = 0.857, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 97.826%
+Training recall: 98.551%
+Training precision: 97.143%
+Training f_measure: 97.842%
+Testing accuracy: 96.667%
+Testing recall: 100.000%
+Testing precision: 93.750%
+Testing f_measure: 96.774%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 1, auc = 1.000, sens = 1.000, spec = 0.938, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 67.729%
+Training recall: 45.020%
+Training precision: 82.482%
+Training f_measure: 58.247%
+Testing accuracy: 81.250%
+Testing recall: 62.500%
+Testing precision: 100.000%
+Testing f_measure: 76.923%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 1, auc = 0.859, sens = 0.625, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.628%
+Training recall: 100.000%
+Training precision: 95.472%
+Training f_measure: 97.683%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 97.534%
+Training recall: 97.260%
+Training precision: 97.796%
+Training f_measure: 97.527%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 97.807%
+Training recall: 97.953%
+Training precision: 97.668%
+Training f_measure: 97.810%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 89.688%
+Training recall: 93.438%
+Training precision: 86.919%
+Training f_measure: 90.060%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 1, auc = 0.950, sens = 1.000, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 90.385%
+Training recall: 91.209%
+Training precision: 89.730%
+Training f_measure: 90.463%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 2, auc = 0.980, sens = 1.000, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 97.343%
+Training recall: 97.585%
+Training precision: 97.115%
+Training f_measure: 97.349%
+Testing accuracy: 90.000%
+Testing recall: 93.333%
+Testing precision: 87.500%
+Testing f_measure: 90.323%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 2, auc = 0.973, sens = 0.933, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 69.200%
+Training recall: 45.600%
+Training precision: 86.364%
+Training f_measure: 59.686%
+Testing accuracy: 72.222%
+Testing recall: 44.444%
+Testing precision: 100.000%
+Testing f_measure: 61.538%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 2, auc = 0.790, sens = 0.444, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 97.222%
+Training recall: 100.000%
+Training precision: 94.737%
+Training f_measure: 97.297%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 90.164%
+Training recall: 91.257%
+Training precision: 89.305%
+Training f_measure: 90.270%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 3, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.537%
+Training recall: 99.024%
+Training precision: 98.068%
+Training f_measure: 98.544%
+Testing accuracy: 91.176%
+Testing recall: 94.118%
+Testing precision: 88.889%
+Testing f_measure: 91.429%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 3, auc = 0.969, sens = 0.941, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 97.796%
+Training recall: 97.245%
+Training precision: 98.329%
+Training f_measure: 97.784%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 98.099%
+Training recall: 99.415%
+Training precision: 96.866%
+Training f_measure: 98.124%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.767%
+Training recall: 93.396%
+Training precision: 92.236%
+Training f_measure: 92.812%
+Testing accuracy: 92.308%
+Testing recall: 100.000%
+Testing precision: 86.667%
+Testing f_measure: 92.857%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 2, auc = 0.964, sens = 1.000, spec = 0.867, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 90.110%
+Training recall: 90.659%
+Training precision: 89.674%
+Training f_measure: 90.164%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 4, auc = 0.980, sens = 1.000, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 67.331%
+Training recall: 44.622%
+Training precision: 81.752%
+Training f_measure: 57.732%
+Testing accuracy: 68.750%
+Testing recall: 37.500%
+Testing precision: 100.000%
+Testing f_measure: 54.545%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 3, auc = 0.781, sens = 0.375, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 3, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 97.430%
+Training recall: 98.598%
+Training precision: 96.347%
+Training f_measure: 97.460%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 4, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 90.164%
+Training recall: 91.257%
+Training precision: 89.305%
+Training f_measure: 90.270%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 5, auc = 0.972, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 97.962%
+Training recall: 97.554%
+Training precision: 98.356%
+Training f_measure: 97.954%
+Testing accuracy: 93.750%
+Testing recall: 87.500%
+Testing precision: 100.000%
+Testing f_measure: 93.333%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 3, auc = 0.922, sens = 0.875, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.099%
+Training recall: 99.415%
+Training precision: 96.866%
+Training f_measure: 98.124%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 3, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.516%
+Training recall: 95.223%
+Training precision: 90.332%
+Training f_measure: 92.713%
+Testing accuracy: 85.294%
+Testing recall: 76.471%
+Testing precision: 92.857%
+Testing f_measure: 83.871%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 3, auc = 0.948, sens = 0.765, spec = 0.929, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 69.444%
+Training recall: 45.635%
+Training precision: 87.121%
+Training f_measure: 59.896%
+Testing accuracy: 71.429%
+Testing recall: 42.857%
+Testing precision: 100.000%
+Testing f_measure: 60.000%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 4, auc = 0.939, sens = 0.429, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 4, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 97.664%
+Training recall: 98.598%
+Training precision: 96.789%
+Training f_measure: 97.685%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.710%
+Training recall: 91.257%
+Training precision: 90.270%
+Training f_measure: 90.761%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 6, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 91.255%
+Training recall: 91.655%
+Training precision: 90.929%
+Training f_measure: 91.290%
+Testing accuracy: 90.000%
+Testing recall: 93.333%
+Testing precision: 87.500%
+Testing f_measure: 90.323%
+
+
+
+FGF_int_I-set, seqPair 1, auc = 0.969, sens = 0.933, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 91.989%
+Training recall: 91.713%
+Training precision: 92.222%
+Training f_measure: 91.967%
+Testing accuracy: 87.500%
+Testing recall: 87.500%
+Testing precision: 87.500%
+Testing f_measure: 87.500%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 7, auc = 0.969, sens = 0.875, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 69.960%
+Training recall: 46.640%
+Training precision: 87.407%
+Training f_measure: 60.825%
+Testing accuracy: 66.667%
+Testing recall: 33.333%
+Testing precision: 100.000%
+Testing f_measure: 50.000%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 5, auc = 0.889, sens = 0.333, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.690%
+Training recall: 97.554%
+Training precision: 97.820%
+Training f_measure: 97.687%
+Testing accuracy: 93.750%
+Testing recall: 87.500%
+Testing precision: 100.000%
+Testing f_measure: 93.333%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 4, auc = 0.922, sens = 0.875, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.664%
+Training recall: 98.598%
+Training precision: 96.789%
+Training f_measure: 97.685%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 6, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 93.949%
+Training recall: 94.904%
+Training precision: 93.125%
+Training f_measure: 94.006%
+Testing accuracy: 85.294%
+Testing recall: 76.471%
+Testing precision: 92.857%
+Testing f_measure: 83.871%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 4, auc = 0.979, sens = 0.765, spec = 0.929, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.099%
+Training recall: 99.415%
+Training precision: 96.866%
+Training f_measure: 98.124%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 4, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 87.500%
+Training recall: 83.889%
+Training precision: 90.419%
+Training f_measure: 87.032%
+Testing accuracy: 83.333%
+Testing recall: 77.778%
+Testing precision: 87.500%
+Testing f_measure: 82.353%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 8, auc = 0.975, sens = 0.778, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 97.664%
+Training recall: 98.598%
+Training precision: 96.789%
+Training f_measure: 97.685%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 7, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 69.368%
+Training recall: 46.245%
+Training precision: 86.029%
+Training f_measure: 60.154%
+Testing accuracy: 66.667%
+Testing recall: 50.000%
+Testing precision: 75.000%
+Testing f_measure: 60.000%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 6, auc = 0.861, sens = 0.500, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 6, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 96.841%
+Training recall: 97.253%
+Training precision: 96.458%
+Training f_measure: 96.854%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 5, auc = 0.993, sens = 1.000, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 82.240%
+Training recall: 79.235%
+Training precision: 84.302%
+Training f_measure: 81.690%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 9, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 92.988%
+Training recall: 94.207%
+Training precision: 91.964%
+Training f_measure: 93.072%
+Testing accuracy: 83.333%
+Testing recall: 66.667%
+Testing precision: 100.000%
+Testing f_measure: 80.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 5, auc = 1.000, sens = 0.667, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.230%
+Training recall: 97.959%
+Training precision: 96.552%
+Training f_measure: 97.250%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 96.411%
+Training recall: 98.565%
+Training precision: 94.495%
+Training f_measure: 96.487%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 69.291%
+Training recall: 46.063%
+Training precision: 86.029%
+Training f_measure: 60.000%
+Testing accuracy: 70.000%
+Testing recall: 40.000%
+Testing precision: 100.000%
+Testing f_measure: 57.143%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 7, auc = 0.960, sens = 0.400, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 7, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.385%
+Training recall: 90.659%
+Training precision: 90.164%
+Training f_measure: 90.411%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 10, auc = 0.980, sens = 1.000, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 96.694%
+Training recall: 97.245%
+Training precision: 96.185%
+Training f_measure: 96.712%
+Testing accuracy: 96.154%
+Testing recall: 100.000%
+Testing precision: 92.857%
+Testing f_measure: 96.296%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 6, auc = 1.000, sens = 1.000, spec = 0.929, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.086%
+Training recall: 98.565%
+Training precision: 97.630%
+Training f_measure: 98.095%
+Testing accuracy: 92.308%
+Testing recall: 100.000%
+Testing precision: 86.667%
+Testing f_measure: 92.857%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 9, auc = 0.994, sens = 1.000, spec = 0.867, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.296%
+Training recall: 93.711%
+Training precision: 91.131%
+Training f_measure: 92.403%
+Testing accuracy: 92.308%
+Testing recall: 92.308%
+Testing precision: 92.308%
+Testing f_measure: 92.308%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 6, auc = 0.970, sens = 0.923, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.678%
+Training recall: 92.655%
+Training precision: 89.130%
+Training f_measure: 90.859%
+Testing accuracy: 83.333%
+Testing recall: 75.000%
+Testing precision: 90.000%
+Testing f_measure: 81.818%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 11, auc = 0.917, sens = 0.750, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.813%
+Training recall: 97.959%
+Training precision: 97.674%
+Training f_measure: 97.817%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 6, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 66.535%
+Training recall: 44.488%
+Training precision: 79.577%
+Training f_measure: 57.071%
+Testing accuracy: 70.000%
+Testing recall: 40.000%
+Testing precision: 100.000%
+Testing f_measure: 57.143%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 8, auc = 0.840, sens = 0.400, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 86.339%
+Training recall: 85.792%
+Training precision: 86.740%
+Training f_measure: 86.264%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 12, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 97.573%
+Training recall: 98.544%
+Training precision: 96.667%
+Training f_measure: 97.596%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 10, auc = 0.941, sens = 1.000, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.690%
+Training recall: 97.554%
+Training precision: 97.820%
+Training f_measure: 97.687%
+Testing accuracy: 93.750%
+Testing recall: 87.500%
+Testing precision: 100.000%
+Testing f_measure: 93.333%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 7, auc = 0.922, sens = 0.875, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 66.535%
+Training recall: 44.488%
+Training precision: 79.577%
+Training f_measure: 57.071%
+Testing accuracy: 70.000%
+Testing recall: 40.000%
+Testing precision: 100.000%
+Testing f_measure: 57.143%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 9, auc = 0.760, sens = 0.400, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 9, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.009%
+Training recall: 94.225%
+Training precision: 91.988%
+Training f_measure: 93.093%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 7, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.813%
+Training recall: 97.959%
+Training precision: 97.674%
+Training f_measure: 97.817%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 7, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 90.385%
+Training recall: 90.659%
+Training precision: 90.164%
+Training f_measure: 90.411%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 13, auc = 0.980, sens = 1.000, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 97.619%
+Training recall: 98.571%
+Training precision: 96.729%
+Training f_measure: 97.642%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 11, auc = 1.000, sens = 1.000, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 89.049%
+Training recall: 88.643%
+Training precision: 89.368%
+Training f_measure: 89.004%
+Testing accuracy: 87.838%
+Testing recall: 78.378%
+Testing precision: 96.667%
+Testing f_measure: 86.567%
+
+
+
+FGF_int_I-set, seqPair 2, auc = 0.958, sens = 0.784, spec = 0.967, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 90.642%
+Training recall: 91.444%
+Training precision: 90.000%
+Training f_measure: 90.716%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 14, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 66.270%
+Training recall: 44.048%
+Training precision: 79.286%
+Training f_measure: 56.633%
+Testing accuracy: 78.571%
+Testing recall: 57.143%
+Testing precision: 100.000%
+Testing f_measure: 72.727%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 10, auc = 0.796, sens = 0.571, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.826%
+Training recall: 97.554%
+Training precision: 98.087%
+Training f_measure: 97.820%
+Testing accuracy: 93.750%
+Testing recall: 87.500%
+Testing precision: 100.000%
+Testing f_measure: 93.333%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 8, auc = 0.922, sens = 0.875, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.907%
+Training recall: 97.209%
+Training precision: 98.585%
+Training f_measure: 97.892%
+Testing accuracy: 85.714%
+Testing recall: 85.714%
+Testing precision: 85.714%
+Testing f_measure: 85.714%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 12, auc = 0.980, sens = 0.857, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.711%
+Training recall: 94.969%
+Training precision: 92.638%
+Training f_measure: 93.789%
+Testing accuracy: 92.308%
+Testing recall: 92.308%
+Testing precision: 92.308%
+Testing f_measure: 92.308%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 8, auc = 0.959, sens = 0.923, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 97.813%
+Training recall: 97.959%
+Training precision: 97.674%
+Training f_measure: 97.817%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 82.620%
+Training recall: 79.679%
+Training precision: 84.659%
+Training f_measure: 82.094%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 69.565%
+Training recall: 46.245%
+Training precision: 86.667%
+Training f_measure: 60.309%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 11, auc = 0.750, sens = 0.500, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 11, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 97.857%
+Training recall: 98.571%
+Training precision: 97.183%
+Training f_measure: 97.872%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 13, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 83.791%
+Training recall: 80.769%
+Training precision: 85.965%
+Training f_measure: 83.286%
+Testing accuracy: 78.571%
+Testing recall: 57.143%
+Testing precision: 100.000%
+Testing f_measure: 72.727%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 16, auc = 0.939, sens = 0.571, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 96.703%
+Training recall: 97.253%
+Training precision: 96.196%
+Training f_measure: 96.721%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 9, auc = 0.993, sens = 1.000, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 92.391%
+Training recall: 94.410%
+Training precision: 90.746%
+Training f_measure: 92.542%
+Testing accuracy: 94.444%
+Testing recall: 88.889%
+Testing precision: 100.000%
+Testing f_measure: 94.118%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 9, auc = 0.963, sens = 0.889, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.674%
+Training recall: 97.965%
+Training precision: 97.399%
+Training f_measure: 97.681%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 9, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 70.084%
+Training recall: 47.280%
+Training precision: 86.923%
+Training f_measure: 61.247%
+Testing accuracy: 60.000%
+Testing recall: 25.000%
+Testing precision: 83.333%
+Testing f_measure: 38.462%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 12, auc = 0.855, sens = 0.250, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.664%
+Training recall: 97.196%
+Training precision: 98.113%
+Training f_measure: 97.653%
+Testing accuracy: 87.500%
+Testing recall: 87.500%
+Testing precision: 87.500%
+Testing f_measure: 87.500%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 14, auc = 0.969, sens = 0.875, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 90.000%
+Training recall: 91.667%
+Training precision: 88.710%
+Training f_measure: 90.164%
+Testing accuracy: 88.889%
+Testing recall: 88.889%
+Testing precision: 88.889%
+Testing f_measure: 88.889%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 17, auc = 0.963, sens = 0.889, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 12, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 96.547%
+Training recall: 97.238%
+Training precision: 95.913%
+Training f_measure: 96.571%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 10, auc = 1.000, sens = 1.000, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 83.425%
+Training recall: 80.110%
+Training precision: 85.799%
+Training f_measure: 82.857%
+Testing accuracy: 87.500%
+Testing recall: 75.000%
+Testing precision: 100.000%
+Testing f_measure: 85.714%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 18, auc = 1.000, sens = 0.750, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 97.857%
+Training recall: 98.571%
+Training precision: 97.183%
+Training f_measure: 97.872%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 70.253%
+Training recall: 46.835%
+Training precision: 88.095%
+Training f_measure: 61.157%
+Testing accuracy: 50.000%
+Testing recall: 22.727%
+Testing precision: 50.000%
+Testing f_measure: 31.250%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 13, auc = 0.740, sens = 0.227, spec = 0.500, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 93.103%
+Training recall: 94.357%
+Training precision: 92.049%
+Training f_measure: 93.189%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 13, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.801%
+Training recall: 99.413%
+Training precision: 96.307%
+Training f_measure: 97.835%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 86.872%
+Training recall: 83.799%
+Training precision: 89.286%
+Training f_measure: 86.455%
+Testing accuracy: 85.000%
+Testing recall: 80.000%
+Testing precision: 88.889%
+Testing f_measure: 84.211%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 19, auc = 0.950, sens = 0.800, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 96.296%
+Training recall: 93.981%
+Training precision: 98.544%
+Training f_measure: 96.209%
+Testing accuracy: 75.000%
+Testing recall: 66.667%
+Testing precision: 80.000%
+Testing f_measure: 72.727%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 16, auc = 0.944, sens = 0.667, spec = 0.800, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 66.996%
+Training recall: 44.269%
+Training precision: 81.159%
+Training f_measure: 57.289%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 14, auc = 0.861, sens = 0.500, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.554%
+Training recall: 97.554%
+Training precision: 97.554%
+Training f_measure: 97.554%
+Testing accuracy: 93.750%
+Testing recall: 87.500%
+Testing precision: 100.000%
+Testing f_measure: 93.333%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 11, auc = 0.984, sens = 0.875, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 97.628%
+Training recall: 100.000%
+Training precision: 95.472%
+Training f_measure: 97.683%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 14, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 89.722%
+Training recall: 91.111%
+Training precision: 88.649%
+Training f_measure: 89.863%
+Testing accuracy: 94.444%
+Testing recall: 100.000%
+Testing precision: 90.000%
+Testing f_measure: 94.737%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 20, auc = 0.951, sens = 1.000, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 91.277%
+Training recall: 93.458%
+Training precision: 89.552%
+Training f_measure: 91.463%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 11, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.022%
+Training recall: 90.784%
+Training precision: 89.421%
+Training f_measure: 90.097%
+Testing accuracy: 56.667%
+Testing recall: 26.667%
+Testing precision: 66.667%
+Testing f_measure: 38.095%
+
+
+
+FGF_int_I-set, seqPair 3, auc = 0.738, sens = 0.267, spec = 0.667, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.801%
+Training recall: 98.240%
+Training precision: 97.384%
+Training f_measure: 97.810%
+Testing accuracy: 96.154%
+Testing recall: 92.308%
+Testing precision: 100.000%
+Testing f_measure: 96.000%
+
+
+
+E2_bind_int_ThiF, seqPair 11, auc = 1.000, sens = 0.923, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.077%
+Training recall: 98.558%
+Training precision: 97.619%
+Training f_measure: 98.086%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 17, auc = 1.000, sens = 1.000, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 83.333%
+Training recall: 80.000%
+Training precision: 85.714%
+Training f_measure: 82.759%
+Testing accuracy: 88.889%
+Testing recall: 77.778%
+Testing precision: 100.000%
+Testing f_measure: 87.500%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 21, auc = 0.988, sens = 0.778, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 69.355%
+Training recall: 45.968%
+Training precision: 86.364%
+Training f_measure: 60.000%
+Testing accuracy: 68.182%
+Testing recall: 45.455%
+Testing precision: 83.333%
+Testing f_measure: 58.824%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 15, auc = 0.884, sens = 0.455, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 97.222%
+Training recall: 100.000%
+Training precision: 94.737%
+Training f_measure: 97.297%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.956%
+Training recall: 97.820%
+Training precision: 98.087%
+Training f_measure: 97.954%
+Testing accuracy: 88.889%
+Testing recall: 77.778%
+Testing precision: 100.000%
+Testing f_measure: 87.500%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 12, auc = 0.926, sens = 0.778, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 97.674%
+Training recall: 98.605%
+Training precision: 96.804%
+Training f_measure: 97.696%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 18, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.260%
+Training recall: 93.808%
+Training precision: 90.991%
+Training f_measure: 92.378%
+Testing accuracy: 87.500%
+Testing recall: 100.000%
+Testing precision: 80.000%
+Testing f_measure: 88.889%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 12, auc = 0.844, sens = 1.000, spec = 0.800, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 83.425%
+Training recall: 80.110%
+Training precision: 85.799%
+Training f_measure: 82.857%
+Testing accuracy: 87.500%
+Testing recall: 75.000%
+Testing precision: 100.000%
+Testing f_measure: 85.714%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 22, auc = 1.000, sens = 0.750, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.105%
+Training recall: 98.251%
+Training precision: 97.965%
+Training f_measure: 98.108%
+Testing accuracy: 95.455%
+Testing recall: 90.909%
+Testing precision: 100.000%
+Testing f_measure: 95.238%
+
+
+
+E2_bind_int_ThiF, seqPair 12, auc = 0.975, sens = 0.909, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 69.400%
+Training recall: 46.000%
+Training precision: 86.466%
+Training f_measure: 60.052%
+Testing accuracy: 44.444%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 16, auc = 0.778, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 16, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 97.664%
+Training recall: 98.598%
+Training precision: 96.789%
+Training f_measure: 97.685%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 87.500%
+Training recall: 84.444%
+Training precision: 89.941%
+Training f_measure: 87.106%
+Testing accuracy: 77.778%
+Testing recall: 66.667%
+Testing precision: 85.714%
+Testing f_measure: 75.000%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 23, auc = 0.938, sens = 0.667, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.790%
+Training recall: 97.238%
+Training precision: 98.324%
+Training f_measure: 97.778%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 13, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 91.304%
+Training recall: 93.478%
+Training precision: 89.583%
+Training f_measure: 91.489%
+Testing accuracy: 94.444%
+Testing recall: 100.000%
+Testing precision: 90.000%
+Testing f_measure: 94.737%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 13, auc = 0.975, sens = 1.000, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 67.262%
+Training recall: 44.048%
+Training precision: 82.222%
+Training f_measure: 57.364%
+Testing accuracy: 85.714%
+Testing recall: 71.429%
+Testing precision: 100.000%
+Testing f_measure: 83.333%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 17, auc = 0.796, sens = 0.714, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.935%
+Training recall: 97.935%
+Training precision: 97.935%
+Training f_measure: 97.935%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 13, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.826%
+Training recall: 100.000%
+Training precision: 95.833%
+Training f_measure: 97.872%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 17, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 83.422%
+Training recall: 79.679%
+Training precision: 86.127%
+Training f_measure: 82.778%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 24, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.140%
+Training recall: 98.605%
+Training precision: 97.696%
+Training f_measure: 98.148%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 20, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 85.561%
+Training recall: 84.492%
+Training precision: 86.339%
+Training f_measure: 85.405%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 25, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.514%
+Training recall: 97.238%
+Training precision: 97.778%
+Training f_measure: 97.507%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 14, auc = 0.959, sens = 1.000, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 69.679%
+Training recall: 46.185%
+Training precision: 87.121%
+Training f_measure: 60.367%
+Testing accuracy: 70.000%
+Testing recall: 50.000%
+Testing precision: 83.333%
+Testing f_measure: 62.500%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 18, auc = 0.890, sens = 0.500, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.664%
+Training recall: 98.598%
+Training precision: 96.789%
+Training f_measure: 97.685%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Gelsolin_int_Sec23_helical, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-25 21:44 SUCCESS: Gelsolin_int_Sec23_helical.
+
+
+Training accuracy: 97.222%
+Training recall: 100.000%
+Training precision: 94.737%
+Training f_measure: 97.297%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 18, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 91.793%
+Training recall: 93.617%
+Training precision: 90.323%
+Training f_measure: 91.940%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 14, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.198%
+Training recall: 97.935%
+Training precision: 96.512%
+Training f_measure: 97.218%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 14, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 85.912%
+Training recall: 84.530%
+Training precision: 86.932%
+Training f_measure: 85.714%
+Testing accuracy: 93.750%
+Testing recall: 87.500%
+Testing precision: 100.000%
+Testing f_measure: 93.333%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 26, auc = 0.953, sens = 0.875, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 69.048%
+Training recall: 44.841%
+Training precision: 86.923%
+Training f_measure: 59.162%
+Testing accuracy: 85.714%
+Testing recall: 71.429%
+Testing precision: 100.000%
+Testing f_measure: 83.333%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 19, auc = 0.959, sens = 0.714, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.568%
+Training recall: 97.297%
+Training precision: 97.826%
+Training f_measure: 97.561%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 99.273%
+Training recall: 100.000%
+Training precision: 98.566%
+Training f_measure: 99.278%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 87.151%
+Training recall: 83.799%
+Training precision: 89.820%
+Training f_measure: 86.705%
+Testing accuracy: 85.000%
+Testing recall: 80.000%
+Testing precision: 88.889%
+Testing f_measure: 84.211%
+
+
+
+Ribosomal_L28_int_Ribosomal_L9_N, seqPair 27, auc = 0.960, sens = 0.800, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-25 22:9 SUCCESS: Ribosomal_L28_int_Ribosomal_L9_N.
+
+
+Training AE 1/2
+Training accuracy: 90.022%
+Training recall: 90.817%
+Training precision: 89.395%
+Training f_measure: 90.100%
+Testing accuracy: 60.000%
+Testing recall: 30.000%
+Testing precision: 75.000%
+Testing f_measure: 42.857%
+
+
+
+FGF_int_I-set, seqPair 4, auc = 0.840, sens = 0.300, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.237%
+Training recall: 94.704%
+Training precision: 93.827%
+Training f_measure: 94.264%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 97.198%
+Training recall: 97.935%
+Training precision: 96.512%
+Training f_measure: 97.218%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 69.880%
+Training recall: 46.185%
+Training precision: 87.786%
+Training f_measure: 60.526%
+Testing accuracy: 65.000%
+Testing recall: 50.000%
+Testing precision: 71.429%
+Testing f_measure: 58.824%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 20, auc = 0.850, sens = 0.500, spec = 0.714, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.817%
+Training recall: 100.000%
+Training precision: 95.817%
+Training f_measure: 97.864%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 20, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.443%
+Training recall: 100.000%
+Training precision: 96.980%
+Training f_measure: 98.467%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 96.622%
+Training recall: 97.297%
+Training precision: 96.000%
+Training f_measure: 96.644%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 16, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.337%
+Training recall: 98.225%
+Training precision: 96.512%
+Training f_measure: 97.361%
+Testing accuracy: 96.875%
+Testing recall: 93.750%
+Testing precision: 100.000%
+Testing f_measure: 96.774%
+
+
+
+E2_bind_int_ThiF, seqPair 16, auc = 1.000, sens = 0.938, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 92.249%
+Training recall: 93.617%
+Training precision: 91.124%
+Training f_measure: 92.354%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 16, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 69.277%
+Training recall: 45.382%
+Training precision: 86.923%
+Training f_measure: 59.631%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 21, auc = 0.930, sens = 0.500, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 98.780%
+Training recall: 100.000%
+Training precision: 97.619%
+Training f_measure: 98.795%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 99.455%
+Training recall: 100.000%
+Training precision: 98.921%
+Training f_measure: 99.458%
+Testing accuracy: 97.727%
+Testing recall: 100.000%
+Testing precision: 95.652%
+Testing f_measure: 97.778%
+
+
+
+Rieske_int_V-set, seqPair 3, auc = 1.000, sens = 1.000, spec = 0.957, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 94.951%
+Training recall: 97.055%
+Training precision: 93.136%
+Training f_measure: 95.055%
+Testing accuracy: 96.154%
+Testing recall: 100.000%
+Testing precision: 92.857%
+Testing f_measure: 96.296%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 1, auc = 0.987, sens = 1.000, spec = 0.929, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 96.547%
+Training recall: 97.238%
+Training precision: 95.913%
+Training f_measure: 96.571%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 17, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 69.600%
+Training recall: 46.000%
+Training precision: 87.121%
+Training f_measure: 60.209%
+Testing accuracy: 66.667%
+Testing recall: 33.333%
+Testing precision: 100.000%
+Testing f_measure: 50.000%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 22, auc = 0.864, sens = 0.333, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 96.371%
+Training recall: 100.000%
+Training precision: 93.233%
+Training f_measure: 96.498%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 22, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 97.794%
+Training recall: 98.235%
+Training precision: 97.376%
+Training f_measure: 97.804%
+Testing accuracy: 96.429%
+Testing recall: 92.857%
+Testing precision: 100.000%
+Testing f_measure: 96.296%
+
+
+
+E2_bind_int_ThiF, seqPair 17, auc = 1.000, sens = 0.929, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 93.498%
+Training recall: 94.737%
+Training precision: 92.447%
+Training f_measure: 93.578%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 17, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.789%
+Training recall: 100.000%
+Training precision: 97.635%
+Training f_measure: 98.803%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 4, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.652%
+Training recall: 97.238%
+Training precision: 98.050%
+Training f_measure: 97.642%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 18, auc = 0.959, sens = 1.000, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 67.331%
+Training recall: 44.223%
+Training precision: 82.222%
+Training f_measure: 57.513%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 23, auc = 0.719, sens = 0.500, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.374%
+Training recall: 100.000%
+Training precision: 96.850%
+Training f_measure: 98.400%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 23, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.225%
+Training recall: 99.408%
+Training precision: 97.110%
+Training f_measure: 98.246%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 18, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 91.641%
+Training recall: 93.617%
+Training precision: 90.058%
+Training f_measure: 91.803%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 18, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 99.097%
+Training recall: 100.000%
+Training precision: 98.227%
+Training f_measure: 99.106%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.225%
+Training recall: 96.901%
+Training precision: 91.979%
+Training f_measure: 94.376%
+Testing accuracy: 96.552%
+Testing recall: 96.552%
+Testing precision: 96.552%
+Testing f_measure: 96.552%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 2, auc = 0.996, sens = 0.966, spec = 0.966, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 69.685%
+Training recall: 44.882%
+Training precision: 89.062%
+Training f_measure: 59.686%
+Testing accuracy: 80.000%
+Testing recall: 60.000%
+Testing precision: 100.000%
+Testing f_measure: 75.000%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 24, auc = 0.920, sens = 0.600, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.964%
+Training recall: 100.000%
+Training precision: 94.275%
+Training f_measure: 97.053%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 24, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.428%
+Training recall: 90.790%
+Training precision: 90.137%
+Training f_measure: 90.462%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+FGF_int_I-set, seqPair 5, auc = 1.000, sens = 1.000, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.703%
+Training recall: 97.297%
+Training precision: 98.093%
+Training f_measure: 97.693%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 97.640%
+Training recall: 97.935%
+Training precision: 97.361%
+Training f_measure: 97.647%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 98.966%
+Training recall: 100.000%
+Training precision: 97.973%
+Training f_measure: 98.976%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 6, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 93.344%
+Training recall: 94.737%
+Training precision: 92.169%
+Training f_measure: 93.435%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 66.667%
+Training recall: 43.922%
+Training precision: 80.576%
+Training f_measure: 56.853%
+Testing accuracy: 87.500%
+Testing recall: 75.000%
+Testing precision: 100.000%
+Testing f_measure: 85.714%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 25, auc = 0.938, sens = 0.750, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 97.379%
+Training recall: 100.000%
+Training precision: 95.019%
+Training f_measure: 97.446%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 25, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 96.892%
+Training recall: 97.297%
+Training precision: 96.515%
+Training f_measure: 96.904%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 20, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 99.640%
+Training recall: 100.000%
+Training precision: 99.286%
+Training f_measure: 99.642%
+Testing accuracy: 97.368%
+Testing recall: 100.000%
+Testing precision: 95.000%
+Testing f_measure: 97.436%
+
+
+
+Rieske_int_V-set, seqPair 7, auc = 0.983, sens = 1.000, spec = 0.950, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 63.086%
+Training recall: 38.281%
+Training precision: 75.969%
+Training f_measure: 50.909%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 26, auc = 0.778, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 98.374%
+Training recall: 100.000%
+Training precision: 96.850%
+Training f_measure: 98.400%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 26, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.345%
+Training recall: 98.230%
+Training precision: 96.522%
+Training f_measure: 97.368%
+Testing accuracy: 96.667%
+Testing recall: 93.333%
+Testing precision: 100.000%
+Testing f_measure: 96.552%
+
+
+
+E2_bind_int_ThiF, seqPair 20, auc = 1.000, sens = 0.933, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 93.819%
+Training recall: 96.566%
+Training precision: 91.536%
+Training f_measure: 93.984%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 3, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.273%
+Training recall: 93.636%
+Training precision: 91.150%
+Training f_measure: 92.377%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 20, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 97.245%
+Training recall: 97.245%
+Training precision: 97.245%
+Training f_measure: 97.245%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 68.776%
+Training recall: 44.898%
+Training precision: 85.938%
+Training f_measure: 58.981%
+Testing accuracy: 67.857%
+Testing recall: 57.143%
+Testing precision: 72.727%
+Testing f_measure: 64.000%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 27, auc = 0.847, sens = 0.571, spec = 0.727, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.341%
+Training recall: 100.000%
+Training precision: 93.182%
+Training f_measure: 96.471%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 27, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 99.141%
+Training recall: 100.000%
+Training precision: 98.311%
+Training f_measure: 99.148%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.198%
+Training recall: 97.935%
+Training precision: 96.512%
+Training f_measure: 97.218%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 91.641%
+Training recall: 94.737%
+Training precision: 89.213%
+Training f_measure: 91.892%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 21, auc = 1.000, sens = 1.000, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 67.729%
+Training recall: 45.817%
+Training precision: 81.560%
+Training f_measure: 58.673%
+Testing accuracy: 68.750%
+Testing recall: 62.500%
+Testing precision: 71.429%
+Testing f_measure: 66.667%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 28, auc = 0.859, sens = 0.625, spec = 0.714, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.341%
+Training recall: 100.000%
+Training precision: 93.182%
+Training f_measure: 96.471%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 28, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.961%
+Training recall: 97.238%
+Training precision: 96.703%
+Training f_measure: 96.970%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 22, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 99.455%
+Training recall: 100.000%
+Training precision: 98.921%
+Training f_measure: 99.458%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 9, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.210%
+Training recall: 95.885%
+Training precision: 91.016%
+Training f_measure: 93.387%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 4, auc = 1.000, sens = 1.000, spec = 0.909, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.164%
+Training recall: 97.910%
+Training precision: 96.471%
+Training f_measure: 97.185%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 22, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 88.259%
+Training recall: 88.296%
+Training precision: 88.231%
+Training f_measure: 88.264%
+Testing accuracy: 88.372%
+Testing recall: 88.372%
+Testing precision: 88.372%
+Testing f_measure: 88.372%
+
+
+
+FGF_int_I-set, seqPair 6, auc = 0.977, sens = 0.884, spec = 0.884, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.854%
+Training recall: 93.598%
+Training precision: 88.728%
+Training f_measure: 91.098%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 22, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 96.964%
+Training recall: 100.000%
+Training precision: 94.275%
+Training f_measure: 97.053%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 29, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 69.721%
+Training recall: 45.418%
+Training precision: 88.372%
+Training f_measure: 60.000%
+Testing accuracy: 68.750%
+Testing recall: 37.500%
+Testing precision: 100.000%
+Testing f_measure: 54.545%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 29, auc = 0.734, sens = 0.375, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 99.481%
+Training recall: 100.000%
+Training precision: 98.973%
+Training f_measure: 99.484%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 97.297%
+Training recall: 97.297%
+Training precision: 97.297%
+Training f_measure: 97.297%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 23, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 69.231%
+Training recall: 44.534%
+Training precision: 88.000%
+Training f_measure: 59.140%
+Testing accuracy: 79.167%
+Testing recall: 58.333%
+Testing precision: 100.000%
+Testing f_measure: 73.684%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 30, auc = 1.000, sens = 0.583, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.177%
+Training recall: 100.000%
+Training precision: 94.656%
+Training f_measure: 97.255%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+GFRP_int_GTP_cyclohydroI, seqPair 30, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-26 2:6 SUCCESS: GFRP_int_GTP_cyclohydroI.
+
+
+Training accuracy: 98.673%
+Training recall: 99.410%
+Training precision: 97.965%
+Training f_measure: 98.682%
+Testing accuracy: 93.333%
+Testing recall: 100.000%
+Testing precision: 88.235%
+Testing f_measure: 93.750%
+
+
+
+E2_bind_int_ThiF, seqPair 23, auc = 0.987, sens = 1.000, spec = 0.882, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 90.712%
+Training recall: 93.498%
+Training precision: 88.563%
+Training f_measure: 90.964%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 23, auc = 1.000, sens = 1.000, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 99.091%
+Training recall: 100.000%
+Training precision: 98.214%
+Training f_measure: 99.099%
+Testing accuracy: 97.727%
+Testing recall: 100.000%
+Testing precision: 95.652%
+Testing f_measure: 97.778%
+
+
+
+Rieske_int_V-set, seqPair 11, auc = 1.000, sens = 1.000, spec = 0.957, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.027%
+Training recall: 97.297%
+Training precision: 96.774%
+Training f_measure: 97.035%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 24, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.935%
+Training recall: 96.897%
+Training precision: 91.478%
+Training f_measure: 94.110%
+Testing accuracy: 95.000%
+Testing recall: 96.667%
+Testing precision: 93.548%
+Testing f_measure: 95.082%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 5, auc = 0.982, sens = 0.967, spec = 0.935, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 68.431%
+Training recall: 44.706%
+Training precision: 85.075%
+Training f_measure: 58.612%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+
+
+
+EpoR_lig-bind_int_fn3, seqPair 31, auc = 0.875, sens = 0.500, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-26 2:28 SUCCESS: EpoR_lig-bind_int_fn3.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 90.296%
+Training recall: 86.253%
+Training precision: 93.842%
+Training f_measure: 89.888%
+Testing accuracy: 88.636%
+Testing recall: 95.455%
+Testing precision: 84.000%
+Testing f_measure: 89.362%
+
+
+
+UreE_C_int_UreE_N, seqPair 1, auc = 0.988, sens = 0.955, spec = 0.840, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.050%
+Training recall: 98.230%
+Training precision: 95.965%
+Training f_measure: 97.085%
+Testing accuracy: 96.667%
+Testing recall: 93.333%
+Testing precision: 100.000%
+Testing f_measure: 96.552%
+
+
+
+E2_bind_int_ThiF, seqPair 24, auc = 1.000, sens = 0.933, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.424%
+Training recall: 93.636%
+Training precision: 91.420%
+Training f_measure: 92.515%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 24, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 99.310%
+Training recall: 100.000%
+Training precision: 98.639%
+Training f_measure: 99.315%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 12, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.521%
+Training recall: 97.245%
+Training precision: 97.784%
+Training f_measure: 97.514%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 25, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 99.635%
+Training recall: 100.000%
+Training precision: 99.275%
+Training f_measure: 99.636%
+Testing accuracy: 97.826%
+Testing recall: 100.000%
+Testing precision: 95.833%
+Testing f_measure: 97.872%
+
+
+
+Rieske_int_V-set, seqPair 13, auc = 0.966, sens = 1.000, spec = 0.958, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.080%
+Training recall: 86.059%
+Training precision: 93.586%
+Training f_measure: 89.665%
+Testing accuracy: 92.500%
+Testing recall: 100.000%
+Testing precision: 86.957%
+Testing f_measure: 93.023%
+
+
+
+UreE_C_int_UreE_N, seqPair 2, auc = 0.978, sens = 1.000, spec = 0.870, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.767%
+Training recall: 94.025%
+Training precision: 91.718%
+Training f_measure: 92.857%
+Testing accuracy: 96.154%
+Testing recall: 92.308%
+Testing precision: 100.000%
+Testing f_measure: 96.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 25, auc = 0.994, sens = 0.923, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.041%
+Training recall: 98.225%
+Training precision: 95.954%
+Training f_measure: 97.076%
+Testing accuracy: 96.875%
+Testing recall: 93.750%
+Testing precision: 100.000%
+Testing f_measure: 96.774%
+
+
+
+E2_bind_int_ThiF, seqPair 25, auc = 1.000, sens = 0.938, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.204%
+Training recall: 96.927%
+Training precision: 91.921%
+Training f_measure: 94.358%
+Testing accuracy: 91.304%
+Testing recall: 95.652%
+Testing precision: 88.000%
+Testing f_measure: 91.667%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 6, auc = 0.974, sens = 0.957, spec = 0.880, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.301%
+Training recall: 94.099%
+Training precision: 92.622%
+Training f_measure: 93.354%
+Testing accuracy: 70.000%
+Testing recall: 60.000%
+Testing precision: 75.000%
+Testing f_measure: 66.667%
+
+
+
+efhand_int_Troponin, seqPair 1, auc = 0.820, sens = 0.600, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.961%
+Training recall: 97.238%
+Training precision: 96.703%
+Training f_measure: 96.970%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 26, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.374%
+Training recall: 86.337%
+Training precision: 86.400%
+Training f_measure: 86.369%
+Testing accuracy: 82.353%
+Testing recall: 88.235%
+Testing precision: 78.947%
+Testing f_measure: 83.333%
+
+
+
+FGF_int_I-set, seqPair 7, auc = 0.941, sens = 0.882, spec = 0.789, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 99.135%
+Training recall: 100.000%
+Training precision: 98.299%
+Training f_measure: 99.142%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 14, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 89.314%
+Training recall: 86.544%
+Training precision: 91.620%
+Training f_measure: 89.009%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 3, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.647%
+Training recall: 97.941%
+Training precision: 97.368%
+Training f_measure: 97.654%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+E2_bind_int_ThiF, seqPair 26, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-26 3:35 SUCCESS: E2_bind_int_ThiF.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.098%
+Training recall: 94.172%
+Training precision: 92.192%
+Training f_measure: 93.171%
+Testing accuracy: 90.000%
+Testing recall: 100.000%
+Testing precision: 83.333%
+Testing f_measure: 90.909%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 26, auc = 1.000, sens = 1.000, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 96.757%
+Training recall: 97.297%
+Training precision: 96.257%
+Training f_measure: 96.774%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 27, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.897%
+Training recall: 100.000%
+Training precision: 97.842%
+Training f_measure: 98.909%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 92.927%
+Training recall: 93.821%
+Training precision: 92.173%
+Training f_measure: 92.990%
+Testing accuracy: 93.182%
+Testing recall: 90.909%
+Testing precision: 95.238%
+Testing f_measure: 93.023%
+
+
+
+efhand_int_Troponin, seqPair 2, auc = 0.963, sens = 0.909, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 91.470%
+Training recall: 89.501%
+Training precision: 93.169%
+Training f_measure: 91.299%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 4, auc = 0.833, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.356%
+Training recall: 96.575%
+Training precision: 90.734%
+Training f_measure: 93.563%
+Testing accuracy: 94.444%
+Testing recall: 100.000%
+Testing precision: 90.000%
+Testing f_measure: 94.737%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 7, auc = 0.975, sens = 1.000, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 91.358%
+Training recall: 94.136%
+Training precision: 89.181%
+Training f_measure: 91.592%
+Testing accuracy: 78.571%
+Testing recall: 71.429%
+Testing precision: 83.333%
+Testing f_measure: 76.923%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 27, auc = 0.816, sens = 0.714, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 96.892%
+Training recall: 97.297%
+Training precision: 96.515%
+Training f_measure: 96.904%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 28, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 99.308%
+Training recall: 100.000%
+Training precision: 98.635%
+Training f_measure: 99.313%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 16, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 89.474%
+Training recall: 86.316%
+Training precision: 92.135%
+Training f_measure: 89.130%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.121%
+Training recall: 93.636%
+Training precision: 90.882%
+Training f_measure: 92.239%
+Testing accuracy: 50.000%
+Testing recall: 100.000%
+Testing precision: 50.000%
+Testing f_measure: 66.667%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 28, auc = 1.000, sens = 1.000, spec = 0.500, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.245%
+Training recall: 97.245%
+Training precision: 97.245%
+Training f_measure: 97.245%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 29, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.364%
+Training recall: 100.000%
+Training precision: 96.831%
+Training f_measure: 98.390%
+Testing accuracy: 97.727%
+Testing recall: 100.000%
+Testing precision: 95.652%
+Testing f_measure: 97.778%
+
+
+
+Rieske_int_V-set, seqPair 17, auc = 1.000, sens = 1.000, spec = 0.957, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 83.735%
+Training recall: 84.009%
+Training precision: 83.551%
+Training f_measure: 83.779%
+Testing accuracy: 91.429%
+Testing recall: 97.143%
+Testing precision: 87.179%
+Testing f_measure: 91.892%
+
+
+
+DrsE_int_DsrH, seqPair 1, auc = 0.970, sens = 0.971, spec = 0.872, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.306%
+Training recall: 94.839%
+Training precision: 92.019%
+Training f_measure: 93.407%
+Testing accuracy: 91.176%
+Testing recall: 94.118%
+Testing precision: 88.889%
+Testing f_measure: 91.429%
+
+
+
+efhand_int_Troponin, seqPair 3, auc = 0.920, sens = 0.941, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.151%
+Training recall: 96.575%
+Training precision: 90.385%
+Training f_measure: 93.377%
+Testing accuracy: 94.444%
+Testing recall: 100.000%
+Testing precision: 90.000%
+Testing f_measure: 94.737%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 8, auc = 0.926, sens = 1.000, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.767%
+Training recall: 90.451%
+Training precision: 96.875%
+Training f_measure: 93.553%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 6, auc = 0.762, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 93.060%
+Training recall: 94.637%
+Training precision: 91.743%
+Training f_measure: 93.168%
+Testing accuracy: 89.286%
+Testing recall: 92.857%
+Testing precision: 86.667%
+Testing f_measure: 89.655%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 29, auc = 0.974, sens = 0.929, spec = 0.867, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 99.308%
+Training recall: 100.000%
+Training precision: 98.635%
+Training f_measure: 99.313%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 18, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.133%
+Training recall: 97.238%
+Training precision: 95.135%
+Training f_measure: 96.175%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 30, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 90.302%
+Training recall: 90.634%
+Training precision: 90.037%
+Training f_measure: 90.334%
+Testing accuracy: 83.784%
+Testing recall: 72.973%
+Testing precision: 93.103%
+Testing f_measure: 81.818%
+
+
+
+FGF_int_I-set, seqPair 8, auc = 0.932, sens = 0.730, spec = 0.931, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.352%
+Training recall: 100.000%
+Training precision: 96.809%
+Training f_measure: 98.378%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.142%
+Training recall: 94.577%
+Training precision: 91.938%
+Training f_measure: 93.239%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+
+
+
+efhand_int_Troponin, seqPair 4, auc = 0.910, sens = 1.000, spec = 0.909, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 91.580%
+Training recall: 88.342%
+Training precision: 94.460%
+Training f_measure: 91.299%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 7, auc = 0.694, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 91.793%
+Training recall: 93.921%
+Training precision: 90.087%
+Training f_measure: 91.964%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 30, auc = 1.000, sens = 0.500, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 97.425%
+Training recall: 97.561%
+Training precision: 97.297%
+Training f_measure: 97.429%
+Testing accuracy: 92.857%
+Testing recall: 85.714%
+Testing precision: 100.000%
+Testing f_measure: 92.308%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 31, auc = 1.000, sens = 0.857, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 84.724%
+Training recall: 84.724%
+Training precision: 84.724%
+Training f_measure: 84.724%
+Testing accuracy: 88.000%
+Testing recall: 88.000%
+Testing precision: 88.000%
+Testing f_measure: 88.000%
+
+
+
+DrsE_int_DsrH, seqPair 2, auc = 0.954, sens = 0.880, spec = 0.880, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.538%
+Training recall: 96.779%
+Training precision: 92.627%
+Training f_measure: 94.658%
+Testing accuracy: 98.000%
+Testing recall: 100.000%
+Testing precision: 96.154%
+Testing f_measure: 98.039%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 9, auc = 1.000, sens = 1.000, spec = 0.962, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 99.135%
+Training recall: 100.000%
+Training precision: 98.299%
+Training f_measure: 99.142%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Rieske_int_V-set, seqPair 20, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-26 5:56 SUCCESS: Rieske_int_V-set.
+
+
+Training accuracy: 90.591%
+Training recall: 87.097%
+Training precision: 93.642%
+Training f_measure: 90.251%
+Testing accuracy: 88.095%
+Testing recall: 76.190%
+Testing precision: 100.000%
+Testing f_measure: 86.486%
+
+
+
+UreE_C_int_UreE_N, seqPair 8, auc = 0.984, sens = 0.762, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.477%
+Training recall: 97.561%
+Training precision: 95.491%
+Training f_measure: 96.515%
+Testing accuracy: 92.857%
+Testing recall: 85.714%
+Testing precision: 100.000%
+Testing f_measure: 92.308%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 32, auc = 1.000, sens = 0.857, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.925%
+Training recall: 94.704%
+Training precision: 93.252%
+Training f_measure: 93.972%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 31, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.067%
+Training recall: 94.454%
+Training precision: 91.905%
+Training f_measure: 93.162%
+Testing accuracy: 95.833%
+Testing recall: 95.833%
+Testing precision: 95.833%
+Testing f_measure: 95.833%
+
+
+
+efhand_int_Troponin, seqPair 5, auc = 0.964, sens = 0.958, spec = 0.958, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 89.974%
+Training recall: 86.807%
+Training precision: 92.676%
+Training f_measure: 89.646%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 9, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.107%
+Training recall: 97.245%
+Training precision: 96.978%
+Training f_measure: 97.111%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 33, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.633%
+Training recall: 93.730%
+Training precision: 91.718%
+Training f_measure: 92.713%
+Testing accuracy: 95.833%
+Testing recall: 91.667%
+Testing precision: 100.000%
+Testing f_measure: 95.652%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 32, auc = 1.000, sens = 0.917, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.796%
+Training recall: 97.187%
+Training precision: 92.752%
+Training f_measure: 94.918%
+Testing accuracy: 92.857%
+Testing recall: 96.429%
+Testing precision: 90.000%
+Testing f_measure: 93.103%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 10, auc = 0.983, sens = 0.964, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 83.535%
+Training recall: 83.974%
+Training precision: 83.243%
+Training f_measure: 83.607%
+Testing accuracy: 93.243%
+Testing recall: 97.297%
+Testing precision: 90.000%
+Testing f_measure: 93.506%
+
+
+
+DrsE_int_DsrH, seqPair 3, auc = 0.985, sens = 0.973, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.245%
+Training recall: 97.245%
+Training precision: 97.245%
+Training f_measure: 97.245%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 34, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 89.710%
+Training recall: 86.280%
+Training precision: 92.635%
+Training f_measure: 89.344%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 91.167%
+Training recall: 93.691%
+Training precision: 89.189%
+Training f_measure: 91.385%
+Testing accuracy: 96.429%
+Testing recall: 92.857%
+Testing precision: 100.000%
+Testing f_measure: 96.296%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 33, auc = 0.995, sens = 0.929, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 92.419%
+Training recall: 93.548%
+Training precision: 91.483%
+Training f_measure: 92.504%
+Testing accuracy: 94.118%
+Testing recall: 94.118%
+Testing precision: 94.118%
+Testing f_measure: 94.118%
+
+
+
+efhand_int_Troponin, seqPair 6, auc = 0.972, sens = 0.941, spec = 0.941, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 88.990%
+Training recall: 89.971%
+Training precision: 88.239%
+Training f_measure: 89.097%
+Testing accuracy: 91.176%
+Testing recall: 100.000%
+Testing precision: 85.000%
+Testing f_measure: 91.892%
+
+
+
+FGF_int_I-set, seqPair 9, auc = 0.983, sens = 1.000, spec = 0.850, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 97.696%
+Training recall: 97.561%
+Training precision: 97.826%
+Training f_measure: 97.693%
+Testing accuracy: 92.857%
+Testing recall: 85.714%
+Testing precision: 100.000%
+Testing f_measure: 92.308%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 35, auc = 0.959, sens = 0.857, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 90.369%
+Training recall: 87.071%
+Training precision: 93.220%
+Training f_measure: 90.041%
+Testing accuracy: 89.286%
+Testing recall: 78.571%
+Testing precision: 100.000%
+Testing f_measure: 88.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 11, auc = 0.980, sens = 0.786, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 91.352%
+Training recall: 93.711%
+Training precision: 89.489%
+Training f_measure: 91.551%
+Testing accuracy: 96.154%
+Testing recall: 92.308%
+Testing precision: 100.000%
+Testing f_measure: 96.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 34, auc = 1.000, sens = 0.923, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.621%
+Training recall: 96.571%
+Training precision: 91.192%
+Training f_measure: 93.804%
+Testing accuracy: 85.000%
+Testing recall: 100.000%
+Testing precision: 76.923%
+Testing f_measure: 86.957%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 11, auc = 0.880, sens = 1.000, spec = 0.769, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.232%
+Training recall: 94.427%
+Training precision: 92.224%
+Training f_measure: 93.312%
+Testing accuracy: 83.333%
+Testing recall: 88.889%
+Testing precision: 80.000%
+Testing f_measure: 84.211%
+
+
+
+efhand_int_Troponin, seqPair 7, auc = 0.914, sens = 0.889, spec = 0.800, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 97.297%
+Training recall: 97.297%
+Training precision: 97.297%
+Training f_measure: 97.297%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 36, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 92.271%
+Training recall: 94.006%
+Training precision: 90.854%
+Training f_measure: 92.403%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 35, auc = 0.964, sens = 1.000, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 89.974%
+Training recall: 86.544%
+Training precision: 92.918%
+Training f_measure: 89.617%
+Testing accuracy: 96.429%
+Testing recall: 92.857%
+Testing precision: 100.000%
+Testing f_measure: 96.296%
+
+
+
+UreE_C_int_UreE_N, seqPair 12, auc = 0.980, sens = 0.929, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 84.341%
+Training recall: 83.801%
+Training precision: 84.716%
+Training f_measure: 84.256%
+Testing accuracy: 77.273%
+Testing recall: 81.818%
+Testing precision: 75.000%
+Testing f_measure: 78.261%
+
+
+
+DrsE_int_DsrH, seqPair 4, auc = 0.903, sens = 0.818, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 96.961%
+Training recall: 97.238%
+Training precision: 96.703%
+Training f_measure: 96.970%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Desulfoferrod_N_int_Desulfoferrodox, seqPair 37, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-26 8:22 SUCCESS: Desulfoferrod_N_int_Desulfoferrodox.
+
+
+Training accuracy: 93.621%
+Training recall: 95.199%
+Training precision: 92.287%
+Training f_measure: 93.720%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 12, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.981%
+Training recall: 93.354%
+Training precision: 89.124%
+Training f_measure: 91.190%
+Testing accuracy: 96.667%
+Testing recall: 100.000%
+Testing precision: 93.750%
+Testing f_measure: 96.774%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 36, auc = 0.991, sens = 1.000, spec = 0.938, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 89.683%
+Training recall: 86.243%
+Training precision: 92.614%
+Training f_measure: 89.315%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 13, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 92.195%
+Training recall: 93.496%
+Training precision: 91.125%
+Training f_measure: 92.295%
+Testing accuracy: 97.727%
+Testing recall: 95.455%
+Testing precision: 100.000%
+Testing f_measure: 97.674%
+
+
+
+efhand_int_Troponin, seqPair 8, auc = 1.000, sens = 0.955, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 90.721%
+Training recall: 91.412%
+Training precision: 90.165%
+Training f_measure: 90.784%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+FGF_int_I-set, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 92.835%
+Training recall: 94.081%
+Training precision: 91.793%
+Training f_measure: 92.923%
+Testing accuracy: 90.000%
+Testing recall: 100.000%
+Testing precision: 83.333%
+Testing f_measure: 90.909%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 37, auc = 0.950, sens = 1.000, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.395%
+Training recall: 86.316%
+Training precision: 93.983%
+Training f_measure: 89.986%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 14, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 84.950%
+Training recall: 84.838%
+Training precision: 85.028%
+Training f_measure: 84.933%
+Testing accuracy: 87.255%
+Testing recall: 86.275%
+Testing precision: 88.000%
+Testing f_measure: 87.129%
+
+
+
+DrsE_int_DsrH, seqPair 5, auc = 0.959, sens = 0.863, spec = 0.880, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.007%
+Training recall: 95.804%
+Training precision: 90.728%
+Training f_measure: 93.197%
+Testing accuracy: 97.917%
+Testing recall: 100.000%
+Testing precision: 96.000%
+Testing f_measure: 97.959%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 13, auc = 1.000, sens = 1.000, spec = 0.960, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.306%
+Training recall: 94.677%
+Training precision: 92.151%
+Training f_measure: 93.397%
+Testing accuracy: 91.176%
+Testing recall: 94.118%
+Testing precision: 88.889%
+Testing f_measure: 91.429%
+
+
+
+efhand_int_Troponin, seqPair 9, auc = 0.917, sens = 0.941, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 92.969%
+Training recall: 93.750%
+Training precision: 92.308%
+Training f_measure: 93.023%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+MHC_II_alpha_int_V-set, seqPair 38, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-26 9:25 SUCCESS: MHC_II_alpha_int_V-set.
+
+
+Training accuracy: 90.237%
+Training recall: 86.280%
+Training precision: 93.696%
+Training f_measure: 89.835%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.233%
+Training recall: 87.175%
+Training precision: 85.563%
+Training f_measure: 86.362%
+Testing accuracy: 87.500%
+Testing recall: 87.500%
+Testing precision: 87.500%
+Testing f_measure: 87.500%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 1, auc = 0.908, sens = 0.875, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.000%
+Training recall: 86.842%
+Training precision: 92.697%
+Training f_measure: 89.674%
+Testing accuracy: 96.154%
+Testing recall: 100.000%
+Testing precision: 92.857%
+Testing f_measure: 96.296%
+
+
+
+UreE_C_int_UreE_N, seqPair 16, auc = 1.000, sens = 1.000, spec = 0.929, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 93.333%
+Training recall: 94.444%
+Training precision: 92.391%
+Training f_measure: 93.407%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+efhand_int_Troponin, seqPair 10, auc = 0.918, sens = 1.000, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 93.952%
+Training recall: 97.328%
+Training precision: 91.173%
+Training f_measure: 94.150%
+Testing accuracy: 87.500%
+Testing recall: 92.857%
+Testing precision: 83.871%
+Testing f_measure: 88.136%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 14, auc = 0.957, sens = 0.929, spec = 0.839, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 85.323%
+Training recall: 85.214%
+Training precision: 85.401%
+Training f_measure: 85.307%
+Testing accuracy: 88.571%
+Testing recall: 97.143%
+Testing precision: 82.927%
+Testing f_measure: 89.474%
+
+
+
+DrsE_int_DsrH, seqPair 6, auc = 0.962, sens = 0.971, spec = 0.829, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.873%
+Training recall: 86.243%
+Training precision: 95.044%
+Training f_measure: 90.430%
+Testing accuracy: 93.333%
+Testing recall: 93.333%
+Testing precision: 93.333%
+Testing f_measure: 93.333%
+
+
+
+UreE_C_int_UreE_N, seqPair 17, auc = 0.996, sens = 0.933, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 90.625%
+Training recall: 91.715%
+Training precision: 89.758%
+Training f_measure: 90.726%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+FGF_int_I-set, seqPair 11, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 93.076%
+Training recall: 94.847%
+Training precision: 91.602%
+Training f_measure: 93.196%
+Testing accuracy: 81.250%
+Testing recall: 68.750%
+Testing precision: 91.667%
+Testing f_measure: 78.571%
+
+
+
+efhand_int_Troponin, seqPair 11, auc = 0.863, sens = 0.688, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 90.765%
+Training recall: 86.280%
+Training precision: 94.783%
+Training f_measure: 90.331%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+UreE_C_int_UreE_N, seqPair 18, auc = 1.000, sens = 1.000, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.690%
+Training recall: 96.571%
+Training precision: 91.310%
+Training f_measure: 93.867%
+Testing accuracy: 85.000%
+Testing recall: 100.000%
+Testing precision: 76.923%
+Testing f_measure: 86.957%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 15, auc = 0.890, sens = 1.000, spec = 0.769, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.983%
+Training recall: 89.182%
+Training precision: 85.425%
+Training f_measure: 87.263%
+Testing accuracy: 83.333%
+Testing recall: 100.000%
+Testing precision: 75.000%
+Testing f_measure: 85.714%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 2, auc = 0.935, sens = 1.000, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.501%
+Training recall: 86.807%
+Training precision: 93.732%
+Training f_measure: 90.137%
+Testing accuracy: 89.286%
+Testing recall: 85.714%
+Testing precision: 92.308%
+Testing f_measure: 88.889%
+
+
+
+UreE_C_int_UreE_N, seqPair 19, auc = 0.980, sens = 0.857, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.729%
+Training recall: 93.791%
+Training precision: 91.840%
+Training f_measure: 92.805%
+Testing accuracy: 92.000%
+Testing recall: 92.000%
+Testing precision: 92.000%
+Testing f_measure: 92.000%
+
+
+
+efhand_int_Troponin, seqPair 12, auc = 0.965, sens = 0.920, spec = 0.920, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 83.929%
+Training recall: 83.482%
+Training precision: 84.234%
+Training f_measure: 83.857%
+Testing accuracy: 89.423%
+Testing recall: 86.538%
+Testing precision: 91.837%
+Testing f_measure: 89.109%
+
+
+
+DrsE_int_DsrH, seqPair 7, auc = 0.968, sens = 0.865, spec = 0.918, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.425%
+Training recall: 95.205%
+Training precision: 91.931%
+Training f_measure: 93.540%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 16, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 90.212%
+Training recall: 86.772%
+Training precision: 93.182%
+Training f_measure: 89.863%
+Testing accuracy: 90.000%
+Testing recall: 86.667%
+Testing precision: 92.857%
+Testing f_measure: 89.655%
+
+
+
+UreE_C_int_UreE_N, seqPair 20, auc = 0.982, sens = 0.867, spec = 0.929, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.740%
+Training recall: 94.453%
+Training precision: 93.125%
+Training f_measure: 93.784%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 13, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 90.814%
+Training recall: 86.352%
+Training precision: 94.813%
+Training f_measure: 90.385%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 21, auc = 1.000, sens = 1.000, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.815%
+Training recall: 90.667%
+Training precision: 90.936%
+Training f_measure: 90.801%
+Testing accuracy: 91.860%
+Testing recall: 93.023%
+Testing precision: 90.909%
+Testing f_measure: 91.954%
+
+
+
+FGF_int_I-set, seqPair 12, auc = 0.945, sens = 0.930, spec = 0.909, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.134%
+Training recall: 96.788%
+Training precision: 91.910%
+Training f_measure: 94.286%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 17, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 84.670%
+Training recall: 84.615%
+Training precision: 84.707%
+Training f_measure: 84.661%
+Testing accuracy: 82.000%
+Testing recall: 84.000%
+Testing precision: 80.769%
+Testing f_measure: 82.353%
+
+
+
+DrsE_int_DsrH, seqPair 8, auc = 0.883, sens = 0.840, spec = 0.808, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 90.658%
+Training recall: 87.105%
+Training precision: 93.768%
+Training f_measure: 90.314%
+Testing accuracy: 92.308%
+Testing recall: 92.308%
+Testing precision: 92.308%
+Testing f_measure: 92.308%
+
+
+
+UreE_C_int_UreE_N, seqPair 22, auc = 0.994, sens = 0.923, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 87.423%
+Training recall: 88.478%
+Training precision: 86.649%
+Training f_measure: 87.554%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 3, auc = 0.969, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.351%
+Training recall: 93.559%
+Training precision: 91.352%
+Training f_measure: 92.442%
+Testing accuracy: 90.625%
+Testing recall: 93.750%
+Testing precision: 88.235%
+Testing f_measure: 90.909%
+
+
+
+efhand_int_Troponin, seqPair 14, auc = 0.945, sens = 0.938, spec = 0.882, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 90.576%
+Training recall: 86.387%
+Training precision: 94.286%
+Training f_measure: 90.164%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+UreE_C_int_UreE_N, seqPair 23, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.657%
+Training recall: 96.084%
+Training precision: 89.921%
+Training f_measure: 92.901%
+Testing accuracy: 97.917%
+Testing recall: 100.000%
+Testing precision: 96.000%
+Testing f_measure: 97.959%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 18, auc = 0.981, sens = 1.000, spec = 0.960, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.631%
+Training recall: 95.064%
+Training precision: 92.415%
+Training f_measure: 93.721%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+efhand_int_Troponin, seqPair 15, auc = 0.827, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 89.660%
+Training recall: 86.387%
+Training precision: 92.437%
+Training f_measure: 89.310%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+UreE_C_int_UreE_N, seqPair 24, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 84.737%
+Training recall: 84.245%
+Training precision: 85.083%
+Training f_measure: 84.662%
+Testing accuracy: 94.118%
+Testing recall: 100.000%
+Testing precision: 89.474%
+Testing f_measure: 94.444%
+
+
+
+DrsE_int_DsrH, seqPair 9, auc = 0.978, sens = 1.000, spec = 0.895, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.119%
+Training recall: 86.192%
+Training precision: 86.067%
+Training f_measure: 86.129%
+Testing accuracy: 85.294%
+Testing recall: 100.000%
+Testing precision: 77.273%
+Testing f_measure: 87.179%
+
+
+
+FGF_int_I-set, seqPair 13, auc = 0.927, sens = 1.000, spec = 0.773, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.033%
+Training recall: 96.845%
+Training precision: 91.688%
+Training f_measure: 94.196%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 19, auc = 1.000, sens = 1.000, spec = 0.909, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 89.764%
+Training recall: 86.614%
+Training precision: 92.437%
+Training f_measure: 89.431%
+Testing accuracy: 87.500%
+Testing recall: 91.667%
+Testing precision: 84.615%
+Testing f_measure: 88.000%
+
+
+
+UreE_C_int_UreE_N, seqPair 25, auc = 0.972, sens = 0.917, spec = 0.846, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 87.578%
+Training recall: 88.969%
+Training precision: 86.562%
+Training f_measure: 87.749%
+Testing accuracy: 86.250%
+Testing recall: 90.000%
+Testing precision: 83.721%
+Testing f_measure: 86.747%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 4, auc = 0.912, sens = 0.900, spec = 0.837, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.675%
+Training recall: 93.312%
+Training precision: 92.138%
+Training f_measure: 92.722%
+Testing accuracy: 55.556%
+Testing recall: 11.111%
+Testing precision: 100.000%
+Testing f_measure: 20.000%
+
+
+
+efhand_int_Troponin, seqPair 16, auc = 0.914, sens = 0.111, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 90.873%
+Training recall: 87.037%
+Training precision: 94.269%
+Training f_measure: 90.509%
+Testing accuracy: 90.000%
+Testing recall: 93.333%
+Testing precision: 87.500%
+Testing f_measure: 90.323%
+
+
+
+UreE_C_int_UreE_N, seqPair 26, auc = 0.982, sens = 0.933, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 84.951%
+Training recall: 84.466%
+Training precision: 85.294%
+Training f_measure: 84.878%
+Testing accuracy: 76.190%
+Testing recall: 61.905%
+Testing precision: 86.667%
+Testing f_measure: 72.222%
+
+
+
+DrsE_int_DsrH, seqPair 10, auc = 0.891, sens = 0.619, spec = 0.867, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.201%
+Training recall: 95.879%
+Training precision: 91.004%
+Training f_measure: 93.378%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 20, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.254%
+Training recall: 93.492%
+Training precision: 93.049%
+Training f_measure: 93.270%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+efhand_int_Troponin, seqPair 17, auc = 1.000, sens = 1.000, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 91.016%
+Training recall: 86.458%
+Training precision: 95.129%
+Training f_measure: 90.587%
+Testing accuracy: 94.444%
+Testing recall: 100.000%
+Testing precision: 90.000%
+Testing f_measure: 94.737%
+
+
+
+UreE_C_int_UreE_N, seqPair 27, auc = 0.988, sens = 1.000, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 89.788%
+Training recall: 86.472%
+Training precision: 92.614%
+Training f_measure: 89.438%
+Testing accuracy: 96.875%
+Testing recall: 100.000%
+Testing precision: 94.118%
+Testing f_measure: 96.970%
+
+
+
+UreE_C_int_UreE_N, seqPair 28, auc = 0.992, sens = 1.000, spec = 0.941, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-26 15:41 SUCCESS: UreE_C_int_UreE_N.
+
+
+Training accuracy: 87.988%
+Training recall: 89.716%
+Training precision: 86.718%
+Training f_measure: 88.192%
+Testing accuracy: 90.741%
+Testing recall: 96.296%
+Testing precision: 86.667%
+Testing f_measure: 91.228%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 5, auc = 0.962, sens = 0.963, spec = 0.867, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.517%
+Training recall: 93.517%
+Training precision: 93.517%
+Training f_measure: 93.517%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+efhand_int_Troponin, seqPair 18, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 90.815%
+Training recall: 90.815%
+Training precision: 90.815%
+Training f_measure: 90.815%
+Testing accuracy: 93.023%
+Testing recall: 95.349%
+Testing precision: 91.111%
+Testing f_measure: 93.182%
+
+
+
+FGF_int_I-set, seqPair 14, auc = 0.926, sens = 0.953, spec = 0.911, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.585%
+Training recall: 97.187%
+Training precision: 92.380%
+Training f_measure: 94.722%
+Testing accuracy: 91.071%
+Testing recall: 96.429%
+Testing precision: 87.097%
+Testing f_measure: 91.525%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 21, auc = 0.966, sens = 0.964, spec = 0.871, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 85.503%
+Training recall: 84.902%
+Training precision: 85.936%
+Training f_measure: 85.416%
+Testing accuracy: 89.706%
+Testing recall: 100.000%
+Testing precision: 82.927%
+Testing f_measure: 90.667%
+
+
+
+DrsE_int_DsrH, seqPair 11, auc = 0.975, sens = 1.000, spec = 0.829, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 92.308%
+Training recall: 93.590%
+Training precision: 91.250%
+Training f_measure: 92.405%
+Testing accuracy: 92.308%
+Testing recall: 100.000%
+Testing precision: 86.667%
+Testing f_measure: 92.857%
+
+
+
+efhand_int_Troponin, seqPair 19, auc = 0.988, sens = 1.000, spec = 0.867, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.467%
+Training recall: 97.095%
+Training precision: 92.247%
+Training f_measure: 94.609%
+Testing accuracy: 84.375%
+Testing recall: 68.750%
+Testing precision: 100.000%
+Testing f_measure: 81.481%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 22, auc = 0.852, sens = 0.688, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.585%
+Training recall: 88.415%
+Training precision: 85.294%
+Training f_measure: 86.826%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 6, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 84.230%
+Training recall: 84.715%
+Training precision: 83.902%
+Training f_measure: 84.306%
+Testing accuracy: 78.947%
+Testing recall: 73.684%
+Testing precision: 82.353%
+Testing f_measure: 77.778%
+
+
+
+DrsE_int_DsrH, seqPair 12, auc = 0.886, sens = 0.737, spec = 0.824, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.013%
+Training recall: 94.498%
+Training precision: 93.590%
+Training f_measure: 94.042%
+Testing accuracy: 94.737%
+Testing recall: 100.000%
+Testing precision: 90.476%
+Testing f_measure: 95.000%
+
+
+
+efhand_int_Troponin, seqPair 20, auc = 0.936, sens = 1.000, spec = 0.905, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.491%
+Training recall: 96.513%
+Training precision: 92.761%
+Training f_measure: 94.600%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 23, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 87.946%
+Training recall: 89.949%
+Training precision: 86.485%
+Training f_measure: 88.183%
+Testing accuracy: 90.000%
+Testing recall: 100.000%
+Testing precision: 83.333%
+Testing f_measure: 90.909%
+
+
+
+FGF_int_I-set, seqPair 15, auc = 0.953, sens = 1.000, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.141%
+Training recall: 94.543%
+Training precision: 93.790%
+Training f_measure: 94.165%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+efhand_int_Troponin, seqPair 21, auc = 0.949, sens = 1.000, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.633%
+Training recall: 97.458%
+Training precision: 92.246%
+Training f_measure: 94.780%
+Testing accuracy: 91.935%
+Testing recall: 90.323%
+Testing precision: 93.333%
+Testing f_measure: 91.803%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 24, auc = 0.980, sens = 0.903, spec = 0.933, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 85.905%
+Training recall: 85.350%
+Training precision: 86.308%
+Training f_measure: 85.826%
+Testing accuracy: 80.851%
+Testing recall: 74.468%
+Testing precision: 85.366%
+Testing f_measure: 79.545%
+
+
+
+DrsE_int_DsrH, seqPair 13, auc = 0.925, sens = 0.745, spec = 0.854, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.118%
+Training recall: 87.380%
+Training precision: 85.229%
+Training f_measure: 86.291%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 7, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 93.889%
+Training recall: 94.603%
+Training precision: 93.271%
+Training f_measure: 93.932%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 22, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.025%
+Training recall: 97.390%
+Training precision: 91.248%
+Training f_measure: 94.219%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 25, auc = 0.983, sens = 1.000, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 87.842%
+Training recall: 88.470%
+Training precision: 87.372%
+Training f_measure: 87.918%
+Testing accuracy: 81.250%
+Testing recall: 87.500%
+Testing precision: 77.778%
+Testing f_measure: 82.353%
+
+
+
+FGF_int_I-set, seqPair 16, auc = 0.932, sens = 0.875, spec = 0.778, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 84.173%
+Training recall: 84.337%
+Training precision: 84.061%
+Training f_measure: 84.199%
+Testing accuracy: 94.286%
+Testing recall: 100.000%
+Testing precision: 89.744%
+Testing f_measure: 94.595%
+
+
+
+DrsE_int_DsrH, seqPair 14, auc = 0.985, sens = 1.000, spec = 0.897, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 92.950%
+Training recall: 93.517%
+Training precision: 92.468%
+Training f_measure: 92.990%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+efhand_int_Troponin, seqPair 23, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.643%
+Training recall: 97.802%
+Training precision: 91.990%
+Training f_measure: 94.807%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 26, auc = 0.992, sens = 1.000, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 87.489%
+Training recall: 90.220%
+Training precision: 85.547%
+Training f_measure: 87.822%
+Testing accuracy: 90.000%
+Testing recall: 95.000%
+Testing precision: 86.364%
+Testing f_measure: 90.476%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 8, auc = 0.927, sens = 0.950, spec = 0.864, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.937%
+Training recall: 94.703%
+Training precision: 91.473%
+Training f_measure: 93.060%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 24, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 84.611%
+Training recall: 84.333%
+Training precision: 84.804%
+Training f_measure: 84.568%
+Testing accuracy: 81.250%
+Testing recall: 70.833%
+Testing precision: 89.474%
+Testing f_measure: 79.070%
+
+
+
+DrsE_int_DsrH, seqPair 15, auc = 0.941, sens = 0.708, spec = 0.895, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.350%
+Training recall: 97.458%
+Training precision: 91.755%
+Training f_measure: 94.521%
+Testing accuracy: 87.097%
+Testing recall: 90.323%
+Testing precision: 84.848%
+Testing f_measure: 87.500%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 27, auc = 0.952, sens = 0.903, spec = 0.848, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 89.148%
+Training recall: 90.095%
+Training precision: 88.420%
+Training f_measure: 89.250%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+FGF_int_I-set, seqPair 17, auc = 1.000, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.571%
+Training recall: 94.603%
+Training precision: 92.691%
+Training f_measure: 93.637%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 25, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.368%
+Training recall: 88.502%
+Training precision: 84.879%
+Training f_measure: 86.652%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 9, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.670%
+Training recall: 98.317%
+Training precision: 91.634%
+Training f_measure: 94.858%
+Testing accuracy: 92.308%
+Testing recall: 92.308%
+Testing precision: 92.308%
+Testing f_measure: 92.308%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 28, auc = 0.973, sens = 0.923, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 83.961%
+Training recall: 83.746%
+Training precision: 84.108%
+Training f_measure: 83.927%
+Testing accuracy: 71.053%
+Testing recall: 68.421%
+Testing precision: 72.222%
+Testing f_measure: 70.270%
+
+
+
+DrsE_int_DsrH, seqPair 16, auc = 0.751, sens = 0.684, spec = 0.722, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 91.167%
+Training recall: 92.058%
+Training precision: 90.446%
+Training f_measure: 91.245%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+efhand_int_Troponin, seqPair 26, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.239%
+Training recall: 96.845%
+Training precision: 92.047%
+Training f_measure: 94.385%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 29, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.743%
+Training recall: 86.706%
+Training precision: 86.770%
+Training f_measure: 86.738%
+Testing accuracy: 82.051%
+Testing recall: 84.615%
+Testing precision: 80.488%
+Testing f_measure: 82.500%
+
+
+
+FGF_int_I-set, seqPair 18, auc = 0.909, sens = 0.846, spec = 0.805, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.857%
+Training recall: 94.703%
+Training precision: 91.331%
+Training f_measure: 92.987%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 27, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 83.989%
+Training recall: 84.262%
+Training precision: 83.804%
+Training f_measure: 84.033%
+Testing accuracy: 92.424%
+Testing recall: 100.000%
+Testing precision: 86.842%
+Testing f_measure: 92.958%
+
+
+
+DrsE_int_DsrH, seqPair 17, auc = 0.979, sens = 1.000, spec = 0.868, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 87.204%
+Training recall: 88.694%
+Training precision: 86.128%
+Training f_measure: 87.392%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.995%
+Training recall: 95.879%
+Training precision: 90.649%
+Training f_measure: 93.191%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 30, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 93.968%
+Training recall: 94.603%
+Training precision: 93.417%
+Training f_measure: 94.006%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 28, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 84.123%
+Training recall: 83.961%
+Training precision: 84.233%
+Training f_measure: 84.097%
+Testing accuracy: 73.684%
+Testing recall: 68.421%
+Testing precision: 76.471%
+Testing f_measure: 72.222%
+
+
+
+DrsE_int_DsrH, seqPair 18, auc = 0.823, sens = 0.684, spec = 0.765, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.050%
+Training recall: 98.161%
+Training precision: 92.410%
+Training f_measure: 95.199%
+Testing accuracy: 89.062%
+Testing recall: 90.625%
+Testing precision: 87.879%
+Testing f_measure: 89.231%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 31, auc = 0.960, sens = 0.906, spec = 0.879, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 92.058%
+Training recall: 92.058%
+Training precision: 92.058%
+Training f_measure: 92.058%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+efhand_int_Troponin, seqPair 29, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 90.036%
+Training recall: 90.109%
+Training precision: 89.978%
+Training f_measure: 90.044%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+FGF_int_I-set, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 85.734%
+Training recall: 87.309%
+Training precision: 84.642%
+Training f_measure: 85.955%
+Testing accuracy: 87.500%
+Testing recall: 88.636%
+Testing precision: 86.667%
+Testing f_measure: 87.640%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 11, auc = 0.946, sens = 0.886, spec = 0.867, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.522%
+Training recall: 96.208%
+Training precision: 93.071%
+Training f_measure: 94.613%
+Testing accuracy: 92.593%
+Testing recall: 88.889%
+Testing precision: 96.000%
+Testing f_measure: 92.308%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 32, auc = 0.995, sens = 0.889, spec = 0.960, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.777%
+Training recall: 94.703%
+Training precision: 91.190%
+Training f_measure: 92.913%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 30, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 85.468%
+Training recall: 85.301%
+Training precision: 85.587%
+Training f_measure: 85.443%
+Testing accuracy: 80.000%
+Testing recall: 72.000%
+Testing precision: 85.714%
+Testing f_measure: 78.261%
+
+
+
+DrsE_int_DsrH, seqPair 19, auc = 0.904, sens = 0.720, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.968%
+Training recall: 94.603%
+Training precision: 93.417%
+Training f_measure: 94.006%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 31, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.178%
+Training recall: 96.849%
+Training precision: 91.938%
+Training f_measure: 94.330%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 33, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 91.187%
+Training recall: 91.770%
+Training precision: 90.713%
+Training f_measure: 91.238%
+Testing accuracy: 92.500%
+Testing recall: 85.000%
+Testing precision: 100.000%
+Testing f_measure: 91.892%
+
+
+
+FGF_int_I-set, seqPair 20, auc = 0.993, sens = 0.850, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 88.139%
+Training recall: 89.859%
+Training precision: 86.871%
+Training f_measure: 88.340%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 12, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 84.409%
+Training recall: 84.245%
+Training precision: 84.523%
+Training f_measure: 84.384%
+Testing accuracy: 94.118%
+Testing recall: 100.000%
+Testing precision: 89.474%
+Testing f_measure: 94.444%
+
+
+
+DrsE_int_DsrH, seqPair 20, auc = 1.000, sens = 1.000, spec = 0.895, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 91.734%
+Training recall: 92.058%
+Training precision: 91.465%
+Training f_measure: 91.761%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+efhand_int_Troponin, seqPair 32, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.178%
+Training recall: 96.849%
+Training precision: 91.938%
+Training f_measure: 94.330%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 34, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 92.777%
+Training recall: 94.703%
+Training precision: 91.190%
+Training f_measure: 92.913%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 33, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.444%
+Training recall: 87.852%
+Training precision: 85.445%
+Training f_measure: 86.632%
+Testing accuracy: 89.474%
+Testing recall: 100.000%
+Testing precision: 82.609%
+Testing f_measure: 90.476%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 13, auc = 0.931, sens = 1.000, spec = 0.826, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.600%
+Training recall: 97.055%
+Training precision: 92.513%
+Training f_measure: 94.730%
+Testing accuracy: 92.308%
+Testing recall: 92.308%
+Testing precision: 92.308%
+Testing f_measure: 92.308%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 35, auc = 0.987, sens = 0.923, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 84.538%
+Training recall: 85.095%
+Training precision: 84.158%
+Training f_measure: 84.624%
+Testing accuracy: 80.612%
+Testing recall: 73.469%
+Testing precision: 85.714%
+Testing f_measure: 79.121%
+
+
+
+DrsE_int_DsrH, seqPair 21, auc = 0.923, sens = 0.735, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 88.081%
+Training recall: 89.099%
+Training precision: 87.322%
+Training f_measure: 88.201%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+FGF_int_I-set, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.889%
+Training recall: 94.603%
+Training precision: 93.271%
+Training f_measure: 93.932%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 34, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.918%
+Training recall: 96.605%
+Training precision: 91.678%
+Training f_measure: 94.077%
+Testing accuracy: 96.875%
+Testing recall: 96.875%
+Testing precision: 96.875%
+Testing f_measure: 96.875%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 36, auc = 0.997, sens = 0.969, spec = 0.969, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 84.499%
+Training recall: 85.576%
+Training precision: 83.772%
+Training f_measure: 84.665%
+Testing accuracy: 71.053%
+Testing recall: 63.158%
+Testing precision: 75.000%
+Testing f_measure: 68.571%
+
+
+
+DrsE_int_DsrH, seqPair 22, auc = 0.839, sens = 0.632, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.545%
+Training recall: 93.517%
+Training precision: 91.733%
+Training f_measure: 92.616%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+efhand_int_Troponin, seqPair 35, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 85.734%
+Training recall: 87.309%
+Training precision: 84.642%
+Training f_measure: 85.955%
+Testing accuracy: 87.500%
+Testing recall: 88.636%
+Testing precision: 86.667%
+Testing f_measure: 87.640%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 14, auc = 0.923, sens = 0.886, spec = 0.867, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.467%
+Training recall: 96.585%
+Training precision: 92.661%
+Training f_measure: 94.582%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 37, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 90.883%
+Training recall: 91.101%
+Training precision: 90.704%
+Training f_measure: 90.902%
+Testing accuracy: 84.091%
+Testing recall: 72.727%
+Testing precision: 94.118%
+Testing f_measure: 82.051%
+
+
+
+FGF_int_I-set, seqPair 22, auc = 0.969, sens = 0.727, spec = 0.941, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.937%
+Training recall: 94.864%
+Training precision: 91.345%
+Training f_measure: 93.071%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 36, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 85.011%
+Training recall: 84.464%
+Training precision: 85.398%
+Training f_measure: 84.928%
+Testing accuracy: 92.647%
+Testing recall: 100.000%
+Testing precision: 87.179%
+Testing f_measure: 93.151%
+
+
+
+DrsE_int_DsrH, seqPair 23, auc = 0.967, sens = 1.000, spec = 0.872, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.716%
+Training recall: 96.175%
+Training precision: 91.667%
+Training f_measure: 93.867%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 38, auc = 1.000, sens = 1.000, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.968%
+Training recall: 94.603%
+Training precision: 93.417%
+Training f_measure: 94.006%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 37, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 86.453%
+Training recall: 87.701%
+Training precision: 85.565%
+Training f_measure: 86.620%
+Testing accuracy: 84.848%
+Testing recall: 87.879%
+Testing precision: 82.857%
+Testing f_measure: 85.294%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 15, auc = 0.942, sens = 0.879, spec = 0.829, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.688%
+Training recall: 96.170%
+Training precision: 91.622%
+Training f_measure: 93.841%
+Testing accuracy: 94.118%
+Testing recall: 91.176%
+Testing precision: 96.875%
+Testing f_measure: 93.939%
+
+
+
+TetR_C_2_int_TetR_N, seqPair 39, auc = 0.993, sens = 0.912, spec = 0.969, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-27 6:35 SUCCESS: TetR_C_2_int_TetR_N.
+
+
+Training accuracy: 83.728%
+Training recall: 84.267%
+Training precision: 83.369%
+Training f_measure: 83.816%
+Testing accuracy: 77.500%
+Testing recall: 60.000%
+Testing precision: 92.308%
+Testing f_measure: 72.727%
+
+
+
+DrsE_int_DsrH, seqPair 24, auc = 0.930, sens = 0.600, spec = 0.923, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 90.761%
+Training recall: 91.594%
+Training precision: 90.093%
+Training f_measure: 90.837%
+Testing accuracy: 96.154%
+Testing recall: 100.000%
+Testing precision: 92.857%
+Testing f_measure: 96.296%
+
+
+
+FGF_int_I-set, seqPair 23, auc = 1.000, sens = 1.000, spec = 0.929, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 91.815%
+Training recall: 92.058%
+Training precision: 91.613%
+Training f_measure: 91.835%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+efhand_int_Troponin, seqPair 38, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 88.379%
+Training recall: 90.739%
+Training precision: 86.650%
+Training f_measure: 88.647%
+Testing accuracy: 93.750%
+Testing recall: 93.750%
+Testing precision: 93.750%
+Testing f_measure: 93.750%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 16, auc = 0.986, sens = 0.938, spec = 0.938, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.697%
+Training recall: 94.703%
+Training precision: 91.049%
+Training f_measure: 92.840%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 39, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 83.668%
+Training recall: 82.720%
+Training precision: 84.318%
+Training f_measure: 83.512%
+Testing accuracy: 75.490%
+Testing recall: 66.667%
+Testing precision: 80.952%
+Testing f_measure: 73.118%
+
+
+
+DrsE_int_DsrH, seqPair 25, auc = 0.875, sens = 0.667, spec = 0.810, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.968%
+Training recall: 94.603%
+Training precision: 93.417%
+Training f_measure: 94.006%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 40, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.965%
+Training recall: 86.484%
+Training precision: 87.323%
+Training f_measure: 86.902%
+Testing accuracy: 84.615%
+Testing recall: 79.487%
+Testing precision: 88.571%
+Testing f_measure: 83.784%
+
+
+
+FGF_int_I-set, seqPair 24, auc = 0.969, sens = 0.795, spec = 0.886, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 85.066%
+Training recall: 84.902%
+Training precision: 85.181%
+Training f_measure: 85.041%
+Testing accuracy: 94.118%
+Testing recall: 100.000%
+Testing precision: 89.474%
+Testing f_measure: 94.444%
+
+
+
+DrsE_int_DsrH, seqPair 26, auc = 0.985, sens = 1.000, spec = 0.895, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 85.599%
+Training recall: 87.039%
+Training precision: 84.602%
+Training f_measure: 85.803%
+Testing accuracy: 88.636%
+Testing recall: 88.636%
+Testing precision: 88.636%
+Testing f_measure: 88.636%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 17, auc = 0.920, sens = 0.886, spec = 0.886, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 92.788%
+Training recall: 93.517%
+Training precision: 92.173%
+Training f_measure: 92.840%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+efhand_int_Troponin, seqPair 41, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 92.536%
+Training recall: 94.864%
+Training precision: 90.644%
+Training f_measure: 92.706%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 42, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 84.590%
+Training recall: 84.922%
+Training precision: 84.361%
+Training f_measure: 84.641%
+Testing accuracy: 82.609%
+Testing recall: 76.087%
+Testing precision: 87.500%
+Testing f_measure: 81.395%
+
+
+
+DrsE_int_DsrH, seqPair 27, auc = 0.925, sens = 0.761, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 91.407%
+Training recall: 92.241%
+Training precision: 90.728%
+Training f_measure: 91.478%
+Testing accuracy: 64.286%
+Testing recall: 28.571%
+Testing precision: 100.000%
+Testing f_measure: 44.444%
+
+
+
+FGF_int_I-set, seqPair 25, auc = 0.878, sens = 0.286, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 85.428%
+Training recall: 86.453%
+Training precision: 84.716%
+Training f_measure: 85.576%
+Testing accuracy: 90.909%
+Testing recall: 96.970%
+Testing precision: 86.486%
+Testing f_measure: 91.429%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 18, auc = 0.944, sens = 0.970, spec = 0.865, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.286%
+Training recall: 94.603%
+Training precision: 94.006%
+Training f_measure: 94.304%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 43, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 85.776%
+Training recall: 85.776%
+Training precision: 85.776%
+Training f_measure: 85.776%
+Testing accuracy: 72.500%
+Testing recall: 70.000%
+Testing precision: 73.684%
+Testing f_measure: 71.795%
+
+
+
+DrsE_int_DsrH, seqPair 28, auc = 0.840, sens = 0.700, spec = 0.737, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-27 11:1 SUCCESS: DrsE_int_DsrH.
+
+
+Training accuracy: 92.788%
+Training recall: 93.517%
+Training precision: 92.173%
+Training f_measure: 92.840%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+efhand_int_Troponin, seqPair 44, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 87.929%
+Training recall: 90.235%
+Training precision: 86.258%
+Training f_measure: 88.202%
+Testing accuracy: 83.673%
+Testing recall: 83.673%
+Testing precision: 83.673%
+Testing f_measure: 83.673%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 19, auc = 0.885, sens = 0.837, spec = 0.837, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 89.270%
+Training recall: 90.535%
+Training precision: 88.302%
+Training f_measure: 89.404%
+Testing accuracy: 55.556%
+Testing recall: 33.333%
+Testing precision: 60.000%
+Testing f_measure: 42.857%
+
+
+
+FGF_int_I-set, seqPair 26, auc = 0.728, sens = 0.333, spec = 0.600, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 92.456%
+Training recall: 94.703%
+Training precision: 90.630%
+Training f_measure: 92.622%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+efhand_int_Troponin, seqPair 45, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-27 11:55 SUCCESS: efhand_int_Troponin.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 85.970%
+Training recall: 87.221%
+Training precision: 85.092%
+Training f_measure: 86.143%
+Testing accuracy: 93.056%
+Testing recall: 91.667%
+Testing precision: 94.286%
+Testing f_measure: 92.958%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 20, auc = 0.988, sens = 0.917, spec = 0.943, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.640%
+Training recall: 86.314%
+Training precision: 86.880%
+Training f_measure: 86.596%
+Testing accuracy: 83.333%
+Testing recall: 100.000%
+Testing precision: 75.000%
+Testing f_measure: 85.714%
+
+
+
+FGF_int_I-set, seqPair 27, auc = 1.000, sens = 1.000, spec = 0.750, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 88.106%
+Training recall: 89.956%
+Training precision: 86.746%
+Training f_measure: 88.322%
+Testing accuracy: 87.500%
+Testing recall: 100.000%
+Testing precision: 80.000%
+Testing f_measure: 88.889%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 21, auc = 0.963, sens = 1.000, spec = 0.800, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 88.000%
+Training recall: 88.370%
+Training precision: 87.721%
+Training f_measure: 88.044%
+Testing accuracy: 90.698%
+Testing recall: 88.372%
+Testing precision: 92.683%
+Testing f_measure: 90.476%
+
+
+
+FGF_int_I-set, seqPair 28, auc = 0.969, sens = 0.884, spec = 0.927, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 86.450%
+Training recall: 87.805%
+Training precision: 85.488%
+Training f_measure: 86.631%
+Testing accuracy: 87.500%
+Testing recall: 87.500%
+Testing precision: 87.500%
+Testing f_measure: 87.500%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 22, auc = 0.914, sens = 0.875, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 89.491%
+Training recall: 90.255%
+Training precision: 88.897%
+Training f_measure: 89.571%
+Testing accuracy: 88.889%
+Testing recall: 100.000%
+Testing precision: 81.818%
+Testing f_measure: 90.000%
+
+
+
+FGF_int_I-set, seqPair 29, auc = 0.954, sens = 1.000, spec = 0.818, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.521%
+Training recall: 87.544%
+Training precision: 85.789%
+Training f_measure: 86.658%
+Testing accuracy: 88.710%
+Testing recall: 87.097%
+Testing precision: 90.000%
+Testing f_measure: 88.525%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 23, auc = 0.952, sens = 0.871, spec = 0.900, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 89.415%
+Training recall: 89.711%
+Training precision: 89.183%
+Training f_measure: 89.446%
+Testing accuracy: 92.857%
+Testing recall: 92.857%
+Testing precision: 92.857%
+Testing f_measure: 92.857%
+
+
+
+FGF_int_I-set, seqPair 30, auc = 0.991, sens = 0.929, spec = 0.929, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 88.543%
+Training recall: 90.342%
+Training precision: 87.203%
+Training f_measure: 88.745%
+Testing accuracy: 84.375%
+Testing recall: 100.000%
+Testing precision: 76.190%
+Testing f_measure: 86.486%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 24, auc = 0.887, sens = 1.000, spec = 0.762, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 89.165%
+Training recall: 91.741%
+Training precision: 87.247%
+Training f_measure: 89.437%
+Testing accuracy: 89.655%
+Testing recall: 89.655%
+Testing precision: 89.655%
+Testing f_measure: 89.655%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 25, auc = 0.956, sens = 0.897, spec = 0.897, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 86.873%
+Training recall: 88.145%
+Training precision: 85.957%
+Training f_measure: 87.038%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+FGF_int_I-set, seqPair 31, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 88.351%
+Training recall: 90.750%
+Training precision: 86.595%
+Training f_measure: 88.624%
+Testing accuracy: 77.778%
+Testing recall: 77.778%
+Testing precision: 77.778%
+Testing f_measure: 77.778%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 26, auc = 0.877, sens = 0.778, spec = 0.778, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 90.511%
+Training recall: 91.401%
+Training precision: 89.803%
+Training f_measure: 90.595%
+Testing accuracy: 95.455%
+Testing recall: 95.455%
+Testing precision: 95.455%
+Testing f_measure: 95.455%
+
+
+
+FGF_int_I-set, seqPair 32, auc = 0.992, sens = 0.955, spec = 0.955, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 88.514%
+Training recall: 90.450%
+Training precision: 87.077%
+Training f_measure: 88.732%
+Testing accuracy: 82.222%
+Testing recall: 82.222%
+Testing precision: 82.222%
+Testing f_measure: 82.222%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 27, auc = 0.865, sens = 0.822, spec = 0.822, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 89.031%
+Training recall: 90.743%
+Training precision: 87.738%
+Training f_measure: 89.215%
+Testing accuracy: 95.238%
+Testing recall: 100.000%
+Testing precision: 91.304%
+Testing f_measure: 95.455%
+
+
+
+FGF_int_I-set, seqPair 33, auc = 1.000, sens = 1.000, spec = 0.913, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 86.711%
+Training recall: 88.070%
+Training precision: 85.739%
+Training f_measure: 86.889%
+Testing accuracy: 90.000%
+Testing recall: 100.000%
+Testing precision: 83.333%
+Testing f_measure: 90.909%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 28, auc = 0.938, sens = 1.000, spec = 0.833, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 89.415%
+Training recall: 90.674%
+Training precision: 88.448%
+Training f_measure: 89.547%
+Testing accuracy: 91.667%
+Testing recall: 92.857%
+Testing precision: 90.698%
+Testing f_measure: 91.765%
+
+
+
+FGF_int_I-set, seqPair 34, auc = 0.975, sens = 0.929, spec = 0.907, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 85.320%
+Training recall: 87.029%
+Training precision: 84.153%
+Training f_measure: 85.567%
+Testing accuracy: 89.286%
+Testing recall: 100.000%
+Testing precision: 82.353%
+Testing f_measure: 90.323%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 29, auc = 0.980, sens = 1.000, spec = 0.824, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.545%
+Training recall: 87.636%
+Training precision: 85.765%
+Training f_measure: 86.691%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+FGF_int_I-set, seqPair 35, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.913%
+Training recall: 89.440%
+Training precision: 85.137%
+Training f_measure: 87.236%
+Testing accuracy: 82.979%
+Testing recall: 78.723%
+Testing precision: 86.047%
+Testing f_measure: 82.222%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 30, auc = 0.940, sens = 0.787, spec = 0.860, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 89.667%
+Training recall: 90.074%
+Training precision: 89.346%
+Training f_measure: 89.709%
+Testing accuracy: 90.698%
+Testing recall: 93.023%
+Testing precision: 88.889%
+Testing f_measure: 90.909%
+
+
+
+FGF_int_I-set, seqPair 36, auc = 0.982, sens = 0.930, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 87.703%
+Training recall: 90.180%
+Training precision: 85.923%
+Training f_measure: 88.000%
+Testing accuracy: 85.556%
+Testing recall: 86.667%
+Testing precision: 84.783%
+Testing f_measure: 85.714%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 31, auc = 0.889, sens = 0.867, spec = 0.848, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 85.953%
+Training recall: 86.655%
+Training precision: 85.455%
+Training f_measure: 86.051%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 32, auc = 0.984, sens = 1.000, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 89.410%
+Training recall: 91.266%
+Training precision: 88.000%
+Training f_measure: 89.603%
+Testing accuracy: 89.474%
+Testing recall: 100.000%
+Testing precision: 82.609%
+Testing f_measure: 90.476%
+
+
+
+FGF_int_I-set, seqPair 37, auc = 0.950, sens = 1.000, spec = 0.826, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 88.377%
+Training recall: 90.702%
+Training precision: 86.672%
+Training f_measure: 88.641%
+Testing accuracy: 93.333%
+Testing recall: 100.000%
+Testing precision: 88.235%
+Testing f_measure: 93.750%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 33, auc = 0.987, sens = 1.000, spec = 0.882, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.132%
+Training recall: 86.686%
+Training precision: 85.735%
+Training f_measure: 86.208%
+Testing accuracy: 80.488%
+Testing recall: 85.366%
+Testing precision: 77.778%
+Testing f_measure: 81.395%
+
+
+
+FGF_int_I-set, seqPair 38, auc = 0.954, sens = 0.854, spec = 0.778, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 84.959%
+Training recall: 86.902%
+Training precision: 83.652%
+Training f_measure: 85.246%
+Testing accuracy: 82.292%
+Testing recall: 75.000%
+Testing precision: 87.805%
+Testing f_measure: 80.899%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 34, auc = 0.943, sens = 0.750, spec = 0.878, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 89.250%
+Training recall: 90.620%
+Training precision: 88.202%
+Training f_measure: 89.395%
+Testing accuracy: 42.857%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+FGF_int_I-set, seqPair 39, auc = 0.612, sens = 0.000, spec = 0.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.601%
+Training recall: 87.590%
+Training precision: 85.891%
+Training f_measure: 86.732%
+Testing accuracy: 82.558%
+Testing recall: 69.767%
+Testing precision: 93.750%
+Testing f_measure: 80.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 35, auc = 0.957, sens = 0.698, spec = 0.938, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 89.010%
+Training recall: 89.884%
+Training precision: 88.340%
+Training f_measure: 89.105%
+Testing accuracy: 92.105%
+Testing recall: 100.000%
+Testing precision: 86.364%
+Testing f_measure: 92.683%
+
+
+
+FGF_int_I-set, seqPair 40, auc = 1.000, sens = 1.000, spec = 0.864, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.722%
+Training recall: 88.081%
+Training precision: 85.751%
+Training f_measure: 86.900%
+Testing accuracy: 89.286%
+Testing recall: 100.000%
+Testing precision: 82.353%
+Testing f_measure: 90.323%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 36, auc = 0.964, sens = 1.000, spec = 0.824, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 87.177%
+Training recall: 87.805%
+Training precision: 86.715%
+Training f_measure: 87.257%
+Testing accuracy: 83.750%
+Testing recall: 87.500%
+Testing precision: 81.395%
+Testing f_measure: 84.337%
+
+
+
+FGF_int_I-set, seqPair 41, auc = 0.964, sens = 0.875, spec = 0.814, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 86.360%
+Training recall: 87.632%
+Training precision: 85.458%
+Training f_measure: 86.531%
+Testing accuracy: 93.333%
+Testing recall: 100.000%
+Testing precision: 88.235%
+Testing f_measure: 93.750%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 37, auc = 0.924, sens = 1.000, spec = 0.882, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 85.054%
+Training recall: 86.866%
+Training precision: 83.829%
+Training f_measure: 85.320%
+Testing accuracy: 83.333%
+Testing recall: 72.549%
+Testing precision: 92.500%
+Testing f_measure: 81.319%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 38, auc = 0.957, sens = 0.725, spec = 0.925, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 88.529%
+Training recall: 88.274%
+Training precision: 88.726%
+Training f_measure: 88.499%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+
+
+
+FGF_int_I-set, seqPair 42, auc = 1.000, sens = 1.000, spec = 0.909, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 88.101%
+Training recall: 88.801%
+Training precision: 87.575%
+Training f_measure: 88.184%
+Testing accuracy: 75.000%
+Testing recall: 100.000%
+Testing precision: 66.667%
+Testing f_measure: 80.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 39, auc = 0.938, sens = 1.000, spec = 0.667, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.269%
+Training recall: 86.973%
+Training precision: 85.766%
+Training f_measure: 86.365%
+Testing accuracy: 79.762%
+Testing recall: 78.571%
+Testing precision: 80.488%
+Testing f_measure: 79.518%
+
+
+
+FGF_int_I-set, seqPair 43, auc = 0.931, sens = 0.786, spec = 0.805, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.989%
+Training recall: 88.425%
+Training precision: 85.956%
+Training f_measure: 87.173%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 40, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 87.764%
+Training recall: 89.002%
+Training precision: 86.851%
+Training f_measure: 87.914%
+Testing accuracy: 92.500%
+Testing recall: 100.000%
+Testing precision: 86.957%
+Testing f_measure: 93.023%
+
+
+
+FGF_int_I-set, seqPair 44, auc = 1.000, sens = 1.000, spec = 0.870, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 87.435%
+Training recall: 89.529%
+Training precision: 85.930%
+Training f_measure: 87.692%
+Testing accuracy: 77.778%
+Testing recall: 66.667%
+Testing precision: 85.714%
+Testing f_measure: 75.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 41, auc = 0.938, sens = 0.667, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 86.945%
+Training recall: 87.204%
+Training precision: 86.755%
+Training f_measure: 86.979%
+Testing accuracy: 80.488%
+Testing recall: 78.049%
+Testing precision: 82.051%
+Testing f_measure: 80.000%
+
+
+
+FGF_int_I-set, seqPair 45, auc = 0.932, sens = 0.780, spec = 0.821, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.941%
+Training recall: 88.081%
+Training precision: 86.118%
+Training f_measure: 87.088%
+Testing accuracy: 67.857%
+Testing recall: 35.714%
+Testing precision: 100.000%
+Testing f_measure: 52.632%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 42, auc = 0.969, sens = 0.357, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 88.582%
+Training recall: 89.455%
+Training precision: 87.920%
+Training f_measure: 88.681%
+Testing accuracy: 88.889%
+Testing recall: 100.000%
+Testing precision: 81.818%
+Testing f_measure: 90.000%
+
+
+
+FGF_int_I-set, seqPair 46, auc = 1.000, sens = 1.000, spec = 0.818, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 86.379%
+Training recall: 88.599%
+Training precision: 84.833%
+Training f_measure: 86.675%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 43, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 87.369%
+Training recall: 89.286%
+Training precision: 85.990%
+Training f_measure: 87.607%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 44, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 89.597%
+Training recall: 89.963%
+Training precision: 89.309%
+Training f_measure: 89.635%
+Testing accuracy: 82.143%
+Testing recall: 75.000%
+Testing precision: 87.500%
+Testing f_measure: 80.769%
+
+
+
+FGF_int_I-set, seqPair 47, auc = 0.925, sens = 0.750, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 87.435%
+Training recall: 88.918%
+Training precision: 86.356%
+Training f_measure: 87.618%
+Testing accuracy: 83.333%
+Testing recall: 77.778%
+Testing precision: 87.500%
+Testing f_measure: 82.353%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 45, auc = 0.938, sens = 0.778, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 87.790%
+Training recall: 89.275%
+Training precision: 86.700%
+Training f_measure: 87.969%
+Testing accuracy: 92.308%
+Testing recall: 84.615%
+Testing precision: 100.000%
+Testing f_measure: 91.667%
+
+
+
+FGF_int_I-set, seqPair 48, auc = 1.000, sens = 0.846, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 86.821%
+Training recall: 88.091%
+Training precision: 85.909%
+Training f_measure: 86.987%
+Testing accuracy: 69.231%
+Testing recall: 38.462%
+Testing precision: 100.000%
+Testing f_measure: 55.556%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 46, auc = 0.976, sens = 0.385, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 89.055%
+Training recall: 90.327%
+Training precision: 88.085%
+Training f_measure: 89.192%
+Testing accuracy: 80.556%
+Testing recall: 83.333%
+Testing precision: 78.947%
+Testing f_measure: 81.081%
+
+
+
+FGF_int_I-set, seqPair 49, auc = 0.914, sens = 0.833, spec = 0.789, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 88.294%
+Training recall: 90.688%
+Training precision: 86.545%
+Training f_measure: 88.568%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Activin_recp_int_TGF_beta, seqPair 47, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-28 23:38 SUCCESS: Activin_recp_int_TGF_beta.
+
+
+Training AE 2/2
+Training accuracy: 89.752%
+Training recall: 90.226%
+Training precision: 89.379%
+Training f_measure: 89.800%
+Testing accuracy: 86.364%
+Testing recall: 95.455%
+Testing precision: 80.769%
+Testing f_measure: 87.500%
+
+
+
+FGF_int_I-set, seqPair 50, auc = 0.975, sens = 0.955, spec = 0.808, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 88.836%
+Training recall: 89.904%
+Training precision: 88.023%
+Training f_measure: 88.954%
+Testing accuracy: 88.889%
+Testing recall: 100.000%
+Testing precision: 81.818%
+Testing f_measure: 90.000%
+
+
+
+FGF_int_I-set, seqPair 51, auc = 0.963, sens = 1.000, spec = 0.818, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 89.702%
+Training recall: 91.630%
+Training precision: 88.227%
+Training f_measure: 89.896%
+Testing accuracy: 94.737%
+Testing recall: 100.000%
+Testing precision: 90.476%
+Testing f_measure: 95.000%
+
+
+
+FGF_int_I-set, seqPair 52, auc = 1.000, sens = 1.000, spec = 0.905, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 86.213%
+Training recall: 86.103%
+Training precision: 86.293%
+Training f_measure: 86.198%
+Testing accuracy: 84.848%
+Testing recall: 100.000%
+Testing precision: 76.744%
+Testing f_measure: 86.842%
+
+
+
+FGF_int_I-set, seqPair 53, auc = 0.975, sens = 1.000, spec = 0.767, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 89.067%
+Training recall: 90.233%
+Training precision: 88.177%
+Training f_measure: 89.193%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+FGF_int_I-set, seqPair 54, auc = 0.995, sens = 1.000, spec = 0.875, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 88.966%
+Training recall: 90.240%
+Training precision: 87.997%
+Training f_measure: 89.105%
+Testing accuracy: 92.500%
+Testing recall: 100.000%
+Testing precision: 86.957%
+Testing f_measure: 93.023%
+
+
+
+FGF_int_I-set, seqPair 55, auc = 0.990, sens = 1.000, spec = 0.870, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-11-29 8:9 SUCCESS: FGF_int_I-set.
+
+
+Sending a stop signal to all the labs ... stopped.
+2013-11-29 8:9 FINISHED.
+Number of total DDI is: 14
+Number of successed DDI is: 14
+Number of total sequence is: 472
+FisherMode: FisherM1ONLY SVMMode: DL Kernel: DL, choseNegRatio: 1, choseNegRatioTest: 1
+The baseline AUC: 0.000%
+The baseline recall: 0.000%
+The baseline precision: 0.000%
+Testing AUC: 96.392%
+Testing recall: 89.405%
+Testing precision: 91.795%
+Testing f_measure: 89.613%
+Training accuracy: 90.719%
+Training recall: 89.877%
+Training precision: 91.218%
+Training f_measure: 90.122%

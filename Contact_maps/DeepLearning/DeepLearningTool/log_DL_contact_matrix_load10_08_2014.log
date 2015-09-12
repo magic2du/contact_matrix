@@ -1,0 +1,21 @@
+2014-10-08 12:00:03,106 - __main__ - INFO - Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+2014-10-08 12:16:29,065 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-10-08 12:16:49,829 - __main__ - INFO - subset number: 1
+2014-10-08 13:09:10,285 - __main__ - INFO - subset number: 2
+2014-10-08 14:51:01,102 - __main__ - INFO - Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+2014-10-08 14:51:01,109 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-10-08 14:51:43,163 - __main__ - INFO - subset number: 1
+2014-10-08 14:58:32,748 - __main__ - INFO - Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+2014-10-08 14:58:32,748 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-10-08 14:59:13,977 - __main__ - INFO - subset number: 1
+2014-10-08 15:20:21,325 - __main__ - INFO - subset number: 2
+2014-10-08 15:40:52,750 - __main__ - INFO - subset number: 3
+2014-10-08 16:02:17,670 - __main__ - INFO - subset number: 4
+2014-10-08 16:23:43,678 - __main__ - INFO - subset number: 5
+2014-10-08 16:44:56,417 - __main__ - INFO - subset number: 6
+2014-10-08 17:07:10,568 - __main__ - INFO - subset number: 7
+2014-10-08 17:28:17,408 - __main__ - INFO - subset number: 8
+2014-10-08 17:49:46,709 - __main__ - INFO - subset number: 9
+2014-10-08 18:11:16,696 - __main__ - INFO - subset number: 10
+2014-10-08 18:32:00,372 - __main__ - DEBUG - There is a error in this ddi: 6PGD_int_NAD_binding_2
+2014-10-08 18:32:00,372 - __main__ - INFO - 'list' object has no attribute 'keys'

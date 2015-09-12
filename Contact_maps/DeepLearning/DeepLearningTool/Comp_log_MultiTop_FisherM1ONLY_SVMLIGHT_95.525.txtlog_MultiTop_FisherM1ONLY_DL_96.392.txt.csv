@@ -1,0 +1,14 @@
+t-Test: Paired Two Sample for Means,,,,,,,
+,,,,,,,
+,SVM-LINEAR,Deep Learning,,,,SVM-LINEAR,Deep Learning
+Mean,0.957790315,0.965791351,,,Mean,0.957790315,0.965791351
+Variance,0.001353214,0.001575026,,,Variance,0.001353214,0.001575026
+Observations,14,14,,,P(T<=t) one-tail,0.058768363,
+Pearson Correlation,0.893654271,,,,,,
+Hypothesized Mean Difference,0,,,,,,
+df,13,,,,,,
+t Stat,-1.676356722,,,,,,
+P(T<=t) one-tail,0.058768363,,,,,,
+t Critical one-tail,1.770933396,,,,,,
+P(T<=t) two-tail,0.117536725,,,,,,
+t Critical two-tail,2.160368656,,,,,,

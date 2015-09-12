@@ -1,0 +1,1347 @@
+2014-5-7 1:19 STARTED.
+
+num =
+
+   501
+
+
+num =
+
+   252
+
+
+
+
+2014-5-7 1:19 SUCCESS: 4HBT_int_4HBT
+
+num =
+
+   261
+
+
+
+
+2014-5-7 1:19 SUCCESS: Actin_int_Actin
+
+num =
+
+   211
+
+
+
+
+2014-5-7 1:19 SUCCESS: Acyl-CoA_dh_1_int_Acyl-CoA_dh_1
+
+num =
+
+   302
+
+
+
+
+2014-5-7 1:19 SUCCESS: Acyl-CoA_dh_1_int_Acyl-CoA_dh_M
+2014-5-7 1:19 ERROR: ADH_N_int_ADH_zinc_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ADH_N_int_ADH_zinc_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: adh_short_int_adh_short. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/adh_short_int_adh_short/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: ADH_zinc_N_int_ADH_zinc_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ADH_zinc_N_int_ADH_zinc_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   250
+
+
+
+
+2014-5-7 1:19 SUCCESS: AhpC-TSA_int_AhpC-TSA
+2014-5-7 1:19 ERROR: Aldedh_int_Aldedh. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Aldedh_int_Aldedh/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Alk_phosphatase_int_Alk_phosphatase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Alk_phosphatase_int_Alk_phosphatase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   205
+
+
+
+
+2014-5-7 1:19 SUCCESS: Alpha-amylase_int_Alpha-amylase_C
+
+num =
+
+   210
+
+
+
+
+2014-5-7 1:19 SUCCESS: Ank_int_Ank
+2014-5-7 1:19 ERROR: Annexin_int_Annexin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Annexin_int_Annexin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   245
+
+
+
+
+2014-5-7 1:19 SUCCESS: AP_endonuc_2_int_AP_endonuc_2
+
+num =
+
+   221
+
+
+
+
+2014-5-7 1:19 SUCCESS: Arginase_int_Arginase
+
+num =
+
+   212
+
+
+
+
+2014-5-7 1:19 SUCCESS: ATP-gua_Ptrans_int_ATP-gua_PtransN
+
+num =
+
+   232
+
+
+
+
+2014-5-7 1:19 SUCCESS: ATP-synt_int_ATP-synt_ab
+2014-5-7 1:19 ERROR: ATP-synt_ab_int_ATP-synt_ab. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_ab_int_ATP-synt_ab/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: ATP-synt_ab_int_ATP-synt_ab_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_ab_int_ATP-synt_ab_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   346
+
+
+
+
+2014-5-7 1:19 SUCCESS: ATP-synt_ab_int_ATP-synt_ab_N
+
+num =
+
+   338
+
+
+
+
+2014-5-7 1:19 SUCCESS: ATP-synt_ab_N_int_ATP-synt_ab_N
+2014-5-7 1:19 ERROR: ATP-synt_C_int_ATP-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_C_int_ATP-synt_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Avidin_int_Avidin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Avidin_int_Avidin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   248
+
+
+
+
+2014-5-7 1:19 SUCCESS: C1-set_int_MHC_II_alpha
+2014-5-7 1:19 ERROR: C4_int_C4. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/C4_int_C4/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Catalase_int_Catalase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Catalase_int_Catalase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Catalase_int_Catalase-rel. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Catalase_int_Catalase-rel/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: CBS_int_CBS. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/CBS_int_CBS/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: CLP_protease_int_CLP_protease. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/CLP_protease_int_CLP_protease/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Cpn60_TCP1_int_Cpn60_TCP1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cpn60_TCP1_int_Cpn60_TCP1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   225
+
+
+
+
+2014-5-7 1:19 SUCCESS: CPSase_L_chain_int_CPSase_L_D2
+2014-5-7 1:19 ERROR: Cu-oxidase_int_Cu-oxidase_3. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cu-oxidase_int_Cu-oxidase_3/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Cupin_1_int_Cupin_1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cupin_1_int_Cupin_1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Cu_amine_oxid_int_Cu_amine_oxidN3. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cu_amine_oxid_int_Cu_amine_oxidN3/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Cyclin_N_int_Pkinase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cyclin_N_int_Pkinase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: DeoC_int_DeoC. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DeoC_int_DeoC/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: DHDPS_int_DHDPS. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DHDPS_int_DHDPS/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: DHquinase_II_int_DHquinase_II. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DHquinase_II_int_DHquinase_II/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   186
+
+2014-5-7 1:19 ERROR: Dioxygenase_C_int_PCDO_beta_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Dioxygenase_C_int_PCDO_beta_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: DMRL_synthase_int_DMRL_synthase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DMRL_synthase_int_DMRL_synthase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: DPPIV_N_int_Peptidase_S9. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DPPIV_N_int_Peptidase_S9/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   361
+
+
+
+
+2014-5-7 1:19 SUCCESS: ECH_int_ECH
+2014-5-7 1:19 ERROR: efhand_int_efhand. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/efhand_int_efhand/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   205
+
+
+
+
+2014-5-7 1:19 SUCCESS: ELFV_dehydrog_int_ELFV_dehydrog_N
+
+num =
+
+   342
+
+
+
+
+2014-5-7 1:19 SUCCESS: Fib_alpha_int_Fibrinogen_C
+2014-5-7 1:19 ERROR: Fib_alpha_int_Fib_alpha. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Fib_alpha_int_Fib_alpha/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: FMN_dh_int_FMN_dh. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/FMN_dh_int_FMN_dh/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: GFP_int_GFP. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/GFP_int_GFP/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Gln-synt_C_int_Gln-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Gln-synt_C_int_Gln-synt_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Gln-synt_C_int_Gln-synt_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Gln-synt_C_int_Gln-synt_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Globin_int_Globin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Globin_int_Globin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Glyco_hydro_2_int_Glyco_hydro_2_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyco_hydro_2_int_Glyco_hydro_2_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   228
+
+
+
+
+2014-5-7 1:19 SUCCESS: Glyco_hydro_2_int_Glyco_hydro_2_N
+2014-5-7 1:19 ERROR: Glyco_hydro_2_C_int_Glyco_hydro_2_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyco_hydro_2_C_int_Glyco_hydro_2_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Glyoxalase_int_Glyoxalase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyoxalase_int_Glyoxalase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Gp_dh_C_int_Gp_dh_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Gp_dh_C_int_Gp_dh_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Hemagglutinin_int_Hemagglutinin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Hemagglutinin_int_Hemagglutinin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Histone_int_Histone. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Histone_int_Histone/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Hormone_recep_int_Hormone_recep. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Hormone_recep_int_Hormone_recep/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Insulin_int_Insulin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Insulin_int_Insulin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: ketoacyl-synt_int_Ketoacyl-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ketoacyl-synt_int_Ketoacyl-synt_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Late_protein_L1_int_Late_protein_L1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Late_protein_L1_int_Late_protein_L1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Ldh_1_C_int_Ldh_1_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Ldh_1_C_int_Ldh_1_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Lectin_legB_int_Lectin_legB. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Lectin_legB_int_Lectin_legB/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: LSM_int_LSM. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/LSM_int_LSM/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   288
+
+
+
+
+2014-5-7 1:19 SUCCESS: MR_MLE_int_MR_MLE
+
+num =
+
+   250
+
+
+
+
+2014-5-7 1:19 SUCCESS: MR_MLE_int_MR_MLE_N
+2014-5-7 1:19 ERROR: MR_MLE_N_int_MR_MLE_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/MR_MLE_N_int_MR_MLE_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: NDK_int_NDK. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/NDK_int_NDK/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Neur_chan_LBD_int_Neur_chan_LBD. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Neur_chan_LBD_int_Neur_chan_LBD/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: NO_synthase_int_NO_synthase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/NO_synthase_int_NO_synthase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: OTCace_int_OTCace_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/OTCace_int_OTCace_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   180
+
+2014-5-7 1:19 ERROR: Peptidase_C14_int_Peptidase_C14. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Peptidase_C14_int_Peptidase_C14/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Peptidase_M16_int_Peptidase_M16_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Peptidase_M16_int_Peptidase_M16_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: Phycobilisome_int_Phycobilisome. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Phycobilisome_int_Phycobilisome/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   198
+
+2014-5-7 1:19 ERROR: PNP_UDP_1_int_PNP_UDP_1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/PNP_UDP_1_int_PNP_UDP_1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:19 ERROR: PPTA_int_PPTA. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/PPTA_int_PPTA/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   588
+
+2014-5-7 1:20 ERROR: Proteasome_A_N_int_Proteasome_A_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Proteasome_A_N_int_Proteasome_A_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+    73
+
+2014-5-7 1:20 ERROR: Pyr_redox_2_int_Pyr_redox_dim. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Pyr_redox_2_int_Pyr_redox_dim/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: Rhv_int_Rhv. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Rhv_int_Rhv/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: Ribosomal_L5_int_Ribosomal_L5_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Ribosomal_L5_int_Ribosomal_L5_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: RNase_PH_int_RNase_PH_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RNase_PH_int_RNase_PH_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: RNA_pol_L_int_RNA_pol_Rpb2_6. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RNA_pol_L_int_RNA_pol_Rpb2_6/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: RuBisCO_large_int_RuBisCO_large. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RuBisCO_large_int_RuBisCO_large/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: RuBisCO_large_int_RuBisCO_large_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RuBisCO_large_int_RuBisCO_large_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: RuBisCO_large_int_RuBisCO_small. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RuBisCO_large_int_RuBisCO_small/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: RVP_int_RVP. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RVP_int_RVP/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: RVT_1_int_RVT_connect. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RVT_1_int_RVT_connect/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   255
+
+
+
+
+2014-5-7 1:20 SUCCESS: RVT_1_int_RVT_thumb
+
+num =
+
+   275
+
+
+
+
+2014-5-7 1:20 SUCCESS: RVT_connect_int_RVT_thumb
+
+num =
+
+   168
+
+
+num =
+
+   220
+
+
+
+
+2014-5-7 1:20 SUCCESS: SIS_int_SIS
+
+num =
+
+   325
+
+
+
+
+2014-5-7 1:20 SUCCESS: Sod_Cu_int_Sod_Cu
+2014-5-7 1:20 ERROR: Sod_Fe_C_int_Sod_Fe_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Sod_Fe_C_int_Sod_Fe_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: Stap_Strp_tox_C_int_Stap_Strp_toxin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Stap_Strp_tox_C_int_Stap_Strp_toxin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   213
+
+
+
+
+2014-5-7 1:20 SUCCESS: Tautomerase_int_Tautomerase
+2014-5-7 1:20 ERROR: Thiolase_C_int_Thiolase_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Thiolase_C_int_Thiolase_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: Thrombin_light_int_Trypsin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Thrombin_light_int_Trypsin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: TNF_int_TNF. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TNF_int_TNF/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   254
+
+
+
+
+2014-5-7 1:20 SUCCESS: TPP_enzyme_C_int_TPP_enzyme_M
+2014-5-7 1:20 ERROR: TPP_enzyme_C_int_TPP_enzyme_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TPP_enzyme_C_int_TPP_enzyme_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   541
+
+
+num =
+
+   231
+
+
+
+
+2014-5-7 1:20 SUCCESS: Transketolase_C_int_Transket_pyr
+2014-5-7 1:20 ERROR: Transthyretin_int_Transthyretin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Transthyretin_int_Transthyretin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: TrpBP_int_TrpBP. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TrpBP_int_TrpBP/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 1:20 ERROR: Uricase_int_Uricase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Uricase_int_Uricase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+{Warning: Attempt to write an unsupported data type to an ASCII file.
+	Variable 'ddisWith_200to250Examples' not written to file.} 
+{> In run3DID_STAT_200_500_multipTop_examples_2010 at 96} 
+2014-5-7 1:20 FINISHED.
+2014-5-7 13:14 STARTED.
+
+num =
+
+   501
+
+
+num =
+
+   252
+
+
+
+
+2014-5-7 13:14 SUCCESS: 4HBT_int_4HBT
+
+num =
+
+   261
+
+
+
+
+2014-5-7 13:14 SUCCESS: Actin_int_Actin
+
+num =
+
+   211
+
+
+
+
+2014-5-7 13:14 SUCCESS: Acyl-CoA_dh_1_int_Acyl-CoA_dh_1
+
+num =
+
+   302
+
+
+
+
+2014-5-7 13:14 SUCCESS: Acyl-CoA_dh_1_int_Acyl-CoA_dh_M
+2014-5-7 13:14 ERROR: ADH_N_int_ADH_zinc_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ADH_N_int_ADH_zinc_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: adh_short_int_adh_short. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/adh_short_int_adh_short/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: ADH_zinc_N_int_ADH_zinc_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ADH_zinc_N_int_ADH_zinc_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   250
+
+
+
+
+2014-5-7 13:14 SUCCESS: AhpC-TSA_int_AhpC-TSA
+2014-5-7 13:14 ERROR: Aldedh_int_Aldedh. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Aldedh_int_Aldedh/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Alk_phosphatase_int_Alk_phosphatase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Alk_phosphatase_int_Alk_phosphatase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   205
+
+
+
+
+2014-5-7 13:14 SUCCESS: Alpha-amylase_int_Alpha-amylase_C
+
+num =
+
+   210
+
+
+
+
+2014-5-7 13:14 SUCCESS: Ank_int_Ank
+2014-5-7 13:14 ERROR: Annexin_int_Annexin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Annexin_int_Annexin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   245
+
+
+
+
+2014-5-7 13:14 SUCCESS: AP_endonuc_2_int_AP_endonuc_2
+
+num =
+
+   221
+
+
+
+
+2014-5-7 13:14 SUCCESS: Arginase_int_Arginase
+
+num =
+
+   212
+
+
+
+
+2014-5-7 13:14 SUCCESS: ATP-gua_Ptrans_int_ATP-gua_PtransN
+
+num =
+
+   232
+
+
+
+
+2014-5-7 13:14 SUCCESS: ATP-synt_int_ATP-synt_ab
+2014-5-7 13:14 ERROR: ATP-synt_ab_int_ATP-synt_ab. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_ab_int_ATP-synt_ab/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: ATP-synt_ab_int_ATP-synt_ab_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_ab_int_ATP-synt_ab_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   346
+
+
+
+
+2014-5-7 13:14 SUCCESS: ATP-synt_ab_int_ATP-synt_ab_N
+
+num =
+
+   338
+
+
+
+
+2014-5-7 13:14 SUCCESS: ATP-synt_ab_N_int_ATP-synt_ab_N
+2014-5-7 13:14 ERROR: ATP-synt_C_int_ATP-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_C_int_ATP-synt_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Avidin_int_Avidin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Avidin_int_Avidin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   248
+
+
+
+
+2014-5-7 13:14 SUCCESS: C1-set_int_MHC_II_alpha
+2014-5-7 13:14 ERROR: C4_int_C4. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/C4_int_C4/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Catalase_int_Catalase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Catalase_int_Catalase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Catalase_int_Catalase-rel. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Catalase_int_Catalase-rel/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: CBS_int_CBS. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/CBS_int_CBS/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: CLP_protease_int_CLP_protease. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/CLP_protease_int_CLP_protease/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Cpn60_TCP1_int_Cpn60_TCP1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cpn60_TCP1_int_Cpn60_TCP1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   225
+
+
+
+
+2014-5-7 13:14 SUCCESS: CPSase_L_chain_int_CPSase_L_D2
+2014-5-7 13:14 ERROR: Cu-oxidase_int_Cu-oxidase_3. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cu-oxidase_int_Cu-oxidase_3/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Cupin_1_int_Cupin_1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cupin_1_int_Cupin_1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Cu_amine_oxid_int_Cu_amine_oxidN3. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cu_amine_oxid_int_Cu_amine_oxidN3/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Cyclin_N_int_Pkinase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cyclin_N_int_Pkinase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: DeoC_int_DeoC. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DeoC_int_DeoC/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: DHDPS_int_DHDPS. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DHDPS_int_DHDPS/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: DHquinase_II_int_DHquinase_II. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DHquinase_II_int_DHquinase_II/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   186
+
+2014-5-7 13:14 ERROR: Dioxygenase_C_int_PCDO_beta_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Dioxygenase_C_int_PCDO_beta_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: DMRL_synthase_int_DMRL_synthase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DMRL_synthase_int_DMRL_synthase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: DPPIV_N_int_Peptidase_S9. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DPPIV_N_int_Peptidase_S9/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   361
+
+
+
+
+2014-5-7 13:14 SUCCESS: ECH_int_ECH
+2014-5-7 13:14 ERROR: efhand_int_efhand. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/efhand_int_efhand/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   205
+
+
+
+
+2014-5-7 13:14 SUCCESS: ELFV_dehydrog_int_ELFV_dehydrog_N
+
+num =
+
+   342
+
+
+
+
+2014-5-7 13:14 SUCCESS: Fib_alpha_int_Fibrinogen_C
+2014-5-7 13:14 ERROR: Fib_alpha_int_Fib_alpha. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Fib_alpha_int_Fib_alpha/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: FMN_dh_int_FMN_dh. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/FMN_dh_int_FMN_dh/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: GFP_int_GFP. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/GFP_int_GFP/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Gln-synt_C_int_Gln-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Gln-synt_C_int_Gln-synt_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Gln-synt_C_int_Gln-synt_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Gln-synt_C_int_Gln-synt_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Globin_int_Globin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Globin_int_Globin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Glyco_hydro_2_int_Glyco_hydro_2_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyco_hydro_2_int_Glyco_hydro_2_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   228
+
+
+
+
+2014-5-7 13:14 SUCCESS: Glyco_hydro_2_int_Glyco_hydro_2_N
+2014-5-7 13:14 ERROR: Glyco_hydro_2_C_int_Glyco_hydro_2_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyco_hydro_2_C_int_Glyco_hydro_2_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Glyoxalase_int_Glyoxalase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyoxalase_int_Glyoxalase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Gp_dh_C_int_Gp_dh_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Gp_dh_C_int_Gp_dh_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Hemagglutinin_int_Hemagglutinin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Hemagglutinin_int_Hemagglutinin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Histone_int_Histone. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Histone_int_Histone/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Hormone_recep_int_Hormone_recep. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Hormone_recep_int_Hormone_recep/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Insulin_int_Insulin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Insulin_int_Insulin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: ketoacyl-synt_int_Ketoacyl-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ketoacyl-synt_int_Ketoacyl-synt_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Late_protein_L1_int_Late_protein_L1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Late_protein_L1_int_Late_protein_L1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Ldh_1_C_int_Ldh_1_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Ldh_1_C_int_Ldh_1_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Lectin_legB_int_Lectin_legB. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Lectin_legB_int_Lectin_legB/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: LSM_int_LSM. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/LSM_int_LSM/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   288
+
+
+
+
+2014-5-7 13:14 SUCCESS: MR_MLE_int_MR_MLE
+
+num =
+
+   250
+
+
+
+
+2014-5-7 13:14 SUCCESS: MR_MLE_int_MR_MLE_N
+2014-5-7 13:14 ERROR: MR_MLE_N_int_MR_MLE_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/MR_MLE_N_int_MR_MLE_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: NDK_int_NDK. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/NDK_int_NDK/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Neur_chan_LBD_int_Neur_chan_LBD. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Neur_chan_LBD_int_Neur_chan_LBD/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: NO_synthase_int_NO_synthase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/NO_synthase_int_NO_synthase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: OTCace_int_OTCace_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/OTCace_int_OTCace_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   180
+
+2014-5-7 13:14 ERROR: Peptidase_C14_int_Peptidase_C14. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Peptidase_C14_int_Peptidase_C14/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Peptidase_M16_int_Peptidase_M16_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Peptidase_M16_int_Peptidase_M16_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Phycobilisome_int_Phycobilisome. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Phycobilisome_int_Phycobilisome/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   198
+
+2014-5-7 13:14 ERROR: PNP_UDP_1_int_PNP_UDP_1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/PNP_UDP_1_int_PNP_UDP_1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: PPTA_int_PPTA. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/PPTA_int_PPTA/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   588
+
+2014-5-7 13:14 ERROR: Proteasome_A_N_int_Proteasome_A_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Proteasome_A_N_int_Proteasome_A_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+    73
+
+2014-5-7 13:14 ERROR: Pyr_redox_2_int_Pyr_redox_dim. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Pyr_redox_2_int_Pyr_redox_dim/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Rhv_int_Rhv. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Rhv_int_Rhv/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Ribosomal_L5_int_Ribosomal_L5_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Ribosomal_L5_int_Ribosomal_L5_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: RNase_PH_int_RNase_PH_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RNase_PH_int_RNase_PH_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: RNA_pol_L_int_RNA_pol_Rpb2_6. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RNA_pol_L_int_RNA_pol_Rpb2_6/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: RuBisCO_large_int_RuBisCO_large. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RuBisCO_large_int_RuBisCO_large/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: RuBisCO_large_int_RuBisCO_large_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RuBisCO_large_int_RuBisCO_large_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: RuBisCO_large_int_RuBisCO_small. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RuBisCO_large_int_RuBisCO_small/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: RVP_int_RVP. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RVP_int_RVP/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: RVT_1_int_RVT_connect. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RVT_1_int_RVT_connect/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   255
+
+
+
+
+2014-5-7 13:14 SUCCESS: RVT_1_int_RVT_thumb
+
+num =
+
+   275
+
+
+
+
+2014-5-7 13:14 SUCCESS: RVT_connect_int_RVT_thumb
+
+num =
+
+   168
+
+
+num =
+
+   220
+
+
+
+
+2014-5-7 13:14 SUCCESS: SIS_int_SIS
+
+num =
+
+   325
+
+
+
+
+2014-5-7 13:14 SUCCESS: Sod_Cu_int_Sod_Cu
+2014-5-7 13:14 ERROR: Sod_Fe_C_int_Sod_Fe_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Sod_Fe_C_int_Sod_Fe_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Stap_Strp_tox_C_int_Stap_Strp_toxin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Stap_Strp_tox_C_int_Stap_Strp_toxin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   213
+
+
+
+
+2014-5-7 13:14 SUCCESS: Tautomerase_int_Tautomerase
+2014-5-7 13:14 ERROR: Thiolase_C_int_Thiolase_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Thiolase_C_int_Thiolase_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Thrombin_light_int_Trypsin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Thrombin_light_int_Trypsin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: TNF_int_TNF. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TNF_int_TNF/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   254
+
+
+
+
+2014-5-7 13:14 SUCCESS: TPP_enzyme_C_int_TPP_enzyme_M
+2014-5-7 13:14 ERROR: TPP_enzyme_C_int_TPP_enzyme_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TPP_enzyme_C_int_TPP_enzyme_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   541
+
+
+num =
+
+   231
+
+
+
+
+2014-5-7 13:14 SUCCESS: Transketolase_C_int_Transket_pyr
+2014-5-7 13:14 ERROR: Transthyretin_int_Transthyretin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Transthyretin_int_Transthyretin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: TrpBP_int_TrpBP. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TrpBP_int_TrpBP/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:14 ERROR: Uricase_int_Uricase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Uricase_int_Uricase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+{Warning: Attempt to write an unsupported data type to an ASCII file.
+	Variable 'ddisWith_200to250Examples' not written to file.} 
+{> In run3DID_STAT_200_500_multipTop_examples_2010 at 96} 
+2014-5-7 13:14 FINISHED.
+2014-5-7 13:16 STARTED.
+
+num =
+
+   501
+
+
+num =
+
+   252
+
+
+
+
+2014-5-7 13:16 SUCCESS: 4HBT_int_4HBT
+
+num =
+
+   261
+
+
+
+
+2014-5-7 13:16 SUCCESS: Actin_int_Actin
+
+num =
+
+   211
+
+
+
+
+2014-5-7 13:16 SUCCESS: Acyl-CoA_dh_1_int_Acyl-CoA_dh_1
+
+num =
+
+   302
+
+
+
+
+2014-5-7 13:16 SUCCESS: Acyl-CoA_dh_1_int_Acyl-CoA_dh_M
+2014-5-7 13:16 ERROR: ADH_N_int_ADH_zinc_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ADH_N_int_ADH_zinc_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: adh_short_int_adh_short. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/adh_short_int_adh_short/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: ADH_zinc_N_int_ADH_zinc_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ADH_zinc_N_int_ADH_zinc_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   250
+
+
+
+
+2014-5-7 13:16 SUCCESS: AhpC-TSA_int_AhpC-TSA
+2014-5-7 13:16 ERROR: Aldedh_int_Aldedh. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Aldedh_int_Aldedh/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Alk_phosphatase_int_Alk_phosphatase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Alk_phosphatase_int_Alk_phosphatase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   205
+
+
+
+
+2014-5-7 13:16 SUCCESS: Alpha-amylase_int_Alpha-amylase_C
+
+num =
+
+   210
+
+
+
+
+2014-5-7 13:16 SUCCESS: Ank_int_Ank
+2014-5-7 13:16 ERROR: Annexin_int_Annexin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Annexin_int_Annexin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   245
+
+
+
+
+2014-5-7 13:16 SUCCESS: AP_endonuc_2_int_AP_endonuc_2
+
+num =
+
+   221
+
+
+
+
+2014-5-7 13:16 SUCCESS: Arginase_int_Arginase
+
+num =
+
+   212
+
+
+
+
+2014-5-7 13:16 SUCCESS: ATP-gua_Ptrans_int_ATP-gua_PtransN
+
+num =
+
+   232
+
+
+
+
+2014-5-7 13:16 SUCCESS: ATP-synt_int_ATP-synt_ab
+2014-5-7 13:16 ERROR: ATP-synt_ab_int_ATP-synt_ab. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_ab_int_ATP-synt_ab/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: ATP-synt_ab_int_ATP-synt_ab_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_ab_int_ATP-synt_ab_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   346
+
+
+
+
+2014-5-7 13:16 SUCCESS: ATP-synt_ab_int_ATP-synt_ab_N
+
+num =
+
+   338
+
+
+
+
+2014-5-7 13:16 SUCCESS: ATP-synt_ab_N_int_ATP-synt_ab_N
+2014-5-7 13:16 ERROR: ATP-synt_C_int_ATP-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ATP-synt_C_int_ATP-synt_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Avidin_int_Avidin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Avidin_int_Avidin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   248
+
+
+
+
+2014-5-7 13:16 SUCCESS: C1-set_int_MHC_II_alpha
+2014-5-7 13:16 ERROR: C4_int_C4. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/C4_int_C4/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Catalase_int_Catalase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Catalase_int_Catalase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Catalase_int_Catalase-rel. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Catalase_int_Catalase-rel/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: CBS_int_CBS. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/CBS_int_CBS/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: CLP_protease_int_CLP_protease. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/CLP_protease_int_CLP_protease/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Cpn60_TCP1_int_Cpn60_TCP1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cpn60_TCP1_int_Cpn60_TCP1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   225
+
+
+
+
+2014-5-7 13:16 SUCCESS: CPSase_L_chain_int_CPSase_L_D2
+2014-5-7 13:16 ERROR: Cu-oxidase_int_Cu-oxidase_3. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cu-oxidase_int_Cu-oxidase_3/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Cupin_1_int_Cupin_1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cupin_1_int_Cupin_1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Cu_amine_oxid_int_Cu_amine_oxidN3. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cu_amine_oxid_int_Cu_amine_oxidN3/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Cyclin_N_int_Pkinase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Cyclin_N_int_Pkinase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: DeoC_int_DeoC. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DeoC_int_DeoC/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: DHDPS_int_DHDPS. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DHDPS_int_DHDPS/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: DHquinase_II_int_DHquinase_II. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DHquinase_II_int_DHquinase_II/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   186
+
+2014-5-7 13:16 ERROR: Dioxygenase_C_int_PCDO_beta_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Dioxygenase_C_int_PCDO_beta_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: DMRL_synthase_int_DMRL_synthase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DMRL_synthase_int_DMRL_synthase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: DPPIV_N_int_Peptidase_S9. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/DPPIV_N_int_Peptidase_S9/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   361
+
+
+
+
+2014-5-7 13:16 SUCCESS: ECH_int_ECH
+2014-5-7 13:16 ERROR: efhand_int_efhand. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/efhand_int_efhand/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   205
+
+
+
+
+2014-5-7 13:16 SUCCESS: ELFV_dehydrog_int_ELFV_dehydrog_N
+
+num =
+
+   342
+
+
+
+
+2014-5-7 13:16 SUCCESS: Fib_alpha_int_Fibrinogen_C
+2014-5-7 13:16 ERROR: Fib_alpha_int_Fib_alpha. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Fib_alpha_int_Fib_alpha/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: FMN_dh_int_FMN_dh. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/FMN_dh_int_FMN_dh/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: GFP_int_GFP. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/GFP_int_GFP/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Gln-synt_C_int_Gln-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Gln-synt_C_int_Gln-synt_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Gln-synt_C_int_Gln-synt_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Gln-synt_C_int_Gln-synt_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Globin_int_Globin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Globin_int_Globin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Glyco_hydro_2_int_Glyco_hydro_2_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyco_hydro_2_int_Glyco_hydro_2_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   228
+
+
+
+
+2014-5-7 13:16 SUCCESS: Glyco_hydro_2_int_Glyco_hydro_2_N
+2014-5-7 13:16 ERROR: Glyco_hydro_2_C_int_Glyco_hydro_2_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyco_hydro_2_C_int_Glyco_hydro_2_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Glyoxalase_int_Glyoxalase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Glyoxalase_int_Glyoxalase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Gp_dh_C_int_Gp_dh_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Gp_dh_C_int_Gp_dh_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Hemagglutinin_int_Hemagglutinin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Hemagglutinin_int_Hemagglutinin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Histone_int_Histone. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Histone_int_Histone/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Hormone_recep_int_Hormone_recep. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Hormone_recep_int_Hormone_recep/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Insulin_int_Insulin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Insulin_int_Insulin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: ketoacyl-synt_int_Ketoacyl-synt_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/ketoacyl-synt_int_Ketoacyl-synt_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Late_protein_L1_int_Late_protein_L1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Late_protein_L1_int_Late_protein_L1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Ldh_1_C_int_Ldh_1_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Ldh_1_C_int_Ldh_1_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Lectin_legB_int_Lectin_legB. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Lectin_legB_int_Lectin_legB/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: LSM_int_LSM. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/LSM_int_LSM/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   288
+
+
+
+
+2014-5-7 13:16 SUCCESS: MR_MLE_int_MR_MLE
+
+num =
+
+   250
+
+
+
+
+2014-5-7 13:16 SUCCESS: MR_MLE_int_MR_MLE_N
+2014-5-7 13:16 ERROR: MR_MLE_N_int_MR_MLE_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/MR_MLE_N_int_MR_MLE_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: NDK_int_NDK. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/NDK_int_NDK/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Neur_chan_LBD_int_Neur_chan_LBD. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Neur_chan_LBD_int_Neur_chan_LBD/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: NO_synthase_int_NO_synthase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/NO_synthase_int_NO_synthase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: OTCace_int_OTCace_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/OTCace_int_OTCace_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   180
+
+2014-5-7 13:16 ERROR: Peptidase_C14_int_Peptidase_C14. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Peptidase_C14_int_Peptidase_C14/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Peptidase_M16_int_Peptidase_M16_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Peptidase_M16_int_Peptidase_M16_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Phycobilisome_int_Phycobilisome. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Phycobilisome_int_Phycobilisome/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   198
+
+2014-5-7 13:16 ERROR: PNP_UDP_1_int_PNP_UDP_1. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/PNP_UDP_1_int_PNP_UDP_1/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: PPTA_int_PPTA. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/PPTA_int_PPTA/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   588
+
+2014-5-7 13:16 ERROR: Proteasome_A_N_int_Proteasome_A_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Proteasome_A_N_int_Proteasome_A_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+    73
+
+2014-5-7 13:16 ERROR: Pyr_redox_2_int_Pyr_redox_dim. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Pyr_redox_2_int_Pyr_redox_dim/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Rhv_int_Rhv. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Rhv_int_Rhv/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Ribosomal_L5_int_Ribosomal_L5_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Ribosomal_L5_int_Ribosomal_L5_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: RNase_PH_int_RNase_PH_C. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RNase_PH_int_RNase_PH_C/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: RNA_pol_L_int_RNA_pol_Rpb2_6. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RNA_pol_L_int_RNA_pol_Rpb2_6/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: RuBisCO_large_int_RuBisCO_large. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RuBisCO_large_int_RuBisCO_large/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: RuBisCO_large_int_RuBisCO_large_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RuBisCO_large_int_RuBisCO_large_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: RuBisCO_large_int_RuBisCO_small. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RuBisCO_large_int_RuBisCO_small/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: RVP_int_RVP. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RVP_int_RVP/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: RVT_1_int_RVT_connect. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/RVT_1_int_RVT_connect/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   255
+
+
+
+
+2014-5-7 13:16 SUCCESS: RVT_1_int_RVT_thumb
+
+num =
+
+   275
+
+
+
+
+2014-5-7 13:16 SUCCESS: RVT_connect_int_RVT_thumb
+
+num =
+
+   168
+
+
+num =
+
+   220
+
+
+
+
+2014-5-7 13:16 SUCCESS: SIS_int_SIS
+
+num =
+
+   325
+
+
+
+
+2014-5-7 13:16 SUCCESS: Sod_Cu_int_Sod_Cu
+2014-5-7 13:16 ERROR: Sod_Fe_C_int_Sod_Fe_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Sod_Fe_C_int_Sod_Fe_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Stap_Strp_tox_C_int_Stap_Strp_toxin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Stap_Strp_tox_C_int_Stap_Strp_toxin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   213
+
+
+
+
+2014-5-7 13:16 SUCCESS: Tautomerase_int_Tautomerase
+2014-5-7 13:16 ERROR: Thiolase_C_int_Thiolase_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Thiolase_C_int_Thiolase_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Thrombin_light_int_Trypsin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Thrombin_light_int_Trypsin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: TNF_int_TNF. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TNF_int_TNF/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   254
+
+
+
+
+2014-5-7 13:16 SUCCESS: TPP_enzyme_C_int_TPP_enzyme_M
+2014-5-7 13:16 ERROR: TPP_enzyme_C_int_TPP_enzyme_N. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TPP_enzyme_C_int_TPP_enzyme_N/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+
+num =
+
+   541
+
+
+num =
+
+   231
+
+
+
+
+2014-5-7 13:16 SUCCESS: Transketolase_C_int_Transket_pyr
+2014-5-7 13:16 ERROR: Transthyretin_int_Transthyretin. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Transthyretin_int_Transthyretin/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: TrpBP_int_TrpBP. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/TrpBP_int_TrpBP/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+2014-5-7 13:16 ERROR: Uricase_int_Uricase. Message: Unable to read file /home/du/Protein_Protein_Interaction_Project/3did_15OCT2010/dom_dom_ints/Uricase_int_Uricase/ddi_str_array.mat: No such file or directory.
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_STAT_200_500_multipTop_examples_2010.m; run3DID_STAT_200_500_multipTop_examples_2010; 49
+{Warning: Attempt to write an unsupported data type to an ASCII file.
+	Variable 'ddisWith_200to250Examples' not written to file.} 
+{> In run3DID_STAT_200_500_multipTop_examples_2010 at 96} 
+2014-5-7 13:16 FINISHED.

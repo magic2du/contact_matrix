@@ -1,0 +1,461 @@
+2013-11-16 15:40 STARTED.
+For 4 hidden layer whole family
+Training accuracy: 86.853%
+Training recall: 85.538%
+Training precision: 87.848%
+Training f_measure: 86.677%
+Testing accuracy: 84.810%
+Testing recall: 83.544%
+Testing precision: 85.714%
+Testing f_measure: 84.615%
+Training AUC: 93.499%
+Training accuracy: 86.853%
+Training recall: 85.538%
+Training precision: 87.848%
+Training f_measure: 86.677%
+PF00004.21_int_PF09336.2 seqPair 1
+Testing AUC: 90.967%
+Testing accuracy: 80.469%
+Testing recall: 95.312%
+Testing precision: 73.494%
+Testing f_measure: 82.993%
+PF00004.21_int_PF09336.2 seqPair 2
+Testing AUC: 98.394%
+Testing accuracy: 90.625%
+Testing recall: 100.000%
+Testing precision: 84.211%
+Testing f_measure: 91.429%
+PF00004.21_int_PF09336.2 seqPair 7
+Testing AUC: 91.257%
+Testing accuracy: 72.826%
+Testing recall: 50.000%
+Testing precision: 92.000%
+Testing f_measure: 64.789%
+
+
+
+2013-11-16 22:16 SUCCESS: PF00004.21_int_PF09336.2.
+
+
+For 4 hidden layer whole family
+Training accuracy: 87.418%
+Training recall: 86.190%
+Training precision: 88.361%
+Training f_measure: 87.262%
+Testing accuracy: 62.977%
+Testing recall: 25.954%
+Testing precision: 100.000%
+Testing f_measure: 41.212%
+Training AUC: 93.697%
+Training accuracy: 87.418%
+Training recall: 86.190%
+Training precision: 88.361%
+Training f_measure: 87.262%
+PF00017.16_int_PF00018.20 seqPair 1
+Testing AUC: 79.938%
+Testing accuracy: 55.556%
+Testing recall: 22.222%
+Testing precision: 66.667%
+Testing f_measure: 33.333%
+PF00017.16_int_PF00018.20 seqPair 2
+Testing AUC: 82.407%
+Testing accuracy: 55.556%
+Testing recall: 11.111%
+Testing precision: 100.000%
+Testing f_measure: 20.000%
+PF00017.16_int_PF00018.20 seqPair 4
+Testing AUC: 89.256%
+Testing accuracy: 63.636%
+Testing recall: 36.364%
+Testing precision: 80.000%
+Testing f_measure: 50.000%
+PF00017.16_int_PF00018.20 seqPair 5
+Testing AUC: 95.312%
+Testing accuracy: 75.000%
+Testing recall: 50.000%
+Testing precision: 100.000%
+Testing f_measure: 66.667%
+PF00017.16_int_PF00018.20 seqPair 7
+Testing AUC: 50.865%
+Testing accuracy: 55.882%
+Testing recall: 11.765%
+Testing precision: 100.000%
+Testing f_measure: 21.053%
+PF00017.16_int_PF00018.20 seqPair 8
+Testing AUC: 59.259%
+Testing accuracy: 52.778%
+Testing recall: 11.111%
+Testing precision: 66.667%
+Testing f_measure: 19.048%
+PF00017.16_int_PF00018.20 seqPair 20
+Testing AUC: 95.918%
+Testing accuracy: 71.429%
+Testing recall: 42.857%
+Testing precision: 100.000%
+Testing f_measure: 60.000%
+PF00017.16_int_PF00018.20 seqPair 21
+Testing AUC: 88.194%
+Testing accuracy: 54.167%
+Testing recall: 8.333%
+Testing precision: 100.000%
+Testing f_measure: 15.385%
+PF00017.16_int_PF00018.20 seqPair 22
+Testing AUC: 88.843%
+Testing accuracy: 77.273%
+Testing recall: 54.545%
+Testing precision: 100.000%
+Testing f_measure: 70.588%
+
+
+
+2013-11-17 4:55 SUCCESS: PF00017.16_int_PF00018.20.
+
+
+For 4 hidden layer whole family
+Training accuracy: 87.394%
+Training recall: 86.579%
+Training precision: 88.014%
+Training f_measure: 87.291%
+Testing accuracy: 63.702%
+Testing recall: 30.288%
+Testing precision: 91.304%
+Testing f_measure: 45.487%
+Training AUC: 93.669%
+Training accuracy: 87.394%
+Training recall: 86.579%
+Training precision: 88.014%
+Training f_measure: 87.291%
+PF00025.13_int_PF00025.13 seqPair 1
+Testing AUC: 88.231%
+Testing accuracy: 82.051%
+Testing recall: 74.359%
+Testing precision: 87.879%
+Testing f_measure: 80.556%
+PF00025.13_int_PF00025.13 seqPair 2
+Testing AUC: 76.960%
+Testing accuracy: 56.000%
+Testing recall: 12.000%
+Testing precision: 100.000%
+Testing f_measure: 21.429%
+PF00025.13_int_PF00025.13 seqPair 3
+Testing AUC: 95.062%
+Testing accuracy: 55.556%
+Testing recall: 11.111%
+Testing precision: 100.000%
+Testing f_measure: 20.000%
+PF00025.13_int_PF00025.13 seqPair 6
+Testing AUC: 73.225%
+Testing accuracy: 55.769%
+Testing recall: 11.538%
+Testing precision: 100.000%
+Testing f_measure: 20.690%
+PF00025.13_int_PF00025.13 seqPair 7
+Testing AUC: 82.231%
+Testing accuracy: 63.636%
+Testing recall: 27.273%
+Testing precision: 100.000%
+Testing f_measure: 42.857%
+PF00025.13_int_PF00025.13 seqPair 10
+Testing AUC: 98.828%
+Testing accuracy: 96.875%
+Testing recall: 100.000%
+Testing precision: 94.118%
+Testing f_measure: 96.970%
+PF00025.13_int_PF00025.13 seqPair 11
+Testing AUC: 82.625%
+Testing accuracy: 53.750%
+Testing recall: 7.500%
+Testing precision: 100.000%
+Testing f_measure: 13.953%
+PF00025.13_int_PF00025.13 seqPair 15
+Testing AUC: 46.429%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+PF00025.13_int_PF00025.13 seqPair 21
+Testing AUC: 77.855%
+Testing accuracy: 55.882%
+Testing recall: 11.765%
+Testing precision: 100.000%
+Testing f_measure: 21.053%
+
+
+
+2013-11-17 11:29 SUCCESS: PF00025.13_int_PF00025.13.
+
+
+For 4 hidden layer whole family
+Training accuracy: 86.625%
+Training recall: 85.216%
+Training precision: 87.688%
+Training f_measure: 86.434%
+Testing accuracy: 61.905%
+Testing recall: 23.810%
+Testing precision: 100.000%
+Testing f_measure: 38.462%
+Training AUC: 93.365%
+Training accuracy: 86.625%
+Training recall: 85.216%
+Training precision: 87.688%
+Training f_measure: 86.434%
+PF00028.9_int_PF00028.9 seqPair 1
+Testing AUC: 89.256%
+Testing accuracy: 63.636%
+Testing recall: 27.273%
+Testing precision: 100.000%
+Testing f_measure: 42.857%
+PF00028.9_int_PF00028.9 seqPair 3
+Testing AUC: 97.959%
+Testing accuracy: 57.143%
+Testing recall: 14.286%
+Testing precision: 100.000%
+Testing f_measure: 25.000%
+PF00028.9_int_PF00028.9 seqPair 7
+Testing AUC: 55.178%
+Testing accuracy: 55.769%
+Testing recall: 11.538%
+Testing precision: 100.000%
+Testing f_measure: 20.690%
+PF00028.9_int_PF00028.9 seqPair 8
+Testing AUC: 54.321%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+PF00028.9_int_PF00028.9 seqPair 19
+Testing AUC: 100.000%
+Testing accuracy: 83.333%
+Testing recall: 66.667%
+Testing precision: 100.000%
+Testing f_measure: 80.000%
+PF00028.9_int_PF00028.9 seqPair 20
+Testing AUC: 98.000%
+Testing accuracy: 80.000%
+Testing recall: 60.000%
+Testing precision: 100.000%
+Testing f_measure: 75.000%
+PF00028.9_int_PF00028.9 seqPair 21
+Testing AUC: 61.111%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+PF00028.9_int_PF00028.9 seqPair 22
+Testing AUC: 44.136%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+2013-11-17 18:10 SUCCESS: PF00028.9_int_PF00028.9.
+
+
+For 4 hidden layer whole family
+Training accuracy: 86.802%
+Training recall: 85.725%
+Training precision: 87.613%
+Training f_measure: 86.659%
+Testing accuracy: 95.775%
+Testing recall: 100.000%
+Testing precision: 92.208%
+Testing f_measure: 95.946%
+Training AUC: 93.417%
+Training accuracy: 86.802%
+Training recall: 85.725%
+Training precision: 87.613%
+Training f_measure: 86.659%
+PF00032.9_int_PF02271.8 seqPair 1
+Testing AUC: 99.609%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+PF00032.9_int_PF02271.8 seqPair 2
+Testing AUC: 100.000%
+Testing accuracy: 97.222%
+Testing recall: 100.000%
+Testing precision: 94.737%
+Testing f_measure: 97.297%
+PF00032.9_int_PF02271.8 seqPair 5
+Testing AUC: 100.000%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+PF00032.9_int_PF02271.8 seqPair 31
+Testing AUC: 100.000%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+2013-11-18 :52 SUCCESS: PF00032.9_int_PF02271.8.
+
+
+For 4 hidden layer whole family
+Training accuracy: 85.871%
+Training recall: 84.123%
+Training precision: 87.170%
+Training f_measure: 85.620%
+Testing accuracy: 85.526%
+Testing recall: 100.000%
+Testing precision: 77.551%
+Testing f_measure: 87.356%
+Training AUC: 92.728%
+Training accuracy: 85.871%
+Training recall: 84.123%
+Training precision: 87.170%
+Training f_measure: 85.620%
+PF00032.9_int_PF02939.8 seqPair 1
+Testing AUC: 99.840%
+Testing accuracy: 90.000%
+Testing recall: 100.000%
+Testing precision: 83.333%
+Testing f_measure: 90.909%
+PF00032.9_int_PF02939.8 seqPair 2
+Testing AUC: 100.000%
+Testing accuracy: 90.385%
+Testing recall: 100.000%
+Testing precision: 83.871%
+Testing f_measure: 91.228%
+PF00032.9_int_PF02939.8 seqPair 5
+Testing AUC: 95.265%
+Testing accuracy: 88.571%
+Testing recall: 100.000%
+Testing precision: 81.395%
+Testing f_measure: 89.744%
+PF00032.9_int_PF02939.8 seqPair 31
+Testing AUC: 99.490%
+Testing accuracy: 87.500%
+Testing recall: 100.000%
+Testing precision: 80.000%
+Testing f_measure: 88.889%
+
+
+
+2013-11-18 7:32 SUCCESS: PF00032.9_int_PF02939.8.
+
+
+For 4 hidden layer whole family
+Training accuracy: 84.969%
+Training recall: 82.526%
+Training precision: 86.766%
+Training f_measure: 84.593%
+Testing accuracy: 90.584%
+Testing recall: 95.130%
+Testing precision: 87.202%
+Testing f_measure: 90.994%
+Training AUC: 92.143%
+Training accuracy: 84.969%
+Training recall: 82.526%
+Training precision: 86.766%
+Training f_measure: 84.593%
+PF00033.11_int_PF00033.11 seqPair 1
+Testing AUC: 97.223%
+Testing accuracy: 91.818%
+Testing recall: 89.091%
+Testing precision: 94.231%
+Testing f_measure: 91.589%
+PF00033.11_int_PF00033.11 seqPair 2
+Testing AUC: 98.347%
+Testing accuracy: 91.818%
+Testing recall: 98.182%
+Testing precision: 87.097%
+Testing f_measure: 92.308%
+PF00033.11_int_PF00033.11 seqPair 5
+Testing AUC: 94.675%
+Testing accuracy: 86.538%
+Testing recall: 84.615%
+Testing precision: 88.000%
+Testing f_measure: 86.275%
+PF00033.11_int_PF00033.11 seqPair 6
+Testing AUC: 97.986%
+Testing accuracy: 92.045%
+Testing recall: 100.000%
+Testing precision: 86.275%
+Testing f_measure: 92.632%
+PF00033.11_int_PF00033.11 seqPair 9
+Testing AUC: 99.143%
+Testing accuracy: 95.714%
+Testing recall: 100.000%
+Testing precision: 92.105%
+Testing f_measure: 95.890%
+PF00033.11_int_PF00033.11 seqPair 20
+Testing AUC: 99.805%
+Testing accuracy: 98.438%
+Testing recall: 100.000%
+Testing precision: 96.970%
+Testing f_measure: 98.462%
+
+
+
+2013-11-18 13:41 SUCCESS: PF00033.11_int_PF00033.11.
+
+
+For 4 hidden layer whole family
+Training accuracy: 86.062%
+Training recall: 85.055%
+Training precision: 86.804%
+Training f_measure: 85.920%
+Testing accuracy: 98.485%
+Testing recall: 98.485%
+Testing precision: 98.485%
+Testing f_measure: 98.485%
+Training AUC: 92.879%
+Training accuracy: 86.062%
+Training recall: 85.055%
+Training precision: 86.804%
+Training f_measure: 85.920%
+PF00033.11_int_PF00355.18 seqPair 1
+Testing AUC: 100.000%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+PF00033.11_int_PF00355.18 seqPair 3
+Testing AUC: 100.000%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+PF00033.11_int_PF00355.18 seqPair 7
+Testing AUC: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+PF00033.11_int_PF00355.18 seqPair 8
+Testing AUC: 98.438%
+Testing accuracy: 87.500%
+Testing recall: 87.500%
+Testing precision: 87.500%
+Testing f_measure: 87.500%
+PF00033.11_int_PF00355.18 seqPair 10
+Testing AUC: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+PF00033.11_int_PF00355.18 seqPair 16
+Testing AUC: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+PF00033.11_int_PF00355.18 seqPair 39
+Testing AUC: 99.000%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+
+
+
+2013-11-18 19:58 SUCCESS: PF00033.11_int_PF00355.18.
+
+

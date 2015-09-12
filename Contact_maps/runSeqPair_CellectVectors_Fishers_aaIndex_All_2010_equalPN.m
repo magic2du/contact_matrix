@@ -1,0 +1,93 @@
+function [V, numPos, numNeg] = runSeqPair_CellectVectors_Fishers_aaIndex_All_2010_equalPN ...
+                        (ddiName, pairNbr)
+%function auc = runSeqPairAllVectorsChooseNegRand_02NOV2011()
+
+folder3did = ['/home/du/Protein_Protein_Interaction_Project/' ...
+                                        '3did_15OCT2010/dom_dom_ints/'];
+ddiPath = [folder3did ddiName '/'];
+folderResults = ...
+        ['/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/dom_dom_ints/' ddiName '/'];
+if ~exist(folderResults, 'dir')
+	mkdir(folderResults);
+end
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+contactMatrixPath = ...
+        ['/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/ContactMapExamples/' ...
+                                        ddiName '/contactMapsBag.mat'];
+load(contactMatrixPath); % contactMapsBag.
+contactMapsBag(end) = []; % the last one is the average.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+load([ddiPath 'FisherA.mat']); % AFisherM0[1]Array, AconstFisherM0[1]Array.
+load([ddiPath 'FisherB.mat']); % BFisherM0[1]Array, BconstFisherM0[1]Array.
+
+load([ddiPath 'ddi_str_array.mat']); % AFisherM0[1]Array, AconstFisherM0[1]Array.
+
+% read HMM structures for the two domains involved in the interaction.
+domA = ddi_str_array{1}.domainA;
+domB = ddi_str_array{1}.domainB;
+hmmA = pfamhmmread(['/home/du/Protein_Protein_Interaction_Project/' ...
+                        'PFAM_2008/SINGLE_FILES/' domA '.pfam']);
+hmmB = pfamhmmread(['/home/du/Protein_Protein_Interaction_Project/' ...
+                        'PFAM_2008/SINGLE_FILES/' domB '.pfam']);
+
+% Testing.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+gtContactMatrix = contactMapsBag{pairNbr}; %ground truth.
+command = ['AFisherM0Vectors = A' 'FisherM0' 'Array{pairNbr};'];
+eval(command);
+command = ['BFisherM0Vectors = B' 'FisherM0' 'Array{pairNbr};'];
+eval(command);
+command = ['AFisherM1Vectors = A' 'FisherM1' 'Array{pairNbr};'];
+eval(command);
+command = ['BFisherM1Vectors = B' 'FisherM1' 'Array{pairNbr};'];
+eval(command);
+
+% create positive and negative test sets.
+[posTestI posTestJ] = ind2sub(size(gtContactMatrix), ...
+                                            find(gtContactMatrix > 0));
+[negTestI negTestJ] = ind2sub(size(gtContactMatrix), ...
+                                            find(gtContactMatrix == 0));
+%compute the HMM aligned sequence ignoring insert, should be HMM length
+seqA = ddi_str_array{pairNbr}.ASequence;
+seqB = ddi_str_array{pairNbr}.BSequence;
+% seqA
+[scoreA, algnA] = hmmprofalign(hmmA, seqA, 'flanks', true);
+indDelA = strfind(algnA, '-');
+indMatchDelA = union(indDelA, regexp(algnA, '[A-Z]'));
+conservedProteinSequenceA = algnA(indMatchDelA); 
+ddi_str_array{pairNbr}.conservedProteinSequenceA=conservedProteinSequenceA;
+% seqB
+[scoreB, algnB] = hmmprofalign(hmmB, seqB, 'flanks', true);
+indDelB = strfind(algnB, '-');
+indMatchDelB = union(indDelB, regexp(algnB, '[A-Z]'));
+conservedProteinSequenceB = algnB(indMatchDelB); 
+ddi_str_array{pairNbr}.conservedProteinSequenceB=conservedProteinSequenceB;
+                                          
+POTest=[];
+NETest=[];
+for i=1:length(posTestI)
+    POTest = [POTest; 
+        AFisherM0Vectors(posTestI(i), :) AFisherM1Vectors(posTestI(i), :) ...
+        getAAindexVector(conservedProteinSequenceA, posTestI(i), 5) ...
+        BFisherM0Vectors(posTestJ(i), :) BFisherM1Vectors(posTestJ(i), :)...
+        getAAindexVector(conservedProteinSequenceB, posTestJ(i), 5) 1];
+end
+for i=1:length(negTestI)
+NETest = [NETest;
+    AFisherM0Vectors(negTestI(i), :) AFisherM1Vectors(negTestI(i), :)... 
+    getAAindexVector(conservedProteinSequenceA, negTestI(i), 5) ...
+    BFisherM0Vectors(negTestJ(i), :) BFisherM1Vectors(negTestJ(i), :)...
+    getAAindexVector(conservedProteinSequenceB, negTestJ(i), 5) 0];
+end
+%Randomly pick same number of negtive as positive.                                        
+
+numPos = length(posTestI);
+numNeg = numPos;
+r=randperm(size(NETest, 1));
+r=r(1:numPos);
+indTestNE=sort(r);
+NETest = NETest(indTestNE, :);
+V=[POTest;NETest];
+
+                    
+return;

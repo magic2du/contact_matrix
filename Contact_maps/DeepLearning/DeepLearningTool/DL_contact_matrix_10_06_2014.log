@@ -1,0 +1,12 @@
+2014-10-06 13:48:25,171 - __main__ - INFO - Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+2014-10-06 13:48:25,171 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-10-06 13:49:24,030 - __main__ - INFO - subset number: 1
+2014-10-06 13:57:13,549 - __main__ - INFO - error in ddi: 6PGD_int_NAD_binding_2
+2014-10-06 14:01:51,483 - __main__ - INFO - Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+2014-10-06 14:01:51,483 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-10-06 14:03:27,364 - __main__ - INFO - subset number: 1
+2014-10-06 14:08:03,985 - __main__ - INFO - error in ddi: 6PGD_int_NAD_binding_2
+2014-10-06 14:57:43,525 - __main__ - INFO - Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+2014-10-06 14:57:43,526 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-10-06 14:58:26,504 - __main__ - INFO - subset number: 1
+2014-10-06 14:58:33,638 - __main__ - INFO - error in ddi: 6PGD_int_NAD_binding_2

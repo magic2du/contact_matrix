@@ -1,0 +1,762 @@
+2015-05-04 13:16:59,225 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 13:16:59,225 - __main__ - INFO - DL: 0
+2015-05-04 13:16:59,225 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 13:16:59,225 - __main__ - INFO - DL_S: 0
+2015-05-04 13:16:59,225 - __main__ - INFO - DL_U: 0
+2015-05-04 13:16:59,225 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 13:16:59,225 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 13:16:59,225 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 13:16:59,225 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 13:16:59,225 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 13:16:59,225 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 13:16:59,225 - __main__ - INFO - SVM: 1
+2015-05-04 13:16:59,225 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 13:16:59,225 - __main__ - INFO - batch_size: 10000
+2015-05-04 13:16:59,225 - __main__ - INFO - DL_xy: 1
+2015-05-04 13:16:59,226 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 13:16:59,226 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 13:16:59,226 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 13:16:59,226 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 13:16:59,226 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 13:16:59,226 - __main__ - INFO - finetune_lr: 10
+2015-05-04 13:16:59,226 - __main__ - INFO - n_cores: 1
+2015-05-04 13:16:59,226 - __main__ - INFO - with_auc_score: False
+2015-05-04 13:16:59,226 - __main__ - INFO - training_epochs: 10001
+2015-05-04 13:16:59,229 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 13:17:06,017 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 13:17:06,017 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined
+2015-05-04 14:52:22,728 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 14:52:22,728 - __main__ - INFO - DL: 0
+2015-05-04 14:52:22,728 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 14:52:22,728 - __main__ - INFO - DL_S: 0
+2015-05-04 14:52:22,728 - __main__ - INFO - DL_U: 0
+2015-05-04 14:52:22,728 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 14:52:22,728 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 14:52:22,728 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 14:52:22,728 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 14:52:22,728 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 14:52:22,728 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 14:52:22,728 - __main__ - INFO - SVM: 1
+2015-05-04 14:52:22,728 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 14:52:22,728 - __main__ - INFO - batch_size: 10000
+2015-05-04 14:52:22,729 - __main__ - INFO - DL_xy: 1
+2015-05-04 14:52:22,729 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 14:52:22,729 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 14:52:22,729 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 14:52:22,729 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 14:52:22,729 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 14:52:22,729 - __main__ - INFO - finetune_lr: 10
+2015-05-04 14:52:22,729 - __main__ - INFO - n_cores: 1
+2015-05-04 14:52:22,729 - __main__ - INFO - with_auc_score: False
+2015-05-04 14:52:22,729 - __main__ - INFO - training_epochs: 10001
+2015-05-04 14:52:22,732 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 14:52:28,755 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 14:52:28,755 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined
+2015-05-04 16:35:40,115 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 16:35:40,115 - __main__ - INFO - DL: 0
+2015-05-04 16:35:40,115 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 16:35:40,115 - __main__ - INFO - DL_S: 0
+2015-05-04 16:35:40,115 - __main__ - INFO - DL_U: 0
+2015-05-04 16:35:40,115 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 16:35:40,115 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 16:35:40,115 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 16:35:40,115 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 16:35:40,115 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 16:35:40,115 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 16:35:40,115 - __main__ - INFO - SVM: 1
+2015-05-04 16:35:40,115 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 16:35:40,115 - __main__ - INFO - batch_size: 10000
+2015-05-04 16:35:40,115 - __main__ - INFO - DL_xy: 1
+2015-05-04 16:35:40,115 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 16:35:40,115 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 16:35:40,115 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 16:35:40,115 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 16:35:40,115 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 16:35:40,116 - __main__ - INFO - finetune_lr: 10
+2015-05-04 16:35:40,116 - __main__ - INFO - n_cores: 1
+2015-05-04 16:35:40,116 - __main__ - INFO - with_auc_score: False
+2015-05-04 16:35:40,116 - __main__ - INFO - training_epochs: 10001
+2015-05-04 16:35:40,118 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 16:35:46,456 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 16:35:46,456 - __main__ - INFO - 'DNN' object has no attribute 'fineting'
+2015-05-04 16:36:07,268 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 16:36:07,268 - __main__ - INFO - DL: 0
+2015-05-04 16:36:07,268 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 16:36:07,268 - __main__ - INFO - DL_S: 0
+2015-05-04 16:36:07,268 - __main__ - INFO - DL_U: 0
+2015-05-04 16:36:07,268 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 16:36:07,268 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 16:36:07,269 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 16:36:07,269 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 16:36:07,269 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 16:36:07,269 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 16:36:07,269 - __main__ - INFO - SVM: 1
+2015-05-04 16:36:07,269 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 16:36:07,269 - __main__ - INFO - batch_size: 10000
+2015-05-04 16:36:07,269 - __main__ - INFO - DL_xy: 1
+2015-05-04 16:36:07,269 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 16:36:07,269 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 16:36:07,269 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 16:36:07,269 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 16:36:07,269 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 16:36:07,269 - __main__ - INFO - finetune_lr: 10
+2015-05-04 16:36:07,269 - __main__ - INFO - n_cores: 1
+2015-05-04 16:36:07,269 - __main__ - INFO - with_auc_score: False
+2015-05-04 16:36:07,269 - __main__ - INFO - training_epochs: 10001
+2015-05-04 16:36:07,273 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 16:36:14,566 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 16:36:14,566 - __main__ - INFO - 'NoneType' object has no attribute 'is_finish'
+2015-05-04 16:45:08,716 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 16:45:08,716 - __main__ - INFO - DL: 0
+2015-05-04 16:45:08,717 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 16:45:08,717 - __main__ - INFO - DL_S: 0
+2015-05-04 16:45:08,717 - __main__ - INFO - DL_U: 0
+2015-05-04 16:45:08,717 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 16:45:08,717 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 16:45:08,718 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 16:45:08,718 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 16:45:08,718 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 16:45:08,718 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 16:45:08,718 - __main__ - INFO - SVM: 1
+2015-05-04 16:45:08,719 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 16:45:08,719 - __main__ - INFO - batch_size: 10000
+2015-05-04 16:45:08,719 - __main__ - INFO - DL_xy: 1
+2015-05-04 16:45:08,719 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 16:45:08,719 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 16:45:08,720 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 16:45:08,720 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 16:45:08,720 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 16:45:08,720 - __main__ - INFO - finetune_lr: 10
+2015-05-04 16:45:08,721 - __main__ - INFO - n_cores: 1
+2015-05-04 16:45:08,721 - __main__ - INFO - with_auc_score: False
+2015-05-04 16:45:08,721 - __main__ - INFO - training_epochs: 10001
+2015-05-04 16:45:10,431 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 16:45:54,643 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 16:45:54,644 - __main__ - INFO - DL: 0
+2015-05-04 16:45:54,644 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 16:45:54,644 - __main__ - INFO - DL_S: 0
+2015-05-04 16:45:54,644 - __main__ - INFO - DL_U: 0
+2015-05-04 16:45:54,645 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 16:45:54,645 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 16:45:54,645 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 16:45:54,645 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 16:45:54,645 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 16:45:54,646 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 16:45:54,646 - __main__ - INFO - SVM: 1
+2015-05-04 16:45:54,646 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 16:45:54,646 - __main__ - INFO - batch_size: 10000
+2015-05-04 16:45:54,647 - __main__ - INFO - DL_xy: 1
+2015-05-04 16:45:54,647 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 16:45:54,647 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 16:45:54,647 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 16:45:54,647 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 16:45:54,648 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 16:45:54,648 - __main__ - INFO - finetune_lr: 10
+2015-05-04 16:45:54,648 - __main__ - INFO - n_cores: 1
+2015-05-04 16:45:54,648 - __main__ - INFO - with_auc_score: False
+2015-05-04 16:45:54,648 - __main__ - INFO - training_epochs: 10001
+2015-05-04 16:45:56,359 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 16:59:43,987 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 16:59:43,987 - __main__ - INFO - DL: 0
+2015-05-04 16:59:43,987 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 16:59:43,987 - __main__ - INFO - DL_S: 0
+2015-05-04 16:59:43,987 - __main__ - INFO - DL_U: 0
+2015-05-04 16:59:43,987 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 16:59:43,987 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 16:59:43,988 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 16:59:43,988 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 16:59:43,988 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 16:59:43,988 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 16:59:43,988 - __main__ - INFO - SVM: 1
+2015-05-04 16:59:43,988 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 16:59:43,988 - __main__ - INFO - batch_size: 10000
+2015-05-04 16:59:43,988 - __main__ - INFO - DL_xy: 1
+2015-05-04 16:59:43,988 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 16:59:43,988 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 16:59:43,988 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 16:59:43,988 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 16:59:43,988 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 16:59:43,988 - __main__ - INFO - finetune_lr: 10
+2015-05-04 16:59:43,988 - __main__ - INFO - n_cores: 1
+2015-05-04 16:59:43,988 - __main__ - INFO - with_auc_score: False
+2015-05-04 16:59:43,988 - __main__ - INFO - training_epochs: 10001
+2015-05-04 16:59:43,991 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 16:59:50,944 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 16:59:50,945 - __main__ - INFO - 'NoneType' object has no attribute 'is_finish'
+2015-05-04 17:01:51,375 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 17:01:51,376 - __main__ - INFO - DL: 0
+2015-05-04 17:01:51,376 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 17:01:51,376 - __main__ - INFO - DL_S: 0
+2015-05-04 17:01:51,376 - __main__ - INFO - DL_U: 0
+2015-05-04 17:01:51,377 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 17:01:51,377 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 17:01:51,377 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 17:01:51,377 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 17:01:51,378 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 17:01:51,378 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 17:01:51,378 - __main__ - INFO - SVM: 1
+2015-05-04 17:01:51,378 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 17:01:51,378 - __main__ - INFO - batch_size: 10000
+2015-05-04 17:01:51,379 - __main__ - INFO - DL_xy: 1
+2015-05-04 17:01:51,379 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 17:01:51,379 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 17:01:51,379 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 17:01:51,379 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 17:01:51,380 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 17:01:51,380 - __main__ - INFO - finetune_lr: 10
+2015-05-04 17:01:51,380 - __main__ - INFO - n_cores: 1
+2015-05-04 17:01:51,380 - __main__ - INFO - with_auc_score: False
+2015-05-04 17:01:51,380 - __main__ - INFO - training_epochs: 10001
+2015-05-04 17:01:52,990 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 17:02:46,047 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 17:02:46,849 - __main__ - INFO - 'NoneType' object has no attribute 'is_finish'
+2015-05-04 17:15:43,632 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 17:15:43,632 - __main__ - INFO - DL: 0
+2015-05-04 17:15:43,633 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 17:15:43,633 - __main__ - INFO - DL_S: 0
+2015-05-04 17:15:43,633 - __main__ - INFO - DL_U: 0
+2015-05-04 17:15:43,633 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 17:15:43,633 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 17:15:43,634 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 17:15:43,634 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 17:15:43,634 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 17:15:43,634 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 17:15:43,635 - __main__ - INFO - SVM: 1
+2015-05-04 17:15:43,635 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 17:15:43,635 - __main__ - INFO - batch_size: 10000
+2015-05-04 17:15:43,635 - __main__ - INFO - DL_xy: 1
+2015-05-04 17:15:43,635 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 17:15:43,636 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 17:15:43,636 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 17:15:43,636 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 17:15:43,636 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 17:15:43,636 - __main__ - INFO - finetune_lr: 10
+2015-05-04 17:15:43,637 - __main__ - INFO - n_cores: 1
+2015-05-04 17:15:43,637 - __main__ - INFO - with_auc_score: False
+2015-05-04 17:15:43,637 - __main__ - INFO - training_epochs: 10001
+2015-05-04 17:15:45,246 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 17:16:39,399 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 17:16:39,399 - __main__ - INFO - y_i >= dx dimensions[1]
+Apply node that caused the error: CrossentropySoftmax1HotWithBiasDx(Alloc.0, SoftmaxWithBias.0, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100,), (100, 1), (100,)]
+Inputs strides: [(4,), (4, 4), (4,)]
+Inputs types: [TensorType(float32, vector), TensorType(float32, matrix), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmax1HotWithBiasDx [@A] <TensorType(float32, matrix)> ''   
+ |Alloc [@B] <TensorType(float32, vector)> ''   
+ | |Elemwise{Composite{[inv(Cast{float32}(i0))]}} [@C] <TensorType(float32, (True,))> ''   
+ | | |InplaceDimShuffle{x} [@D] <TensorType(int64, (True,))> ''   
+ | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ | |     |Elemwise{lt,no_inplace} [@F] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |TensorConstant{1} [@I] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     |Shape_i{0} [@L] <TensorType(int64, scalar)> ''   
+ | |     | |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+ | |     |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |TensorConstant{-1} [@N] <TensorType(int8, scalar)>
+ | |     |Elemwise{lt,no_inplace} [@O] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ |SoftmaxWithBias [@Q] <TensorType(float32, matrix)> ''   
+ | |Dot22 [@R] <TensorType(float32, matrix)> ''   
+ | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@S] <TensorType(float32, matrix)> ''   
+ | | | |Dot22 [@T] <TensorType(float32, matrix)> ''   
+ | | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@U] <TensorType(float32, matrix)> ''   
+ | | | | | |Dot22 [@V] <TensorType(float32, matrix)> ''   
+ | | | | | | |Subtensor{int64:int64:} [@W] <TensorType(float32, matrix)> ''   
+ | | | | | | | |<TensorType(float32, matrix)> [@X] <TensorType(float32, matrix)>
+ | | | | | | | |ScalarFromTensor [@Y] <int64> ''   
+ | | | | | | | | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | | | |ScalarFromTensor [@Z] <int64> ''   
+ | | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | | | | | | |W [@BA] <TensorType(float32, matrix)>
+ | | | | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | | | | |   |b [@BC] <TensorType(float32, vector)>
+ | | | | |W [@BD] <TensorType(float32, matrix)>
+ | | | |InplaceDimShuffle{x,0} [@BE] <TensorType(float32, row)> ''   
+ | | |   |b [@BF] <TensorType(float32, vector)>
+ | | |W [@BG] <TensorType(float32, matrix)>
+ | |b [@BH] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@BI] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@BJ] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+     |ScalarFromTensor [@Y] <int64> ''   
+     |ScalarFromTensor [@Z] <int64> ''   
+
+2015-05-04 17:18:25,665 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 17:18:25,665 - __main__ - INFO - DL: 0
+2015-05-04 17:18:25,665 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 17:18:25,665 - __main__ - INFO - DL_S: 0
+2015-05-04 17:18:25,666 - __main__ - INFO - DL_U: 0
+2015-05-04 17:18:25,666 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 17:18:25,666 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 17:18:25,666 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 17:18:25,667 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 17:18:25,667 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 17:18:25,667 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 17:18:25,667 - __main__ - INFO - SVM: 1
+2015-05-04 17:18:25,667 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 17:18:25,668 - __main__ - INFO - batch_size: 10000
+2015-05-04 17:18:25,668 - __main__ - INFO - DL_xy: 1
+2015-05-04 17:18:25,668 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 17:18:25,668 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 17:18:25,668 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 17:18:25,669 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 17:18:25,669 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 17:18:25,669 - __main__ - INFO - finetune_lr: 10
+2015-05-04 17:18:25,669 - __main__ - INFO - n_cores: 1
+2015-05-04 17:18:25,670 - __main__ - INFO - with_auc_score: False
+2015-05-04 17:18:25,670 - __main__ - INFO - training_epochs: 10001
+2015-05-04 17:18:27,279 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 17:32:31,383 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 17:32:31,383 - __main__ - INFO - y_i >= dx dimensions[1]
+Apply node that caused the error: CrossentropySoftmax1HotWithBiasDx(Alloc.0, SoftmaxWithBias.0, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100,), (100, 1), (100,)]
+Inputs strides: [(4,), (4, 4), (4,)]
+Inputs types: [TensorType(float32, vector), TensorType(float32, matrix), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmax1HotWithBiasDx [@A] <TensorType(float32, matrix)> ''   
+ |Alloc [@B] <TensorType(float32, vector)> ''   
+ | |Elemwise{Composite{[inv(Cast{float32}(i0))]}} [@C] <TensorType(float32, (True,))> ''   
+ | | |InplaceDimShuffle{x} [@D] <TensorType(int64, (True,))> ''   
+ | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ | |     |Elemwise{lt,no_inplace} [@F] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |TensorConstant{1} [@I] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     |Shape_i{0} [@L] <TensorType(int64, scalar)> ''   
+ | |     | |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+ | |     |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |TensorConstant{-1} [@N] <TensorType(int8, scalar)>
+ | |     |Elemwise{lt,no_inplace} [@O] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ |SoftmaxWithBias [@Q] <TensorType(float32, matrix)> ''   
+ | |Dot22 [@R] <TensorType(float32, matrix)> ''   
+ | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@S] <TensorType(float32, matrix)> ''   
+ | | | |Dot22 [@T] <TensorType(float32, matrix)> ''   
+ | | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@U] <TensorType(float32, matrix)> ''   
+ | | | | | |Dot22 [@V] <TensorType(float32, matrix)> ''   
+ | | | | | | |Subtensor{int64:int64:} [@W] <TensorType(float32, matrix)> ''   
+ | | | | | | | |<TensorType(float32, matrix)> [@X] <TensorType(float32, matrix)>
+ | | | | | | | |ScalarFromTensor [@Y] <int64> ''   
+ | | | | | | | | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | | | |ScalarFromTensor [@Z] <int64> ''   
+ | | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | | | | | | |W [@BA] <TensorType(float32, matrix)>
+ | | | | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | | | | |   |b [@BC] <TensorType(float32, vector)>
+ | | | | |W [@BD] <TensorType(float32, matrix)>
+ | | | |InplaceDimShuffle{x,0} [@BE] <TensorType(float32, row)> ''   
+ | | |   |b [@BF] <TensorType(float32, vector)>
+ | | |W [@BG] <TensorType(float32, matrix)>
+ | |b [@BH] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@BI] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@BJ] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+     |ScalarFromTensor [@Y] <int64> ''   
+     |ScalarFromTensor [@Z] <int64> ''   
+
+2015-05-04 17:49:54,173 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 17:49:54,174 - __main__ - INFO - DL: 0
+2015-05-04 17:49:54,174 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 17:49:54,174 - __main__ - INFO - DL_S: 0
+2015-05-04 17:49:54,174 - __main__ - INFO - DL_U: 0
+2015-05-04 17:49:54,174 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 17:49:54,175 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 17:49:54,175 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 17:49:54,175 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 17:49:54,175 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 17:49:54,175 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 17:49:54,176 - __main__ - INFO - SVM: 1
+2015-05-04 17:49:54,176 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 17:49:54,176 - __main__ - INFO - batch_size: 10000
+2015-05-04 17:49:54,176 - __main__ - INFO - DL_xy: 1
+2015-05-04 17:49:54,176 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 17:49:54,177 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 17:49:54,177 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 17:49:54,177 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 17:49:54,178 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 17:49:54,178 - __main__ - INFO - finetune_lr: 10
+2015-05-04 17:49:54,178 - __main__ - INFO - n_cores: 1
+2015-05-04 17:49:54,178 - __main__ - INFO - with_auc_score: False
+2015-05-04 17:49:54,178 - __main__ - INFO - training_epochs: 10001
+2015-05-04 17:49:55,788 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 17:50:21,274 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 17:50:21,275 - __main__ - INFO - y_i >= dx dimensions[1]
+Apply node that caused the error: CrossentropySoftmax1HotWithBiasDx(Alloc.0, SoftmaxWithBias.0, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100,), (100, 1), (100,)]
+Inputs strides: [(4,), (4, 4), (4,)]
+Inputs types: [TensorType(float32, vector), TensorType(float32, matrix), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmax1HotWithBiasDx [@A] <TensorType(float32, matrix)> ''   
+ |Alloc [@B] <TensorType(float32, vector)> ''   
+ | |Elemwise{Composite{[inv(Cast{float32}(i0))]}} [@C] <TensorType(float32, (True,))> ''   
+ | | |InplaceDimShuffle{x} [@D] <TensorType(int64, (True,))> ''   
+ | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ | |     |Elemwise{lt,no_inplace} [@F] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |TensorConstant{1} [@I] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     |Shape_i{0} [@L] <TensorType(int64, scalar)> ''   
+ | |     | |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+ | |     |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |TensorConstant{-1} [@N] <TensorType(int8, scalar)>
+ | |     |Elemwise{lt,no_inplace} [@O] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ |SoftmaxWithBias [@Q] <TensorType(float32, matrix)> ''   
+ | |Dot22 [@R] <TensorType(float32, matrix)> ''   
+ | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@S] <TensorType(float32, matrix)> ''   
+ | | | |Dot22 [@T] <TensorType(float32, matrix)> ''   
+ | | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@U] <TensorType(float32, matrix)> ''   
+ | | | | | |Dot22 [@V] <TensorType(float32, matrix)> ''   
+ | | | | | | |Subtensor{int64:int64:} [@W] <TensorType(float32, matrix)> ''   
+ | | | | | | | |<TensorType(float32, matrix)> [@X] <TensorType(float32, matrix)>
+ | | | | | | | |ScalarFromTensor [@Y] <int64> ''   
+ | | | | | | | | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | | | |ScalarFromTensor [@Z] <int64> ''   
+ | | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | | | | | | |W [@BA] <TensorType(float32, matrix)>
+ | | | | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | | | | |   |b [@BC] <TensorType(float32, vector)>
+ | | | | |W [@BD] <TensorType(float32, matrix)>
+ | | | |InplaceDimShuffle{x,0} [@BE] <TensorType(float32, row)> ''   
+ | | |   |b [@BF] <TensorType(float32, vector)>
+ | | |W [@BG] <TensorType(float32, matrix)>
+ | |b [@BH] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@BI] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@BJ] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+     |ScalarFromTensor [@Y] <int64> ''   
+     |ScalarFromTensor [@Z] <int64> ''   
+
+2015-05-04 17:50:45,882 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 17:50:45,882 - __main__ - INFO - DL: 0
+2015-05-04 17:50:45,882 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 17:50:45,882 - __main__ - INFO - DL_S: 0
+2015-05-04 17:50:45,882 - __main__ - INFO - DL_U: 0
+2015-05-04 17:50:45,883 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 17:50:45,883 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 17:50:45,883 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 17:50:45,883 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 17:50:45,884 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 17:50:45,884 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 17:50:45,884 - __main__ - INFO - SVM: 1
+2015-05-04 17:50:45,884 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 17:50:45,884 - __main__ - INFO - batch_size: 10000
+2015-05-04 17:50:45,885 - __main__ - INFO - DL_xy: 1
+2015-05-04 17:50:45,885 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 17:50:45,885 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 17:50:45,885 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 17:50:45,886 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 17:50:45,886 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 17:50:45,886 - __main__ - INFO - finetune_lr: 10
+2015-05-04 17:50:45,886 - __main__ - INFO - n_cores: 1
+2015-05-04 17:50:45,886 - __main__ - INFO - with_auc_score: False
+2015-05-04 17:50:45,887 - __main__ - INFO - training_epochs: 10001
+2015-05-04 17:50:47,497 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 18:02:56,314 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 18:02:56,315 - __main__ - INFO - y_i >= dx dimensions[1]
+Apply node that caused the error: CrossentropySoftmax1HotWithBiasDx(Alloc.0, SoftmaxWithBias.0, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100,), (100, 1), (100,)]
+Inputs strides: [(4,), (4, 4), (4,)]
+Inputs types: [TensorType(float32, vector), TensorType(float32, matrix), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmax1HotWithBiasDx [@A] <TensorType(float32, matrix)> ''   
+ |Alloc [@B] <TensorType(float32, vector)> ''   
+ | |Elemwise{Composite{[inv(Cast{float32}(i0))]}} [@C] <TensorType(float32, (True,))> ''   
+ | | |InplaceDimShuffle{x} [@D] <TensorType(int64, (True,))> ''   
+ | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ | |     |Elemwise{lt,no_inplace} [@F] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |TensorConstant{1} [@I] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     |Shape_i{0} [@L] <TensorType(int64, scalar)> ''   
+ | |     | |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+ | |     |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |TensorConstant{-1} [@N] <TensorType(int8, scalar)>
+ | |     |Elemwise{lt,no_inplace} [@O] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ |SoftmaxWithBias [@Q] <TensorType(float32, matrix)> ''   
+ | |Dot22 [@R] <TensorType(float32, matrix)> ''   
+ | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@S] <TensorType(float32, matrix)> ''   
+ | | | |Dot22 [@T] <TensorType(float32, matrix)> ''   
+ | | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@U] <TensorType(float32, matrix)> ''   
+ | | | | | |Dot22 [@V] <TensorType(float32, matrix)> ''   
+ | | | | | | |Subtensor{int64:int64:} [@W] <TensorType(float32, matrix)> ''   
+ | | | | | | | |<TensorType(float32, matrix)> [@X] <TensorType(float32, matrix)>
+ | | | | | | | |ScalarFromTensor [@Y] <int64> ''   
+ | | | | | | | | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | | | |ScalarFromTensor [@Z] <int64> ''   
+ | | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | | | | | | |W [@BA] <TensorType(float32, matrix)>
+ | | | | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | | | | |   |b [@BC] <TensorType(float32, vector)>
+ | | | | |W [@BD] <TensorType(float32, matrix)>
+ | | | |InplaceDimShuffle{x,0} [@BE] <TensorType(float32, row)> ''   
+ | | |   |b [@BF] <TensorType(float32, vector)>
+ | | |W [@BG] <TensorType(float32, matrix)>
+ | |b [@BH] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@BI] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@BJ] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+     |ScalarFromTensor [@Y] <int64> ''   
+     |ScalarFromTensor [@Z] <int64> ''   
+
+2015-05-04 18:39:17,929 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 18:39:17,930 - __main__ - INFO - DL: 0
+2015-05-04 18:39:17,930 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 18:39:17,930 - __main__ - INFO - DL_S: 0
+2015-05-04 18:39:17,930 - __main__ - INFO - DL_U: 0
+2015-05-04 18:39:17,930 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 18:39:17,930 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 18:39:17,930 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 18:39:17,930 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 18:39:17,930 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 18:39:17,930 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 18:39:17,930 - __main__ - INFO - SVM: 1
+2015-05-04 18:39:17,930 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 18:39:17,930 - __main__ - INFO - batch_size: 10000
+2015-05-04 18:39:17,930 - __main__ - INFO - DL_xy: 1
+2015-05-04 18:39:17,930 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 18:39:17,930 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 18:39:17,930 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 18:39:17,930 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 18:39:17,930 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 18:39:17,930 - __main__ - INFO - finetune_lr: 10
+2015-05-04 18:39:17,930 - __main__ - INFO - n_cores: 1
+2015-05-04 18:39:17,930 - __main__ - INFO - with_auc_score: False
+2015-05-04 18:39:17,930 - __main__ - INFO - training_epochs: 10001
+2015-05-04 18:39:17,934 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 18:39:24,981 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 18:39:24,982 - __main__ - INFO - y_i >= dx dimensions[1]
+Apply node that caused the error: CrossentropySoftmax1HotWithBiasDx(Alloc.0, SoftmaxWithBias.0, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100,), (100, 1), (100,)]
+Inputs strides: [(4,), (4, 4), (4,)]
+Inputs types: [TensorType(float32, vector), TensorType(float32, matrix), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmax1HotWithBiasDx [@A] <TensorType(float32, matrix)> ''   
+ |Alloc [@B] <TensorType(float32, vector)> ''   
+ | |Elemwise{Composite{[inv(Cast{float32}(i0))]}} [@C] <TensorType(float32, (True,))> ''   
+ | | |InplaceDimShuffle{x} [@D] <TensorType(int64, (True,))> ''   
+ | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ | |     |Elemwise{lt,no_inplace} [@F] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |TensorConstant{1} [@I] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     |Shape_i{0} [@L] <TensorType(int64, scalar)> ''   
+ | |     | |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+ | |     |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |TensorConstant{-1} [@N] <TensorType(int8, scalar)>
+ | |     |Elemwise{lt,no_inplace} [@O] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@E] <TensorType(int64, scalar)> ''   
+ |SoftmaxWithBias [@Q] <TensorType(float32, matrix)> ''   
+ | |Dot22 [@R] <TensorType(float32, matrix)> ''   
+ | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@S] <TensorType(float32, matrix)> ''   
+ | | | |Dot22 [@T] <TensorType(float32, matrix)> ''   
+ | | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@U] <TensorType(float32, matrix)> ''   
+ | | | | | |Dot22 [@V] <TensorType(float32, matrix)> ''   
+ | | | | | | |Subtensor{int64:int64:} [@W] <TensorType(float32, matrix)> ''   
+ | | | | | | | |<TensorType(float32, matrix)> [@X] <TensorType(float32, matrix)>
+ | | | | | | | |ScalarFromTensor [@Y] <int64> ''   
+ | | | | | | | | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | | | |ScalarFromTensor [@Z] <int64> ''   
+ | | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | | | | | | |W [@BA] <TensorType(float32, matrix)>
+ | | | | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | | | | |   |b [@BC] <TensorType(float32, vector)>
+ | | | | |W [@BD] <TensorType(float32, matrix)>
+ | | | |InplaceDimShuffle{x,0} [@BE] <TensorType(float32, row)> ''   
+ | | |   |b [@BF] <TensorType(float32, vector)>
+ | | |W [@BG] <TensorType(float32, matrix)>
+ | |b [@BH] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@BI] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@BJ] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+     |ScalarFromTensor [@Y] <int64> ''   
+     |ScalarFromTensor [@Z] <int64> ''   
+
+2015-05-04 22:05:23,792 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 22:05:23,792 - __main__ - INFO - DL: 0
+2015-05-04 22:05:23,792 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 22:05:23,792 - __main__ - INFO - DL_S: 0
+2015-05-04 22:05:23,792 - __main__ - INFO - DL_U: 0
+2015-05-04 22:05:23,792 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 22:05:23,792 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 22:05:23,792 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 22:05:23,792 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 22:05:23,792 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 22:05:23,792 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 22:05:23,792 - __main__ - INFO - SVM: 1
+2015-05-04 22:05:23,792 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 22:05:23,792 - __main__ - INFO - batch_size: 10000
+2015-05-04 22:05:23,792 - __main__ - INFO - DL_xy: 1
+2015-05-04 22:05:23,792 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 22:05:23,792 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 22:05:23,792 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 22:05:23,792 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 22:05:23,792 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 22:05:23,793 - __main__ - INFO - finetune_lr: 10
+2015-05-04 22:05:23,793 - __main__ - INFO - n_cores: 1
+2015-05-04 22:05:23,793 - __main__ - INFO - with_auc_score: False
+2015-05-04 22:05:23,793 - __main__ - INFO - training_epochs: 10001
+2015-05-04 22:05:23,795 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 22:05:28,530 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 22:05:28,530 - __main__ - INFO - Shape mismatch: x has 41 cols (and 100 rows) but y has 42 rows (and 200 cols)
+Apply node that caused the error: Dot22(Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)].0, W)
+Inputs shapes: [(100, 41), (42, 200)]
+Inputs strides: [(164, 4), (800, 4)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, matrix)]
+Debugprint of the apply node: 
+Dot22 [@A] <TensorType(float32, matrix)> ''   
+ |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@B] <TensorType(float32, matrix)> ''   
+ | |RandomFunction{binomial}.1 [@C] <TensorType(float32, matrix)> ''   
+ | | |<RandomStateType> [@D] <RandomStateType>
+ | | |Elemwise{Cast{int32}} [@E] <TensorType(int32, vector)> ''   
+ | | | |MakeVector [@F] <TensorType(int64, vector)> ''   
+ | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@G] <TensorType(int64, scalar)> ''   
+ | | |   | |Elemwise{add,no_inplace} [@H] <TensorType(int64, scalar)> ''   
+ | | |   | | |TensorConstant{100} [@I] <TensorType(int64, scalar)>
+ | | |   | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | |   | |   |TensorConstant{100} [@I] <TensorType(int64, scalar)>
+ | | |   | |   |index [@K] <TensorType(int64, scalar)>
+ | | |   | |TensorConstant{0} [@L] <TensorType(int8, scalar)>
+ | | |   | |TensorConstant{100} [@I] <TensorType(int64, scalar)>
+ | | |   | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | |   | |Shape_i{0} [@M] <TensorType(int64, scalar)> ''   
+ | | |   | | |<TensorType(float32, matrix)> [@N] <TensorType(float32, matrix)>
+ | | |   | |TensorConstant{-1} [@O] <TensorType(int8, scalar)>
+ | | |   |Shape_i{1} [@P] <TensorType(int64, scalar)> ''   
+ | | |     |<TensorType(float32, matrix)> [@N] <TensorType(float32, matrix)>
+ | | |TensorConstant{1} [@Q] <TensorType(int8, scalar)>
+ | | |Elemwise{sub,no_inplace} [@R] <TensorType(float32, scalar)> ''   
+ | |   |TensorConstant{1.0} [@S] <TensorType(float32, scalar)>
+ | |   |corruption [@T] <TensorType(float32, scalar)>
+ | |Subtensor{int64:int64:} [@U] <TensorType(float32, matrix)> ''   
+ |   |<TensorType(float32, matrix)> [@N] <TensorType(float32, matrix)>
+ |   |ScalarFromTensor [@V] <int64> ''   
+ |   | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ |   |ScalarFromTensor [@W] <int64> ''   
+ |     |Elemwise{add,no_inplace} [@H] <TensorType(int64, scalar)> ''   
+ |W [@X] <TensorType(float32, matrix)>
+
+2015-05-04 22:08:35,704 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 22:08:35,704 - __main__ - INFO - DL: 0
+2015-05-04 22:08:35,704 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 22:08:35,704 - __main__ - INFO - DL_S: 0
+2015-05-04 22:08:35,704 - __main__ - INFO - DL_U: 0
+2015-05-04 22:08:35,704 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 22:08:35,704 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 22:08:35,704 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 22:08:35,705 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 22:08:35,705 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 22:08:35,705 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 22:08:35,705 - __main__ - INFO - SVM: 1
+2015-05-04 22:08:35,705 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 22:08:35,705 - __main__ - INFO - batch_size: 10000
+2015-05-04 22:08:35,705 - __main__ - INFO - DL_xy: 1
+2015-05-04 22:08:35,705 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 22:08:35,705 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 22:08:35,705 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 22:08:35,705 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 22:08:35,705 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 22:08:35,705 - __main__ - INFO - finetune_lr: 10
+2015-05-04 22:08:35,705 - __main__ - INFO - n_cores: 1
+2015-05-04 22:08:35,705 - __main__ - INFO - with_auc_score: False
+2015-05-04 22:08:35,705 - __main__ - INFO - training_epochs: 10001
+2015-05-04 22:08:35,708 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 22:08:41,865 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 22:08:41,865 - __main__ - INFO - global name 'n_outs' is not defined
+2015-05-04 22:16:58,673 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 22:16:58,673 - __main__ - INFO - DL: 0
+2015-05-04 22:16:58,673 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 22:16:58,673 - __main__ - INFO - DL_S: 0
+2015-05-04 22:16:58,673 - __main__ - INFO - DL_U: 0
+2015-05-04 22:16:58,673 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 22:16:58,673 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 22:16:58,673 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 22:16:58,673 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 22:16:58,673 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 22:16:58,673 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 22:16:58,673 - __main__ - INFO - SVM: 1
+2015-05-04 22:16:58,673 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 22:16:58,673 - __main__ - INFO - batch_size: 10000
+2015-05-04 22:16:58,673 - __main__ - INFO - DL_xy: 1
+2015-05-04 22:16:58,673 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 22:16:58,673 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 22:16:58,673 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 22:16:58,674 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 22:16:58,674 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 22:16:58,674 - __main__ - INFO - finetune_lr: 10
+2015-05-04 22:16:58,674 - __main__ - INFO - n_cores: 1
+2015-05-04 22:16:58,674 - __main__ - INFO - with_auc_score: False
+2015-05-04 22:16:58,674 - __main__ - INFO - training_epochs: 10001
+2015-05-04 22:16:58,677 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 22:17:08,366 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 22:17:08,366 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined
+2015-05-04 22:28:00,002 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-04 22:28:00,002 - __main__ - INFO - DL: 0
+2015-05-04 22:28:00,002 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-04 22:28:00,002 - __main__ - INFO - DL_S: 0
+2015-05-04 22:28:00,002 - __main__ - INFO - DL_U: 0
+2015-05-04 22:28:00,002 - __main__ - INFO - SVM_POLY: 0
+2015-05-04 22:28:00,002 - __main__ - INFO - reduce_ratio: 1
+2015-05-04 22:28:00,002 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-04 22:28:00,002 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-04 22:28:00,002 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-04 22:28:00,003 - __main__ - INFO - filename: testDDI.txt
+2015-05-04 22:28:00,003 - __main__ - INFO - SVM: 1
+2015-05-04 22:28:00,003 - __main__ - INFO - SVM_RBF: 0
+2015-05-04 22:28:00,003 - __main__ - INFO - batch_size: 10000
+2015-05-04 22:28:00,003 - __main__ - INFO - DL_xy: 1
+2015-05-04 22:28:00,003 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-04 22:28:00,003 - __main__ - INFO - SAE_SVM: 0
+2015-05-04 22:28:00,003 - __main__ - INFO - pretraining_interations: 10001
+2015-05-04 22:28:00,003 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-04 22:28:00,003 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-04 22:28:00,003 - __main__ - INFO - finetune_lr: 10
+2015-05-04 22:28:00,003 - __main__ - INFO - n_cores: 1
+2015-05-04 22:28:00,003 - __main__ - INFO - with_auc_score: False
+2015-05-04 22:28:00,003 - __main__ - INFO - training_epochs: 10001
+2015-05-04 22:28:00,006 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-04 22:28:10,684 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-04 22:28:10,684 - __main__ - INFO - global name 'pretrain_a_Sda_with_estop' is not defined

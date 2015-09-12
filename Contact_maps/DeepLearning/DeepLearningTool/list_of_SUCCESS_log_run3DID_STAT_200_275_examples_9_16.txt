@@ -1,0 +1,8 @@
+Arginase_int_Arginase
+C1-set_int_MHC_II_alpha
+CPSase_L_chain_int_CPSase_L_D2
+ELFV_dehydrog_int_ELFV_dehydrog_N
+Glyco_hydro_2_int_Glyco_hydro_2_N
+MR_MLE_int_MR_MLE_N
+Pkinase_Tyr_int_Pkinase_Tyr
+Pyr_redox_2_int_Pyr_redox_2

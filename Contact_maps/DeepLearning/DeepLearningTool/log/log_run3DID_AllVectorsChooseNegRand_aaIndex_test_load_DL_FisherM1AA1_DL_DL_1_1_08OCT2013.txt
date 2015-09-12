@@ -1,0 +1,207 @@
+2013-10-8 17: STARTED.
+For one hidden layer
+Training accuracy: 89.080%
+Training recall: 83.908%
+Training precision: 93.590%
+Training f_measure: 88.485%
+Testing accuracy: 83.333%
+Testing recall: 88.889%
+Testing precision: 80.000%
+Testing f_measure: 84.211%
+Training accuracy: 90.805%
+Training recall: 87.356%
+Training precision: 93.827%
+Training f_measure: 90.476%
+Testing accuracy: 88.889%
+Testing recall: 88.889%
+Testing precision: 88.889%
+Testing f_measure: 88.889%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 1, auc = 0.889, sens = 0.889, spec = 0.889, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+For one hidden layer
+Training accuracy: 90.805%
+Training recall: 88.506%
+Training precision: 92.771%
+Training f_measure: 90.588%
+Testing accuracy: 77.778%
+Testing recall: 55.556%
+Testing precision: 100.000%
+Testing f_measure: 71.429%
+Training accuracy: 91.379%
+Training recall: 89.655%
+Training precision: 92.857%
+Training f_measure: 91.228%
+Testing accuracy: 77.778%
+Testing recall: 55.556%
+Testing precision: 100.000%
+Testing f_measure: 71.429%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 3, auc = 0.827, sens = 0.556, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+For one hidden layer
+Training accuracy: 92.135%
+Training recall: 88.764%
+Training precision: 95.181%
+Training f_measure: 91.860%
+Testing accuracy: 78.571%
+Testing recall: 57.143%
+Testing precision: 100.000%
+Testing f_measure: 72.727%
+Training accuracy: 92.135%
+Training recall: 88.764%
+Training precision: 95.181%
+Training f_measure: 91.860%
+Testing accuracy: 78.571%
+Testing recall: 57.143%
+Testing precision: 100.000%
+Testing f_measure: 72.727%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 4, auc = 0.755, sens = 0.571, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+For one hidden layer
+Training accuracy: 91.279%
+Training recall: 91.860%
+Training precision: 90.805%
+Training f_measure: 91.329%
+Testing accuracy: 55.000%
+Testing recall: 20.000%
+Testing precision: 66.667%
+Testing f_measure: 30.769%
+Training accuracy: 91.860%
+Training recall: 93.023%
+Training precision: 90.909%
+Training f_measure: 91.954%
+Testing accuracy: 55.000%
+Testing recall: 20.000%
+Testing precision: 66.667%
+Testing f_measure: 30.769%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 5, auc = 0.430, sens = 0.200, spec = 0.667, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+For one hidden layer
+Training accuracy: 89.655%
+Training recall: 85.057%
+Training precision: 93.671%
+Training f_measure: 89.157%
+Testing accuracy: 83.333%
+Testing recall: 66.667%
+Testing precision: 100.000%
+Testing f_measure: 80.000%
+Training accuracy: 90.805%
+Training recall: 87.356%
+Training precision: 93.827%
+Training f_measure: 90.476%
+Testing accuracy: 83.333%
+Testing recall: 66.667%
+Testing precision: 100.000%
+Testing f_measure: 80.000%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 6, auc = 0.877, sens = 0.667, spec = 1.000, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+For one hidden layer
+Training accuracy: 92.073%
+Training recall: 86.585%
+Training precision: 97.260%
+Training f_measure: 91.613%
+Testing accuracy: 85.714%
+Testing recall: 85.714%
+Testing precision: 85.714%
+Testing f_measure: 85.714%
+Training accuracy: 92.073%
+Training recall: 86.585%
+Training precision: 97.260%
+Training f_measure: 91.613%
+Testing accuracy: 85.714%
+Testing recall: 85.714%
+Testing precision: 85.714%
+Testing f_measure: 85.714%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 11, auc = 0.918, sens = 0.857, spec = 0.857, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+For one hidden layer
+Training accuracy: 93.210%
+Training recall: 90.123%
+Training precision: 96.053%
+Training f_measure: 92.994%
+Testing accuracy: 60.000%
+Testing recall: 40.000%
+Testing precision: 66.667%
+Testing f_measure: 50.000%
+Training accuracy: 93.210%
+Training recall: 90.123%
+Training precision: 96.053%
+Training f_measure: 92.994%
+Testing accuracy: 63.333%
+Testing recall: 46.667%
+Testing precision: 70.000%
+Testing f_measure: 56.000%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 12, auc = 0.662, sens = 0.467, spec = 0.700, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+For one hidden layer
+Training accuracy: 94.521%
+Training recall: 97.260%
+Training precision: 92.208%
+Training f_measure: 94.667%
+Testing accuracy: 67.391%
+Testing recall: 60.870%
+Testing precision: 70.000%
+Testing f_measure: 65.116%
+Training accuracy: 94.521%
+Training recall: 97.260%
+Training precision: 92.208%
+Training f_measure: 94.667%
+Testing accuracy: 65.217%
+Testing recall: 60.870%
+Testing precision: 66.667%
+Testing f_measure: 63.636%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 16, auc = 0.733, sens = 0.609, spec = 0.667, blAUC = 0.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2013-10-9 5:39 SUCCESS: PF00051.10_int_PF00051.10.
+
+
+2013-10-9 5:39 FINISHED.
+Number of total DDI is: 1
+Number of successed DDI is: 1
+Number of total sequence is: 8
+FisherMode: FisherM1AA1 SVMMode: DL Kernel: DL, choseNegRatio: 1, choseNegRatioTest: 1
+The baseline AUC: 0.000%
+The baseline recall: 0.000%
+The baseline precision: 0.000%
+Testing AUC: 76.147%
+Testing recall: 60.188%
+Testing precision: 84.742%
+Testing f_measure: 68.646%
+Training accuracy: 92.098%
+Training recall: 90.016%
+Training precision: 94.015%
+Training f_measure: 91.909%

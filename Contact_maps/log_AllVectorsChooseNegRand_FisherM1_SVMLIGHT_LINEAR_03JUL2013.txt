@@ -1,0 +1,1499 @@
+2013-7-3 :58 STARTED.
+{Warning: Found 1 pre-existing parallel job(s) created by matlabpool that are
+running.
+You can use   'matlabpool close force local'    or create a configuration for
+the parallel.cluster.Local object and use   'matlabpool close force
+<configurationName>'    to remove all jobs created by matlabpool.} 
+{> In distcomp.interactiveclient.pRemoveOldJobs at 55
+  In distcomp.interactiveclient.start at 58
+  In MatlabpoolHelper>MatlabpoolHelper.doOpen at 286
+  In MatlabpoolHelper>MatlabpoolHelper.doMatlabpool at 137
+  In matlabpool at 139
+  In run3DID_AllVectorsChooseNegRand_aaIndex_test at 39} 
+Starting matlabpool using the 'local' profile ... connected to 5 labs.
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (82 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 98.15% (53 correct, 1 incorrect, 54 total)
+Precision/recall on test set: 96.43%/100.00%
+
+
+
+PF00074.12_int_PF07686.9, seqPair 1, auc = 0.996, sens = 0.963, spec = 0.963, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (64 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 100.00% (64 correct, 0 incorrect, 64 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00617.11_int_PF00618.12, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.875, blSens = 0.750, blSpec = 1.000.
+
+
+Reading model...OK. (747 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.66
+Accuracy on test set: 97.10% (134 correct, 4 incorrect, 138 total)
+Precision/recall on test set: 95.77%/98.55%
+
+
+
+PF00243.10_int_PF00243.10, seqPair 1, auc = 0.999, sens = 0.986, spec = 0.986, blAUC = 0.978, blSens = 0.957, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (82 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 100.00% (28 correct, 0 incorrect, 28 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00074.12_int_PF07686.9, seqPair 7, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.536, blSens = 0.071, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (64 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 50.00% (43 correct, 43 incorrect, 86 total)
+Precision/recall on test set: nan%/0.00%
+
+
+
+PF00617.11_int_PF00618.12, seqPair 11, auc = 0.913, sens = 0.767, spec = 0.767, blAUC = 0.779, blSens = 0.558, blSpec = 1.000.
+
+
+
+
+
+2013-7-3 3:14 SUCCESS: PF00617.11_int_PF00618.12, meanAUC = 0.957.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (82 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 54.35% (25 correct, 21 incorrect, 46 total)
+Precision/recall on test set: 75.00%/13.04%
+
+
+
+PF00074.12_int_PF07686.9, seqPair 8, auc = 0.817, sens = 0.826, spec = 0.826, blAUC = 0.522, blSens = 0.043, blSpec = 1.000.
+
+
+
+
+
+2013-7-3 3:27 SUCCESS: PF00074.12_int_PF07686.9, meanAUC = 0.938.
+
+
+Reading model...OK. (747 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.54
+Accuracy on test set: 94.16% (145 correct, 9 incorrect, 154 total)
+Precision/recall on test set: 97.22%/90.91%
+
+
+
+PF00243.10_int_PF00243.10, seqPair 2, auc = 0.983, sens = 0.935, spec = 0.935, blAUC = 0.968, blSens = 0.935, blSpec = 1.000.
+
+
+2013-7-3 3:30 ERROR: PF00243.10_int_PF00243.10. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (172 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 94.44% (17 correct, 1 incorrect, 18 total)
+Precision/recall on test set: 90.00%/100.00%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (172 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 100.00% (18 correct, 0 incorrect, 18 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 3, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.556, blSens = 0.111, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (368 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 100.00% (30 correct, 0 incorrect, 30 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.967, blSens = 0.933, blSpec = 1.000.
+
+
+Reading model...OK. (172 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 92.86% (13 correct, 1 incorrect, 14 total)
+Precision/recall on test set: 87.50%/100.00%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 4, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.143, blSpec = 0.500.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (172 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 50.00% (10 correct, 10 incorrect, 20 total)
+Precision/recall on test set: nan%/0.00%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 5, auc = 0.440, sens = 0.400, spec = 0.400, blAUC = 0.450, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (172 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 100.00% (18 correct, 0 incorrect, 18 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00051.10_int_PF00051.10, seqPair 6, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+2013-7-3 5:47 ERROR: PF00051.10_int_PF00051.10. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (368 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.16
+Accuracy on test set: 93.24% (69 correct, 5 incorrect, 74 total)
+Precision/recall on test set: 94.44%/91.89%
+
+
+
+PF00167.10_int_PF07679.8, seqPair 2, auc = 0.984, sens = 0.919, spec = 0.919, blAUC = 0.811, blSens = 0.622, blSpec = 1.000.
+
+
+2013-7-3 6:7 ERROR: PF00167.10_int_PF07679.8. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (126 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 96.83% (122 correct, 4 incorrect, 126 total)
+Precision/recall on test set: 95.38%/98.41%
+
+
+
+PF00149.20_int_PF08321.4, seqPair 1, auc = 0.999, sens = 0.984, spec = 0.984, blAUC = 0.944, blSens = 0.889, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (126 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.06
+Accuracy on test set: 92.97% (119 correct, 9 incorrect, 128 total)
+Precision/recall on test set: 95.08%/90.62%
+
+
+
+PF00149.20_int_PF08321.4, seqPair 3, auc = 0.988, sens = 0.922, spec = 0.922, blAUC = 0.938, blSens = 0.875, blSpec = 1.000.
+
+
+
+
+
+2013-7-3 6:35 SUCCESS: PF00149.20_int_PF08321.4, meanAUC = 0.993.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (32 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 100.00% (18 correct, 0 incorrect, 18 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00034.13_int_PF02239.8, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.944, blSens = 0.889, blSpec = 1.000.
+
+
+2013-7-3 9:3 ERROR: PF00034.13_int_PF02239.8. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Reading model...OK. (94 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.10
+Accuracy on test set: 50.00% (86 correct, 86 incorrect, 172 total)
+Precision/recall on test set: nan%/0.00%
+
+
+
+PF00933.13_int_PF01915.14, seqPair 1, auc = 0.845, sens = 0.756, spec = 0.756, blAUC = 0.610, blSens = 0.221, blSpec = 1.000.
+
+
+2013-7-3 9:15 ERROR: PF00933.13_int_PF01915.14. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (224 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.08
+Accuracy on test set: 98.08% (102 correct, 2 incorrect, 104 total)
+Precision/recall on test set: 96.30%/100.00%
+
+
+
+PF00899.13_int_PF02134.13, seqPair 1, auc = 0.999, sens = 0.981, spec = 0.981, blAUC = 0.942, blSens = 0.885, blSpec = 1.000.
+
+
+Reading model...OK. (466 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.34
+Accuracy on test set: 82.73% (91 correct, 19 incorrect, 110 total)
+Precision/recall on test set: 100.00%/65.45%
+
+
+
+PF00033.11_int_PF00033.11, seqPair 1, auc = 0.971, sens = 0.891, spec = 0.891, blAUC = 0.927, blSens = 0.855, blSpec = 1.000.
+
+
+2013-7-3 9:51 ERROR: PF00033.11_int_PF00033.11. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (224 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 100.00% (12 correct, 0 incorrect, 12 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00899.13_int_PF02134.13, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (171 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.08
+Accuracy on test set: 100.00% (50 correct, 0 incorrect, 50 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00032.9_int_PF02939.8, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.960, blSens = 0.920, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (224 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.12
+Accuracy on test set: 98.15% (106 correct, 2 incorrect, 108 total)
+Precision/recall on test set: 96.43%/100.00%
+
+
+
+PF00899.13_int_PF02134.13, seqPair 15, auc = 0.999, sens = 0.963, spec = 0.963, blAUC = 0.944, blSens = 0.889, blSpec = 1.000.
+
+
+Reading model...OK. (171 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 100.00% (52 correct, 0 incorrect, 52 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00032.9_int_PF02939.8, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.942, blSens = 0.885, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (171 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 98.57% (69 correct, 1 incorrect, 70 total)
+Precision/recall on test set: 97.22%/100.00%
+
+
+
+PF00032.9_int_PF02939.8, seqPair 5, auc = 0.999, sens = 0.971, spec = 0.971, blAUC = 0.814, blSens = 0.629, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (38 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 85.71% (12 correct, 2 incorrect, 14 total)
+Precision/recall on test set: 100.00%/71.43%
+
+
+
+PF00127.12_int_PF06433.3, seqPair 1, auc = 0.980, sens = 0.857, spec = 0.857, blAUC = 0.786, blSens = 0.571, blSpec = 1.000.
+
+
+2013-7-3 11: ERROR: PF00127.12_int_PF06433.3. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Reading model...OK. (224 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.12
+Accuracy on test set: 73.53% (75 correct, 27 incorrect, 102 total)
+Precision/recall on test set: 100.00%/47.06%
+
+
+
+PF00899.13_int_PF02134.13, seqPair 22, auc = 0.966, sens = 0.902, spec = 0.902, blAUC = 0.912, blSens = 0.824, blSpec = 1.000.
+
+
+
+
+
+2013-7-3 11:5 SUCCESS: PF00899.13_int_PF02134.13, meanAUC = 0.991.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (171 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.06
+Accuracy on test set: 85.71% (48 correct, 8 incorrect, 56 total)
+Precision/recall on test set: 100.00%/71.43%
+
+
+
+PF00032.9_int_PF02939.8, seqPair 31, auc = 0.990, sens = 0.929, spec = 0.929, blAUC = 0.982, blSens = 0.964, blSpec = 1.000.
+
+
+
+
+
+2013-7-3 11:16 SUCCESS: PF00032.9_int_PF02939.8, meanAUC = 0.997.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (108 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 100.00% (32 correct, 0 incorrect, 32 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00032.9_int_PF02271.8, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Reading model...OK. (36 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 62.50% (10 correct, 6 incorrect, 16 total)
+Precision/recall on test set: 100.00%/25.00%
+
+
+
+PF00034.13_int_PF00141.15, seqPair 1, auc = 0.938, sens = 0.750, spec = 0.750, blAUC = 0.688, blSens = 0.375, blSpec = 1.000.
+
+
+2013-7-3 11:55 ERROR: PF00034.13_int_PF00141.15. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (108 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 100.00% (36 correct, 0 incorrect, 36 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00032.9_int_PF02271.8, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.944, blSens = 0.889, blSpec = 1.000.
+
+
+Reading model...OK. (189 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.10
+Accuracy on test set: 96.15% (75 correct, 3 incorrect, 78 total)
+Precision/recall on test set: 92.86%/100.00%
+
+
+
+PF00104.22_int_PF08832.2, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.859, blSens = 0.718, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (28 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 50.00% (6 correct, 6 incorrect, 12 total)
+Precision/recall on test set: 50.00%/100.00%
+
+
+
+PF00033.11_int_PF02939.8, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.750, blSens = 0.500, blSpec = 1.000.
+
+
+Reading model...OK. (108 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 100.00% (42 correct, 0 incorrect, 42 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00032.9_int_PF02271.8, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.929, blSens = 0.857, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (108 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 100.00% (32 correct, 0 incorrect, 32 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00032.9_int_PF02271.8, seqPair 31, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+
+
+2013-7-3 13:25 SUCCESS: PF00032.9_int_PF02271.8, meanAUC = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (28 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 50.00% (8 correct, 8 incorrect, 16 total)
+Precision/recall on test set: 50.00%/100.00%
+
+
+
+PF00033.11_int_PF02939.8, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.625, blSens = 0.250, blSpec = 1.000.
+
+
+Reading model...OK. (189 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 72.00% (36 correct, 14 incorrect, 50 total)
+Precision/recall on test set: 100.00%/44.00%
+
+
+
+PF00104.22_int_PF08832.2, seqPair 4, auc = 0.978, sens = 0.920, spec = 0.920, blAUC = 0.980, blSens = 0.960, blSpec = 1.000.
+
+
+2013-7-3 13:54 ERROR: PF00104.22_int_PF08832.2. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (400 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.10
+Accuracy on test set: 95.65% (44 correct, 2 incorrect, 46 total)
+Precision/recall on test set: 92.00%/100.00%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 1, auc = 0.996, sens = 0.957, spec = 0.957, blAUC = 0.880, blSens = 0.783, blSpec = 0.947.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (400 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.10
+Accuracy on test set: 88.64% (39 correct, 5 incorrect, 44 total)
+Precision/recall on test set: 90.48%/86.36%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 2, auc = 0.965, sens = 0.909, spec = 0.909, blAUC = 0.500, blSens = 0.045, blSpec = 0.500.
+
+
+Reading model...OK. (196 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 95.45% (21 correct, 1 incorrect, 22 total)
+Precision/recall on test set: 91.67%/100.00%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Reading model...OK. (28 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 58.33% (7 correct, 5 incorrect, 12 total)
+Precision/recall on test set: 54.55%/100.00%
+
+
+
+PF00033.11_int_PF02939.8, seqPair 26, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.917, blSens = 0.833, blSpec = 1.000.
+
+
+
+
+
+2013-7-3 14:33 SUCCESS: PF00033.11_int_PF02939.8, meanAUC = 1.000.
+
+
+2013-7-3 14:33 ERROR: PF00033.11_int_PF02271.8. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF00033.11_int_PF00355.18. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01071.11_int_PF02844.7. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01071.11_int_PF02843.8. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF00993.12_int_PF02876.9. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF00984.11_int_PF03720.7. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01221.10_int_PF01221.10. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01197.10_int_PF01281.11. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01081.11_int_PF01081.11. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01368.12_int_PF01368.12. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01329.11_int_PF01329.11. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01322.12_int_PF01322.12. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01658.9_int_PF01658.9. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01472.12_int_PF01509.10. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01797.8_int_PF01797.8. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01729.11_int_PF01729.11. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01855.11_int_PF01855.11. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF01880.10_int_PF01880.10. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF02167.7_int_PF02167.7. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 14:33 ERROR: PF02201.10_int_PF02201.10. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (400 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.18
+Accuracy on test set: 98.39% (61 correct, 1 incorrect, 62 total)
+Precision/recall on test set: 96.88%/100.00%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 4, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.847, blSens = 0.710, blSpec = 0.957.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (400 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.08
+Accuracy on test set: 95.45% (42 correct, 2 incorrect, 44 total)
+Precision/recall on test set: 100.00%/90.91%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.864, blSens = 0.727, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (400 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 100.00% (32 correct, 0 incorrect, 32 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 6, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.875, blSens = 0.750, blSpec = 1.000.
+
+
+Reading model...OK. (322 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.18
+Accuracy on test set: 50.00% (46 correct, 46 incorrect, 92 total)
+Precision/recall on test set: nan%/0.00%
+
+
+
+PF00563.12_int_PF00563.12, seqPair 1, auc = 0.863, sens = 0.739, spec = 0.739, blAUC = 0.815, blSens = 0.630, blSpec = 1.000.
+
+
+2013-7-3 15:13 ERROR: PF00563.12_int_PF00563.12. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+2013-7-3 15:13 ERROR: PF00511.9_int_PF00511.9. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 15:13 ERROR: PF00393.11_int_PF00393.11. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 15:13 ERROR: PF00385.16_int_PF00385.16. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+2013-7-3 15:13 ERROR: PF00254.20_int_PF00254.20. Message: Error: File: /home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m Line: 63 Column: 29
+"FisherMode" was previously used as a variable,
+ conflicting with its use here as the name of a function or command.
+ See MATLAB Programming, "How MATLAB Recognizes Function Calls That Use Command Syntax" for details.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (400 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.10
+Accuracy on test set: 93.18% (41 correct, 3 incorrect, 44 total)
+Precision/recall on test set: 91.30%/95.45%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 7, auc = 0.977, sens = 0.909, spec = 0.909, blAUC = 0.477, blSens = 0.000, blSpec = 0.000.
+
+
+Reading model...OK. (196 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 50.00% (7 correct, 7 incorrect, 14 total)
+Precision/recall on test set: nan%/0.00%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 3, auc = 0.490, sens = 0.429, spec = 0.429, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (400 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 95.45% (21 correct, 1 incorrect, 22 total)
+Precision/recall on test set: 100.00%/90.91%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (400 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.08
+Accuracy on test set: 76.67% (23 correct, 7 incorrect, 30 total)
+Precision/recall on test set: 100.00%/53.33%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 10, auc = 0.920, sens = 0.800, spec = 0.800, blAUC = 0.900, blSens = 0.800, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (400 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.14
+Accuracy on test set: 95.45% (63 correct, 3 incorrect, 66 total)
+Precision/recall on test set: 94.12%/96.97%
+
+
+
+PF00087.13_int_PF00087.13, seqPair 12, auc = 0.996, sens = 0.970, spec = 0.970, blAUC = 0.849, blSens = 0.727, blSpec = 0.923.
+
+
+2013-7-3 15:55 ERROR: PF00087.13_int_PF00087.13. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (257 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.16
+Accuracy on test set: 92.71% (89 correct, 7 incorrect, 96 total)
+Precision/recall on test set: 87.27%/100.00%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.833, blSens = 0.667, blSpec = 1.000.
+
+
+Reading model...OK. (196 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 94.23% (49 correct, 3 incorrect, 52 total)
+Precision/recall on test set: 89.66%/100.00%
+
+
+
+PF00028.9_int_PF00028.9, seqPair 7, auc = 0.990, sens = 0.923, spec = 0.923, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+2013-7-3 16:18 ERROR: PF00028.9_int_PF00028.9. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (257 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.06
+Accuracy on test set: 100.00% (52 correct, 0 incorrect, 52 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.654, blSens = 0.308, blSpec = 1.000.
+
+
+Reading model...OK. (226 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 50.00% (6 correct, 6 incorrect, 12 total)
+Precision/recall on test set: nan%/0.00%
+
+
+
+PF00782.12_int_PF00782.12, seqPair 1, auc = 0.444, sens = 0.333, spec = 0.333, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+2013-7-3 16:53 ERROR: PF00782.12_int_PF00782.12. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (257 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 100.00% (12 correct, 0 incorrect, 12 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (124 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 98.53% (67 correct, 1 incorrect, 68 total)
+Precision/recall on test set: 97.14%/100.00%
+
+
+
+PF00712.11_int_PF02768.7, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.824, blSens = 0.647, blSpec = 1.000.
+
+
+Reading model...OK. (257 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.10
+Accuracy on test set: 66.67% (52 correct, 26 incorrect, 78 total)
+Precision/recall on test set: 88.24%/38.46%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 7, auc = 0.919, sens = 0.846, spec = 0.846, blAUC = 0.868, blSens = 0.769, blSpec = 0.968.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (257 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 100.00% (16 correct, 0 incorrect, 16 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 12, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.688, blSens = 0.375, blSpec = 1.000.
+
+
+Reading model...OK. (124 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 100.00% (56 correct, 0 incorrect, 56 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00712.11_int_PF02768.7, seqPair 7, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.982, blSens = 0.964, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (257 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 100.00% (14 correct, 0 incorrect, 14 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 26, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (124 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 98.28% (57 correct, 1 incorrect, 58 total)
+Precision/recall on test set: 100.00%/96.55%
+
+
+
+PF00712.11_int_PF02768.7, seqPair 9, auc = 0.999, sens = 0.966, spec = 0.966, blAUC = 0.983, blSens = 0.966, blSpec = 1.000.
+
+
+2013-7-3 18:53 ERROR: PF00712.11_int_PF02768.7. Message: Output argument "meanAUC" (and maybe others) not assigned during call to "/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m>runDDIAllVectorsChooseNegRand_aaIndex_test".
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (12 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 91.67% (11 correct, 1 incorrect, 12 total)
+Precision/recall on test set: 85.71%/100.00%
+
+
+
+PF00711.11_int_PF00711.11, seqPair 1, auc = 0.972, sens = 0.833, spec = 0.833, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (12 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 50.00% (10 correct, 10 incorrect, 20 total)
+Precision/recall on test set: nan%/0.00%
+
+
+
+PF00711.11_int_PF00711.11, seqPair 23, auc = 0.540, sens = 0.500, spec = 0.500, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+2013-7-3 18:53 ERROR: PF00711.11_int_PF00711.11. Message: Output argument "meanAUC" (and maybe others) not assigned during call to "/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m>runDDIAllVectorsChooseNegRand_aaIndex_test".
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (257 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 100.00% (10 correct, 0 incorrect, 10 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 40, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (257 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.06
+Accuracy on test set: 92.42% (61 correct, 5 incorrect, 66 total)
+Precision/recall on test set: 86.84%/100.00%
+
+
+
+PF00081.14_int_PF00081.14, seqPair 42, auc = 0.999, sens = 0.970, spec = 0.970, blAUC = 0.994, blSens = 1.000, blSpec = 0.971.
+
+
+2013-7-3 19:22 ERROR: PF00081.14_int_PF00081.14. Message: Output argument "meanAUC" (and maybe others) not assigned during call to "/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m>runDDIAllVectorsChooseNegRand_aaIndex_test".
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (326 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 70.51% (55 correct, 23 incorrect, 78 total)
+Precision/recall on test set: 100.00%/41.03%
+
+
+
+PF00025.13_int_PF00025.13, seqPair 1, auc = 0.825, sens = 0.769, spec = 0.769, blAUC = 0.577, blSens = 0.154, blSpec = 1.000.
+
+
+2013-7-3 22:45 ERROR: PF00025.13_int_PF00025.13. Message: This DDI was taking too long.
+/opt/MATLAB/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/opt/MATLAB/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 879
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/run3DID_AllVectorsChooseNegRand_aaIndex_test.m; (parfor body); 53
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/runDDIAllVectorsChooseNegRand_aaIndex_test.m; runDDIAllVectorsChooseNegRand_aaIndex_test; 47
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (218 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 100.00% (36 correct, 0 incorrect, 36 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.611, blSens = 0.222, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (218 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 91.67% (33 correct, 3 incorrect, 36 total)
+Precision/recall on test set: 85.71%/100.00%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (218 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 95.45% (21 correct, 1 incorrect, 22 total)
+Precision/recall on test set: 91.67%/100.00%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 4, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (218 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 100.00% (16 correct, 0 incorrect, 16 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (218 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.02
+Accuracy on test set: 94.12% (32 correct, 2 incorrect, 34 total)
+Precision/recall on test set: 89.47%/100.00%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 7, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.471, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (218 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 97.22% (35 correct, 1 incorrect, 36 total)
+Precision/recall on test set: 94.74%/100.00%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.528, blSens = 0.111, blSpec = 0.667.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (218 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 92.86% (13 correct, 1 incorrect, 14 total)
+Precision/recall on test set: 87.50%/100.00%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 20, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.429, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (218 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.00
+Accuracy on test set: 100.00% (24 correct, 0 incorrect, 24 total)
+Precision/recall on test set: 100.00%/100.00%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.500, blSens = 0.000, blSpec = 0.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (218 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.04
+Accuracy on test set: 50.00% (22 correct, 22 incorrect, 44 total)
+Precision/recall on test set: nan%/0.00%
+
+
+
+PF00017.16_int_PF00018.20, seqPair 22, auc = 0.758, sens = 0.682, spec = 0.682, blAUC = 0.523, blSens = 0.091, blSpec = 0.667.
+
+
+
+meanAUC =
+
+ num2str(meanAUC, 
+
+
+
+
+2013-7-4 :18 SUCCESS: PF00017.16_int_PF00018.20, meanAUC =  num2str(meanAUC, .
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (222 support vectors read)
+Classifying test examples..100..done
+Runtime (without IO) in cpu-seconds: 0.14
+Accuracy on test set: 94.53% (121 correct, 7 incorrect, 128 total)
+Precision/recall on test set: 90.14%/100.00%
+
+
+
+PF00004.21_int_PF09336.2, seqPair 1, auc = 1.000, sens = 0.984, spec = 0.984, blAUC = 0.875, blSens = 0.750, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (222 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.10
+Accuracy on test set: 96.88% (93 correct, 3 incorrect, 96 total)
+Precision/recall on test set: 94.12%/100.00%
+
+
+
+PF00004.21_int_PF09336.2, seqPair 2, auc = 0.999, sens = 0.979, spec = 0.979, blAUC = 0.948, blSens = 0.896, blSpec = 1.000.
+
+
+Scanning examples...done
+Reading examples into memory...Cannot parse feature/value pair!!!
+: Success
+'Version' in LINE: SVM-light Version V6.02
+Reading model...OK. (222 support vectors read)
+Classifying test examples..done
+Runtime (without IO) in cpu-seconds: 0.10
+Accuracy on test set: 55.43% (51 correct, 41 incorrect, 92 total)
+Precision/recall on test set: 85.71%/13.04%
+
+
+
+PF00004.21_int_PF09336.2, seqPair 7, auc = 0.941, sens = 0.870, spec = 0.870, blAUC = 0.859, blSens = 0.717, blSpec = 1.000.
+
+
+
+meanAUC =
+
+ num2str(meanAUC, 
+
+
+
+
+2013-7-4 1:19 SUCCESS: PF00004.21_int_PF09336.2, meanAUC =  num2str(meanAUC, .
+
+
+Sending a stop signal to all the labs ... stopped.
+2013-7-4 1:19 FINISHED.

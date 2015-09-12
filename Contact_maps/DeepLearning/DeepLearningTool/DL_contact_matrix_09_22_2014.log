@@ -1,0 +1,4 @@
+2014-09-22 14:57:03,969 - __main__ - INFO - Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+2014-09-22 15:12:42,588 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-09-22 15:21:51,112 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-09-22 16:38:50,840 - __main__ - INFO - saving to file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt_100_100_0.01_1_4

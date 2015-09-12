@@ -1,0 +1,707 @@
+2013-10-10 22:54 STARTED.
+For one hidden layer
+Training accuracy: 79.970%
+Training recall: 77.490%
+Training precision: 81.534%
+Training f_measure: 79.461%
+Testing accuracy: 85.127%
+Testing recall: 93.671%
+Testing precision: 80.000%
+Testing f_measure: 86.297%
+Training accuracy: 79.871%
+Training recall: 77.689%
+Training precision: 81.233%
+Training f_measure: 79.422%
+Testing accuracy: 86.076%
+Testing recall: 94.304%
+Testing precision: 80.978%
+Testing f_measure: 87.135%
+
+
+
+2013-10-11 2:51 SUCCESS: PF00004.21_int_PF09336.2.
+
+
+For one hidden layer
+Training accuracy: 80.414%
+Training recall: 78.264%
+Training precision: 81.781%
+Training f_measure: 79.984%
+Testing accuracy: 66.794%
+Testing recall: 38.931%
+Testing precision: 87.931%
+Testing f_measure: 53.968%
+Training accuracy: 80.483%
+Training recall: 78.581%
+Training precision: 81.689%
+Training f_measure: 80.105%
+Testing accuracy: 69.084%
+Testing recall: 43.511%
+Testing precision: 89.062%
+Testing f_measure: 58.462%
+
+
+
+2013-10-11 6:23 SUCCESS: PF00017.16_int_PF00018.20.
+
+
+For one hidden layer
+Training accuracy: 80.976%
+Training recall: 79.356%
+Training precision: 82.013%
+Training f_measure: 80.663%
+Testing accuracy: 65.144%
+Testing recall: 30.769%
+Testing precision: 98.462%
+Testing f_measure: 46.886%
+Training accuracy: 81.167%
+Training recall: 79.557%
+Training precision: 82.204%
+Training f_measure: 80.859%
+Testing accuracy: 64.423%
+Testing recall: 29.327%
+Testing precision: 98.387%
+Testing f_measure: 45.185%
+
+
+
+2013-10-11 9:55 SUCCESS: PF00025.13_int_PF00025.13.
+
+
+For one hidden layer
+Training accuracy: 80.445%
+Training recall: 78.553%
+Training precision: 81.643%
+Training f_measure: 80.068%
+Testing accuracy: 63.333%
+Testing recall: 29.524%
+Testing precision: 91.176%
+Testing f_measure: 44.604%
+Training accuracy: 80.416%
+Training recall: 78.947%
+Training precision: 81.336%
+Training f_measure: 80.124%
+Testing accuracy: 63.333%
+Testing recall: 29.524%
+Testing precision: 91.176%
+Testing f_measure: 44.604%
+
+
+
+2013-10-11 13:23 SUCCESS: PF00028.9_int_PF00028.9.
+
+
+For one hidden layer
+Training accuracy: 80.057%
+Training recall: 77.991%
+Training precision: 81.352%
+Training f_measure: 79.636%
+Testing accuracy: 95.070%
+Testing recall: 100.000%
+Testing precision: 91.026%
+Testing f_measure: 95.302%
+Training accuracy: 79.998%
+Training recall: 77.874%
+Training precision: 81.329%
+Training f_measure: 79.564%
+Testing accuracy: 95.070%
+Testing recall: 100.000%
+Testing precision: 91.026%
+Testing f_measure: 95.302%
+
+
+
+2013-10-11 17:11 SUCCESS: PF00032.9_int_PF02271.8.
+
+
+For one hidden layer
+Training accuracy: 80.105%
+Training recall: 77.903%
+Training precision: 81.491%
+Training f_measure: 79.657%
+Testing accuracy: 86.842%
+Testing recall: 100.000%
+Testing precision: 79.167%
+Testing f_measure: 88.372%
+Training accuracy: 80.273%
+Training recall: 78.476%
+Training precision: 81.401%
+Training f_measure: 79.912%
+Testing accuracy: 87.281%
+Testing recall: 100.000%
+Testing precision: 79.720%
+Testing f_measure: 88.716%
+
+
+
+2013-10-11 20:56 SUCCESS: PF00032.9_int_PF02939.8.
+
+
+For one hidden layer
+Training accuracy: 79.261%
+Training recall: 77.187%
+Training precision: 80.527%
+Training f_measure: 78.822%
+Testing accuracy: 92.208%
+Testing recall: 97.727%
+Testing precision: 88.012%
+Testing f_measure: 92.615%
+Training accuracy: 79.487%
+Training recall: 77.207%
+Training precision: 80.895%
+Training f_measure: 79.008%
+Testing accuracy: 91.721%
+Testing recall: 97.727%
+Testing precision: 87.246%
+Testing f_measure: 92.190%
+
+
+
+2013-10-12 :43 SUCCESS: PF00033.11_int_PF00033.11.
+
+
+For one hidden layer
+Training accuracy: 79.920%
+Training recall: 77.523%
+Training precision: 81.426%
+Training f_measure: 79.427%
+Testing accuracy: 96.970%
+Testing recall: 98.485%
+Testing precision: 95.588%
+Testing f_measure: 97.015%
+Training accuracy: 80.321%
+Training recall: 78.208%
+Training precision: 81.658%
+Training f_measure: 79.896%
+Testing accuracy: 96.970%
+Testing recall: 98.485%
+Testing precision: 95.588%
+Testing f_measure: 97.015%
+
+
+
+2013-10-12 4:34 SUCCESS: PF00033.11_int_PF00355.18.
+
+
+For one hidden layer
+Training accuracy: 80.017%
+Training recall: 77.933%
+Training precision: 81.323%
+Training f_measure: 79.592%
+Testing accuracy: 95.238%
+Testing recall: 95.238%
+Testing precision: 95.238%
+Testing f_measure: 95.238%
+Training accuracy: 80.318%
+Training recall: 78.553%
+Training precision: 81.427%
+Training f_measure: 79.964%
+Testing accuracy: 97.619%
+Testing recall: 100.000%
+Testing precision: 95.455%
+Testing f_measure: 97.674%
+
+
+
+2013-10-12 8:40 SUCCESS: PF00033.11_int_PF02271.8.
+
+
+For one hidden layer
+Training accuracy: 79.992%
+Training recall: 77.743%
+Training precision: 81.405%
+Training f_measure: 79.532%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+Training accuracy: 80.070%
+Training recall: 78.015%
+Training precision: 81.359%
+Training f_measure: 79.652%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+
+
+
+2013-10-12 12:52 SUCCESS: PF00033.11_int_PF02939.8.
+
+
+For one hidden layer
+Training accuracy: 80.037%
+Training recall: 77.582%
+Training precision: 81.588%
+Training f_measure: 79.534%
+Testing accuracy: 98.077%
+Testing recall: 96.154%
+Testing precision: 100.000%
+Testing f_measure: 98.039%
+Training accuracy: 80.270%
+Training recall: 78.106%
+Training precision: 81.639%
+Training f_measure: 79.833%
+Testing accuracy: 98.077%
+Testing recall: 96.154%
+Testing precision: 100.000%
+Testing f_measure: 98.039%
+
+
+
+2013-10-12 16:37 SUCCESS: PF00034.13_int_PF00141.15.
+
+
+For one hidden layer
+Training accuracy: 79.808%
+Training recall: 77.625%
+Training precision: 81.169%
+Training f_measure: 79.357%
+Testing accuracy: 98.000%
+Testing recall: 100.000%
+Testing precision: 96.154%
+Testing f_measure: 98.039%
+Training accuracy: 80.128%
+Training recall: 77.916%
+Training precision: 81.523%
+Training f_measure: 79.679%
+Testing accuracy: 98.000%
+Testing recall: 100.000%
+Testing precision: 96.154%
+Testing f_measure: 98.039%
+
+
+
+2013-10-12 20:24 SUCCESS: PF00034.13_int_PF02239.8.
+
+
+For one hidden layer
+Training accuracy: 80.441%
+Training recall: 78.335%
+Training precision: 81.779%
+Training f_measure: 80.020%
+Testing accuracy: 58.854%
+Testing recall: 17.708%
+Testing precision: 100.000%
+Testing f_measure: 30.088%
+Training accuracy: 80.765%
+Training recall: 78.867%
+Training precision: 81.980%
+Training f_measure: 80.393%
+Testing accuracy: 58.854%
+Testing recall: 17.708%
+Testing precision: 100.000%
+Testing f_measure: 30.088%
+
+
+
+2013-10-13 : SUCCESS: PF00051.10_int_PF00051.10.
+
+
+For one hidden layer
+Training accuracy: 80.065%
+Training recall: 77.806%
+Training precision: 81.487%
+Training f_measure: 79.604%
+Testing accuracy: 81.250%
+Testing recall: 64.062%
+Testing precision: 97.619%
+Testing f_measure: 77.358%
+Training accuracy: 80.260%
+Training recall: 78.178%
+Training precision: 81.575%
+Training f_measure: 79.840%
+Testing accuracy: 79.688%
+Testing recall: 62.500%
+Testing precision: 95.238%
+Testing f_measure: 75.472%
+
+
+
+2013-10-13 3:38 SUCCESS: PF00074.12_int_PF07686.9.
+
+
+For one hidden layer
+Training accuracy: 79.914%
+Training recall: 77.447%
+Training precision: 81.467%
+Training f_measure: 79.406%
+Testing accuracy: 87.500%
+Testing recall: 88.953%
+Testing precision: 86.441%
+Testing f_measure: 87.679%
+Training accuracy: 80.084%
+Training recall: 78.286%
+Training precision: 81.206%
+Training f_measure: 79.719%
+Testing accuracy: 87.791%
+Testing recall: 89.535%
+Testing precision: 86.517%
+Testing f_measure: 88.000%
+
+
+
+2013-10-13 7:15 SUCCESS: PF00081.14_int_PF00081.14.
+
+
+For one hidden layer
+Training accuracy: 80.204%
+Training recall: 78.239%
+Training precision: 81.439%
+Training f_measure: 79.807%
+Testing accuracy: 76.744%
+Testing recall: 58.605%
+Testing precision: 91.971%
+Testing f_measure: 71.591%
+Training accuracy: 80.506%
+Training recall: 78.702%
+Training precision: 81.647%
+Training f_measure: 80.148%
+Testing accuracy: 77.442%
+Testing recall: 59.535%
+Testing precision: 92.754%
+Testing f_measure: 72.521%
+
+
+
+2013-10-13 10:53 SUCCESS: PF00087.13_int_PF00087.13.
+
+
+For one hidden layer
+Training accuracy: 79.996%
+Training recall: 77.540%
+Training precision: 81.546%
+Training f_measure: 79.492%
+Testing accuracy: 85.271%
+Testing recall: 72.868%
+Testing precision: 96.907%
+Testing f_measure: 83.186%
+Training accuracy: 80.303%
+Training recall: 78.114%
+Training precision: 81.690%
+Training f_measure: 79.862%
+Testing accuracy: 85.271%
+Testing recall: 72.868%
+Testing precision: 96.907%
+Testing f_measure: 83.186%
+
+
+
+2013-10-13 14:25 SUCCESS: PF00104.22_int_PF08832.2.
+
+
+For one hidden layer
+Training accuracy: 80.047%
+Training recall: 77.543%
+Training precision: 81.631%
+Training f_measure: 79.534%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+Training accuracy: 80.260%
+Training recall: 78.125%
+Training precision: 81.610%
+Training f_measure: 79.829%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+2013-10-13 18:4 SUCCESS: PF00127.12_int_PF06433.3.
+
+
+For one hidden layer
+Training accuracy: 79.984%
+Training recall: 77.470%
+Training precision: 81.572%
+Training f_measure: 79.468%
+Testing accuracy: 78.346%
+Testing recall: 100.000%
+Testing precision: 69.780%
+Testing f_measure: 82.201%
+Training accuracy: 80.350%
+Training recall: 78.004%
+Training precision: 81.845%
+Training f_measure: 79.878%
+Testing accuracy: 77.559%
+Testing recall: 98.425%
+Testing precision: 69.444%
+Testing f_measure: 81.433%
+
+
+
+2013-10-13 21:45 SUCCESS: PF00149.20_int_PF08321.4.
+
+
+For one hidden layer
+Training accuracy: 79.949%
+Training recall: 77.354%
+Training precision: 81.590%
+Training f_measure: 79.415%
+Testing accuracy: 82.018%
+Testing recall: 74.123%
+Testing precision: 88.021%
+Testing f_measure: 80.476%
+Training accuracy: 80.303%
+Training recall: 78.323%
+Training precision: 81.552%
+Training f_measure: 79.905%
+Testing accuracy: 83.114%
+Testing recall: 75.439%
+Testing precision: 89.119%
+Testing f_measure: 81.710%
+
+
+
+2013-10-14 1:22 SUCCESS: PF00167.10_int_PF07679.8.
+
+
+For one hidden layer
+Training accuracy: 80.278%
+Training recall: 77.634%
+Training precision: 81.969%
+Training f_measure: 79.743%
+Testing accuracy: 79.468%
+Testing recall: 87.021%
+Testing precision: 75.601%
+Testing f_measure: 80.910%
+Training accuracy: 80.692%
+Training recall: 78.526%
+Training precision: 82.083%
+Training f_measure: 80.265%
+Testing accuracy: 80.000%
+Testing recall: 87.660%
+Testing precision: 76.015%
+Testing f_measure: 81.423%
+
+
+
+2013-10-14 4:47 SUCCESS: PF00243.10_int_PF00243.10.
+
+
+For one hidden layer
+Training accuracy: 80.711%
+Training recall: 78.870%
+Training precision: 81.885%
+Training f_measure: 80.349%
+Testing accuracy: 53.000%
+Testing recall: 6.000%
+Testing precision: 100.000%
+Testing f_measure: 11.321%
+Training accuracy: 81.006%
+Training recall: 79.401%
+Training precision: 82.035%
+Training f_measure: 80.696%
+Testing accuracy: 53.000%
+Testing recall: 6.000%
+Testing precision: 100.000%
+Testing f_measure: 11.321%
+
+
+
+2013-10-14 8:33 SUCCESS: PF00254.20_int_PF00254.20.
+
+
+For one hidden layer
+Training accuracy: 80.155%
+Training recall: 77.690%
+Training precision: 81.719%
+Training f_measure: 79.654%
+Testing accuracy: 81.395%
+Testing recall: 68.605%
+Testing precision: 92.188%
+Testing f_measure: 78.667%
+Training accuracy: 80.145%
+Training recall: 78.044%
+Training precision: 81.468%
+Training f_measure: 79.719%
+Testing accuracy: 80.814%
+Testing recall: 67.442%
+Testing precision: 92.063%
+Testing f_measure: 77.852%
+
+
+
+2013-10-14 12:11 SUCCESS: PF00385.16_int_PF00385.16.
+
+
+For one hidden layer
+Training accuracy: 80.936%
+Training recall: 76.767%
+Training precision: 83.750%
+Training f_measure: 80.107%
+Testing accuracy: 76.732%
+Testing recall: 95.177%
+Testing precision: 69.529%
+Testing f_measure: 80.356%
+Training accuracy: 81.436%
+Training recall: 78.413%
+Training precision: 83.458%
+Training f_measure: 80.857%
+Testing accuracy: 76.596%
+Testing recall: 95.992%
+Testing precision: 69.163%
+Testing f_measure: 80.398%
+
+
+
+2013-10-14 15:5 SUCCESS: PF00393.11_int_PF00393.11.
+
+
+For one hidden layer
+Training accuracy: 79.731%
+Training recall: 77.558%
+Training precision: 81.082%
+Training f_measure: 79.281%
+Testing accuracy: 88.793%
+Testing recall: 96.552%
+Testing precision: 83.582%
+Testing f_measure: 89.600%
+Training accuracy: 79.812%
+Training recall: 77.659%
+Training precision: 81.154%
+Training f_measure: 79.368%
+Testing accuracy: 88.362%
+Testing recall: 96.121%
+Testing precision: 83.209%
+Testing f_measure: 89.200%
+
+
+
+2013-10-14 19:4 SUCCESS: PF00511.9_int_PF00511.9.
+
+
+For one hidden layer
+Training accuracy: 81.322%
+Training recall: 80.266%
+Training precision: 81.998%
+Training f_measure: 81.122%
+Testing accuracy: 53.865%
+Testing recall: 12.077%
+Testing precision: 73.529%
+Testing f_measure: 20.747%
+Training accuracy: 81.825%
+Training recall: 80.909%
+Training precision: 82.418%
+Training f_measure: 81.657%
+Testing accuracy: 54.589%
+Testing recall: 13.043%
+Testing precision: 77.143%
+Testing f_measure: 22.314%
+
+
+
+2013-10-14 22:51 SUCCESS: PF00563.12_int_PF00563.12.
+
+
+For one hidden layer
+Training accuracy: 80.002%
+Training recall: 77.484%
+Training precision: 81.593%
+Training f_measure: 79.485%
+Testing accuracy: 94.667%
+Testing recall: 100.000%
+Testing precision: 90.361%
+Testing f_measure: 94.937%
+Training accuracy: 80.374%
+Training recall: 78.444%
+Training precision: 81.594%
+Training f_measure: 79.988%
+Testing accuracy: 94.000%
+Testing recall: 100.000%
+Testing precision: 89.286%
+Testing f_measure: 94.340%
+
+
+
+2013-10-15 2:31 SUCCESS: PF00617.11_int_PF00618.12.
+
+
+For one hidden layer
+Training accuracy: 80.134%
+Training recall: 77.819%
+Training precision: 81.597%
+Training f_measure: 79.663%
+Testing accuracy: 68.750%
+Testing recall: 37.500%
+Testing precision: 100.000%
+Testing f_measure: 54.545%
+Training accuracy: 80.405%
+Training recall: 78.477%
+Training precision: 81.624%
+Training f_measure: 80.020%
+Testing accuracy: 68.750%
+Testing recall: 37.500%
+Testing precision: 100.000%
+Testing f_measure: 54.545%
+
+
+
+2013-10-15 6:9 SUCCESS: PF00711.11_int_PF00711.11.
+
+
+For one hidden layer
+Training accuracy: 79.998%
+Training recall: 77.806%
+Training precision: 81.373%
+Training f_measure: 79.550%
+Testing accuracy: 92.857%
+Testing recall: 98.901%
+Testing precision: 88.235%
+Testing f_measure: 93.264%
+Training accuracy: 80.195%
+Training recall: 78.416%
+Training precision: 81.309%
+Training f_measure: 79.836%
+Testing accuracy: 92.857%
+Testing recall: 98.901%
+Testing precision: 88.235%
+Testing f_measure: 93.264%
+
+
+
+2013-10-15 9:45 SUCCESS: PF00712.11_int_PF02768.7.
+
+
+For one hidden layer
+Training accuracy: 80.451%
+Training recall: 78.830%
+Training precision: 81.471%
+Training f_measure: 80.129%
+Testing accuracy: 57.563%
+Testing recall: 15.126%
+Testing precision: 100.000%
+Testing f_measure: 26.277%
+Training accuracy: 80.638%
+Training recall: 78.850%
+Training precision: 81.775%
+Training f_measure: 80.286%
+Testing accuracy: 58.824%
+Testing recall: 17.647%
+Testing precision: 100.000%
+Testing f_measure: 30.000%
+
+
+
+2013-10-15 13:22 SUCCESS: PF00782.12_int_PF00782.12.
+
+
+2013-10-15 13:22 FINISHED.
+Number of total DDI is: 30
+Number of successed DDI is: 30
+Number of total sequence is: 30
+FisherMode: FisherM1AA1 SVMMode: DL Kernel: DL, choseNegRatio: 1, choseNegRatioTest: 1
+The baseline AUC: 0.000%
+The baseline recall: 0.000%
+The baseline precision: 0.000%
+Testing AUC: 92.468%
+Testing recall: 72.845%
+Testing precision: 90.027%
+Testing f_measure: 74.822%
+Training accuracy: 80.405%
+Training recall: 78.429%
+Training precision: 81.657%
+Training f_measure: 80.009%

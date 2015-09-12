@@ -1,0 +1,1517 @@
+2014-5-1 17:24 STARTED.
+
+partation = 
+
+K-fold cross validation partition
+             N: 198
+   NumTestSets: 10
+     TrainSize: 179  178  178  178  178  178  178  178  178  179
+      TestSize: 19  20  20  20  20  20  20  20  20  19
+
+ans =
+
+fold 1 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 98.604%
+Training recall: 98.601%
+Training precision: 98.601%
+Training f_measure: 98.601%
+Testing for sequence pair 7:
+
+
+
+Pico_P1A_int_Rhv, seqPair 7, auc = 0.893, sens = 0.667, spec = 0.833, blAUC = 0.831, blSens = 0.467, blSpec = 0.875.
+
+
+Testing for sequence pair 12:
+
+
+
+Pico_P1A_int_Rhv, seqPair 12, auc = 0.993, sens = 0.950, spec = 0.905, blAUC = 0.980, blSens = 0.900, blSpec = 1.000.
+
+
+Testing for sequence pair 39:
+
+
+
+Pico_P1A_int_Rhv, seqPair 39, auc = 0.996, sens = 1.000, spec = 0.941, blAUC = 0.973, blSens = 1.000, blSpec = 0.889.
+
+
+Testing for sequence pair 42:
+
+
+
+Pico_P1A_int_Rhv, seqPair 42, auc = 1.000, sens = 1.000, spec = 0.895, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 55:
+
+
+
+Pico_P1A_int_Rhv, seqPair 55, auc = 0.992, sens = 0.800, spec = 1.000, blAUC = 0.982, blSens = 0.880, blSpec = 0.957.
+
+
+Testing for sequence pair 63:
+
+
+
+Pico_P1A_int_Rhv, seqPair 63, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.667, blSpec = 1.000.
+
+
+Testing for sequence pair 67:
+
+
+
+Pico_P1A_int_Rhv, seqPair 67, auc = 0.975, sens = 0.889, spec = 0.941, blAUC = 0.975, blSens = 0.889, blSpec = 0.941.
+
+
+Testing for sequence pair 71:
+
+
+
+Pico_P1A_int_Rhv, seqPair 71, auc = 0.911, sens = 0.733, spec = 0.917, blAUC = 0.916, blSens = 0.533, blSpec = 1.000.
+
+
+Testing for sequence pair 94:
+
+
+
+Pico_P1A_int_Rhv, seqPair 94, auc = 0.998, sens = 1.000, spec = 0.952, blAUC = 1.000, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 102:
+
+
+
+Pico_P1A_int_Rhv, seqPair 102, auc = 1.000, sens = 1.000, spec = 0.950, blAUC = 0.997, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 109:
+
+
+
+Pico_P1A_int_Rhv, seqPair 109, auc = 0.991, sens = 1.000, spec = 0.960, blAUC = 0.997, blSens = 1.000, blSpec = 0.923.
+
+
+Testing for sequence pair 111:
+
+
+
+Pico_P1A_int_Rhv, seqPair 111, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.994, blSens = 1.000, blSpec = 0.864.
+
+
+Testing for sequence pair 120:
+
+
+
+Pico_P1A_int_Rhv, seqPair 120, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 138:
+
+
+
+Pico_P1A_int_Rhv, seqPair 138, auc = 0.875, sens = 0.688, spec = 0.786, blAUC = 0.820, blSens = 0.500, blSpec = 0.800.
+
+
+Testing for sequence pair 139:
+
+
+
+Pico_P1A_int_Rhv, seqPair 139, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 150:
+
+
+
+Pico_P1A_int_Rhv, seqPair 150, auc = 0.998, sens = 1.000, spec = 0.952, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 155:
+
+
+
+Pico_P1A_int_Rhv, seqPair 155, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.958.
+
+
+Testing for sequence pair 157:
+
+
+
+Pico_P1A_int_Rhv, seqPair 157, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.750, blSpec = 1.000.
+
+
+Testing for sequence pair 176:
+
+
+
+Pico_P1A_int_Rhv, seqPair 176, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.958.
+
+
+
+ans =
+
+fold 2 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 99.817%
+Training recall: 100.000%
+Training precision: 99.634%
+Training f_measure: 99.817%
+Testing for sequence pair 1:
+
+
+
+Pico_P1A_int_Rhv, seqPair 1, auc = 0.976, sens = 0.882, spec = 1.000, blAUC = 0.952, blSens = 0.765, blSpec = 0.929.
+
+
+Testing for sequence pair 14:
+
+
+
+Pico_P1A_int_Rhv, seqPair 14, auc = 1.000, sens = 1.000, spec = 0.947, blAUC = 1.000, blSens = 1.000, blSpec = 0.900.
+
+
+Testing for sequence pair 27:
+
+
+
+Pico_P1A_int_Rhv, seqPair 27, auc = 0.899, sens = 0.833, spec = 0.909, blAUC = 0.905, blSens = 0.917, blSpec = 0.846.
+
+
+Testing for sequence pair 29:
+
+
+
+Pico_P1A_int_Rhv, seqPair 29, auc = 1.000, sens = 0.941, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 57:
+
+
+
+Pico_P1A_int_Rhv, seqPair 57, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.998, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 68:
+
+
+
+Pico_P1A_int_Rhv, seqPair 68, auc = 0.964, sens = 0.933, spec = 1.000, blAUC = 0.982, blSens = 0.800, blSpec = 1.000.
+
+
+Testing for sequence pair 70:
+
+
+
+Pico_P1A_int_Rhv, seqPair 70, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 72:
+
+
+
+Pico_P1A_int_Rhv, seqPair 72, auc = 1.000, sens = 1.000, spec = 0.944, blAUC = 1.000, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 78:
+
+
+
+Pico_P1A_int_Rhv, seqPair 78, auc = 0.806, sens = 0.368, spec = 0.875, blAUC = 0.825, blSens = 0.263, blSpec = 0.833.
+
+
+Testing for sequence pair 110:
+
+
+
+Pico_P1A_int_Rhv, seqPair 110, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 114:
+
+
+
+Pico_P1A_int_Rhv, seqPair 114, auc = 1.000, sens = 1.000, spec = 0.905, blAUC = 0.997, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 127:
+
+
+
+Pico_P1A_int_Rhv, seqPair 127, auc = 0.969, sens = 0.885, spec = 1.000, blAUC = 0.970, blSens = 0.923, blSpec = 1.000.
+
+
+Testing for sequence pair 151:
+
+
+
+Pico_P1A_int_Rhv, seqPair 151, auc = 1.000, sens = 1.000, spec = 0.864, blAUC = 0.958, blSens = 1.000, blSpec = 0.826.
+
+
+Testing for sequence pair 161:
+
+
+
+Pico_P1A_int_Rhv, seqPair 161, auc = 0.953, sens = 1.000, spec = 0.952, blAUC = 0.960, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 166:
+
+
+
+Pico_P1A_int_Rhv, seqPair 166, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 168:
+
+
+
+Pico_P1A_int_Rhv, seqPair 168, auc = 1.000, sens = 1.000, spec = 0.952, blAUC = 1.000, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 169:
+
+
+
+Pico_P1A_int_Rhv, seqPair 169, auc = 0.997, sens = 1.000, spec = 0.905, blAUC = 0.967, blSens = 1.000, blSpec = 0.826.
+
+
+Testing for sequence pair 173:
+
+
+
+Pico_P1A_int_Rhv, seqPair 173, auc = 1.000, sens = 1.000, spec = 0.920, blAUC = 1.000, blSens = 1.000, blSpec = 0.958.
+
+
+Testing for sequence pair 179:
+
+
+
+Pico_P1A_int_Rhv, seqPair 179, auc = 0.994, sens = 1.000, spec = 0.958, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 185:
+
+
+
+Pico_P1A_int_Rhv, seqPair 185, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.885.
+
+
+
+ans =
+
+fold 3 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 98.805%
+Training recall: 97.938%
+Training precision: 99.650%
+Training f_measure: 98.787%
+Testing for sequence pair 2:
+
+
+
+Pico_P1A_int_Rhv, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 23:
+
+
+
+Pico_P1A_int_Rhv, seqPair 23, auc = 1.000, sens = 0.941, spec = 1.000, blAUC = 0.965, blSens = 1.000, blSpec = 0.850.
+
+
+Testing for sequence pair 36:
+
+
+
+Pico_P1A_int_Rhv, seqPair 36, auc = 0.981, sens = 1.000, spec = 0.900, blAUC = 0.963, blSens = 0.889, blSpec = 0.889.
+
+
+Testing for sequence pair 46:
+
+
+
+Pico_P1A_int_Rhv, seqPair 46, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.996, blSens = 1.000, blSpec = 0.852.
+
+
+Testing for sequence pair 51:
+
+
+
+Pico_P1A_int_Rhv, seqPair 51, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.998, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 53:
+
+
+
+Pico_P1A_int_Rhv, seqPair 53, auc = 0.932, sens = 0.722, spec = 0.929, blAUC = 0.904, blSens = 0.778, blSpec = 0.824.
+
+
+Testing for sequence pair 60:
+
+
+
+Pico_P1A_int_Rhv, seqPair 60, auc = 0.998, sens = 1.000, spec = 0.870, blAUC = 0.940, blSens = 1.000, blSpec = 0.833.
+
+
+Testing for sequence pair 98:
+
+
+
+Pico_P1A_int_Rhv, seqPair 98, auc = 1.000, sens = 1.000, spec = 0.952, blAUC = 0.993, blSens = 1.000, blSpec = 0.870.
+
+
+Testing for sequence pair 104:
+
+
+
+Pico_P1A_int_Rhv, seqPair 104, auc = 1.000, sens = 1.000, spec = 0.870, blAUC = 0.958, blSens = 1.000, blSpec = 0.800.
+
+
+Testing for sequence pair 112:
+
+
+
+Pico_P1A_int_Rhv, seqPair 112, auc = 1.000, sens = 1.000, spec = 0.958, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 119:
+
+
+
+Pico_P1A_int_Rhv, seqPair 119, auc = 1.000, sens = 1.000, spec = 0.909, blAUC = 1.000, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 126:
+
+
+
+Pico_P1A_int_Rhv, seqPair 126, auc = 0.988, sens = 0.938, spec = 0.938, blAUC = 1.000, blSens = 1.000, blSpec = 0.889.
+
+
+Testing for sequence pair 132:
+
+
+
+Pico_P1A_int_Rhv, seqPair 132, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.951, blSens = 0.933, blSpec = 0.933.
+
+
+Testing for sequence pair 134:
+
+
+
+Pico_P1A_int_Rhv, seqPair 134, auc = 0.997, sens = 0.947, spec = 0.947, blAUC = 0.994, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 142:
+
+
+
+Pico_P1A_int_Rhv, seqPair 142, auc = 0.991, sens = 0.944, spec = 0.944, blAUC = 0.929, blSens = 1.000, blSpec = 0.818.
+
+
+Testing for sequence pair 144:
+
+
+
+Pico_P1A_int_Rhv, seqPair 144, auc = 0.970, sens = 1.000, spec = 0.905, blAUC = 0.884, blSens = 1.000, blSpec = 0.826.
+
+
+Testing for sequence pair 174:
+
+
+
+Pico_P1A_int_Rhv, seqPair 174, auc = 1.000, sens = 1.000, spec = 0.952, blAUC = 0.958, blSens = 1.000, blSpec = 0.870.
+
+
+Testing for sequence pair 186:
+
+
+
+Pico_P1A_int_Rhv, seqPair 186, auc = 0.958, sens = 1.000, spec = 0.870, blAUC = 0.843, blSens = 1.000, blSpec = 0.833.
+
+
+Testing for sequence pair 189:
+
+
+
+Pico_P1A_int_Rhv, seqPair 189, auc = 0.922, sens = 0.750, spec = 0.857, blAUC = 0.828, blSens = 0.625, blSpec = 0.833.
+
+
+Testing for sequence pair 198:
+
+
+
+Pico_P1A_int_Rhv, seqPair 198, auc = 0.998, sens = 1.000, spec = 0.889, blAUC = 0.983, blSens = 1.000, blSpec = 0.889.
+
+
+
+ans =
+
+fold 4 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 98.746%
+Training recall: 97.818%
+Training precision: 99.630%
+Training f_measure: 98.716%
+Testing for sequence pair 17:
+
+
+
+Pico_P1A_int_Rhv, seqPair 17, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.966, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 19:
+
+
+
+Pico_P1A_int_Rhv, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 24:
+
+
+
+Pico_P1A_int_Rhv, seqPair 24, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 30:
+
+
+
+Pico_P1A_int_Rhv, seqPair 30, auc = 0.925, sens = 0.810, spec = 0.895, blAUC = 0.950, blSens = 0.810, blSpec = 0.944.
+
+
+Testing for sequence pair 33:
+
+
+
+Pico_P1A_int_Rhv, seqPair 33, auc = 0.958, sens = 0.696, spec = 0.941, blAUC = 0.932, blSens = 0.652, blSpec = 0.938.
+
+
+Testing for sequence pair 62:
+
+
+
+Pico_P1A_int_Rhv, seqPair 62, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 77:
+
+
+
+Pico_P1A_int_Rhv, seqPair 77, auc = 1.000, sens = 0.800, spec = 1.000, blAUC = 1.000, blSens = 0.900, blSpec = 1.000.
+
+
+Testing for sequence pair 82:
+
+
+
+Pico_P1A_int_Rhv, seqPair 82, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 83:
+
+
+
+Pico_P1A_int_Rhv, seqPair 83, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 99:
+
+
+
+Pico_P1A_int_Rhv, seqPair 99, auc = 1.000, sens = 1.000, spec = 0.950, blAUC = 0.947, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 117:
+
+
+
+Pico_P1A_int_Rhv, seqPair 117, auc = 1.000, sens = 1.000, spec = 0.950, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 125:
+
+
+
+Pico_P1A_int_Rhv, seqPair 125, auc = 0.893, sens = 0.533, spec = 0.889, blAUC = 0.840, blSens = 0.667, blSpec = 0.833.
+
+
+Testing for sequence pair 133:
+
+
+
+Pico_P1A_int_Rhv, seqPair 133, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 148:
+
+
+
+Pico_P1A_int_Rhv, seqPair 148, auc = 0.997, sens = 0.947, spec = 1.000, blAUC = 0.997, blSens = 0.947, blSpec = 0.947.
+
+
+Testing for sequence pair 164:
+
+
+
+Pico_P1A_int_Rhv, seqPair 164, auc = 0.960, sens = 1.000, spec = 0.920, blAUC = 0.943, blSens = 1.000, blSpec = 0.885.
+
+
+Testing for sequence pair 180:
+
+
+
+Pico_P1A_int_Rhv, seqPair 180, auc = 1.000, sens = 0.950, spec = 1.000, blAUC = 0.988, blSens = 0.900, blSpec = 1.000.
+
+
+Testing for sequence pair 181:
+
+
+
+Pico_P1A_int_Rhv, seqPair 181, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.950, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 184:
+
+
+
+Pico_P1A_int_Rhv, seqPair 184, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 193:
+
+
+
+Pico_P1A_int_Rhv, seqPair 193, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 196:
+
+
+
+Pico_P1A_int_Rhv, seqPair 196, auc = 0.993, sens = 0.950, spec = 1.000, blAUC = 0.920, blSens = 0.900, blSpec = 0.947.
+
+
+
+ans =
+
+fold 5 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 97.683%
+Training recall: 97.203%
+Training precision: 98.233%
+Training f_measure: 97.715%
+Testing for sequence pair 11:
+
+
+
+Pico_P1A_int_Rhv, seqPair 11, auc = 0.963, sens = 0.944, spec = 0.895, blAUC = 0.920, blSens = 0.944, blSpec = 0.810.
+
+
+Testing for sequence pair 16:
+
+
+
+Pico_P1A_int_Rhv, seqPair 16, auc = 0.969, sens = 0.750, spec = 1.000, blAUC = 0.992, blSens = 0.938, blSpec = 0.938.
+
+
+Testing for sequence pair 26:
+
+
+
+Pico_P1A_int_Rhv, seqPair 26, auc = 1.000, sens = 0.842, spec = 1.000, blAUC = 0.983, blSens = 0.737, blSpec = 1.000.
+
+
+Testing for sequence pair 35:
+
+
+
+Pico_P1A_int_Rhv, seqPair 35, auc = 0.992, sens = 0.842, spec = 1.000, blAUC = 0.967, blSens = 0.737, blSpec = 1.000.
+
+
+Testing for sequence pair 41:
+
+
+
+Pico_P1A_int_Rhv, seqPair 41, auc = 0.945, sens = 0.800, spec = 0.941, blAUC = 0.950, blSens = 0.650, blSpec = 0.929.
+
+
+Testing for sequence pair 54:
+
+
+
+Pico_P1A_int_Rhv, seqPair 54, auc = 0.968, sens = 0.800, spec = 0.941, blAUC = 0.970, blSens = 0.800, blSpec = 0.941.
+
+
+Testing for sequence pair 75:
+
+
+
+Pico_P1A_int_Rhv, seqPair 75, auc = 0.988, sens = 1.000, spec = 0.941, blAUC = 0.977, blSens = 0.938, blSpec = 0.938.
+
+
+Testing for sequence pair 79:
+
+
+
+Pico_P1A_int_Rhv, seqPair 79, auc = 0.863, sens = 0.688, spec = 0.917, blAUC = 0.941, blSens = 0.938, blSpec = 0.882.
+
+
+Testing for sequence pair 89:
+
+
+
+Pico_P1A_int_Rhv, seqPair 89, auc = 0.975, sens = 1.000, spec = 0.950, blAUC = 0.956, blSens = 0.895, blSpec = 0.944.
+
+
+Testing for sequence pair 90:
+
+
+
+Pico_P1A_int_Rhv, seqPair 90, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 97:
+
+
+
+Pico_P1A_int_Rhv, seqPair 97, auc = 1.000, sens = 1.000, spec = 0.920, blAUC = 1.000, blSens = 1.000, blSpec = 0.885.
+
+
+Testing for sequence pair 108:
+
+
+
+Pico_P1A_int_Rhv, seqPair 108, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.986, blSens = 0.882, blSpec = 1.000.
+
+
+Testing for sequence pair 121:
+
+
+
+Pico_P1A_int_Rhv, seqPair 121, auc = 0.965, sens = 1.000, spec = 0.857, blAUC = 0.998, blSens = 1.000, blSpec = 0.857.
+
+
+Testing for sequence pair 135:
+
+
+
+Pico_P1A_int_Rhv, seqPair 135, auc = 0.914, sens = 0.688, spec = 0.917, blAUC = 0.926, blSens = 0.875, blSpec = 0.824.
+
+
+Testing for sequence pair 140:
+
+
+
+Pico_P1A_int_Rhv, seqPair 140, auc = 0.988, sens = 1.000, spec = 0.900, blAUC = 1.000, blSens = 1.000, blSpec = 0.900.
+
+
+Testing for sequence pair 143:
+
+
+
+Pico_P1A_int_Rhv, seqPair 143, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 156:
+
+
+
+Pico_P1A_int_Rhv, seqPair 156, auc = 1.000, sens = 0.857, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 159:
+
+
+
+Pico_P1A_int_Rhv, seqPair 159, auc = 0.949, sens = 0.688, spec = 1.000, blAUC = 0.992, blSens = 0.875, blSpec = 1.000.
+
+
+Testing for sequence pair 162:
+
+
+
+Pico_P1A_int_Rhv, seqPair 162, auc = 0.948, sens = 0.850, spec = 0.944, blAUC = 0.943, blSens = 0.650, blSpec = 0.929.
+
+
+Testing for sequence pair 177:
+
+
+
+Pico_P1A_int_Rhv, seqPair 177, auc = 0.960, sens = 0.850, spec = 0.895, blAUC = 0.930, blSens = 0.650, blSpec = 0.867.
+
+
+
+ans =
+
+fold 6 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 99.247%
+Training recall: 99.240%
+Training precision: 99.240%
+Training f_measure: 99.240%
+Testing for sequence pair 3:
+
+
+
+Pico_P1A_int_Rhv, seqPair 3, auc = 0.980, sens = 0.905, spec = 0.950, blAUC = 0.939, blSens = 0.857, blSpec = 1.000.
+
+
+Testing for sequence pair 10:
+
+
+
+Pico_P1A_int_Rhv, seqPair 10, auc = 0.907, sens = 0.667, spec = 0.769, blAUC = 0.849, blSens = 0.667, blSpec = 0.833.
+
+
+Testing for sequence pair 15:
+
+
+
+Pico_P1A_int_Rhv, seqPair 15, auc = 0.960, sens = 0.900, spec = 0.857, blAUC = 0.927, blSens = 0.850, blSpec = 0.895.
+
+
+Testing for sequence pair 20:
+
+
+
+Pico_P1A_int_Rhv, seqPair 20, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 25:
+
+
+
+Pico_P1A_int_Rhv, seqPair 25, auc = 0.937, sens = 0.476, spec = 1.000, blAUC = 0.930, blSens = 0.429, blSpec = 0.900.
+
+
+Testing for sequence pair 34:
+
+
+
+Pico_P1A_int_Rhv, seqPair 34, auc = 0.928, sens = 0.565, spec = 1.000, blAUC = 0.896, blSens = 0.391, blSpec = 1.000.
+
+
+Testing for sequence pair 37:
+
+
+
+Pico_P1A_int_Rhv, seqPair 37, auc = 1.000, sens = 0.875, spec = 1.000, blAUC = 1.000, blSens = 0.750, blSpec = 1.000.
+
+
+Testing for sequence pair 47:
+
+
+
+Pico_P1A_int_Rhv, seqPair 47, auc = 0.995, sens = 0.714, spec = 1.000, blAUC = 0.969, blSens = 0.714, blSpec = 1.000.
+
+
+Testing for sequence pair 49:
+
+
+
+Pico_P1A_int_Rhv, seqPair 49, auc = 0.958, sens = 0.950, spec = 0.905, blAUC = 0.925, blSens = 0.900, blSpec = 0.947.
+
+
+Testing for sequence pair 73:
+
+
+
+Pico_P1A_int_Rhv, seqPair 73, auc = 0.978, sens = 0.947, spec = 1.000, blAUC = 0.942, blSens = 0.895, blSpec = 1.000.
+
+
+Testing for sequence pair 91:
+
+
+
+Pico_P1A_int_Rhv, seqPair 91, auc = 0.984, sens = 1.000, spec = 0.889, blAUC = 0.969, blSens = 1.000, blSpec = 0.889.
+
+
+Testing for sequence pair 92:
+
+
+
+Pico_P1A_int_Rhv, seqPair 92, auc = 0.920, sens = 0.842, spec = 0.842, blAUC = 0.931, blSens = 0.895, blSpec = 0.895.
+
+
+Testing for sequence pair 129:
+
+
+
+Pico_P1A_int_Rhv, seqPair 129, auc = 0.982, sens = 0.800, spec = 0.923, blAUC = 0.893, blSens = 0.667, blSpec = 0.909.
+
+
+Testing for sequence pair 130:
+
+
+
+Pico_P1A_int_Rhv, seqPair 130, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.944, blSpec = 1.000.
+
+
+Testing for sequence pair 141:
+
+
+
+Pico_P1A_int_Rhv, seqPair 141, auc = 0.996, sens = 0.867, spec = 1.000, blAUC = 0.947, blSens = 0.667, blSpec = 1.000.
+
+
+Testing for sequence pair 158:
+
+
+
+Pico_P1A_int_Rhv, seqPair 158, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 175:
+
+
+
+Pico_P1A_int_Rhv, seqPair 175, auc = 0.961, sens = 1.000, spec = 0.864, blAUC = 0.961, blSens = 0.947, blSpec = 0.857.
+
+
+Testing for sequence pair 178:
+
+
+
+Pico_P1A_int_Rhv, seqPair 178, auc = 1.000, sens = 1.000, spec = 0.826, blAUC = 0.978, blSens = 0.947, blSpec = 0.900.
+
+
+Testing for sequence pair 192:
+
+
+
+Pico_P1A_int_Rhv, seqPair 192, auc = 0.980, sens = 0.750, spec = 1.000, blAUC = 0.930, blSens = 0.625, blSpec = 0.909.
+
+
+Testing for sequence pair 197:
+
+
+
+Pico_P1A_int_Rhv, seqPair 197, auc = 1.000, sens = 1.000, spec = 0.944, blAUC = 1.000, blSens = 1.000, blSpec = 0.944.
+
+
+
+ans =
+
+fold 7 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 99.234%
+Training recall: 100.000%
+Training precision: 98.456%
+Training f_measure: 99.222%
+Testing for sequence pair 6:
+
+
+
+Pico_P1A_int_Rhv, seqPair 6, auc = 0.920, sens = 0.900, spec = 0.857, blAUC = 0.922, blSens = 0.750, blSpec = 0.882.
+
+
+Testing for sequence pair 28:
+
+
+
+Pico_P1A_int_Rhv, seqPair 28, auc = 0.934, sens = 0.783, spec = 0.947, blAUC = 0.964, blSens = 0.696, blSpec = 1.000.
+
+
+Testing for sequence pair 31:
+
+
+
+Pico_P1A_int_Rhv, seqPair 31, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 45:
+
+
+
+Pico_P1A_int_Rhv, seqPair 45, auc = 1.000, sens = 1.000, spec = 0.950, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 59:
+
+
+
+Pico_P1A_int_Rhv, seqPair 59, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 61:
+
+
+
+Pico_P1A_int_Rhv, seqPair 61, auc = 0.936, sens = 1.000, spec = 0.826, blAUC = 0.986, blSens = 1.000, blSpec = 0.864.
+
+
+Testing for sequence pair 64:
+
+
+
+Pico_P1A_int_Rhv, seqPair 64, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 69:
+
+
+
+Pico_P1A_int_Rhv, seqPair 69, auc = 0.994, sens = 1.000, spec = 0.947, blAUC = 0.969, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 76:
+
+
+
+Pico_P1A_int_Rhv, seqPair 76, auc = 0.997, sens = 0.947, spec = 1.000, blAUC = 0.981, blSens = 0.789, blSpec = 1.000.
+
+
+Testing for sequence pair 87:
+
+
+
+Pico_P1A_int_Rhv, seqPair 87, auc = 0.998, sens = 1.000, spec = 0.885, blAUC = 0.998, blSens = 1.000, blSpec = 0.852.
+
+
+Testing for sequence pair 103:
+
+
+
+Pico_P1A_int_Rhv, seqPair 103, auc = 0.996, sens = 1.000, spec = 0.958, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 105:
+
+
+
+Pico_P1A_int_Rhv, seqPair 105, auc = 0.895, sens = 1.000, spec = 0.864, blAUC = 0.939, blSens = 1.000, blSpec = 0.864.
+
+
+Testing for sequence pair 115:
+
+
+
+Pico_P1A_int_Rhv, seqPair 115, auc = 1.000, sens = 1.000, spec = 0.958, blAUC = 1.000, blSens = 1.000, blSpec = 0.958.
+
+
+Testing for sequence pair 123:
+
+
+
+Pico_P1A_int_Rhv, seqPair 123, auc = 0.947, sens = 1.000, spec = 0.905, blAUC = 0.964, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 136:
+
+
+
+Pico_P1A_int_Rhv, seqPair 136, auc = 1.000, sens = 1.000, spec = 0.950, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 152:
+
+
+
+Pico_P1A_int_Rhv, seqPair 152, auc = 0.987, sens = 1.000, spec = 0.920, blAUC = 1.000, blSens = 1.000, blSpec = 0.920.
+
+
+Testing for sequence pair 160:
+
+
+
+Pico_P1A_int_Rhv, seqPair 160, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 183:
+
+
+
+Pico_P1A_int_Rhv, seqPair 183, auc = 0.993, sens = 1.000, spec = 0.952, blAUC = 0.958, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 190:
+
+
+
+Pico_P1A_int_Rhv, seqPair 190, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 191:
+
+
+
+Pico_P1A_int_Rhv, seqPair 191, auc = 0.986, sens = 1.000, spec = 0.895, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 8 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 98.699%
+Training recall: 98.134%
+Training precision: 99.245%
+Training f_measure: 98.687%
+Testing for sequence pair 4:
+
+
+
+Pico_P1A_int_Rhv, seqPair 4, auc = 0.961, sens = 0.750, spec = 0.857, blAUC = 0.938, blSens = 0.688, blSpec = 0.846.
+
+
+Testing for sequence pair 9:
+
+
+
+Pico_P1A_int_Rhv, seqPair 9, auc = 0.983, sens = 0.950, spec = 0.905, blAUC = 0.960, blSens = 0.900, blSpec = 0.947.
+
+
+Testing for sequence pair 21:
+
+
+
+Pico_P1A_int_Rhv, seqPair 21, auc = 0.837, sens = 0.667, spec = 0.933, blAUC = 0.950, blSens = 0.714, blSpec = 1.000.
+
+
+Testing for sequence pair 22:
+
+
+
+Pico_P1A_int_Rhv, seqPair 22, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 43:
+
+
+
+Pico_P1A_int_Rhv, seqPair 43, auc = 0.958, sens = 1.000, spec = 0.828, blAUC = 0.974, blSens = 0.958, blSpec = 0.852.
+
+
+Testing for sequence pair 44:
+
+
+
+Pico_P1A_int_Rhv, seqPair 44, auc = 1.000, sens = 1.000, spec = 0.913, blAUC = 0.984, blSens = 1.000, blSpec = 0.875.
+
+
+Testing for sequence pair 58:
+
+
+
+Pico_P1A_int_Rhv, seqPair 58, auc = 0.935, sens = 1.000, spec = 0.833, blAUC = 0.963, blSens = 0.950, blSpec = 0.905.
+
+
+Testing for sequence pair 84:
+
+
+
+Pico_P1A_int_Rhv, seqPair 84, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 85:
+
+
+
+Pico_P1A_int_Rhv, seqPair 85, auc = 0.978, sens = 1.000, spec = 0.870, blAUC = 0.980, blSens = 1.000, blSpec = 0.870.
+
+
+Testing for sequence pair 93:
+
+
+
+Pico_P1A_int_Rhv, seqPair 93, auc = 0.978, sens = 1.000, spec = 0.818, blAUC = 0.926, blSens = 0.944, blSpec = 0.895.
+
+
+Testing for sequence pair 96:
+
+
+
+Pico_P1A_int_Rhv, seqPair 96, auc = 0.900, sens = 1.000, spec = 0.864, blAUC = 1.000, blSens = 1.000, blSpec = 0.826.
+
+
+Testing for sequence pair 106:
+
+
+
+Pico_P1A_int_Rhv, seqPair 106, auc = 0.989, sens = 1.000, spec = 0.920, blAUC = 0.979, blSens = 0.957, blSpec = 0.880.
+
+
+Testing for sequence pair 107:
+
+
+
+Pico_P1A_int_Rhv, seqPair 107, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.998, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 116:
+
+
+
+Pico_P1A_int_Rhv, seqPair 116, auc = 0.965, sens = 1.000, spec = 0.870, blAUC = 0.978, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 122:
+
+
+
+Pico_P1A_int_Rhv, seqPair 122, auc = 0.970, sens = 0.870, spec = 0.952, blAUC = 0.972, blSens = 0.870, blSpec = 0.952.
+
+
+Testing for sequence pair 147:
+
+
+
+Pico_P1A_int_Rhv, seqPair 147, auc = 0.920, sens = 0.733, spec = 1.000, blAUC = 0.964, blSens = 0.867, blSpec = 0.929.
+
+
+Testing for sequence pair 165:
+
+
+
+Pico_P1A_int_Rhv, seqPair 165, auc = 1.000, sens = 1.000, spec = 0.952, blAUC = 0.993, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 187:
+
+
+
+Pico_P1A_int_Rhv, seqPair 187, auc = 0.964, sens = 1.000, spec = 0.826, blAUC = 0.964, blSens = 1.000, blSpec = 0.864.
+
+
+Testing for sequence pair 188:
+
+
+
+Pico_P1A_int_Rhv, seqPair 188, auc = 1.000, sens = 1.000, spec = 0.920, blAUC = 0.958, blSens = 0.957, blSpec = 0.917.
+
+
+Testing for sequence pair 195:
+
+
+
+Pico_P1A_int_Rhv, seqPair 195, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 9 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 98.718%
+Training recall: 98.905%
+Training precision: 98.545%
+Training f_measure: 98.725%
+Testing for sequence pair 8:
+
+
+
+Pico_P1A_int_Rhv, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.997, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 18:
+
+
+
+Pico_P1A_int_Rhv, seqPair 18, auc = 0.952, sens = 0.952, spec = 0.870, blAUC = 0.930, blSens = 1.000, blSpec = 0.840.
+
+
+Testing for sequence pair 32:
+
+
+
+Pico_P1A_int_Rhv, seqPair 32, auc = 0.941, sens = 1.000, spec = 0.889, blAUC = 0.988, blSens = 0.938, blSpec = 0.938.
+
+
+Testing for sequence pair 48:
+
+
+
+Pico_P1A_int_Rhv, seqPair 48, auc = 0.941, sens = 1.000, spec = 0.800, blAUC = 0.980, blSens = 1.000, blSpec = 0.889.
+
+
+Testing for sequence pair 52:
+
+
+
+Pico_P1A_int_Rhv, seqPair 52, auc = 1.000, sens = 1.000, spec = 0.952, blAUC = 0.990, blSens = 1.000, blSpec = 0.870.
+
+
+Testing for sequence pair 56:
+
+
+
+Pico_P1A_int_Rhv, seqPair 56, auc = 0.953, sens = 0.950, spec = 0.792, blAUC = 0.968, blSens = 0.950, blSpec = 0.826.
+
+
+Testing for sequence pair 65:
+
+
+
+Pico_P1A_int_Rhv, seqPair 65, auc = 0.802, sens = 0.652, spec = 0.833, blAUC = 0.837, blSens = 0.609, blSpec = 0.824.
+
+
+Testing for sequence pair 80:
+
+
+
+Pico_P1A_int_Rhv, seqPair 80, auc = 1.000, sens = 1.000, spec = 0.895, blAUC = 0.997, blSens = 0.941, blSpec = 0.941.
+
+
+Testing for sequence pair 86:
+
+
+
+Pico_P1A_int_Rhv, seqPair 86, auc = 1.000, sens = 1.000, spec = 0.826, blAUC = 0.992, blSens = 1.000, blSpec = 0.864.
+
+
+Testing for sequence pair 88:
+
+
+
+Pico_P1A_int_Rhv, seqPair 88, auc = 0.992, sens = 0.947, spec = 1.000, blAUC = 0.986, blSens = 0.947, blSpec = 0.900.
+
+
+Testing for sequence pair 101:
+
+
+
+Pico_P1A_int_Rhv, seqPair 101, auc = 0.945, sens = 0.950, spec = 0.826, blAUC = 0.988, blSens = 0.950, blSpec = 0.950.
+
+
+Testing for sequence pair 113:
+
+
+
+Pico_P1A_int_Rhv, seqPair 113, auc = 0.935, sens = 0.950, spec = 0.905, blAUC = 0.975, blSens = 0.950, blSpec = 0.864.
+
+
+Testing for sequence pair 128:
+
+
+
+Pico_P1A_int_Rhv, seqPair 128, auc = 1.000, sens = 0.875, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.889.
+
+
+Testing for sequence pair 131:
+
+
+
+Pico_P1A_int_Rhv, seqPair 131, auc = 0.963, sens = 0.944, spec = 0.944, blAUC = 0.969, blSens = 1.000, blSpec = 0.857.
+
+
+Testing for sequence pair 153:
+
+
+
+Pico_P1A_int_Rhv, seqPair 153, auc = 0.989, sens = 0.952, spec = 0.952, blAUC = 0.993, blSens = 0.952, blSpec = 1.000.
+
+
+Testing for sequence pair 154:
+
+
+
+Pico_P1A_int_Rhv, seqPair 154, auc = 0.950, sens = 1.000, spec = 0.905, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 167:
+
+
+
+Pico_P1A_int_Rhv, seqPair 167, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 170:
+
+
+
+Pico_P1A_int_Rhv, seqPair 170, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 171:
+
+
+
+Pico_P1A_int_Rhv, seqPair 171, auc = 0.948, sens = 0.950, spec = 0.905, blAUC = 0.965, blSens = 0.950, blSpec = 0.950.
+
+
+Testing for sequence pair 194:
+
+
+
+Pico_P1A_int_Rhv, seqPair 194, auc = 0.942, sens = 1.000, spec = 0.882, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 10 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 98.805%
+Training recall: 97.938%
+Training precision: 99.650%
+Training f_measure: 98.787%
+Testing for sequence pair 5:
+
+
+
+Pico_P1A_int_Rhv, seqPair 5, auc = 1.000, sens = 1.000, spec = 0.900, blAUC = 0.978, blSens = 1.000, blSpec = 0.857.
+
+
+Testing for sequence pair 13:
+
+
+
+Pico_P1A_int_Rhv, seqPair 13, auc = 0.996, sens = 0.938, spec = 0.938, blAUC = 0.922, blSens = 0.938, blSpec = 0.833.
+
+
+Testing for sequence pair 38:
+
+
+
+Pico_P1A_int_Rhv, seqPair 38, auc = 0.973, sens = 0.733, spec = 1.000, blAUC = 0.973, blSens = 0.733, blSpec = 0.917.
+
+
+Testing for sequence pair 40:
+
+
+
+Pico_P1A_int_Rhv, seqPair 40, auc = 0.978, sens = 0.962, spec = 0.926, blAUC = 0.944, blSens = 0.962, blSpec = 0.862.
+
+
+Testing for sequence pair 50:
+
+
+
+Pico_P1A_int_Rhv, seqPair 50, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.953, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 66:
+
+
+
+Pico_P1A_int_Rhv, seqPair 66, auc = 0.998, sens = 1.000, spec = 0.952, blAUC = 0.973, blSens = 1.000, blSpec = 0.870.
+
+
+Testing for sequence pair 74:
+
+
+
+Pico_P1A_int_Rhv, seqPair 74, auc = 1.000, sens = 1.000, spec = 0.875, blAUC = 0.934, blSens = 0.929, blSpec = 0.867.
+
+
+Testing for sequence pair 81:
+
+
+
+Pico_P1A_int_Rhv, seqPair 81, auc = 0.997, sens = 0.944, spec = 0.944, blAUC = 0.978, blSens = 1.000, blSpec = 0.900.
+
+
+Testing for sequence pair 95:
+
+
+
+Pico_P1A_int_Rhv, seqPair 95, auc = 0.998, sens = 1.000, spec = 0.909, blAUC = 0.945, blSens = 1.000, blSpec = 0.870.
+
+
+Testing for sequence pair 100:
+
+
+
+Pico_P1A_int_Rhv, seqPair 100, auc = 1.000, sens = 1.000, spec = 0.920, blAUC = 0.958, blSens = 1.000, blSpec = 0.852.
+
+
+Testing for sequence pair 118:
+
+
+
+Pico_P1A_int_Rhv, seqPair 118, auc = 1.000, sens = 1.000, spec = 0.920, blAUC = 0.991, blSens = 1.000, blSpec = 0.920.
+
+
+Testing for sequence pair 124:
+
+
+
+Pico_P1A_int_Rhv, seqPair 124, auc = 0.986, sens = 0.955, spec = 0.955, blAUC = 0.942, blSens = 0.955, blSpec = 0.913.
+
+
+Testing for sequence pair 137:
+
+
+
+Pico_P1A_int_Rhv, seqPair 137, auc = 0.994, sens = 0.947, spec = 0.947, blAUC = 0.975, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 145:
+
+
+
+Pico_P1A_int_Rhv, seqPair 145, auc = 1.000, sens = 1.000, spec = 0.850, blAUC = 0.997, blSens = 1.000, blSpec = 0.850.
+
+
+Testing for sequence pair 146:
+
+
+
+Pico_P1A_int_Rhv, seqPair 146, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.948, blSens = 1.000, blSpec = 0.857.
+
+
+Testing for sequence pair 149:
+
+
+
+Pico_P1A_int_Rhv, seqPair 149, auc = 0.981, sens = 0.920, spec = 1.000, blAUC = 0.986, blSens = 1.000, blSpec = 0.926.
+
+
+Testing for sequence pair 163:
+
+
+
+Pico_P1A_int_Rhv, seqPair 163, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 172:
+
+
+
+Pico_P1A_int_Rhv, seqPair 172, auc = 0.975, sens = 1.000, spec = 0.826, blAUC = 0.848, blSens = 1.000, blSpec = 0.792.
+
+
+Testing for sequence pair 182:
+
+
+
+Pico_P1A_int_Rhv, seqPair 182, auc = 0.974, sens = 1.000, spec = 0.920, blAUC = 0.974, blSens = 1.000, blSpec = 0.885.
+
+
+
+
+
+2014-5-2 5:31 SUCCESS: Pico_P1A_int_Rhv.
+
+
+2014-5-2 5:31 FINISHED.
+Number of total DDI is: 1
+Number of successed DDI is: 1
+Number of total sequence is: 198
+FisherMode: FisherM1 SVMMode: DL_RE_US Kernel: DL_RE_US, choseNegRatio: 1, choseNegRatioTest: 1
+The baseline AUC: 96.892%
+The baseline recall: 92.247%
+The baseline precision: 92.647%
+Testing AUC: 97.734%
+Testing recall: 93.675%
+Testing precision: 94.021%
+Testing f_measure: 93.392%
+Training accuracy: 98.837%
+Training recall: 98.581%
+Training precision: 99.088%
+Training f_measure: 98.831%

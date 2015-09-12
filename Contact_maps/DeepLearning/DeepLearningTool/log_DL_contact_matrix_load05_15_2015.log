@@ -1,0 +1,1299 @@
+2015-05-15 14:55:17,544 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 14:55:17,545 - __main__ - INFO - DL: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - SVM: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - n_outs: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 14:55:17,545 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - DL_S: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 14:55:17,545 - __main__ - INFO - DL_U: 0
+2015-05-15 14:55:17,545 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 14:55:17,545 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - DL_xy: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - batch_size: 100
+2015-05-15 14:55:17,545 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:1500
+2015-05-15 14:55:17,545 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 14:55:17,545 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 14:55:17,545 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - DL_S_new: 1
+2015-05-15 14:55:17,545 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 14:55:17,546 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 14:55:17,546 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 14:55:17,546 - __main__ - INFO - pretraining_interations: 10000
+2015-05-15 14:55:17,546 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 14:55:17,546 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 14:55:17,546 - __main__ - INFO - training_interations: 10000
+2015-05-15 14:55:17,546 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 14:55:17,546 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 14:55:17,546 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 14:55:17,546 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 14:55:17,546 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 14:55:17,546 - __main__ - INFO - n_cores: 1
+2015-05-15 14:55:17,546 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 14:55:17,546 - __main__ - INFO - sparsity: 0
+2015-05-15 14:55:17,546 - __main__ - INFO - with_auc_score: False
+2015-05-15 14:55:17,546 - __main__ - INFO - Sda_new: 1
+2015-05-15 14:55:17,546 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 14:55:17,546 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 14:55:17,568 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 14:55:17,594 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 14:55:17,595 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 14:55:17,595 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 14:55:17,595 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 14:55:17,595 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 14:55:17,595 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 14:55:17,595 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 14:55:17,595 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 14:55:17,595 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 14:55:17,595 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 14:55:17,595 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 14:55:17,595 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 14:55:17,595 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 14:55:17,595 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 14:55:17,595 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 14:55:17,595 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 14:55:17,596 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 14:55:17,596 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 14:55:17,596 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 14:55:17,596 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 14:55:17,596 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 15:05:07,107 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-15 15:05:07,107 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 15:05:07,120 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-15 15:20:10,113 - __main__ - DEBUG - There is a error in this ddi: Lyase_8_int_Lyase_8_N
+2015-05-15 15:20:10,126 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 15:20:10,179 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_C
+2015-05-15 15:33:00,329 - __main__ - DEBUG - There is a error in this ddi: Lyase_8_int_Lyase_8_C
+2015-05-15 15:33:00,329 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 15:33:00,513 - __main__ - INFO - DDI: OKR_DC_1_int_OKR_DC_1_N
+2015-05-15 15:37:25,404 - __main__ - INFO - DDI: Fn3-like_int_Glyco_hydro_3
+2015-05-15 15:39:18,731 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 15:39:18,732 - __main__ - INFO - DL: 1
+2015-05-15 15:39:18,732 - __main__ - INFO - SVM: 1
+2015-05-15 15:39:18,732 - __main__ - INFO - n_outs: 1
+2015-05-15 15:39:18,732 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 15:39:18,733 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 15:39:18,733 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 15:39:18,733 - __main__ - INFO - DL_S: 1
+2015-05-15 15:39:18,733 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 15:39:18,733 - __main__ - INFO - DL_U: 0
+2015-05-15 15:39:18,734 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 15:39:18,734 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 15:39:18,734 - __main__ - INFO - DL_xy: 1
+2015-05-15 15:39:18,734 - __main__ - INFO - batch_size: 1
+2015-05-15 15:39:18,734 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:1500
+2015-05-15 15:39:18,735 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 15:39:18,735 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 15:39:18,735 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 15:39:18,735 - __main__ - INFO - DL_S_new: 1
+2015-05-15 15:39:18,735 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 15:39:18,736 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 15:39:18,736 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 15:39:18,736 - __main__ - INFO - pretraining_interations: 10000
+2015-05-15 15:39:18,736 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 15:39:18,736 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 15:39:18,737 - __main__ - INFO - training_interations: 10000
+2015-05-15 15:39:18,737 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 15:39:18,737 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 15:39:18,737 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 15:39:18,737 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 15:39:18,738 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 15:39:18,738 - __main__ - INFO - n_cores: 1
+2015-05-15 15:39:18,738 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 15:39:18,738 - __main__ - INFO - sparsity: 0
+2015-05-15 15:39:18,738 - __main__ - INFO - with_auc_score: False
+2015-05-15 15:39:18,738 - __main__ - INFO - Sda_new: 1
+2015-05-15 15:39:18,739 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 15:39:18,739 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 15:39:20,470 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 15:39:20,471 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 15:39:20,471 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 15:39:20,471 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 15:39:20,472 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 15:39:20,472 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 15:39:20,472 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 15:39:20,472 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 15:39:20,473 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 15:39:20,473 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 15:39:20,473 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 15:39:20,474 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 15:39:20,474 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 15:39:20,474 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 15:39:20,474 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 15:39:20,475 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 15:39:20,475 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 15:39:20,475 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 15:39:20,475 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 15:39:20,476 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 15:39:20,476 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 15:39:20,476 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 15:42:33,507 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 15:42:33,507 - __main__ - INFO - DL: 1
+2015-05-15 15:42:33,507 - __main__ - INFO - SVM: 1
+2015-05-15 15:42:33,508 - __main__ - INFO - n_outs: 1
+2015-05-15 15:42:33,508 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 15:42:33,508 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 15:42:33,508 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 15:42:33,508 - __main__ - INFO - DL_S: 1
+2015-05-15 15:42:33,509 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 15:42:33,509 - __main__ - INFO - DL_U: 0
+2015-05-15 15:42:33,509 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 15:42:33,509 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 15:42:33,509 - __main__ - INFO - DL_xy: 1
+2015-05-15 15:42:33,510 - __main__ - INFO - batch_size: 100
+2015-05-15 15:42:33,510 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:1500
+2015-05-15 15:42:33,510 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 15:42:33,510 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 15:42:33,510 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 15:42:33,511 - __main__ - INFO - DL_S_new: 1
+2015-05-15 15:42:33,511 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 15:42:33,511 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 15:42:33,511 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 15:42:33,511 - __main__ - INFO - pretraining_interations: 10000
+2015-05-15 15:42:33,511 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 15:42:33,512 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 15:42:33,512 - __main__ - INFO - training_interations: 10000
+2015-05-15 15:42:33,512 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 15:42:33,512 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 15:42:33,512 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 15:42:33,513 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 15:42:33,513 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 15:42:33,513 - __main__ - INFO - n_cores: 1
+2015-05-15 15:42:33,513 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 15:42:33,513 - __main__ - INFO - sparsity: 0
+2015-05-15 15:42:33,514 - __main__ - INFO - with_auc_score: False
+2015-05-15 15:42:33,514 - __main__ - INFO - Sda_new: 1
+2015-05-15 15:42:33,514 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 15:42:33,514 - __main__ - INFO - learning_rate: 0.01
+2015-05-15 15:42:35,223 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 15:42:35,223 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 15:42:35,224 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 15:42:35,224 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 15:42:35,224 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 15:42:35,224 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 15:42:35,225 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 15:42:35,225 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 15:42:35,225 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 15:42:35,225 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 15:42:35,226 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 15:42:35,226 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 15:42:35,226 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 15:42:35,226 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 15:42:35,227 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 15:42:35,227 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 15:42:35,227 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 15:42:35,227 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 15:42:35,228 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 15:42:35,228 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 15:42:35,228 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 15:42:35,228 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 15:46:59,227 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-15 15:46:59,227 - __main__ - INFO - [Errno 32] Broken pipe
+2015-05-15 15:46:59,240 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-15 15:47:03,750 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 15:47:03,750 - __main__ - INFO - DL: 1
+2015-05-15 15:47:03,750 - __main__ - INFO - SVM: 1
+2015-05-15 15:47:03,750 - __main__ - INFO - n_outs: 1
+2015-05-15 15:47:03,750 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 15:47:03,751 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 15:47:03,751 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 15:47:03,751 - __main__ - INFO - DL_S: 1
+2015-05-15 15:47:03,751 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 15:47:03,751 - __main__ - INFO - DL_U: 0
+2015-05-15 15:47:03,751 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 15:47:03,751 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 15:47:03,751 - __main__ - INFO - DL_xy: 1
+2015-05-15 15:47:03,751 - __main__ - INFO - batch_size: 100
+2015-05-15 15:47:03,751 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:1500
+2015-05-15 15:47:03,751 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 15:47:03,751 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 15:47:03,751 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 15:47:03,751 - __main__ - INFO - DL_S_new: 1
+2015-05-15 15:47:03,751 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 15:47:03,751 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 15:47:03,751 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 15:47:03,751 - __main__ - INFO - pretraining_interations: 10000
+2015-05-15 15:47:03,751 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 15:47:03,751 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 15:47:03,751 - __main__ - INFO - training_interations: 20000
+2015-05-15 15:47:03,751 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 15:47:03,751 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 15:47:03,751 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 15:47:03,751 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 15:47:03,752 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 15:47:03,752 - __main__ - INFO - n_cores: 1
+2015-05-15 15:47:03,752 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 15:47:03,752 - __main__ - INFO - sparsity: 0
+2015-05-15 15:47:03,752 - __main__ - INFO - with_auc_score: False
+2015-05-15 15:47:03,752 - __main__ - INFO - Sda_new: 1
+2015-05-15 15:47:03,752 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 15:47:03,752 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 15:47:03,755 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 15:47:03,755 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 15:47:03,755 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 15:47:03,755 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 15:47:03,755 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 15:47:03,755 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 15:47:03,755 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 15:47:03,755 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 15:47:03,755 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 15:47:03,755 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 15:47:03,755 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 15:47:03,755 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 15:47:03,755 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 15:47:03,756 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 15:47:03,756 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 15:47:03,756 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 15:47:03,756 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 15:47:03,756 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 15:47:03,756 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 15:47:03,756 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 15:47:03,756 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 15:47:03,756 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 15:56:40,360 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-15 15:56:40,360 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 15:56:40,373 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-15 16:11:35,756 - __main__ - DEBUG - There is a error in this ddi: Lyase_8_int_Lyase_8_N
+2015-05-15 16:11:35,767 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 16:11:35,837 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_C
+2015-05-15 16:24:22,293 - __main__ - DEBUG - There is a error in this ddi: Lyase_8_int_Lyase_8_C
+2015-05-15 16:24:22,293 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 16:24:22,456 - __main__ - INFO - DDI: OKR_DC_1_int_OKR_DC_1_N
+2015-05-15 16:29:51,109 - __main__ - DEBUG - There is a error in this ddi: OKR_DC_1_int_OKR_DC_1_N
+2015-05-15 16:29:51,109 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 16:29:51,110 - __main__ - INFO - DDI: SUFU_int_SUFU_C
+2015-05-15 16:35:10,145 - __main__ - DEBUG - There is a error in this ddi: SUFU_int_SUFU_C
+2015-05-15 16:35:10,145 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 16:35:10,146 - __main__ - INFO - DDI: Alpha-amylase_int_DUF3459
+2015-05-15 16:35:10,146 - __main__ - DEBUG - There is a error in this ddi: Alpha-amylase_int_DUF3459
+2015-05-15 16:35:10,146 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Alpha-amylase_int_DUF3459/allPairs.txt'
+2015-05-15 16:35:10,147 - __main__ - INFO - DDI: Sigma70_r2_int_Sigma70_r3
+2015-05-15 16:35:10,147 - __main__ - DEBUG - There is a error in this ddi: Sigma70_r2_int_Sigma70_r3
+2015-05-15 16:35:10,147 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Sigma70_r2_int_Sigma70_r3/allPairs.txt'
+2015-05-15 16:35:10,147 - __main__ - INFO - DDI: FXa_inhibition_int_Ldl_recept_b
+2015-05-15 16:35:10,147 - __main__ - DEBUG - There is a error in this ddi: FXa_inhibition_int_Ldl_recept_b
+2015-05-15 16:35:10,147 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/FXa_inhibition_int_Ldl_recept_b/allPairs.txt'
+2015-05-15 16:35:10,147 - __main__ - INFO - DDI: Fn3-like_int_Glyco_hydro_3
+2015-05-15 16:35:10,147 - __main__ - DEBUG - There is a error in this ddi: Fn3-like_int_Glyco_hydro_3
+2015-05-15 16:35:10,147 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Fn3-like_int_Glyco_hydro_3/allPairs.txt'
+2015-05-15 16:35:10,147 - __main__ - INFO - DDI: GT36_AF_int_Glyco_transf_36
+2015-05-15 16:35:10,147 - __main__ - DEBUG - There is a error in this ddi: GT36_AF_int_Glyco_transf_36
+2015-05-15 16:35:10,147 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/GT36_AF_int_Glyco_transf_36/allPairs.txt'
+2015-05-15 16:35:10,147 - __main__ - INFO - DDI: ERAP1_C_int_Peptidase_M1
+2015-05-15 16:46:18,181 - __main__ - DEBUG - There is a error in this ddi: ERAP1_C_int_Peptidase_M1
+2015-05-15 16:46:18,181 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 16:46:18,182 - __main__ - INFO - DDI: DNA_PPF_int_gp45-slide_C
+2015-05-15 16:53:24,579 - __main__ - DEBUG - There is a error in this ddi: DNA_PPF_int_gp45-slide_C
+2015-05-15 16:53:24,579 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 16:53:24,580 - __main__ - INFO - DDI: Asn_synthase_int_GATase_7
+2015-05-15 16:59:17,789 - __main__ - DEBUG - There is a error in this ddi: Asn_synthase_int_GATase_7
+2015-05-15 16:59:17,789 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 22:21:36,689 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:21:36,689 - __main__ - INFO - DL: 1
+2015-05-15 22:21:36,690 - __main__ - INFO - SVM: 1
+2015-05-15 22:21:36,690 - __main__ - INFO - n_outs: 1
+2015-05-15 22:21:36,690 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 22:21:36,691 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 22:21:36,691 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 22:21:36,692 - __main__ - INFO - DL_S: 1
+2015-05-15 22:21:36,692 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 22:21:36,692 - __main__ - INFO - DL_U: 0
+2015-05-15 22:21:36,693 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 22:21:36,693 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 22:21:36,693 - __main__ - INFO - DL_xy: 1
+2015-05-15 22:21:36,694 - __main__ - INFO - batch_size: 100
+2015-05-15 22:21:36,694 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:1500
+2015-05-15 22:21:36,695 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 22:21:36,695 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:21:36,695 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 22:21:36,696 - __main__ - INFO - DL_S_new: 1
+2015-05-15 22:21:36,696 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 22:21:36,696 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 22:21:36,697 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 22:21:36,697 - __main__ - INFO - pretraining_interations: 2
+2015-05-15 22:21:36,697 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 22:21:36,698 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 22:21:36,698 - __main__ - INFO - training_interations: 2
+2015-05-15 22:21:36,698 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 22:21:36,699 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 22:21:36,699 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 22:21:36,699 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 22:21:36,700 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 22:21:36,700 - __main__ - INFO - n_cores: 1
+2015-05-15 22:21:36,700 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 22:21:36,701 - __main__ - INFO - sparsity: 0
+2015-05-15 22:21:36,701 - __main__ - INFO - with_auc_score: False
+2015-05-15 22:21:36,702 - __main__ - INFO - Sda_new: 1
+2015-05-15 22:21:36,702 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 22:21:36,702 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 22:21:38,468 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:21:38,469 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:21:38,469 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 22:21:38,469 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:21:38,469 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:21:38,470 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 22:21:38,470 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 22:21:38,470 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 22:21:38,470 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 22:21:38,471 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:21:38,471 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:21:38,471 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 22:21:38,472 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 22:21:38,472 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 22:21:38,472 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 22:21:38,473 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 22:21:38,474 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 22:21:38,474 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 22:21:38,474 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 22:21:38,475 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 22:21:38,475 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 22:21:38,475 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 22:23:18,899 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-15 22:23:18,899 - __main__ - INFO - [Errno 32] Broken pipe
+2015-05-15 22:23:44,553 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:23:44,554 - __main__ - INFO - DL: 1
+2015-05-15 22:23:44,554 - __main__ - INFO - SVM: 1
+2015-05-15 22:23:44,554 - __main__ - INFO - n_outs: 1
+2015-05-15 22:23:44,554 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 22:23:44,555 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 22:23:44,555 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 22:23:44,555 - __main__ - INFO - DL_S: 1
+2015-05-15 22:23:44,555 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 22:23:44,555 - __main__ - INFO - DL_U: 0
+2015-05-15 22:23:44,556 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 22:23:44,556 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 22:23:44,556 - __main__ - INFO - DL_xy: 1
+2015-05-15 22:23:44,556 - __main__ - INFO - batch_size: 100
+2015-05-15 22:23:44,556 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:1500
+2015-05-15 22:23:44,557 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 22:23:44,557 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:23:44,557 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 22:23:44,557 - __main__ - INFO - DL_S_new: 1
+2015-05-15 22:23:44,557 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 22:23:44,558 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 22:23:44,558 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 22:23:44,558 - __main__ - INFO - pretraining_interations: 2
+2015-05-15 22:23:44,558 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 22:23:44,558 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 22:23:44,559 - __main__ - INFO - training_interations: 2
+2015-05-15 22:23:44,559 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 22:23:44,559 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 22:23:44,559 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 22:23:44,559 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 22:23:44,560 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 22:23:44,560 - __main__ - INFO - n_cores: 1
+2015-05-15 22:23:44,560 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 22:23:44,560 - __main__ - INFO - sparsity: 0
+2015-05-15 22:23:44,560 - __main__ - INFO - with_auc_score: False
+2015-05-15 22:23:44,560 - __main__ - INFO - Sda_new: 1
+2015-05-15 22:23:44,561 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 22:23:44,561 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 22:23:46,370 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:23:46,371 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:23:46,371 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 22:23:46,372 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:23:46,372 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:23:46,372 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 22:23:46,373 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 22:23:46,373 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 22:23:46,374 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 22:23:46,374 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:23:46,374 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:23:46,375 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 22:23:46,375 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 22:23:46,375 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 22:23:46,375 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 22:23:46,376 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 22:23:46,376 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 22:23:46,376 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 22:23:46,376 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 22:23:46,377 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 22:23:46,377 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 22:23:46,377 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 22:25:31,575 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-15 22:25:31,624 - __main__ - INFO - [Errno 32] Broken pipe
+2015-05-15 22:25:31,636 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-15 22:26:08,004 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:26:08,004 - __main__ - INFO - DL: 1
+2015-05-15 22:26:08,004 - __main__ - INFO - SVM: 1
+2015-05-15 22:26:08,005 - __main__ - INFO - n_outs: 1
+2015-05-15 22:26:08,005 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 22:26:08,005 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 22:26:08,005 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 22:26:08,006 - __main__ - INFO - DL_S: 1
+2015-05-15 22:26:08,006 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 22:26:08,006 - __main__ - INFO - DL_U: 0
+2015-05-15 22:26:08,006 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 22:26:08,006 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 22:26:08,007 - __main__ - INFO - DL_xy: 1
+2015-05-15 22:26:08,007 - __main__ - INFO - batch_size: 100
+2015-05-15 22:26:08,007 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-15 22:26:08,007 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 22:26:08,007 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:26:08,008 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 22:26:08,008 - __main__ - INFO - DL_S_new: 1
+2015-05-15 22:26:08,008 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 22:26:08,008 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 22:26:08,008 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 22:26:08,009 - __main__ - INFO - pretraining_interations: 2
+2015-05-15 22:26:08,009 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 22:26:08,009 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 22:26:08,009 - __main__ - INFO - training_interations: 2
+2015-05-15 22:26:08,009 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 22:26:08,010 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 22:26:08,010 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 22:26:08,010 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 22:26:08,010 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 22:26:08,010 - __main__ - INFO - n_cores: 1
+2015-05-15 22:26:08,011 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 22:26:08,011 - __main__ - INFO - sparsity: 0
+2015-05-15 22:26:08,011 - __main__ - INFO - with_auc_score: False
+2015-05-15 22:26:08,011 - __main__ - INFO - Sda_new: 1
+2015-05-15 22:26:08,011 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 22:26:08,012 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 22:26:09,850 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:26:09,850 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:26:09,851 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 22:26:09,851 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:26:09,851 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:26:09,852 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 22:26:09,852 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 22:26:09,852 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 22:26:09,852 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 22:26:09,853 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:26:09,853 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:26:09,853 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 22:26:09,853 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 22:26:09,854 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 22:26:09,854 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 22:26:09,854 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 22:26:09,855 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 22:26:09,855 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 22:26:09,855 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 22:26:09,855 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 22:26:09,856 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 22:26:09,856 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 22:28:33,842 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:28:33,842 - __main__ - INFO - DL: 1
+2015-05-15 22:28:33,843 - __main__ - INFO - SVM: 1
+2015-05-15 22:28:33,843 - __main__ - INFO - n_outs: 1
+2015-05-15 22:28:33,843 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 22:28:33,843 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 22:28:33,843 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 22:28:33,844 - __main__ - INFO - DL_S: 1
+2015-05-15 22:28:33,844 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 22:28:33,844 - __main__ - INFO - DL_U: 0
+2015-05-15 22:28:33,844 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 22:28:33,844 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 22:28:33,845 - __main__ - INFO - DL_xy: 1
+2015-05-15 22:28:33,845 - __main__ - INFO - batch_size: 100
+2015-05-15 22:28:33,845 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-15 22:28:33,845 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 22:28:33,846 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:28:33,846 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 22:28:33,846 - __main__ - INFO - DL_S_new: 1
+2015-05-15 22:28:33,846 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 22:28:33,846 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 22:28:33,846 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 22:28:33,847 - __main__ - INFO - pretraining_interations: 2
+2015-05-15 22:28:33,847 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 22:28:33,847 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 22:28:33,847 - __main__ - INFO - training_interations: 2
+2015-05-15 22:28:33,847 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 22:28:33,848 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 22:28:33,848 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 22:28:33,848 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 22:28:33,848 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 22:28:33,848 - __main__ - INFO - n_cores: 1
+2015-05-15 22:28:33,849 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 22:28:33,849 - __main__ - INFO - sparsity: 0
+2015-05-15 22:28:33,849 - __main__ - INFO - with_auc_score: False
+2015-05-15 22:28:33,849 - __main__ - INFO - Sda_new: 1
+2015-05-15 22:28:33,849 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 22:28:33,850 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 22:28:35,559 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:28:35,559 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:28:35,559 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 22:28:35,560 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:28:35,560 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:28:35,560 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 22:28:35,560 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 22:28:35,561 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 22:28:35,561 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 22:28:35,561 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:28:35,562 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:28:35,562 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 22:28:35,562 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 22:28:35,562 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 22:28:35,563 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 22:28:35,563 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 22:28:35,563 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 22:28:35,563 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 22:28:35,564 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 22:28:35,564 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 22:28:35,564 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 22:28:35,564 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 22:34:57,837 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-15 22:34:57,838 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 22:35:00,056 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-15 22:37:27,654 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:37:27,685 - __main__ - INFO - DL: 1
+2015-05-15 22:37:27,685 - __main__ - INFO - SVM: 1
+2015-05-15 22:37:27,686 - __main__ - INFO - n_outs: 1
+2015-05-15 22:37:27,686 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 22:37:27,686 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 22:37:27,686 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 22:37:27,687 - __main__ - INFO - DL_S: 1
+2015-05-15 22:37:27,687 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 22:37:27,687 - __main__ - INFO - DL_U: 0
+2015-05-15 22:37:27,687 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 22:37:27,687 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 22:37:27,688 - __main__ - INFO - DL_xy: 1
+2015-05-15 22:37:27,688 - __main__ - INFO - batch_size: 100
+2015-05-15 22:37:27,688 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-15 22:37:27,688 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 22:37:27,688 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:37:27,689 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 22:37:27,689 - __main__ - INFO - DL_S_new: 1
+2015-05-15 22:37:27,689 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 22:37:27,689 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 22:37:27,689 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 22:37:27,690 - __main__ - INFO - pretraining_interations: 2
+2015-05-15 22:37:27,690 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 22:37:27,690 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 22:37:27,690 - __main__ - INFO - training_interations: 2
+2015-05-15 22:37:27,690 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 22:37:27,691 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 22:37:27,691 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 22:37:27,691 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 22:37:27,691 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 22:37:27,691 - __main__ - INFO - n_cores: 1
+2015-05-15 22:37:27,692 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 22:37:27,692 - __main__ - INFO - sparsity: 0
+2015-05-15 22:37:27,692 - __main__ - INFO - with_auc_score: False
+2015-05-15 22:37:27,692 - __main__ - INFO - Sda_new: 1
+2015-05-15 22:37:27,692 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 22:37:27,692 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 22:37:29,558 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:37:29,573 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:37:29,574 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 22:37:29,574 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:37:29,574 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:37:29,574 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 22:37:29,575 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 22:37:29,575 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 22:37:29,575 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 22:37:29,575 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:37:29,576 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:37:29,576 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 22:37:29,576 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 22:37:29,576 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 22:37:29,577 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 22:37:29,577 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 22:37:29,577 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 22:37:29,578 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 22:37:29,578 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 22:37:29,578 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 22:37:29,578 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 22:37:29,578 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 22:53:41,501 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:53:41,501 - __main__ - INFO - DL: 1
+2015-05-15 22:53:41,501 - __main__ - INFO - SVM: 1
+2015-05-15 22:53:41,501 - __main__ - INFO - n_outs: 1
+2015-05-15 22:53:41,502 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 22:53:41,502 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 22:53:41,502 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 22:53:41,502 - __main__ - INFO - DL_S: 1
+2015-05-15 22:53:41,503 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 22:53:41,503 - __main__ - INFO - DL_U: 0
+2015-05-15 22:53:41,503 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 22:53:41,504 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 22:53:41,504 - __main__ - INFO - DL_xy: 1
+2015-05-15 22:53:41,504 - __main__ - INFO - batch_size: 100
+2015-05-15 22:53:41,504 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-15 22:53:41,504 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 22:53:41,505 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 22:53:41,505 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 22:53:41,505 - __main__ - INFO - DL_S_new: 1
+2015-05-15 22:53:41,505 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 22:53:41,505 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 22:53:41,506 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 22:53:41,506 - __main__ - INFO - pretraining_interations: 2
+2015-05-15 22:53:41,506 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 22:53:41,506 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 22:53:41,506 - __main__ - INFO - training_interations: 2
+2015-05-15 22:53:41,506 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 22:53:41,507 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 22:53:41,507 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 22:53:41,507 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 22:53:41,507 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 22:53:41,507 - __main__ - INFO - n_cores: 1
+2015-05-15 22:53:41,508 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 22:53:41,508 - __main__ - INFO - sparsity: 0
+2015-05-15 22:53:41,508 - __main__ - INFO - with_auc_score: False
+2015-05-15 22:53:41,508 - __main__ - INFO - Sda_new: 1
+2015-05-15 22:53:41,508 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 22:53:41,509 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 22:53:43,318 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:53:43,319 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 22:53:43,319 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 22:53:43,319 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:53:43,320 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 22:53:43,320 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 22:53:43,320 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 22:53:43,320 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 22:53:43,321 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 22:53:43,321 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:53:43,321 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 22:53:43,321 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 22:53:43,322 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 22:53:43,322 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 22:53:43,322 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 22:53:43,322 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 22:53:43,323 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 22:53:43,323 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 22:53:43,323 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 22:53:43,323 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 22:53:43,324 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 22:53:43,324 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 23:06:02,261 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-15 23:06:02,261 - __main__ - INFO - y_i value out of bounds
+Apply node that caused the error: CrossentropySoftmaxArgmax1HotWithBias(Dot22.0, b, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100, 1), (1,), (100,)]
+Inputs strides: [(4, 4), (4,), (4,)]
+Inputs types: [TensorType(float32, matrix), TensorType(float32, vector), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmaxArgmax1HotWithBias.0 [@A] <TensorType(float32, vector)> ''   
+ |Dot22 [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |Dot22 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |Subtensor{int64:int64:} [@G] <TensorType(float32, matrix)> ''   
+ | | | | | | |<TensorType(float32, matrix)> [@H] <TensorType(float32, matrix)>
+ | | | | | | |ScalarFromTensor [@I] <int64> ''   
+ | | | | | | | |Elemwise{mul,no_inplace} [@J] <TensorType(int64, scalar)> ''   
+ | | | | | | |   |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | | |   |index [@L] <TensorType(int64, scalar)>
+ | | | | | | |ScalarFromTensor [@M] <int64> ''   
+ | | | | | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@N] <TensorType(int64, scalar)> ''   
+ | | | | | |     |TensorConstant{100} [@K] <TensorType(int64, scalar)>
+ | | | | | |     |TensorConstant{1} [@O] <TensorType(int64, scalar)>
+ | | | | | |     |index [@L] <TensorType(int64, scalar)>
+ | | | | | |W [@P] <TensorType(float32, matrix)>
+ | | | | |InplaceDimShuffle{x,0} [@Q] <TensorType(float32, row)> ''   
+ | | | |   |b [@R] <TensorType(float32, vector)>
+ | | | |W [@S] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@T] <TensorType(float32, row)> ''   
+ | |   |b [@U] <TensorType(float32, vector)>
+ | |W [@V] <TensorType(float32, matrix)>
+ |b [@W] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@X] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@Y] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@Z] <TensorType(float32, vector)>
+     |ScalarFromTensor [@I] <int64> ''   
+     |ScalarFromTensor [@M] <int64> ''   
+CrossentropySoftmaxArgmax1HotWithBias.1 [@A] <TensorType(float32, matrix)> ''   
+CrossentropySoftmaxArgmax1HotWithBias.2 [@A] <TensorType(int32, vector)> ''   
+
+2015-05-15 23:06:03,670 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-15 23:06:56,018 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 23:06:56,019 - __main__ - INFO - DL: 1
+2015-05-15 23:06:56,019 - __main__ - INFO - SVM: 1
+2015-05-15 23:06:56,020 - __main__ - INFO - n_outs: 1
+2015-05-15 23:06:56,020 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 23:06:56,020 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 23:06:56,021 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 23:06:56,021 - __main__ - INFO - DL_S: 1
+2015-05-15 23:06:56,022 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 23:06:56,022 - __main__ - INFO - DL_U: 0
+2015-05-15 23:06:56,022 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 23:06:56,023 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 23:06:56,023 - __main__ - INFO - DL_xy: 1
+2015-05-15 23:06:56,024 - __main__ - INFO - batch_size: 100
+2015-05-15 23:06:56,024 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-15 23:06:56,024 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 23:06:56,025 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 23:06:56,025 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 23:06:56,025 - __main__ - INFO - DL_S_new: 1
+2015-05-15 23:06:56,026 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 23:06:56,026 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 23:06:56,027 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 23:06:56,027 - __main__ - INFO - pretraining_interations: 2
+2015-05-15 23:06:56,027 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 23:06:56,028 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 23:06:56,028 - __main__ - INFO - training_interations: 2
+2015-05-15 23:06:56,029 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 23:06:56,029 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 23:06:56,029 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 23:06:56,030 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 23:06:56,030 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 23:06:56,030 - __main__ - INFO - n_cores: 1
+2015-05-15 23:06:56,031 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 23:06:56,031 - __main__ - INFO - sparsity: 0
+2015-05-15 23:06:56,032 - __main__ - INFO - with_auc_score: False
+2015-05-15 23:06:56,032 - __main__ - INFO - Sda_new: 1
+2015-05-15 23:06:56,032 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 23:06:56,033 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 23:06:57,842 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 23:06:57,843 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 23:06:57,843 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 23:06:57,843 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 23:06:57,844 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 23:06:57,844 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 23:06:57,844 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 23:06:57,844 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 23:06:57,845 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 23:06:57,845 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 23:06:57,845 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 23:06:57,845 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 23:06:57,846 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 23:06:57,846 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 23:06:57,846 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 23:06:57,847 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 23:06:57,847 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 23:06:57,847 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 23:06:57,847 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 23:06:57,848 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 23:06:57,848 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 23:06:57,848 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-15 23:23:53,122 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 23:23:53,122 - __main__ - INFO - DL: 1
+2015-05-15 23:23:53,122 - __main__ - INFO - SVM: 1
+2015-05-15 23:23:53,122 - __main__ - INFO - n_outs: 1
+2015-05-15 23:23:53,122 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-15 23:23:53,122 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-15 23:23:53,122 - __main__ - INFO - SVM_RBF: 1
+2015-05-15 23:23:53,122 - __main__ - INFO - DL_S: 1
+2015-05-15 23:23:53,123 - __main__ - INFO - sparsity_weight: 0
+2015-05-15 23:23:53,123 - __main__ - INFO - DL_U: 0
+2015-05-15 23:23:53,123 - __main__ - INFO - SVM_POLY: 0
+2015-05-15 23:23:53,123 - __main__ - INFO - reduce_ratio: 1
+2015-05-15 23:23:53,123 - __main__ - INFO - DL_xy: 1
+2015-05-15 23:23:53,123 - __main__ - INFO - batch_size: 100
+2015-05-15 23:23:53,123 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:1500
+2015-05-15 23:23:53,123 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-15 23:23:53,123 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-15 23:23:53,123 - __main__ - INFO - SAE_SVM: 1
+2015-05-15 23:23:53,123 - __main__ - INFO - DL_S_new: 1
+2015-05-15 23:23:53,123 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-15 23:23:53,123 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-15 23:23:53,123 - __main__ - INFO - DL_S_new_weight_decay: 2
+2015-05-15 23:23:53,123 - __main__ - INFO - pretraining_interations: 10000
+2015-05-15 23:23:53,123 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-15 23:23:53,123 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-15 23:23:53,123 - __main__ - INFO - training_interations: 20000
+2015-05-15 23:23:53,124 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-15 23:23:53,124 - __main__ - INFO - finetune_lr: 0.1
+2015-05-15 23:23:53,124 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-15 23:23:53,124 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-15 23:23:53,124 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-15 23:23:53,124 - __main__ - INFO - n_cores: 1
+2015-05-15 23:23:53,124 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-15 23:23:53,124 - __main__ - INFO - sparsity: 0
+2015-05-15 23:23:53,124 - __main__ - INFO - with_auc_score: False
+2015-05-15 23:23:53,124 - __main__ - INFO - Sda_new: 1
+2015-05-15 23:23:53,124 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-15 23:23:53,124 - __main__ - INFO - learning_rate: 0.001
+2015-05-15 23:23:53,179 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 23:23:53,179 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-15 23:23:53,180 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-15 23:23:53,180 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 23:23:53,180 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-15 23:23:53,180 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-15 23:23:53,180 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-15 23:23:53,180 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-15 23:23:53,180 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-15 23:23:53,180 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 23:23:53,180 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-15 23:23:53,180 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-15 23:23:53,180 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-15 23:23:53,180 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-15 23:23:53,180 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-15 23:23:53,180 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-15 23:23:53,180 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-15 23:23:53,180 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-15 23:23:53,181 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-15 23:23:53,181 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-15 23:23:53,181 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-15 23:23:53,181 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-16 07:39:50,927 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-16 18:06:26,268 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_C
+2015-05-17 03:34:19,920 - __main__ - INFO - DDI: OKR_DC_1_int_OKR_DC_1_N
+2015-05-17 09:32:40,078 - __main__ - INFO - DDI: SUFU_int_SUFU_C
+2015-05-17 15:26:20,597 - __main__ - INFO - DDI: Alpha-amylase_int_DUF3459
+2015-05-17 15:26:20,629 - __main__ - DEBUG - There is a error in this ddi: Alpha-amylase_int_DUF3459
+2015-05-17 15:26:20,629 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Alpha-amylase_int_DUF3459/allPairs.txt'
+2015-05-17 15:26:20,629 - __main__ - INFO - DDI: Sigma70_r2_int_Sigma70_r3
+2015-05-17 15:26:20,629 - __main__ - DEBUG - There is a error in this ddi: Sigma70_r2_int_Sigma70_r3
+2015-05-17 15:26:20,630 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Sigma70_r2_int_Sigma70_r3/allPairs.txt'
+2015-05-17 15:26:20,630 - __main__ - INFO - DDI: FXa_inhibition_int_Ldl_recept_b
+2015-05-17 15:26:20,630 - __main__ - DEBUG - There is a error in this ddi: FXa_inhibition_int_Ldl_recept_b
+2015-05-17 15:26:20,630 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/FXa_inhibition_int_Ldl_recept_b/allPairs.txt'
+2015-05-17 15:26:20,862 - __main__ - INFO - DDI: Fn3-like_int_Glyco_hydro_3
+2015-05-17 15:26:20,862 - __main__ - DEBUG - There is a error in this ddi: Fn3-like_int_Glyco_hydro_3
+2015-05-17 15:26:20,863 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Fn3-like_int_Glyco_hydro_3/allPairs.txt'
+2015-05-17 15:26:20,863 - __main__ - INFO - DDI: GT36_AF_int_Glyco_transf_36
+2015-05-17 15:26:20,863 - __main__ - DEBUG - There is a error in this ddi: GT36_AF_int_Glyco_transf_36
+2015-05-17 15:26:20,863 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/GT36_AF_int_Glyco_transf_36/allPairs.txt'
+2015-05-17 15:26:20,863 - __main__ - INFO - DDI: ERAP1_C_int_Peptidase_M1
+2015-05-17 22:19:10,466 - __main__ - DEBUG - There is a error in this ddi: ERAP1_C_int_Peptidase_M1
+2015-05-17 22:19:10,627 - __main__ - INFO - [Errno 32] Broken pipe
+2015-05-17 22:19:10,882 - __main__ - INFO - DDI: DNA_PPF_int_gp45-slide_C

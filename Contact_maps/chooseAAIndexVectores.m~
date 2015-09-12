@@ -1,0 +1,11 @@
+function [selectedData, label]=chooseAAIndexVectores(dataFile, FisherMode)
+% datafile format F0_20_F1_20_Sliding_17_11_F0_20_F1_20_Sliding_17_11_ouput
+data=load(dataFile);
+if strcmpi(FisherMode, 'None')
+    selectedData=[];
+    selectedData=data(:, 41:227) %41-(40+17*11)
+    selectedData=[selectedData, data(:, 41:227)]
+end 
+label=data(:, end);
+return;
+

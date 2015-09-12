@@ -1,0 +1,127 @@
+Script started on Wed 03 Sep 2014 01:03:04 PM EDT
+]0;du@du-OptiPlex-9010: ~/Dropbox/Project/Contact_maps/Mnist_psuedo_ipython_DL_PPI/codedu@du-OptiPlex-9010:~/Dropbox/Project/Contact_maps/Mnist_psuedo_ipython_DL_PPI/code$ top
+[H[2J(B[mtop - 13:03:15 up 9 days,  3:34,  4 users,  load average: 0.11, 0.11, 0.07(B[m[39;49m[K
+Tasks:(B[m[39;49m(B[m 241 (B[m[39;49mtotal,(B[m[39;49m(B[m   1 (B[m[39;49mrunning,(B[m[39;49m(B[m 240 (B[m[39;49msleeping,(B[m[39;49m(B[m   0 (B[m[39;49mstopped,(B[m[39;49m(B[m   0 (B[m[39;49mzombie(B[m[39;49m[K
+Cpu(s):(B[m[39;49m(B[m  1.1%(B[m[39;49mus,(B[m[39;49m(B[m  0.1%(B[m[39;49msy,(B[m[39;49m(B[m  0.0%(B[m[39;49mni,(B[m[39;49m(B[m 98.1%(B[m[39;49mid,(B[m[39;49m(B[m  0.6%(B[m[39;49mwa,(B[m[39;49m(B[m  0.0%(B[m[39;49mhi,(B[m[39;49m(B[m  0.0%(B[m[39;49msi,(B[m[39;49m(B[m  0.0%(B[m[39;49mst(B[m[39;49m[K
+Mem: (B[m[39;49m(B[m  8129412k (B[m[39;49mtotal,(B[m[39;49m(B[m  4751568k (B[m[39;49mused,(B[m[39;49m(B[m  3377844k (B[m[39;49mfree,(B[m[39;49m(B[m   260704k (B[m[39;49mbuffers(B[m[39;49m[K
+Swap:(B[m[39;49m(B[m  8334332k (B[m[39;49mtotal,(B[m[39;49m(B[m  4810772k (B[m[39;49mused,(B[m[39;49m(B[m  3523560k (B[m[39;49mfree,(B[m[39;49m(B[m   452712k (B[m[39;49mcached(B[m[39;49m[K
+[6;1H
+[7m  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND                                                                                                   (B[m[39;49m[K
+(B[m 1133 root      20   0  750m 326m 293m S    2  4.1  65:05.87 Xorg                                                                                                      (B[m[39;49m
+(B[m 6388 du        20   0  527m  11m 4428 S    2  0.1   0:22.78 gnome-terminal                                                                                            (B[m[39;49m
+(B[m29468 du        20   0 2189m 802m  22m S    2 10.1 750:34.54 firefox                                                                                                   (B[m[39;49m
+(B[m    1 root      20   0 24476 1604  664 S    0  0.0   0:00.79 init                                                                                                      (B[m[39;49m
+(B[m    2 root      20   0     0    0    0 S    0  0.0   0:00.05 kthreadd                                                                                                  (B[m[39;49m
+(B[m    3 root      20   0     0    0    0 S    0  0.0   0:01.23 ksoftirqd/0                                                                                               (B[m[39;49m
+(B[m    5 root       0 -20     0    0    0 S    0  0.0   0:00.00 kworker/0:0H                                                                                              (B[m[39;49m
+(B[m    7 root      RT   0     0    0    0 S    0  0.0   0:00.30 migration/0                                                                                               (B[m[39;49m
+(B[m    8 root      20   0     0    0    0 S    0  0.0   0:00.00 rcu_bh                                                                                                    (B[m[39;49m
+(B[m    9 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/0                                                                                                   (B[m[39;49m
+(B[m   10 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/1                                                                                                   (B[m[39;49m
+(B[m   11 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/2                                                                                                   (B[m[39;49m
+(B[m   12 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/3                                                                                                   (B[m[39;49m
+(B[m   13 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/4                                                                                                   (B[m[39;49m
+(B[m   14 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/5                                                                                                   (B[m[39;49m
+(B[m   15 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/6                                                                                                   (B[m[39;49m
+(B[m   16 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/7                                                                                                   (B[m[39;49m
+(B[m   17 root      20   0     0    0    0 S    0  0.0   7:54.64 rcu_sched                                                                                                 (B[m[39;49m
+(B[m   18 root      20   0     0    0    0 S    0  0.0   1:28.02 rcuos/0                                                                                                   (B[m[39;49m
+(B[m   19 root      20   0     0    0    0 S    0  0.0   1:25.58 rcuos/1                                                                                                   (B[m[39;49m
+(B[m   20 root      20   0     0    0    0 S    0  0.0   1:29.03 rcuos/2                                                                                                   (B[m[39;49m
+(B[m   21 root      20   0     0    0    0 S    0  0.0   1:27.35 rcuos/3                                                                                                   (B[m[39;49m
+(B[m   22 root      20   0     0    0    0 S    0  0.0   0:19.42 rcuos/4                                                                                                   (B[m[39;49m
+(B[m   23 root      20   0     0    0    0 S    0  0.0   0:19.64 rcuos/5                                                                                                   (B[m[39;49m
+(B[m   24 root      20   0     0    0    0 S    0  0.0   0:20.02 rcuos/6                                                                                                   (B[m[39;49m
+(B[m   25 root      20   0     0    0    0 S    0  0.0   0:17.00 rcuos/7                                                                                                   (B[m[39;49m
+(B[m   26 root      RT   0     0    0    0 S    0  0.0   0:02.47 watchdog/0                                                                                                (B[m[39;49m
+(B[m   27 root      RT   0     0    0    0 S    0  0.0   0:02.25 watchdog/1                                                                                                (B[m[39;49m
+(B[m   28 root      RT   0     0    0    0 S    0  0.0   0:00.26 migration/1                                                                                               (B[m[39;49m
+(B[m   29 root      20   0     0    0    0 S    0  0.0   0:00.28 ksoftirqd/1                                                                                               (B[m[39;49m
+(B[m   31 root       0 -20     0    0    0 S    0  0.0   0:00.00 kworker/1:0H                                                                                              (B[m[39;49m
+(B[m   32 root      RT   0     0    0    0 S    0  0.0   0:02.33 watchdog/2                                                                                                (B[m[39;49m
+(B[m   33 root      RT   0     0    0    0 S    0  0.0   0:00.27 migration/2                                                                                               (B[m[39;49m
+(B[m   34 root      20   0     0    0    0 S    0  0.0   0:00.13 ksoftirqd/2                                                                                               (B[m[39;49m[6;1H[K[H(B[mtop - 13:03:18 up 9 days,  3:34,  4 users,  load average: 0.10, 0.11, 0.07(B[m[39;49m[K
+Tasks:(B[m[39;49m(B[m 241 (B[m[39;49mtotal,(B[m[39;49m(B[m   2 (B[m[39;49mrunning,(B[m[39;49m(B[m 239 (B[m[39;49msleeping,(B[m[39;49m(B[m   0 (B[m[39;49mstopped,(B[m[39;49m(B[m   0 (B[m[39;49mzombie(B[m[39;49m[K
+Cpu(s):(B[m[39;49m(B[m  0.9%(B[m[39;49mus,(B[m[39;49m(B[m  0.1%(B[m[39;49msy,(B[m[39;49m(B[m  0.0%(B[m[39;49mni,(B[m[39;49m(B[m 98.9%(B[m[39;49mid,(B[m[39;49m(B[m  0.1%(B[m[39;49mwa,(B[m[39;49m(B[m  0.0%(B[m[39;49mhi,(B[m[39;49m(B[m  0.0%(B[m[39;49msi,(B[m[39;49m(B[m  0.0%(B[m[39;49mst(B[m[39;49m[K
+Mem: (B[m[39;49m(B[m  8129412k (B[m[39;49mtotal,(B[m[39;49m(B[m  4751740k (B[m[39;49mused,(B[m[39;49m(B[m  3377672k (B[m[39;49mfree,(B[m[39;49m(B[m   260712k (B[m[39;49mbuffers(B[m[39;49m[K
+Swap:(B[m[39;49m(B[m  8334332k (B[m[39;49mtotal,(B[m[39;49m(B[m  4810772k (B[m[39;49mused,(B[m[39;49m(B[m  3523560k (B[m[39;49mfree,(B[m[39;49m(B[m   452720k (B[m[39;49mcached(B[m[39;49m[K
+[6;1H
+
+(B[m29468 du        20   0 2189m 802m  22m S    6 10.1 750:34.71 firefox                                                                                                   (B[m[39;49m
+(B[m 6125 du        20   0  742m  360  360 S    1  0.0  76:03.28 plugin-containe                                                                                           (B[m[39;49m
+(B[m 1133 root      20   0  745m 322m 289m S    0  4.1  65:05.88 Xorg                                                                                                      (B[m[39;49m
+(B[m 3121 du        20   0  815m 4328 2300 S    0  0.1   3:04.08 gnome-settings-                                                                                           (B[m[39;49m
+(B[m(B[m14320 du        20   0 17480 1428  980 R    0  0.0   0:00.01 top                                                                                                       (B[m[39;49m
+(B[m    1 root      20   0 24476 1604  664 S    0  0.0   0:00.79 init                                                                                                      (B[m[39;49m
+(B[m    2 root      20   0     0    0    0 S    0  0.0   0:00.05 kthreadd                                                                                                  (B[m[39;49m
+(B[m    3 root      20   0     0    0    0 S    0  0.0   0:01.23 ksoftirqd/0                                                                                               (B[m[39;49m
+(B[m    5 root       0 -20     0    0    0 S    0  0.0   0:00.00 kworker/0:0H                                                                                              (B[m[39;49m
+(B[m    7 root      RT   0     0    0    0 S    0  0.0   0:00.30 migration/0                                                                                               (B[m[39;49m
+(B[m    8 root      20   0     0    0    0 S    0  0.0   0:00.00 rcu_bh                                                                                                    (B[m[39;49m
+(B[m    9 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/0                                                                                                   (B[m[39;49m
+(B[m   10 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/1                                                                                                   (B[m[39;49m
+(B[m   11 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/2                                                                                                   (B[m[39;49m
+(B[m   12 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/3                                                                                                   (B[m[39;49m
+(B[m   13 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/4                                                                                                   (B[m[39;49m
+(B[m   14 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/5                                                                                                   (B[m[39;49m
+(B[m   15 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/6                                                                                                   (B[m[39;49m
+(B[m   16 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/7                                                                                                   (B[m[39;49m
+(B[m   17 root      20   0     0    0    0 S    0  0.0   7:54.64 rcu_sched                                                                                                 (B[m[39;49m
+(B[m   18 root      20   0     0    0    0 S    0  0.0   1:28.02 rcuos/0                                                                                                   (B[m[39;49m
+(B[m   19 root      20   0     0    0    0 S    0  0.0   1:25.58 rcuos/1                                                                                                   (B[m[39;49m
+(B[m   20 root      20   0     0    0    0 S    0  0.0   1:29.03 rcuos/2                                                                                                   (B[m[39;49m
+(B[m   21 root      20   0     0    0    0 S    0  0.0   1:27.35 rcuos/3                                                                                                   (B[m[39;49m
+(B[m   22 root      20   0     0    0    0 S    0  0.0   0:19.42 rcuos/4                                                                                                   (B[m[39;49m
+(B[m   23 root      20   0     0    0    0 S    0  0.0   0:19.64 rcuos/5                                                                                                   (B[m[39;49m
+(B[m   24 root      20   0     0    0    0 S    0  0.0   0:20.02 rcuos/6                                                                                                   (B[m[39;49m
+(B[m   25 root      20   0     0    0    0 S    0  0.0   0:17.00 rcuos/7                                                                                                   (B[m[39;49m
+(B[m   26 root      RT   0     0    0    0 S    0  0.0   0:02.47 watchdog/0                                                                                                (B[m[39;49m
+(B[m   27 root      RT   0     0    0    0 S    0  0.0   0:02.25 watchdog/1                                                                                                (B[m[39;49m
+(B[m   28 root      RT   0     0    0    0 S    0  0.0   0:00.26 migration/1                                                                                               (B[m[39;49m
+(B[m   29 root      20   0     0    0    0 S    0  0.0   0:00.28 ksoftirqd/1                                                                                               (B[m[39;49m
+(B[m   31 root       0 -20     0    0    0 S    0  0.0   0:00.00 kworker/1:0H                                                                                              (B[m[39;49m
+(B[m   32 root      RT   0     0    0    0 S    0  0.0   0:02.33 watchdog/2                                                                                                (B[m[39;49m[6;1H[K[H(B[mtop - 13:03:21 up 9 days,  3:34,  4 users,  load average: 0.10, 0.11, 0.07(B[m[39;49m[K
+Tasks:(B[m[39;49m(B[m 241 (B[m[39;49mtotal,(B[m[39;49m(B[m   2 (B[m[39;49mrunning,(B[m[39;49m(B[m 239 (B[m[39;49msleeping,(B[m[39;49m(B[m   0 (B[m[39;49mstopped,(B[m[39;49m(B[m   0 (B[m[39;49mzombie(B[m[39;49m[K
+Cpu(s):(B[m[39;49m(B[m  0.8%(B[m[39;49mus,(B[m[39;49m(B[m  0.1%(B[m[39;49msy,(B[m[39;49m(B[m  0.0%(B[m[39;49mni,(B[m[39;49m(B[m 96.7%(B[m[39;49mid,(B[m[39;49m(B[m  2.4%(B[m[39;49mwa,(B[m[39;49m(B[m  0.0%(B[m[39;49mhi,(B[m[39;49m(B[m  0.0%(B[m[39;49msi,(B[m[39;49m(B[m  0.0%(B[m[39;49mst(B[m[39;49m[K
+Mem: (B[m[39;49m(B[m  8129412k (B[m[39;49mtotal,(B[m[39;49m(B[m  4754732k (B[m[39;49mused,(B[m[39;49m(B[m  3374680k (B[m[39;49mfree,(B[m[39;49m(B[m   260852k (B[m[39;49mbuffers(B[m[39;49m[K
+Swap:(B[m[39;49m(B[m  8334332k (B[m[39;49mtotal,(B[m[39;49m(B[m  4809932k (B[m[39;49mused,(B[m[39;49m(B[m  3524400k (B[m[39;49mfree,(B[m[39;49m(B[m   452892k (B[m[39;49mcached(B[m[39;49m[K
+[6;1H
+
+(B[m29468 du        20   0 2189m 803m  22m S    6 10.1 750:34.88 firefox                                                                                                   (B[m[39;49m
+(B[m 3143 du        20   0 1289m  77m  33m S    1  1.0 158:58.57 compiz                                                                                                    (B[m[39;49m
+(B[m 3161 du        20   0 1403m  22m 6104 S    1  0.3   5:33.45 nautilus                                                                                                  (B[m[39;49m
+(B[m   17 root      20   0     0    0    0 S    0  0.0   7:54.65 rcu_sched                                                                                                 (B[m[39;49m
+(B[m 1133 root      20   0  738m 315m 282m S    0  4.0  65:05.89 Xorg                                                                                                      (B[m[39;49m
+(B[m 2965 root      20   0 2172m 5480 1900 S    0  0.1   6:01.78 hostd-worker                                                                                              (B[m[39;49m
+(B[m 3433 du        20   0 2698m  84m 4500 S    0  1.1  40:13.27 dropbox                                                                                                   (B[m[39;49m
+(B[m 3799 du        20   0  780m 8488 4104 S    0  0.1  10:16.32 filezilla                                                                                                 (B[m[39;49m
+(B[m 6125 du        20   0  742m  360  360 S    0  0.0  76:03.29 plugin-containe                                                                                           (B[m[39;49m
+(B[m 7189 du        20   0  589m  736  176 S    0  0.0   0:15.96 python                                                                                                    (B[m[39;49m
+(B[m(B[m14320 du        20   0 17480 1428  980 R    0  0.0   0:00.02 top                                                                                                       (B[m[39;49m
+(B[m    1 root      20   0 24476 1604  664 S    0  0.0   0:00.79 init                                                                                                      (B[m[39;49m
+(B[m    2 root      20   0     0    0    0 S    0  0.0   0:00.05 kthreadd                                                                                                  (B[m[39;49m
+(B[m    3 root      20   0     0    0    0 S    0  0.0   0:01.23 ksoftirqd/0                                                                                               (B[m[39;49m
+(B[m    5 root       0 -20     0    0    0 S    0  0.0   0:00.00 kworker/0:0H                                                                                              (B[m[39;49m
+(B[m    7 root      RT   0     0    0    0 S    0  0.0   0:00.30 migration/0                                                                                               (B[m[39;49m
+(B[m    8 root      20   0     0    0    0 S    0  0.0   0:00.00 rcu_bh                                                                                                    (B[m[39;49m
+(B[m    9 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/0                                                                                                   (B[m[39;49m
+(B[m   10 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/1                                                                                                   (B[m[39;49m
+(B[m   11 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/2                                                                                                   (B[m[39;49m
+(B[m   12 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/3                                                                                                   (B[m[39;49m
+(B[m   13 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/4                                                                                                   (B[m[39;49m
+(B[m   14 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/5                                                                                                   (B[m[39;49m
+(B[m   15 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/6                                                                                                   (B[m[39;49m
+(B[m   16 root      20   0     0    0    0 S    0  0.0   0:00.00 rcuob/7                                                                                                   (B[m[39;49m
+(B[m   18 root      20   0     0    0    0 S    0  0.0   1:28.02 rcuos/0                                                                                                   (B[m[39;49m
+(B[m   19 root      20   0     0    0    0 S    0  0.0   1:25.58 rcuos/1                                                                                                   (B[m[39;49m
+(B[m   20 root      20   0     0    0    0 S    0  0.0   1:29.03 rcuos/2                                                                                                   (B[m[39;49m
+(B[m   21 root      20   0     0    0    0 S    0  0.0   1:27.35 rcuos/3                                                                                                   (B[m[39;49m
+(B[m   22 root      20   0     0    0    0 S    0  0.0   0:19.42 rcuos/4                                                                                                   (B[m[39;49m
+(B[m   23 root      20   0     0    0    0 S    0  0.0   0:19.64 rcuos/5                                                                                                   (B[m[39;49m
+(B[m   24 root      20   0     0    0    0 S    0  0.0   0:20.02 rcuos/6                                                                                                   (B[m[39;49m
+(B[m   25 root      20   0     0    0    0 S    0  0.0   0:17.00 rcuos/7                                                                                                   (B[m[39;49m
+(B[m   26 root      RT   0     0    0    0 S    0  0.0   0:02.47 watchdog/0                                                                                                (B[m[39;49m[6;1H[K[42;1H[?12l[?25h
+]0;du@du-OptiPlex-9010: ~/Dropbox/Project/Contact_maps/Mnist_psuedo_ipython_DL_PPI/codedu@du-OptiPlex-9010:~/Dropbox/Project/Contact_maps/Mnist_psuedo_ipython_DL_PPI/code$ exit
+exit
+
+Script done on Wed 03 Sep 2014 01:03:25 PM EDT

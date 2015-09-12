@@ -1,0 +1,17 @@
+2013-10-17 16:24 STARTED.
+Training AUC: 87.669%
+Training accuracy: 77.669%
+Training recall: 76.175%
+Training precision: 78.522%
+Training f_measure: 77.331%
+Testing AUC: 91.744%
+Testing accuracy: 81.962%
+Testing recall: 95.570%
+Testing precision: 75.124%
+Testing f_measure: 84.123%
+
+
+
+2013-10-17 17:15 SUCCESS: PF00004.21_int_PF09336.2.
+
+

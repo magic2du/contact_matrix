@@ -1,0 +1,7593 @@
+2014-5-8 10:25 STARTED.
+{Warning: Found 2 pre-existing parallel job(s) created by matlabpool that are running.
+You can use   'matlabpool close force local'    or create a configuration for the parallel.cluster.Local object and use
+'matlabpool close force <configurationName>'    to remove all jobs created by matlabpool.} 
+{> In distcomp.interactiveclient.pRemoveOldJobs at 55
+  In distcomp.interactiveclient.start at 58
+  In MatlabpoolHelper>MatlabpoolHelper.doOpen at 286
+  In MatlabpoolHelper>MatlabpoolHelper.doMatlabpool at 137
+  In matlabpool at 139
+  In run3DID_CrossValidation_load_DL_remote at 42} 
+Starting matlabpool using the 'local' profile ... connected to 8 labs.
+
+partation = 
+
+K-fold cross validation partition
+             N: 141
+   NumTestSets: 10
+     TrainSize: 127  126  127  127  127  127  127  127  127  127
+      TestSize: 14  15  14  14  14  14  14  14  14  14
+
+ans =
+
+fold 1 :
+
+
+partation = 
+
+K-fold cross validation partition
+             N: 141
+   NumTestSets: 10
+     TrainSize: 127  126  127  127  127  127  127  127  127  127
+      TestSize: 14  15  14  14  14  14  14  14  14  14
+
+ans =
+
+fold 1 :
+
+
+partation = 
+
+K-fold cross validation partition
+             N: 133
+   NumTestSets: 10
+     TrainSize: 120  119  119  119  120  120  120  120  120  120
+      TestSize: 13  14  14  14  13  13  13  13  13  13
+
+ans =
+
+fold 1 :
+
+
+partation = 
+
+K-fold cross validation partition
+             N: 126
+   NumTestSets: 10
+     TrainSize: 114  113  113  113  113  113  113  114  114  114
+      TestSize: 12  13  13  13  13  13  13  12  12  12
+
+ans =
+
+fold 1 :
+
+
+partation = 
+
+K-fold cross validation partition
+             N: 132
+   NumTestSets: 10
+     TrainSize: 119  118  118  119  119  119  119  119  119  119
+      TestSize: 13  14  14  13  13  13  13  13  13  13
+
+ans =
+
+fold 1 :
+
+
+partation = 
+
+K-fold cross validation partition
+             N: 71
+   NumTestSets: 10
+     TrainSize: 64  63  64  64  64  64  64  64  64  64
+      TestSize: 7  8  7  7  7  7  7  7  7  7
+
+ans =
+
+fold 1 :
+
+
+partation = 
+
+K-fold cross validation partition
+             N: 167
+   NumTestSets: 10
+     TrainSize: 151  150  150  150  150  150  150  150  151  151
+      TestSize: 16  17  17  17  17  17  17  17  16  16
+
+ans =
+
+fold 1 :
+
+
+partation = 
+
+K-fold cross validation partition
+             N: 154
+   NumTestSets: 10
+     TrainSize: 139  138  138  138  138  139  139  139  139  139
+      TestSize: 15  16  16  16  16  15  15  15  15  15
+
+ans =
+
+fold 1 :
+
+2014-5-8 10:25 ERROR: RNA_pol_L_int_RNA_pol_Rpb1_3. Message: Index exceeds matrix dimensions.
+/net/biohen/opt/MATLAB/R2012a/toolbox/distcomp/remoteParallelFunction.m; remoteParallelFunction; 31
+/net/biohen/opt/MATLAB/R2012a/toolbox/matlab/lang/parallel_function.m; make_general_channel/channel_general; 877
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/DeepLearning/run3DID_CrossValidation_load_DL_remote.m; (parfor body); 49
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/DeepLearning/runDDI_CrossValidation_load_DL_remote.m; runDDI_CrossValidation_load_DL_remote; 54
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/DeepLearning/chooseAAIndexVectores.m; chooseAAIndexVectores; 26
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.867%
+Training recall: 98.883%
+Training precision: 98.883%
+Training f_measure: 98.883%
+Testing for sequence pair 21:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.947, blSpec = 1.000.
+
+
+Testing for sequence pair 28:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 28, auc = 0.986, sens = 1.000, spec = 0.895, blAUC = 0.972, blSens = 0.941, blSpec = 0.941.
+
+
+Testing for sequence pair 31:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 31, auc = 1.000, sens = 1.000, spec = 0.923, blAUC = 1.000, blSens = 1.000, blSpec = 0.923.
+
+
+Testing for sequence pair 32:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 32, auc = 0.985, sens = 1.000, spec = 0.900, blAUC = 0.994, blSens = 1.000, blSpec = 0.900.
+
+
+Testing for sequence pair 52:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 52, auc = 0.991, sens = 1.000, spec = 0.947, blAUC = 0.978, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 54:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 54, auc = 0.990, sens = 1.000, spec = 0.909, blAUC = 0.978, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 58:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 58, auc = 0.995, sens = 1.000, spec = 0.909, blAUC = 0.998, blSens = 1.000, blSpec = 0.833.
+
+
+Testing for sequence pair 79:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 79, auc = 0.991, sens = 0.944, spec = 0.895, blAUC = 0.963, blSens = 0.944, blSpec = 0.895.
+
+
+Testing for sequence pair 83:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 83, auc = 0.997, sens = 1.000, spec = 0.947, blAUC = 1.000, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 99:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 99, auc = 0.997, sens = 1.000, spec = 0.895, blAUC = 0.997, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 111:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 111, auc = 0.980, sens = 0.900, spec = 0.931, blAUC = 0.972, blSens = 0.800, blSpec = 0.960.
+
+
+Testing for sequence pair 123:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 123, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.997, blSens = 1.000, blSpec = 0.944.
+
+
+
+ans =
+
+fold 2 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.304%
+Training recall: 100.000%
+Training precision: 98.578%
+Training f_measure: 99.284%
+Testing for sequence pair 1:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 5:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 5, auc = 0.997, sens = 1.000, spec = 0.872, blAUC = 0.999, blSens = 1.000, blSpec = 0.971.
+
+
+Testing for sequence pair 8:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 8, auc = 0.991, sens = 1.000, spec = 0.897, blAUC = 0.980, blSens = 1.000, blSpec = 0.875.
+
+
+Testing for sequence pair 27:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 27, auc = 0.983, sens = 1.000, spec = 0.805, blAUC = 0.987, blSens = 1.000, blSpec = 0.805.
+
+
+Testing for sequence pair 34:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 34, auc = 0.954, sens = 0.875, spec = 0.875, blAUC = 0.935, blSens = 0.781, blSpec = 0.893.
+
+
+Testing for sequence pair 45:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 45, auc = 0.961, sens = 0.940, spec = 0.851, blAUC = 0.964, blSens = 0.985, blSpec = 0.868.
+
+
+Testing for sequence pair 55:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 55, auc = 0.952, sens = 0.971, spec = 0.810, blAUC = 0.957, blSens = 0.943, blSpec = 0.868.
+
+
+
+ans =
+
+fold 2 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.225%
+Training recall: 98.454%
+Training precision: 100.000%
+Training f_measure: 99.221%
+Testing for sequence pair 2:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 2, auc = 0.989, sens = 0.947, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 13:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 13, auc = 0.985, sens = 0.950, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 25:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 25, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 55:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 55, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 60:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 60, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 68:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 68, auc = 1.000, sens = 1.000, spec = 0.944, blAUC = 0.969, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 76:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 76, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 86:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 86, auc = 1.000, sens = 1.000, spec = 0.947, blAUC = 1.000, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 91:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 91, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 95:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 95, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 96:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 96, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 107:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 107, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 113:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 113, auc = 1.000, sens = 1.000, spec = 0.900, blAUC = 0.997, blSens = 1.000, blSpec = 0.900.
+
+
+Testing for sequence pair 141:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 141, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 142:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 142, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 2 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.583%
+Training recall: 99.688%
+Training precision: 97.554%
+Training f_measure: 98.609%
+Testing for sequence pair 20:
+
+
+
+Ribosomal_S4_int_S4, seqPair 20, auc = 0.978, sens = 0.933, spec = 0.966, blAUC = 0.977, blSens = 0.933, blSpec = 0.966.
+
+
+Testing for sequence pair 30:
+
+
+
+Ribosomal_S4_int_S4, seqPair 30, auc = 0.961, sens = 0.969, spec = 0.861, blAUC = 0.965, blSens = 0.969, blSpec = 0.861.
+
+
+Testing for sequence pair 31:
+
+
+
+Ribosomal_S4_int_S4, seqPair 31, auc = 0.994, sens = 0.941, spec = 0.914, blAUC = 0.995, blSens = 0.941, blSpec = 0.970.
+
+
+Testing for sequence pair 37:
+
+
+
+Ribosomal_S4_int_S4, seqPair 37, auc = 0.988, sens = 0.905, spec = 0.950, blAUC = 0.985, blSens = 0.905, blSpec = 0.974.
+
+
+Testing for sequence pair 39:
+
+
+
+Ribosomal_S4_int_S4, seqPair 39, auc = 0.969, sens = 0.970, spec = 0.970, blAUC = 0.987, blSens = 0.970, blSpec = 0.970.
+
+
+Testing for sequence pair 56:
+
+
+
+Ribosomal_S4_int_S4, seqPair 56, auc = 0.939, sens = 0.969, spec = 0.886, blAUC = 0.928, blSens = 0.938, blSpec = 0.789.
+
+
+Testing for sequence pair 66:
+
+
+
+Ribosomal_S4_int_S4, seqPair 66, auc = 0.999, sens = 0.970, spec = 1.000, blAUC = 0.995, blSens = 0.970, blSpec = 0.941.
+
+
+Testing for sequence pair 74:
+
+
+
+Ribosomal_S4_int_S4, seqPair 74, auc = 0.945, sens = 0.971, spec = 0.892, blAUC = 0.918, blSens = 0.971, blSpec = 0.846.
+
+
+Testing for sequence pair 76:
+
+
+
+Ribosomal_S4_int_S4, seqPair 76, auc = 0.986, sens = 1.000, spec = 0.892, blAUC = 0.984, blSens = 1.000, blSpec = 0.892.
+
+
+Testing for sequence pair 82:
+
+
+
+Ribosomal_S4_int_S4, seqPair 82, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 105:
+
+
+
+Ribosomal_S4_int_S4, seqPair 105, auc = 0.965, sens = 0.969, spec = 0.969, blAUC = 0.977, blSens = 0.969, blSpec = 0.939.
+
+
+Testing for sequence pair 118:
+
+
+
+Ribosomal_S4_int_S4, seqPair 118, auc = 0.969, sens = 0.811, spec = 0.909, blAUC = 0.974, blSens = 0.865, blSpec = 0.914.
+
+
+Testing for sequence pair 132:
+
+
+
+Ribosomal_S4_int_S4, seqPair 132, auc = 0.983, sens = 0.969, spec = 0.969, blAUC = 0.977, blSens = 0.969, blSpec = 0.939.
+
+
+
+ans =
+
+fold 2 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 98.758%
+Training recall: 99.065%
+Training precision: 98.452%
+Training f_measure: 98.758%
+Testing for sequence pair 9:
+
+
+
+RnaseH_int_RVT_connect, seqPair 9, auc = 0.999, sens = 0.969, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 24:
+
+
+
+RnaseH_int_RVT_connect, seqPair 24, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 1.000, blSpec = 0.917.
+
+
+Testing for sequence pair 42:
+
+
+
+RnaseH_int_RVT_connect, seqPair 42, auc = 0.994, sens = 1.000, spec = 0.966, blAUC = 0.994, blSens = 1.000, blSpec = 0.966.
+
+
+Testing for sequence pair 46:
+
+
+
+RnaseH_int_RVT_connect, seqPair 46, auc = 0.997, sens = 1.000, spec = 0.923, blAUC = 0.997, blSens = 0.917, blSpec = 0.957.
+
+
+Testing for sequence pair 55:
+
+
+
+RnaseH_int_RVT_connect, seqPair 55, auc = 0.997, sens = 0.970, spec = 0.970, blAUC = 0.999, blSens = 1.000, blSpec = 0.971.
+
+
+Testing for sequence pair 75:
+
+
+
+RnaseH_int_RVT_connect, seqPair 75, auc = 1.000, sens = 0.960, spec = 1.000, blAUC = 0.998, blSens = 0.960, blSpec = 1.000.
+
+
+Testing for sequence pair 79:
+
+
+
+RnaseH_int_RVT_connect, seqPair 79, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 100:
+
+
+
+RnaseH_int_RVT_connect, seqPair 100, auc = 0.983, sens = 1.000, spec = 0.966, blAUC = 0.995, blSens = 1.000, blSpec = 0.966.
+
+
+Testing for sequence pair 104:
+
+
+
+RnaseH_int_RVT_connect, seqPair 104, auc = 0.999, sens = 0.967, spec = 1.000, blAUC = 0.996, blSens = 0.967, blSpec = 1.000.
+
+
+Testing for sequence pair 114:
+
+
+
+RnaseH_int_RVT_connect, seqPair 114, auc = 1.000, sens = 1.000, spec = 0.964, blAUC = 1.000, blSens = 1.000, blSpec = 0.964.
+
+
+Testing for sequence pair 117:
+
+
+
+RnaseH_int_RVT_connect, seqPair 117, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 130:
+
+
+
+RnaseH_int_RVT_connect, seqPair 130, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.963.
+
+
+Testing for sequence pair 141:
+
+
+
+RnaseH_int_RVT_connect, seqPair 141, auc = 0.996, sens = 0.939, spec = 0.969, blAUC = 0.994, blSens = 0.939, blSpec = 0.939.
+
+
+Testing for sequence pair 142:
+
+
+
+RnaseH_int_RVT_connect, seqPair 142, auc = 0.976, sens = 0.966, spec = 0.966, blAUC = 0.995, blSens = 0.966, blSpec = 0.966.
+
+
+Testing for sequence pair 144:
+
+
+
+RnaseH_int_RVT_connect, seqPair 144, auc = 0.997, sens = 1.000, spec = 0.966, blAUC = 1.000, blSens = 1.000, blSpec = 0.966.
+
+
+Testing for sequence pair 149:
+
+
+
+RnaseH_int_RVT_connect, seqPair 149, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 2 :
+
+Training AE 1/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.870%
+Training recall: 98.126%
+Training precision: 97.669%
+Training f_measure: 97.897%
+Testing for sequence pair 4:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 4, auc = 0.995, sens = 1.000, spec = 0.922, blAUC = 0.992, blSens = 1.000, blSpec = 0.887.
+
+
+Testing for sequence pair 9:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 9, auc = 0.985, sens = 1.000, spec = 0.941, blAUC = 0.975, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 17:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 17, auc = 0.978, sens = 0.962, spec = 0.980, blAUC = 0.977, blSens = 0.962, blSpec = 0.980.
+
+
+Testing for sequence pair 26:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 26, auc = 0.997, sens = 0.978, spec = 0.918, blAUC = 0.994, blSens = 0.957, blSpec = 0.978.
+
+
+Testing for sequence pair 30:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 30, auc = 0.973, sens = 0.980, spec = 0.926, blAUC = 0.986, blSens = 0.980, blSpec = 0.943.
+
+
+Testing for sequence pair 39:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 39, auc = 0.993, sens = 1.000, spec = 0.951, blAUC = 0.993, blSens = 1.000, blSpec = 0.929.
+
+
+Testing for sequence pair 61:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 61, auc = 0.996, sens = 0.956, spec = 1.000, blAUC = 0.996, blSens = 0.978, blSpec = 0.978.
+
+
+Testing for sequence pair 63:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 63, auc = 1.000, sens = 1.000, spec = 0.978, blAUC = 0.998, blSens = 1.000, blSpec = 0.957.
+
+
+Testing for sequence pair 66:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 66, auc = 0.998, sens = 1.000, spec = 0.978, blAUC = 0.998, blSens = 1.000, blSpec = 0.978.
+
+
+Testing for sequence pair 72:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 72, auc = 0.977, sens = 0.952, spec = 0.909, blAUC = 0.973, blSens = 0.976, blSpec = 0.932.
+
+
+Testing for sequence pair 85:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 85, auc = 0.990, sens = 0.961, spec = 0.961, blAUC = 0.983, blSens = 0.961, blSpec = 0.942.
+
+
+Testing for sequence pair 110:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 110, auc = 0.944, sens = 0.932, spec = 0.911, blAUC = 0.961, blSens = 0.932, blSpec = 0.932.
+
+
+Testing for sequence pair 114:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 114, auc = 0.974, sens = 0.979, spec = 0.959, blAUC = 0.984, blSens = 1.000, blSpec = 0.906.
+
+
+
+ans =
+
+fold 2 :
+
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 96.788%
+Training recall: 97.163%
+Training precision: 96.615%
+Training f_measure: 96.888%
+Testing for sequence pair 22:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 22, auc = 0.951, sens = 0.944, spec = 0.850, blAUC = 0.960, blSens = 0.944, blSpec = 0.944.
+
+
+Testing for sequence pair 34:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 34, auc = 0.964, sens = 0.968, spec = 0.868, blAUC = 0.956, blSens = 0.958, blSpec = 0.875.
+
+
+Testing for sequence pair 41:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 41, auc = 0.983, sens = 0.927, spec = 0.974, blAUC = 0.987, blSens = 0.951, blSpec = 0.951.
+
+
+Testing for sequence pair 43:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 43, auc = 0.977, sens = 0.958, spec = 0.958, blAUC = 0.991, blSens = 0.958, blSpec = 0.939.
+
+
+Testing for sequence pair 57:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 57, auc = 0.981, sens = 0.936, spec = 0.957, blAUC = 0.979, blSens = 0.957, blSpec = 0.957.
+
+
+Testing for sequence pair 68:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 68, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.995, blSens = 1.000, blSpec = 0.933.
+
+
+Testing for sequence pair 69:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 69, auc = 0.963, sens = 0.947, spec = 0.856, blAUC = 0.937, blSens = 0.926, blSpec = 0.845.
+
+
+Testing for sequence pair 74:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 74, auc = 0.966, sens = 0.979, spec = 0.861, blAUC = 0.934, blSens = 0.968, blSpec = 0.829.
+
+
+Testing for sequence pair 80:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 80, auc = 0.964, sens = 0.945, spec = 0.935, blAUC = 0.946, blSens = 0.934, blSpec = 0.914.
+
+
+Testing for sequence pair 98:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 98, auc = 0.978, sens = 0.815, spec = 0.957, blAUC = 0.995, blSens = 0.889, blSpec = 1.000.
+
+
+Testing for sequence pair 122:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 122, auc = 0.967, sens = 0.969, spec = 0.931, blAUC = 0.969, blSens = 0.979, blSpec = 0.922.
+
+
+Testing for sequence pair 125:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 125, auc = 0.814, sens = 0.403, spec = 0.871, blAUC = 0.817, blSens = 0.403, blSpec = 0.844.
+
+
+Testing for sequence pair 128:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 128, auc = 0.965, sens = 0.971, spec = 0.901, blAUC = 0.952, blSens = 0.971, blSpec = 0.893.
+
+
+Testing for sequence pair 134:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 134, auc = 0.988, sens = 0.961, spec = 0.907, blAUC = 0.981, blSens = 0.951, blSpec = 0.898.
+
+
+
+ans =
+
+fold 2 :
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 94.783%
+Training recall: 95.977%
+Training precision: 93.820%
+Training f_measure: 94.886%
+Testing for sequence pair 4:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 4, auc = 0.995, sens = 0.950, spec = 0.905, blAUC = 1.000, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 5:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 5, auc = 0.990, sens = 0.950, spec = 0.864, blAUC = 1.000, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 9:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 9, auc = 0.948, sens = 0.950, spec = 0.864, blAUC = 0.963, blSens = 1.000, blSpec = 0.870.
+
+
+Testing for sequence pair 10:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 10, auc = 0.907, sens = 0.955, spec = 0.808, blAUC = 1.000, blSens = 1.000, blSpec = 0.957.
+
+
+Testing for sequence pair 35:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 35, auc = 0.983, sens = 0.895, spec = 0.944, blAUC = 0.981, blSens = 0.684, blSpec = 1.000.
+
+
+Testing for sequence pair 43:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 43, auc = 0.991, sens = 0.933, spec = 0.933, blAUC = 1.000, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 71:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 71, auc = 0.956, sens = 1.000, spec = 0.826, blAUC = 0.922, blSens = 1.000, blSpec = 0.864.
+
+
+Testing for sequence pair 82:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 82, auc = 0.928, sens = 0.947, spec = 0.857, blAUC = 1.000, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 88:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 88, auc = 0.994, sens = 0.947, spec = 0.947, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 92:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 92, auc = 0.973, sens = 0.850, spec = 0.944, blAUC = 0.932, blSens = 0.750, blSpec = 0.938.
+
+
+Testing for sequence pair 105:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 105, auc = 0.994, sens = 1.000, spec = 0.900, blAUC = 0.988, blSens = 0.944, blSpec = 0.944.
+
+
+Testing for sequence pair 109:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 109, auc = 0.954, sens = 0.833, spec = 0.938, blAUC = 0.914, blSens = 0.833, blSpec = 0.938.
+
+
+Testing for sequence pair 125:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 125, auc = 1.000, sens = 1.000, spec = 0.900, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 3 :
+
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.147%
+Training recall: 99.177%
+Training precision: 99.177%
+Training f_measure: 99.177%
+Testing for sequence pair 13:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 13, auc = 1.000, sens = 1.000, spec = 0.814, blAUC = 0.967, blSens = 1.000, blSpec = 0.814.
+
+
+Testing for sequence pair 14:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 14, auc = 0.994, sens = 0.939, spec = 0.939, blAUC = 0.998, blSens = 1.000, blSpec = 0.917.
+
+
+Testing for sequence pair 15:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 15, auc = 0.960, sens = 0.900, spec = 0.889, blAUC = 0.957, blSens = 0.938, blSpec = 0.882.
+
+
+Testing for sequence pair 23:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 23, auc = 0.949, sens = 0.902, spec = 0.841, blAUC = 0.933, blSens = 0.939, blSpec = 0.875.
+
+
+Testing for sequence pair 25:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 25, auc = 0.957, sens = 0.938, spec = 0.857, blAUC = 0.948, blSens = 1.000, blSpec = 0.821.
+
+
+Testing for sequence pair 40:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 40, auc = 0.921, sens = 0.643, spec = 0.857, blAUC = 0.931, blSens = 0.750, blSpec = 0.913.
+
+
+Testing for sequence pair 48:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 48, auc = 0.910, sens = 0.853, spec = 0.841, blAUC = 0.912, blSens = 0.897, blSpec = 0.871.
+
+
+Testing for sequence pair 66:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 66, auc = 0.969, sens = 1.000, spec = 0.921, blAUC = 0.979, blSens = 1.000, blSpec = 0.875.
+
+
+
+ans =
+
+fold 3 :
+
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.474%
+Training recall: 98.864%
+Training precision: 100.000%
+Training f_measure: 99.429%
+Testing for sequence pair 23:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 23, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 31:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 31, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 41:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 41, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 57:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 57, auc = 0.984, sens = 1.000, spec = 0.889, blAUC = 1.000, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 65:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 65, auc = 1.000, sens = 1.000, spec = 0.905, blAUC = 1.000, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 70:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 70, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 78:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 78, auc = 1.000, sens = 1.000, spec = 0.938, blAUC = 1.000, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 83:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 83, auc = 1.000, sens = 1.000, spec = 0.895, blAUC = 1.000, blSens = 1.000, blSpec = 0.895.
+
+
+Testing for sequence pair 92:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 92, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 1.000, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 93:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 93, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 99:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 99, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 102:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 102, auc = 1.000, sens = 1.000, spec = 0.950, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 116:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 116, auc = 1.000, sens = 1.000, spec = 0.947, blAUC = 1.000, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 117:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 117, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 124:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 124, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 140:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 140, auc = 1.000, sens = 1.000, spec = 0.944, blAUC = 1.000, blSens = 1.000, blSpec = 0.944.
+
+
+
+ans =
+
+fold 3 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.673%
+Training recall: 99.668%
+Training precision: 99.668%
+Training f_measure: 99.668%
+Testing for sequence pair 6:
+
+
+
+RnaseH_int_RVT_connect, seqPair 6, auc = 0.989, sens = 0.964, spec = 0.964, blAUC = 0.973, blSens = 0.964, blSpec = 0.964.
+
+
+Testing for sequence pair 8:
+
+
+
+RnaseH_int_RVT_connect, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.997, blSens = 0.963, blSpec = 1.000.
+
+
+Testing for sequence pair 11:
+
+
+
+RnaseH_int_RVT_connect, seqPair 11, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 12:
+
+
+
+RnaseH_int_RVT_connect, seqPair 12, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.996, blSens = 0.962, blSpec = 1.000.
+
+
+Testing for sequence pair 14:
+
+
+
+RnaseH_int_RVT_connect, seqPair 14, auc = 0.995, sens = 0.970, spec = 1.000, blAUC = 0.995, blSens = 0.970, blSpec = 1.000.
+
+
+Testing for sequence pair 68:
+
+
+
+RnaseH_int_RVT_connect, seqPair 68, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 84:
+
+
+
+RnaseH_int_RVT_connect, seqPair 84, auc = 0.973, sens = 1.000, spec = 0.952, blAUC = 0.993, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 91:
+
+
+
+RnaseH_int_RVT_connect, seqPair 91, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 105:
+
+
+
+RnaseH_int_RVT_connect, seqPair 105, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 115:
+
+
+
+RnaseH_int_RVT_connect, seqPair 115, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 129:
+
+
+
+RnaseH_int_RVT_connect, seqPair 129, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 133:
+
+
+
+RnaseH_int_RVT_connect, seqPair 133, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 151:
+
+
+
+RnaseH_int_RVT_connect, seqPair 151, auc = 0.979, sens = 0.969, spec = 0.912, blAUC = 0.984, blSens = 0.969, blSpec = 0.886.
+
+
+Testing for sequence pair 152:
+
+
+
+RnaseH_int_RVT_connect, seqPair 152, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.994, blSens = 1.000, blSpec = 0.967.
+
+
+Testing for sequence pair 155:
+
+
+
+RnaseH_int_RVT_connect, seqPair 155, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 156:
+
+
+
+RnaseH_int_RVT_connect, seqPair 156, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.958.
+
+
+Testing for sequence pair 161:
+
+
+
+RnaseH_int_RVT_connect, seqPair 161, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 3 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.795%
+Training recall: 99.387%
+Training precision: 98.182%
+Training f_measure: 98.780%
+Testing for sequence pair 7:
+
+
+
+Ribosomal_S4_int_S4, seqPair 7, auc = 1.000, sens = 1.000, spec = 0.919, blAUC = 1.000, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 9:
+
+
+
+Ribosomal_S4_int_S4, seqPair 9, auc = 0.995, sens = 1.000, spec = 0.824, blAUC = 1.000, blSens = 1.000, blSpec = 0.875.
+
+
+Testing for sequence pair 18:
+
+
+
+Ribosomal_S4_int_S4, seqPair 18, auc = 0.965, sens = 1.000, spec = 0.895, blAUC = 0.968, blSens = 1.000, blSpec = 0.919.
+
+
+Testing for sequence pair 27:
+
+
+
+Ribosomal_S4_int_S4, seqPair 27, auc = 0.975, sens = 0.941, spec = 0.914, blAUC = 0.969, blSens = 0.941, blSpec = 0.941.
+
+
+Testing for sequence pair 47:
+
+
+
+Ribosomal_S4_int_S4, seqPair 47, auc = 0.988, sens = 0.975, spec = 0.907, blAUC = 0.991, blSens = 0.950, blSpec = 1.000.
+
+
+Testing for sequence pair 50:
+
+
+
+Ribosomal_S4_int_S4, seqPair 50, auc = 0.950, sens = 0.812, spec = 0.929, blAUC = 0.971, blSens = 0.781, blSpec = 0.926.
+
+
+Testing for sequence pair 70:
+
+
+
+Ribosomal_S4_int_S4, seqPair 70, auc = 0.993, sens = 0.950, spec = 0.905, blAUC = 0.999, blSens = 0.950, blSpec = 0.974.
+
+
+Testing for sequence pair 71:
+
+
+
+Ribosomal_S4_int_S4, seqPair 71, auc = 0.997, sens = 0.970, spec = 0.941, blAUC = 0.994, blSens = 0.970, blSpec = 0.970.
+
+
+Testing for sequence pair 77:
+
+
+
+Ribosomal_S4_int_S4, seqPair 77, auc = 0.979, sens = 1.000, spec = 0.941, blAUC = 0.999, blSens = 1.000, blSpec = 0.914.
+
+
+Testing for sequence pair 79:
+
+
+
+Ribosomal_S4_int_S4, seqPair 79, auc = 0.993, sens = 1.000, spec = 0.895, blAUC = 1.000, blSens = 1.000, blSpec = 0.971.
+
+
+Testing for sequence pair 85:
+
+
+
+Ribosomal_S4_int_S4, seqPair 85, auc = 0.970, sens = 1.000, spec = 0.857, blAUC = 0.948, blSens = 1.000, blSpec = 0.923.
+
+
+Testing for sequence pair 87:
+
+
+
+Ribosomal_S4_int_S4, seqPair 87, auc = 0.979, sens = 0.850, spec = 0.971, blAUC = 0.959, blSens = 0.800, blSpec = 0.970.
+
+
+Testing for sequence pair 114:
+
+
+
+Ribosomal_S4_int_S4, seqPair 114, auc = 0.945, sens = 1.000, spec = 0.829, blAUC = 0.952, blSens = 1.000, blSpec = 0.895.
+
+
+Testing for sequence pair 127:
+
+
+
+Ribosomal_S4_int_S4, seqPair 127, auc = 0.976, sens = 0.974, spec = 0.949, blAUC = 0.985, blSens = 0.974, blSpec = 0.974.
+
+
+
+ans =
+
+fold 3 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.642%
+Training recall: 97.647%
+Training precision: 97.647%
+Training f_measure: 97.647%
+Testing for sequence pair 21:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 24:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 24, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.970.
+
+
+Testing for sequence pair 27:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 27, auc = 0.978, sens = 0.978, spec = 0.918, blAUC = 0.975, blSens = 0.978, blSpec = 0.938.
+
+
+Testing for sequence pair 47:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 47, auc = 0.999, sens = 1.000, spec = 0.958, blAUC = 1.000, blSens = 1.000, blSpec = 0.939.
+
+
+Testing for sequence pair 48:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 48, auc = 0.996, sens = 1.000, spec = 0.922, blAUC = 0.996, blSens = 1.000, blSpec = 0.922.
+
+
+Testing for sequence pair 51:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 51, auc = 0.968, sens = 0.960, spec = 0.923, blAUC = 0.967, blSens = 0.980, blSpec = 0.942.
+
+
+Testing for sequence pair 53:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 53, auc = 0.996, sens = 0.959, spec = 0.940, blAUC = 0.997, blSens = 0.980, blSpec = 0.980.
+
+
+Testing for sequence pair 57:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 57, auc = 0.983, sens = 0.918, spec = 0.918, blAUC = 0.997, blSens = 0.959, blSpec = 0.979.
+
+
+Testing for sequence pair 76:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 76, auc = 0.991, sens = 0.980, spec = 0.960, blAUC = 0.993, blSens = 0.980, blSpec = 0.941.
+
+
+Testing for sequence pair 81:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 81, auc = 0.977, sens = 0.935, spec = 0.956, blAUC = 0.975, blSens = 0.957, blSpec = 0.978.
+
+
+Testing for sequence pair 100:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 100, auc = 0.997, sens = 1.000, spec = 0.935, blAUC = 0.989, blSens = 1.000, blSpec = 0.977.
+
+
+Testing for sequence pair 103:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 103, auc = 0.991, sens = 0.971, spec = 0.943, blAUC = 0.994, blSens = 0.971, blSpec = 1.000.
+
+
+Testing for sequence pair 120:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 120, auc = 0.993, sens = 0.978, spec = 0.936, blAUC = 0.995, blSens = 0.978, blSpec = 0.936.
+
+
+Testing for sequence pair 125:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 125, auc = 0.956, sens = 0.926, spec = 0.926, blAUC = 0.961, blSens = 0.944, blSpec = 0.944.
+
+
+
+ans =
+
+fold 3 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 95.497%
+Training recall: 95.325%
+Training precision: 95.822%
+Training f_measure: 95.573%
+Testing for sequence pair 16:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 16, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 17:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 17, auc = 0.989, sens = 0.961, spec = 0.942, blAUC = 0.969, blSens = 0.961, blSpec = 0.942.
+
+
+Testing for sequence pair 35:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 35, auc = 0.973, sens = 0.776, spec = 1.000, blAUC = 0.980, blSens = 0.857, blSpec = 0.977.
+
+
+Testing for sequence pair 39:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 39, auc = 0.923, sens = 0.792, spec = 0.905, blAUC = 0.941, blSens = 0.896, blSpec = 0.935.
+
+
+Testing for sequence pair 40:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 40, auc = 0.986, sens = 0.875, spec = 1.000, blAUC = 0.957, blSens = 0.875, blSpec = 1.000.
+
+
+Testing for sequence pair 48:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 48, auc = 0.911, sens = 0.750, spec = 0.947, blAUC = 0.877, blSens = 0.750, blSpec = 0.900.
+
+
+Testing for sequence pair 52:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 52, auc = 0.885, sens = 0.750, spec = 1.000, blAUC = 0.858, blSens = 0.750, blSpec = 0.882.
+
+
+Testing for sequence pair 55:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 55, auc = 0.951, sens = 0.792, spec = 0.950, blAUC = 0.961, blSens = 0.896, blSpec = 0.956.
+
+
+Testing for sequence pair 59:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 59, auc = 0.983, sens = 1.000, spec = 0.893, blAUC = 0.946, blSens = 0.989, blSpec = 0.901.
+
+
+Testing for sequence pair 60:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 60, auc = 0.972, sens = 1.000, spec = 0.872, blAUC = 0.972, blSens = 0.989, blSpec = 0.879.
+
+
+Testing for sequence pair 61:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 61, auc = 0.954, sens = 0.756, spec = 0.971, blAUC = 0.972, blSens = 0.867, blSpec = 1.000.
+
+
+Testing for sequence pair 72:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 72, auc = 0.975, sens = 0.818, spec = 1.000, blAUC = 1.000, blSens = 0.955, blSpec = 1.000.
+
+
+Testing for sequence pair 93:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 93, auc = 0.980, sens = 0.989, spec = 0.903, blAUC = 0.978, blSens = 0.979, blSpec = 0.911.
+
+
+Testing for sequence pair 101:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 101, auc = 0.953, sens = 0.852, spec = 0.912, blAUC = 0.958, blSens = 0.836, blSpec = 0.927.
+
+
+Testing for sequence pair 121:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 121, auc = 0.971, sens = 0.943, spec = 0.917, blAUC = 0.938, blSens = 0.934, blSpec = 0.892.
+
+
+
+ans =
+
+fold 3 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.072%
+Training recall: 98.919%
+Training precision: 97.340%
+Training f_measure: 98.123%
+Testing for sequence pair 6:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 6, auc = 0.992, sens = 1.000, spec = 0.957, blAUC = 1.000, blSens = 1.000, blSpec = 0.957.
+
+
+Testing for sequence pair 7:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 7, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 13:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 13, auc = 0.994, sens = 0.895, spec = 1.000, blAUC = 0.994, blSens = 0.895, blSpec = 1.000.
+
+
+Testing for sequence pair 23:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 23, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.955.
+
+
+Testing for sequence pair 36:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 36, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.929, blSpec = 1.000.
+
+
+Testing for sequence pair 50:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 50, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 56:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 56, auc = 1.000, sens = 1.000, spec = 0.955, blAUC = 1.000, blSens = 1.000, blSpec = 0.955.
+
+
+Testing for sequence pair 59:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 59, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 60:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 60, auc = 0.998, sens = 1.000, spec = 0.909, blAUC = 0.995, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 65:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 65, auc = 0.906, sens = 0.895, spec = 0.810, blAUC = 0.875, blSens = 0.842, blSpec = 0.889.
+
+
+Testing for sequence pair 74:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 74, auc = 0.976, sens = 1.000, spec = 0.944, blAUC = 0.958, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 96:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 96, auc = 0.979, sens = 1.000, spec = 0.944, blAUC = 0.969, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 124:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 124, auc = 0.993, sens = 0.952, spec = 0.952, blAUC = 0.998, blSens = 0.952, blSpec = 0.952.
+
+
+
+ans =
+
+fold 4 :
+
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.850%
+Training recall: 100.000%
+Training precision: 99.698%
+Training f_measure: 99.849%
+Testing for sequence pair 29:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 29, auc = 0.810, sens = 0.625, spec = 0.800, blAUC = 0.828, blSens = 0.500, blSpec = 0.842.
+
+
+Testing for sequence pair 38:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 38, auc = 0.928, sens = 0.857, spec = 0.892, blAUC = 0.931, blSens = 0.831, blSpec = 0.914.
+
+
+Testing for sequence pair 50:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 50, auc = 0.843, sens = 0.684, spec = 0.867, blAUC = 0.828, blSens = 0.395, blSpec = 0.882.
+
+
+Testing for sequence pair 52:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 52, auc = 0.968, sens = 0.985, spec = 0.853, blAUC = 0.975, blSens = 0.938, blSpec = 0.924.
+
+
+Testing for sequence pair 53:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 53, auc = 0.838, sens = 0.743, spec = 0.839, blAUC = 0.801, blSens = 0.429, blSpec = 0.789.
+
+
+Testing for sequence pair 54:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 54, auc = 0.967, sens = 0.984, spec = 0.873, blAUC = 0.971, blSens = 0.921, blSpec = 0.879.
+
+
+Testing for sequence pair 59:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 59, auc = 0.781, sens = 0.737, spec = 0.757, blAUC = 0.762, blSens = 0.421, blSpec = 0.696.
+
+
+
+ans =
+
+fold 4 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 99.464%
+Training recall: 98.913%
+Training precision: 100.000%
+Training f_measure: 99.454%
+Testing for sequence pair 9:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 9, auc = 0.981, sens = 0.947, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 14:
+Training AE 1/2
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 14, auc = 0.986, sens = 0.947, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 21:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 27:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 27, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 42:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 42, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 45:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 45, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 66:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 66, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 71:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 71, auc = 1.000, sens = 1.000, spec = 0.947, blAUC = 0.994, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 77:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 77, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 80:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 80, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 106:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 106, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 111:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 111, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 123:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 123, auc = 0.972, sens = 1.000, spec = 0.944, blAUC = 1.000, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 126:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 126, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.933.
+
+
+Testing for sequence pair 149:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 149, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 151:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 151, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 4 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing for sequence pair 4:
+
+
+
+RnaseH_int_RVT_connect, seqPair 4, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 5:
+
+
+
+RnaseH_int_RVT_connect, seqPair 5, auc = 0.996, sens = 0.938, spec = 1.000, blAUC = 0.997, blSens = 0.969, blSpec = 1.000.
+
+
+Testing for sequence pair 40:
+
+
+
+RnaseH_int_RVT_connect, seqPair 40, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 49:
+
+
+
+RnaseH_int_RVT_connect, seqPair 49, auc = 0.997, sens = 0.947, spec = 1.000, blAUC = 1.000, blSens = 0.947, blSpec = 1.000.
+
+
+Testing for sequence pair 63:
+
+
+
+RnaseH_int_RVT_connect, seqPair 63, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 72:
+
+
+
+RnaseH_int_RVT_connect, seqPair 72, auc = 0.994, sens = 0.947, spec = 0.947, blAUC = 0.994, blSens = 0.947, blSpec = 0.947.
+
+
+Testing for sequence pair 80:
+
+
+
+RnaseH_int_RVT_connect, seqPair 80, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.999, blSens = 1.000, blSpec = 0.969.
+
+
+Testing for sequence pair 85:
+
+
+
+RnaseH_int_RVT_connect, seqPair 85, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 116:
+
+
+
+RnaseH_int_RVT_connect, seqPair 116, auc = 0.993, sens = 1.000, spec = 0.969, blAUC = 0.991, blSens = 0.968, blSpec = 0.968.
+
+
+Testing for sequence pair 118:
+
+
+
+RnaseH_int_RVT_connect, seqPair 118, auc = 0.999, sens = 1.000, spec = 0.966, blAUC = 1.000, blSens = 0.964, blSpec = 1.000.
+
+
+Testing for sequence pair 120:
+
+
+
+RnaseH_int_RVT_connect, seqPair 120, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.999, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 145:
+
+
+
+RnaseH_int_RVT_connect, seqPair 145, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.969.
+
+
+Testing for sequence pair 146:
+
+
+
+RnaseH_int_RVT_connect, seqPair 146, auc = 0.998, sens = 0.968, spec = 0.938, blAUC = 1.000, blSens = 1.000, blSpec = 0.969.
+
+
+Testing for sequence pair 148:
+
+
+
+RnaseH_int_RVT_connect, seqPair 148, auc = 1.000, sens = 1.000, spec = 0.966, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 150:
+
+
+
+RnaseH_int_RVT_connect, seqPair 150, auc = 0.997, sens = 1.000, spec = 0.931, blAUC = 1.000, blSens = 1.000, blSpec = 0.931.
+
+
+Testing for sequence pair 153:
+
+
+
+RnaseH_int_RVT_connect, seqPair 153, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.931.
+
+
+Testing for sequence pair 154:
+
+
+
+RnaseH_int_RVT_connect, seqPair 154, auc = 0.999, sens = 0.963, spec = 0.963, blAUC = 1.000, blSens = 1.000, blSpec = 0.964.
+
+
+
+ans =
+
+fold 4 :
+
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.911%
+Training recall: 99.096%
+Training precision: 98.799%
+Training f_measure: 98.947%
+Testing for sequence pair 4:
+
+
+
+Ribosomal_S4_int_S4, seqPair 4, auc = 0.967, sens = 0.909, spec = 0.909, blAUC = 0.950, blSens = 0.909, blSpec = 0.909.
+
+
+Testing for sequence pair 40:
+
+
+
+Ribosomal_S4_int_S4, seqPair 40, auc = 0.988, sens = 0.966, spec = 0.875, blAUC = 0.982, blSens = 0.897, blSpec = 0.897.
+
+
+Testing for sequence pair 54:
+
+
+
+Ribosomal_S4_int_S4, seqPair 54, auc = 0.992, sens = 0.970, spec = 0.941, blAUC = 0.988, blSens = 0.939, blSpec = 0.969.
+
+
+Testing for sequence pair 58:
+
+
+
+Ribosomal_S4_int_S4, seqPair 58, auc = 0.991, sens = 0.968, spec = 0.938, blAUC = 0.976, blSens = 0.935, blSpec = 0.906.
+
+
+Testing for sequence pair 59:
+
+
+
+Ribosomal_S4_int_S4, seqPair 59, auc = 0.962, sens = 0.886, spec = 0.886, blAUC = 0.980, blSens = 0.943, blSpec = 0.917.
+
+
+Testing for sequence pair 68:
+
+
+
+Ribosomal_S4_int_S4, seqPair 68, auc = 0.977, sens = 0.970, spec = 0.842, blAUC = 0.960, blSens = 0.970, blSpec = 0.865.
+
+
+Testing for sequence pair 75:
+
+
+
+Ribosomal_S4_int_S4, seqPair 75, auc = 0.987, sens = 1.000, spec = 0.944, blAUC = 0.998, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 93:
+
+
+
+Ribosomal_S4_int_S4, seqPair 93, auc = 0.984, sens = 0.971, spec = 0.919, blAUC = 0.978, blSens = 0.971, blSpec = 0.895.
+
+
+Testing for sequence pair 104:
+
+
+
+Ribosomal_S4_int_S4, seqPair 104, auc = 0.967, sens = 0.962, spec = 0.962, blAUC = 0.987, blSens = 0.962, blSpec = 0.962.
+
+
+Testing for sequence pair 107:
+
+
+
+Ribosomal_S4_int_S4, seqPair 107, auc = 0.933, sens = 0.941, spec = 0.865, blAUC = 0.954, blSens = 0.912, blSpec = 0.861.
+
+
+Testing for sequence pair 117:
+
+
+
+Ribosomal_S4_int_S4, seqPair 117, auc = 0.962, sens = 0.885, spec = 0.920, blAUC = 0.997, blSens = 0.692, blSpec = 1.000.
+
+
+Testing for sequence pair 120:
+
+
+
+Ribosomal_S4_int_S4, seqPair 120, auc = 1.000, sens = 1.000, spec = 0.971, blAUC = 1.000, blSens = 1.000, blSpec = 0.971.
+
+
+Testing for sequence pair 126:
+
+
+
+Ribosomal_S4_int_S4, seqPair 126, auc = 0.999, sens = 1.000, spec = 0.941, blAUC = 0.992, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 131:
+
+
+
+Ribosomal_S4_int_S4, seqPair 131, auc = 0.980, sens = 1.000, spec = 0.971, blAUC = 0.993, blSens = 1.000, blSpec = 0.971.
+
+
+
+ans =
+
+fold 4 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.150%
+Training recall: 98.592%
+Training precision: 97.674%
+Training f_measure: 98.131%
+Testing for sequence pair 2:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.933.
+
+
+Testing for sequence pair 13:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 13, auc = 0.967, sens = 0.979, spec = 0.939, blAUC = 0.970, blSens = 0.979, blSpec = 0.939.
+
+
+Testing for sequence pair 14:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 14, auc = 0.977, sens = 1.000, spec = 0.976, blAUC = 0.979, blSens = 1.000, blSpec = 0.976.
+
+
+Testing for sequence pair 52:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 52, auc = 0.986, sens = 1.000, spec = 0.926, blAUC = 0.976, blSens = 0.980, blSpec = 0.942.
+
+
+Testing for sequence pair 62:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 62, auc = 1.000, sens = 1.000, spec = 0.978, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 89:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 89, auc = 0.976, sens = 0.977, spec = 0.956, blAUC = 0.980, blSens = 0.977, blSpec = 0.977.
+
+
+Testing for sequence pair 96:
+Training AE 1/2
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 96, auc = 0.991, sens = 0.977, spec = 0.933, blAUC = 0.981, blSens = 0.977, blSpec = 0.933.
+
+
+Testing for sequence pair 98:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 98, auc = 0.956, sens = 0.955, spec = 0.933, blAUC = 0.959, blSens = 0.955, blSpec = 0.933.
+
+
+Testing for sequence pair 102:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 102, auc = 0.989, sens = 1.000, spec = 0.959, blAUC = 0.994, blSens = 1.000, blSpec = 0.940.
+
+
+Testing for sequence pair 121:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 121, auc = 1.000, sens = 1.000, spec = 0.939, blAUC = 0.998, blSens = 1.000, blSpec = 0.885.
+
+
+Testing for sequence pair 122:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 122, auc = 0.990, sens = 1.000, spec = 0.938, blAUC = 0.980, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 124:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 124, auc = 0.968, sens = 0.960, spec = 0.906, blAUC = 0.959, blSens = 0.960, blSpec = 0.923.
+
+
+Testing for sequence pair 127:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 127, auc = 0.980, sens = 0.976, spec = 0.952, blAUC = 0.994, blSens = 0.976, blSpec = 0.952.
+
+
+Testing for sequence pair 129:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 129, auc = 0.951, sens = 0.904, spec = 0.979, blAUC = 0.957, blSens = 0.904, blSpec = 0.979.
+
+
+
+ans =
+
+fold 4 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 95.779%
+Training recall: 95.897%
+Training precision: 95.751%
+Training f_measure: 95.824%
+Testing for sequence pair 2:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 2, auc = 0.919, sens = 0.904, spec = 0.825, blAUC = 0.926, blSens = 0.894, blSpec = 0.845.
+
+
+Testing for sequence pair 12:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 12, auc = 1.000, sens = 1.000, spec = 0.938, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 42:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 42, auc = 0.976, sens = 1.000, spec = 0.867, blAUC = 0.964, blSens = 0.923, blSpec = 0.800.
+
+
+Testing for sequence pair 53:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 53, auc = 0.995, sens = 1.000, spec = 0.959, blAUC = 0.993, blSens = 1.000, blSpec = 0.922.
+
+
+Testing for sequence pair 56:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 56, auc = 0.992, sens = 0.913, spec = 1.000, blAUC = 0.983, blSens = 0.870, blSpec = 0.909.
+
+
+Testing for sequence pair 67:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 67, auc = 0.999, sens = 1.000, spec = 0.976, blAUC = 0.987, blSens = 0.976, blSpec = 0.909.
+
+
+Testing for sequence pair 73:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 73, auc = 0.942, sens = 0.978, spec = 0.827, blAUC = 0.945, blSens = 0.957, blSpec = 0.848.
+
+
+Testing for sequence pair 76:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 76, auc = 0.899, sens = 0.979, spec = 0.793, blAUC = 0.890, blSens = 0.957, blSpec = 0.811.
+
+
+Testing for sequence pair 77:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 77, auc = 0.972, sens = 0.978, spec = 0.802, blAUC = 0.957, blSens = 0.967, blSpec = 0.793.
+
+
+Testing for sequence pair 82:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 82, auc = 0.956, sens = 0.959, spec = 0.847, blAUC = 0.941, blSens = 0.939, blSpec = 0.829.
+
+
+Testing for sequence pair 108:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 108, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.988, blSens = 0.889, blSpec = 0.889.
+
+
+Testing for sequence pair 117:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 117, auc = 0.952, sens = 0.970, spec = 0.852, blAUC = 0.938, blSens = 0.941, blSpec = 0.826.
+
+
+Testing for sequence pair 131:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 131, auc = 0.961, sens = 0.969, spec = 0.826, blAUC = 0.952, blSens = 0.949, blSpec = 0.861.
+
+
+Testing for sequence pair 132:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 132, auc = 0.937, sens = 0.970, spec = 0.808, blAUC = 0.936, blSens = 0.940, blSpec = 0.810.
+
+
+
+ans =
+
+fold 4 :
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.892%
+Training recall: 97.006%
+Training precision: 98.780%
+Training f_measure: 97.885%
+Testing for sequence pair 18:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 18, auc = 0.858, sens = 0.778, spec = 0.933, blAUC = 0.843, blSens = 0.722, blSpec = 0.929.
+
+
+Testing for sequence pair 25:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 25, auc = 0.958, sens = 0.895, spec = 1.000, blAUC = 0.997, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 33:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 33, auc = 0.956, sens = 0.895, spec = 0.850, blAUC = 0.986, blSens = 0.947, blSpec = 0.900.
+
+
+Testing for sequence pair 34:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 34, auc = 1.000, sens = 0.933, spec = 1.000, blAUC = 0.996, blSens = 0.867, blSpec = 1.000.
+
+
+Testing for sequence pair 48:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 48, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 53:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 53, auc = 0.923, sens = 0.778, spec = 0.913, blAUC = 0.940, blSens = 0.852, blSpec = 1.000.
+
+
+Testing for sequence pair 61:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 61, auc = 0.970, sens = 0.950, spec = 0.950, blAUC = 0.998, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 75:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 75, auc = 0.966, sens = 0.905, spec = 1.000, blAUC = 0.998, blSens = 0.952, blSpec = 1.000.
+
+
+Testing for sequence pair 84:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 84, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.913.
+
+
+Testing for sequence pair 94:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 94, auc = 0.965, sens = 0.950, spec = 0.950, blAUC = 0.998, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 98:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 98, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 115:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 115, auc = 0.953, sens = 0.938, spec = 0.882, blAUC = 0.992, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 119:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 119, auc = 0.965, sens = 0.941, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 5 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing for sequence pair 11:
+Training performance on unsupervised reduced model:
+Training accuracy: 99.757%
+Training recall: 99.512%
+Training precision: 100.000%
+Training f_measure: 99.756%
+Testing for sequence pair 9:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 11, auc = 0.972, sens = 0.944, spec = 1.000, blAUC = 0.981, blSens = 0.944, blSpec = 1.000.
+
+
+Testing for sequence pair 35:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 35, auc = 0.996, sens = 1.000, spec = 0.941, blAUC = 1.000, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 44:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 44, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 58:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 58, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 72:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 72, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 73:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 9, auc = 1.000, sens = 1.000, spec = 0.921, blAUC = 1.000, blSens = 1.000, blSpec = 0.921.
+
+
+Testing for sequence pair 18:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 18, auc = 0.850, sens = 0.266, spec = 0.808, blAUC = 0.805, blSens = 0.127, blSpec = 0.625.
+
+
+Testing for sequence pair 39:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 73, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 98:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 98, auc = 0.991, sens = 1.000, spec = 0.947, blAUC = 0.994, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 101:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 101, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 105:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 105, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 39, auc = 0.806, sens = 0.397, spec = 0.853, blAUC = 0.783, blSens = 0.247, blSpec = 0.750.
+
+
+Testing for sequence pair 43:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 43, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 49:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 49, auc = 0.967, sens = 0.943, spec = 0.892, blAUC = 0.950, blSens = 0.857, blSpec = 0.909.
+
+
+Testing for sequence pair 60:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 60, auc = 0.969, sens = 0.910, spec = 0.910, blAUC = 0.956, blSens = 0.851, blSpec = 0.934.
+
+
+Testing for sequence pair 63:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 63, auc = 1.000, sens = 1.000, spec = 0.973, blAUC = 0.998, blSens = 1.000, blSpec = 0.923.
+
+
+Testing for sequence pair 112:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 112, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 115:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 115, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 119:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 119, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 129:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 129, auc = 1.000, sens = 1.000, spec = 0.947, blAUC = 1.000, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 139:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 139, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 143:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 143, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 145:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 145, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 5 :
+
+
+ans =
+
+fold 5 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.504%
+Training recall: 100.000%
+Training precision: 99.007%
+Training f_measure: 99.501%
+Testing for sequence pair 15:
+
+
+
+RnaseH_int_RVT_connect, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 35:
+
+
+
+RnaseH_int_RVT_connect, seqPair 35, auc = 0.998, sens = 0.971, spec = 0.971, blAUC = 0.998, blSens = 0.971, blSpec = 0.971.
+
+
+Testing for sequence pair 37:
+
+
+
+RnaseH_int_RVT_connect, seqPair 37, auc = 0.980, sens = 0.966, spec = 0.933, blAUC = 0.982, blSens = 0.966, blSpec = 0.933.
+
+
+Testing for sequence pair 45:
+
+
+
+RnaseH_int_RVT_connect, seqPair 45, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.969.
+
+
+Testing for sequence pair 53:
+
+
+
+RnaseH_int_RVT_connect, seqPair 53, auc = 0.999, sens = 1.000, spec = 0.969, blAUC = 1.000, blSens = 1.000, blSpec = 0.939.
+
+
+Testing for sequence pair 61:
+
+
+
+RnaseH_int_RVT_connect, seqPair 61, auc = 0.996, sens = 0.971, spec = 0.943, blAUC = 0.997, blSens = 0.971, blSpec = 0.943.
+
+
+Testing for sequence pair 70:
+
+
+
+RnaseH_int_RVT_connect, seqPair 70, auc = 1.000, sens = 1.000, spec = 0.895, blAUC = 0.986, blSens = 1.000, blSpec = 0.895.
+
+
+Testing for sequence pair 71:
+
+
+
+RnaseH_int_RVT_connect, seqPair 71, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 81:
+
+
+
+RnaseH_int_RVT_connect, seqPair 81, auc = 1.000, sens = 1.000, spec = 0.967, blAUC = 0.996, blSens = 1.000, blSpec = 0.967.
+
+
+Testing for sequence pair 96:
+
+
+
+RnaseH_int_RVT_connect, seqPair 96, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 98:
+
+
+
+RnaseH_int_RVT_connect, seqPair 98, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 102:
+
+
+
+RnaseH_int_RVT_connect, seqPair 102, auc = 0.987, sens = 1.000, spec = 0.966, blAUC = 0.976, blSens = 1.000, blSpec = 0.966.
+
+
+Testing for sequence pair 106:
+
+
+
+RnaseH_int_RVT_connect, seqPair 106, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 123:
+
+
+
+RnaseH_int_RVT_connect, seqPair 123, auc = 0.998, sens = 1.000, spec = 0.923, blAUC = 0.995, blSens = 1.000, blSpec = 0.923.
+
+
+Testing for sequence pair 124:
+
+
+
+RnaseH_int_RVT_connect, seqPair 124, auc = 0.998, sens = 1.000, spec = 0.962, blAUC = 0.992, blSens = 0.960, blSpec = 0.960.
+
+
+Testing for sequence pair 132:
+
+
+
+RnaseH_int_RVT_connect, seqPair 132, auc = 0.995, sens = 1.000, spec = 0.923, blAUC = 0.988, blSens = 1.000, blSpec = 0.923.
+
+
+Testing for sequence pair 139:
+
+
+
+RnaseH_int_RVT_connect, seqPair 139, auc = 0.999, sens = 1.000, spec = 0.900, blAUC = 0.979, blSens = 1.000, blSpec = 0.900.
+
+
+
+ans =
+
+fold 5 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.464%
+Training recall: 99.696%
+Training precision: 97.329%
+Training f_measure: 98.498%
+Testing for sequence pair 6:
+
+
+
+Ribosomal_S4_int_S4, seqPair 6, auc = 0.999, sens = 1.000, spec = 0.949, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 13:
+
+
+
+Ribosomal_S4_int_S4, seqPair 13, auc = 0.999, sens = 1.000, spec = 0.944, blAUC = 0.998, blSens = 1.000, blSpec = 0.971.
+
+
+Testing for sequence pair 16:
+
+
+
+Ribosomal_S4_int_S4, seqPair 16, auc = 0.981, sens = 1.000, spec = 0.875, blAUC = 0.970, blSens = 1.000, blSpec = 0.897.
+
+
+Testing for sequence pair 23:
+
+
+
+Ribosomal_S4_int_S4, seqPair 23, auc = 0.999, sens = 1.000, spec = 0.943, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 29:
+
+
+
+Ribosomal_S4_int_S4, seqPair 29, auc = 0.985, sens = 1.000, spec = 0.943, blAUC = 0.980, blSens = 1.000, blSpec = 0.943.
+
+
+Testing for sequence pair 33:
+
+
+
+Ribosomal_S4_int_S4, seqPair 33, auc = 0.988, sens = 0.939, spec = 1.000, blAUC = 0.981, blSens = 0.939, blSpec = 0.939.
+
+
+Testing for sequence pair 61:
+
+
+
+Ribosomal_S4_int_S4, seqPair 61, auc = 0.990, sens = 0.941, spec = 1.000, blAUC = 0.990, blSens = 0.941, blSpec = 1.000.
+
+
+Testing for sequence pair 62:
+
+
+
+Ribosomal_S4_int_S4, seqPair 62, auc = 0.984, sens = 1.000, spec = 0.897, blAUC = 0.990, blSens = 1.000, blSpec = 0.921.
+
+
+Testing for sequence pair 84:
+
+
+
+Ribosomal_S4_int_S4, seqPair 84, auc = 0.977, sens = 1.000, spec = 0.946, blAUC = 0.971, blSens = 1.000, blSpec = 0.972.
+
+
+Testing for sequence pair 92:
+
+
+
+Ribosomal_S4_int_S4, seqPair 92, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 94:
+
+
+
+Ribosomal_S4_int_S4, seqPair 94, auc = 0.974, sens = 0.861, spec = 0.969, blAUC = 0.968, blSens = 0.722, blSpec = 1.000.
+
+
+Testing for sequence pair 100:
+
+
+
+Ribosomal_S4_int_S4, seqPair 100, auc = 0.987, sens = 0.889, spec = 0.970, blAUC = 0.981, blSens = 0.861, blSpec = 0.939.
+
+
+Testing for sequence pair 115:
+
+
+
+Ribosomal_S4_int_S4, seqPair 115, auc = 0.977, sens = 1.000, spec = 0.967, blAUC = 0.996, blSens = 1.000, blSpec = 0.935.
+
+
+Testing for sequence pair 129:
+
+
+
+Ribosomal_S4_int_S4, seqPair 129, auc = 0.973, sens = 1.000, spec = 0.879, blAUC = 0.966, blSens = 1.000, blSpec = 0.906.
+
+
+
+ans =
+
+fold 5 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.943%
+Training recall: 98.896%
+Training precision: 97.180%
+Training f_measure: 98.031%
+Testing for sequence pair 7:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 7, auc = 0.951, sens = 1.000, spec = 0.857, blAUC = 0.958, blSens = 1.000, blSpec = 0.857.
+
+
+Testing for sequence pair 8:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 8, auc = 0.992, sens = 0.981, spec = 0.930, blAUC = 0.994, blSens = 0.981, blSpec = 0.946.
+
+
+Testing for sequence pair 10:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 10, auc = 0.972, sens = 1.000, spec = 0.895, blAUC = 0.959, blSens = 1.000, blSpec = 0.879.
+
+
+Testing for sequence pair 42:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 42, auc = 0.949, sens = 0.894, spec = 0.933, blAUC = 0.939, blSens = 0.872, blSpec = 0.911.
+
+
+Testing for sequence pair 54:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 54, auc = 0.964, sens = 0.980, spec = 0.860, blAUC = 0.952, blSens = 1.000, blSpec = 0.877.
+
+
+Testing for sequence pair 70:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 70, auc = 0.935, sens = 0.955, spec = 0.875, blAUC = 0.918, blSens = 0.932, blSpec = 0.911.
+
+
+Testing for sequence pair 75:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 75, auc = 1.000, sens = 1.000, spec = 0.942, blAUC = 0.995, blSens = 1.000, blSpec = 0.961.
+
+
+Testing for sequence pair 87:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 87, auc = 0.958, sens = 0.938, spec = 0.918, blAUC = 0.944, blSens = 0.938, blSpec = 0.918.
+
+
+Testing for sequence pair 93:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 93, auc = 0.972, sens = 0.884, spec = 0.905, blAUC = 0.986, blSens = 0.884, blSpec = 0.950.
+
+
+Testing for sequence pair 106:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 106, auc = 0.982, sens = 1.000, spec = 0.923, blAUC = 0.981, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 109:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 109, auc = 0.989, sens = 0.980, spec = 0.962, blAUC = 0.994, blSens = 1.000, blSpec = 0.962.
+
+
+Testing for sequence pair 123:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 123, auc = 0.980, sens = 0.929, spec = 0.907, blAUC = 0.967, blSens = 0.929, blSpec = 0.907.
+
+
+Testing for sequence pair 132:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 132, auc = 0.991, sens = 0.950, spec = 0.950, blAUC = 0.992, blSens = 0.975, blSpec = 1.000.
+
+
+
+ans =
+
+fold 5 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 95.347%
+Training recall: 95.968%
+Training precision: 94.821%
+Training f_measure: 95.391%
+Testing for sequence pair 1:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 1, auc = 0.899, sens = 0.542, spec = 0.929, blAUC = 0.856, blSens = 0.500, blSpec = 0.923.
+
+
+Testing for sequence pair 19:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 19, auc = 0.966, sens = 0.990, spec = 0.907, blAUC = 0.974, blSens = 0.980, blSpec = 0.881.
+
+
+Testing for sequence pair 20:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 20, auc = 0.967, sens = 0.990, spec = 0.888, blAUC = 0.973, blSens = 0.979, blSpec = 0.904.
+
+
+Testing for sequence pair 26:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 26, auc = 0.919, sens = 0.899, spec = 0.927, blAUC = 0.908, blSens = 0.859, blSpec = 0.895.
+
+
+Testing for sequence pair 31:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 31, auc = 0.982, sens = 0.989, spec = 0.922, blAUC = 0.984, blSens = 0.968, blSpec = 0.958.
+
+
+Testing for sequence pair 62:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 62, auc = 0.938, sens = 0.682, spec = 0.938, blAUC = 0.963, blSens = 0.773, blSpec = 1.000.
+
+
+Testing for sequence pair 65:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 65, auc = 0.988, sens = 0.938, spec = 0.938, blAUC = 0.997, blSens = 0.958, blSpec = 0.979.
+
+
+Testing for sequence pair 66:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 66, auc = 0.940, sens = 0.773, spec = 1.000, blAUC = 0.957, blSens = 0.727, blSpec = 1.000.
+
+
+Testing for sequence pair 85:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 85, auc = 0.937, sens = 0.879, spec = 0.962, blAUC = 0.954, blSens = 0.914, blSpec = 0.930.
+
+
+Testing for sequence pair 99:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 99, auc = 0.953, sens = 0.742, spec = 0.958, blAUC = 0.952, blSens = 0.823, blSpec = 0.927.
+
+
+Testing for sequence pair 120:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 120, auc = 0.940, sens = 0.792, spec = 0.875, blAUC = 0.923, blSens = 0.858, blSpec = 0.875.
+
+
+Testing for sequence pair 124:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 124, auc = 0.949, sens = 0.781, spec = 0.893, blAUC = 0.913, blSens = 0.844, blSpec = 0.900.
+
+
+Testing for sequence pair 139:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 139, auc = 0.974, sens = 1.000, spec = 0.902, blAUC = 0.977, blSens = 1.000, blSpec = 0.868.
+
+
+Testing for sequence pair 141:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 141, auc = 0.901, sens = 0.429, spec = 0.889, blAUC = 0.890, blSens = 0.500, blSpec = 0.848.
+
+
+
+ans =
+
+fold 5 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.157%
+Training recall: 100.000%
+Training precision: 98.305%
+Training f_measure: 99.145%
+Testing for sequence pair 19:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 19, auc = 0.880, sens = 0.700, spec = 0.875, blAUC = 0.890, blSens = 0.700, blSpec = 0.875.
+
+
+Testing for sequence pair 20:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 20, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 22:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 22, auc = 0.985, sens = 1.000, spec = 0.909, blAUC = 0.970, blSens = 1.000, blSpec = 0.909.
+
+
+Testing for sequence pair 42:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 42, auc = 1.000, sens = 1.000, spec = 0.944, blAUC = 1.000, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 47:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 47, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 49:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 49, auc = 0.995, sens = 1.000, spec = 0.833, blAUC = 1.000, blSens = 1.000, blSpec = 0.833.
+
+
+Testing for sequence pair 68:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 68, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.955, blSpec = 1.000.
+
+
+Testing for sequence pair 81:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 81, auc = 0.929, sens = 0.929, spec = 0.929, blAUC = 0.959, blSens = 0.929, blSpec = 1.000.
+
+
+Testing for sequence pair 86:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 86, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 102:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 102, auc = 0.936, sens = 0.792, spec = 0.950, blAUC = 0.984, blSens = 0.833, blSpec = 0.952.
+
+
+Testing for sequence pair 103:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 103, auc = 0.989, sens = 1.000, spec = 0.905, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 116:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 116, auc = 1.000, sens = 1.000, spec = 0.895, blAUC = 1.000, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 121:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 121, auc = 0.945, sens = 1.000, spec = 0.800, blAUC = 0.953, blSens = 1.000, blSpec = 0.762.
+
+
+
+ans =
+
+fold 6 :
+
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.730%
+Training recall: 99.432%
+Training precision: 100.000%
+Training f_measure: 99.715%
+Testing for sequence pair 3:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 3, auc = 0.978, sens = 0.950, spec = 0.950, blAUC = 0.995, blSens = 0.950, blSpec = 1.000.
+
+
+Testing for sequence pair 22:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 22, auc = 1.000, sens = 0.933, spec = 1.000, blAUC = 1.000, blSens = 0.933, blSpec = 1.000.
+
+
+Testing for sequence pair 24:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 24, auc = 1.000, sens = 0.933, spec = 1.000, blAUC = 1.000, blSens = 0.933, blSpec = 1.000.
+
+
+Testing for sequence pair 30:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 30, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 33:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 33, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 39:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 39, auc = 0.996, sens = 1.000, spec = 0.941, blAUC = 0.996, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 49:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 49, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 79:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 79, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 118:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 118, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 120:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 120, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 121:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 121, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 127:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 127, auc = 1.000, sens = 1.000, spec = 0.889, blAUC = 0.977, blSens = 1.000, blSpec = 0.842.
+
+
+Testing for sequence pair 128:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 128, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 133:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 133, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 134:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 134, auc = 1.000, sens = 1.000, spec = 0.944, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 150:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 150, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 6 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing for sequence pair 7:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 7, auc = 0.989, sens = 1.000, spec = 0.944, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 17:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 17, auc = 0.811, sens = 0.296, spec = 0.828, blAUC = 0.766, blSens = 0.148, blSpec = 0.706.
+
+
+Testing for sequence pair 28:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 28, auc = 0.988, sens = 0.878, spec = 0.923, blAUC = 0.976, blSens = 0.902, blSpec = 0.949.
+
+
+Testing for sequence pair 30:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 30, auc = 0.834, sens = 0.449, spec = 0.946, blAUC = 0.803, blSens = 0.256, blSpec = 0.800.
+
+
+Testing for sequence pair 31:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 31, auc = 0.833, sens = 0.442, spec = 0.919, blAUC = 0.808, blSens = 0.260, blSpec = 1.000.
+
+
+Testing for sequence pair 44:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 44, auc = 0.960, sens = 0.912, spec = 0.912, blAUC = 0.918, blSens = 0.794, blSpec = 0.900.
+
+
+Testing for sequence pair 64:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 64, auc = 0.973, sens = 1.000, spec = 0.972, blAUC = 0.972, blSens = 1.000, blSpec = 0.972.
+
+
+
+ans =
+
+fold 6 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.840%
+Training recall: 100.000%
+Training precision: 99.683%
+Training f_measure: 99.841%
+Testing for sequence pair 21:
+
+
+
+RnaseH_int_RVT_connect, seqPair 21, auc = 1.000, sens = 0.938, spec = 1.000, blAUC = 0.996, blSens = 0.938, blSpec = 1.000.
+
+
+Testing for sequence pair 25:
+
+
+
+RnaseH_int_RVT_connect, seqPair 25, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 27:
+
+
+
+RnaseH_int_RVT_connect, seqPair 27, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 28:
+
+
+
+RnaseH_int_RVT_connect, seqPair 28, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 32:
+
+
+
+RnaseH_int_RVT_connect, seqPair 32, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.962.
+
+
+Testing for sequence pair 47:
+
+
+
+RnaseH_int_RVT_connect, seqPair 47, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.998, blSens = 0.960, blSpec = 0.960.
+
+
+Testing for sequence pair 60:
+
+
+
+RnaseH_int_RVT_connect, seqPair 60, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.968.
+
+
+Testing for sequence pair 64:
+
+
+
+RnaseH_int_RVT_connect, seqPair 64, auc = 1.000, sens = 1.000, spec = 0.897, blAUC = 1.000, blSens = 1.000, blSpec = 0.929.
+
+
+Testing for sequence pair 89:
+
+
+
+RnaseH_int_RVT_connect, seqPair 89, auc = 0.995, sens = 0.950, spec = 1.000, blAUC = 1.000, blSens = 0.900, blSpec = 1.000.
+
+
+Testing for sequence pair 101:
+
+
+
+RnaseH_int_RVT_connect, seqPair 101, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 110:
+
+
+
+RnaseH_int_RVT_connect, seqPair 110, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.998, blSens = 1.000, blSpec = 0.926.
+
+
+Testing for sequence pair 125:
+
+
+
+RnaseH_int_RVT_connect, seqPair 125, auc = 1.000, sens = 1.000, spec = 0.929, blAUC = 1.000, blSens = 1.000, blSpec = 0.929.
+
+
+Testing for sequence pair 134:
+
+
+
+RnaseH_int_RVT_connect, seqPair 134, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 136:
+
+
+
+RnaseH_int_RVT_connect, seqPair 136, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.857.
+
+
+Testing for sequence pair 160:
+
+
+
+RnaseH_int_RVT_connect, seqPair 160, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 163:
+
+
+
+RnaseH_int_RVT_connect, seqPair 163, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 166:
+
+
+
+RnaseH_int_RVT_connect, seqPair 166, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.999, blSens = 0.963, blSpec = 1.000.
+
+
+
+ans =
+
+fold 6 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.782%
+Training recall: 99.701%
+Training precision: 97.941%
+Training f_measure: 98.813%
+Testing for sequence pair 1:
+
+
+
+Ribosomal_S4_int_S4, seqPair 1, auc = 0.998, sens = 1.000, spec = 0.958, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 24:
+
+
+
+Ribosomal_S4_int_S4, seqPair 24, auc = 0.949, sens = 1.000, spec = 0.892, blAUC = 0.942, blSens = 1.000, blSpec = 0.868.
+
+
+Testing for sequence pair 51:
+
+
+
+Ribosomal_S4_int_S4, seqPair 51, auc = 0.999, sens = 1.000, spec = 0.941, blAUC = 0.987, blSens = 1.000, blSpec = 0.970.
+
+
+Testing for sequence pair 57:
+
+
+
+Ribosomal_S4_int_S4, seqPair 57, auc = 0.976, sens = 1.000, spec = 0.886, blAUC = 0.958, blSens = 1.000, blSpec = 0.939.
+
+
+Testing for sequence pair 63:
+
+
+
+Ribosomal_S4_int_S4, seqPair 63, auc = 1.000, sens = 1.000, spec = 0.944, blAUC = 0.999, blSens = 0.971, blSpec = 0.971.
+
+
+Testing for sequence pair 72:
+
+
+
+Ribosomal_S4_int_S4, seqPair 72, auc = 0.977, sens = 0.970, spec = 0.970, blAUC = 0.979, blSens = 0.970, blSpec = 0.941.
+
+
+Testing for sequence pair 80:
+
+
+
+Ribosomal_S4_int_S4, seqPair 80, auc = 0.976, sens = 1.000, spec = 0.917, blAUC = 0.979, blSens = 1.000, blSpec = 0.917.
+
+
+Testing for sequence pair 99:
+
+
+
+Ribosomal_S4_int_S4, seqPair 99, auc = 0.957, sens = 0.881, spec = 0.881, blAUC = 0.964, blSens = 0.905, blSpec = 0.927.
+
+
+Testing for sequence pair 103:
+
+
+
+Ribosomal_S4_int_S4, seqPair 103, auc = 0.975, sens = 1.000, spec = 0.917, blAUC = 0.982, blSens = 1.000, blSpec = 0.917.
+
+
+Testing for sequence pair 116:
+
+
+
+Ribosomal_S4_int_S4, seqPair 116, auc = 0.992, sens = 1.000, spec = 0.935, blAUC = 0.967, blSens = 1.000, blSpec = 0.853.
+
+
+Testing for sequence pair 123:
+
+
+
+Ribosomal_S4_int_S4, seqPair 123, auc = 0.979, sens = 1.000, spec = 0.974, blAUC = 0.989, blSens = 0.973, blSpec = 0.973.
+
+
+Testing for sequence pair 125:
+
+
+
+Ribosomal_S4_int_S4, seqPair 125, auc = 1.000, sens = 1.000, spec = 0.914, blAUC = 0.989, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 130:
+
+
+
+Ribosomal_S4_int_S4, seqPair 130, auc = 1.000, sens = 1.000, spec = 0.935, blAUC = 1.000, blSens = 1.000, blSpec = 0.935.
+
+
+
+ans =
+
+fold 6 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.812%
+Training recall: 98.575%
+Training precision: 99.045%
+Training f_measure: 98.810%
+Testing for sequence pair 5:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.981.
+
+
+Testing for sequence pair 18:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 18, auc = 0.967, sens = 0.962, spec = 0.926, blAUC = 0.967, blSens = 0.962, blSpec = 0.926.
+
+
+Testing for sequence pair 22:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 22, auc = 0.984, sens = 1.000, spec = 0.941, blAUC = 0.976, blSens = 1.000, blSpec = 0.970.
+
+
+Testing for sequence pair 23:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 23, auc = 0.976, sens = 1.000, spec = 0.889, blAUC = 0.989, blSens = 1.000, blSpec = 0.914.
+
+
+Testing for sequence pair 29:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 29, auc = 0.996, sens = 1.000, spec = 0.963, blAUC = 0.994, blSens = 1.000, blSpec = 0.945.
+
+
+Testing for sequence pair 33:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 33, auc = 0.982, sens = 0.932, spec = 0.976, blAUC = 0.977, blSens = 0.955, blSpec = 0.933.
+
+
+Testing for sequence pair 34:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 34, auc = 0.998, sens = 0.955, spec = 0.977, blAUC = 0.988, blSens = 0.955, blSpec = 0.955.
+
+
+Testing for sequence pair 44:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 44, auc = 0.989, sens = 1.000, spec = 0.960, blAUC = 0.986, blSens = 1.000, blSpec = 0.960.
+
+
+Testing for sequence pair 68:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 68, auc = 0.993, sens = 0.980, spec = 0.941, blAUC = 0.988, blSens = 0.980, blSpec = 0.923.
+
+
+Testing for sequence pair 90:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 90, auc = 0.994, sens = 0.909, spec = 0.976, blAUC = 0.997, blSens = 0.977, blSpec = 0.977.
+
+
+Testing for sequence pair 91:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 91, auc = 0.967, sens = 0.846, spec = 0.917, blAUC = 0.969, blSens = 1.000, blSpec = 0.867.
+
+
+Testing for sequence pair 115:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 115, auc = 0.968, sens = 0.938, spec = 0.978, blAUC = 0.976, blSens = 0.958, blSpec = 0.979.
+
+
+Testing for sequence pair 126:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 126, auc = 0.977, sens = 0.976, spec = 0.976, blAUC = 0.980, blSens = 1.000, blSpec = 0.953.
+
+
+
+ans =
+
+fold 6 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.281%
+Training recall: 98.837%
+Training precision: 97.701%
+Training f_measure: 98.266%
+Testing for sequence pair 12:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 12, auc = 0.986, sens = 0.955, spec = 0.913, blAUC = 0.975, blSens = 0.909, blSpec = 0.952.
+
+
+Testing for sequence pair 17:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 17, auc = 0.900, sens = 0.690, spec = 0.800, blAUC = 0.895, blSens = 0.621, blSpec = 1.000.
+
+
+Testing for sequence pair 38:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 38, auc = 0.990, sens = 1.000, spec = 0.824, blAUC = 0.954, blSens = 0.857, blSpec = 0.923.
+
+
+Testing for sequence pair 40:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 40, auc = 1.000, sens = 1.000, spec = 0.889, blAUC = 0.953, blSens = 1.000, blSpec = 0.800.
+
+
+Testing for sequence pair 45:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 45, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.979, blSens = 1.000, blSpec = 0.957.
+
+
+Testing for sequence pair 57:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 57, auc = 0.972, sens = 1.000, spec = 0.826, blAUC = 0.956, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 87:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 87, auc = 1.000, sens = 0.957, spec = 1.000, blAUC = 1.000, blSens = 0.957, blSpec = 1.000.
+
+
+Testing for sequence pair 89:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 89, auc = 0.997, sens = 1.000, spec = 0.950, blAUC = 0.972, blSens = 0.947, blSpec = 0.818.
+
+
+Testing for sequence pair 104:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 104, auc = 0.956, sens = 0.885, spec = 0.920, blAUC = 0.942, blSens = 0.808, blSpec = 0.913.
+
+
+Testing for sequence pair 108:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 108, auc = 0.994, sens = 0.955, spec = 1.000, blAUC = 0.998, blSens = 0.955, blSpec = 0.955.
+
+
+Testing for sequence pair 110:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 110, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.818, blSpec = 1.000.
+
+
+Testing for sequence pair 113:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 113, auc = 0.970, sens = 1.000, spec = 0.905, blAUC = 0.975, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 118:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 118, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.986, blSens = 0.905, blSpec = 1.000.
+
+
+
+ans =
+
+fold 7 :
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.474%
+Training recall: 98.930%
+Training precision: 100.000%
+Training f_measure: 99.462%
+Testing for sequence pair 15:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 15, auc = 0.978, sens = 0.944, spec = 0.944, blAUC = 0.991, blSens = 0.944, blSpec = 0.944.
+
+
+Testing for sequence pair 28:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 28, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.938, blSpec = 1.000.
+
+
+Testing for sequence pair 29:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 29, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 38:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 38, auc = 0.995, sens = 1.000, spec = 0.933, blAUC = 0.995, blSens = 1.000, blSpec = 0.933.
+
+
+Testing for sequence pair 50:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 50, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 62:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 62, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 64:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 64, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 69:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 69, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 74:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 74, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 84:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 84, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 94:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 94, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 97:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 97, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 100:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 100, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 122:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 122, auc = 0.992, sens = 1.000, spec = 0.941, blAUC = 0.992, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 125:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 125, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 7 :
+
+Training performance on unsupervised reduced model:
+Training accuracy: 96.016%
+Training recall: 97.531%
+Training precision: 94.674%
+Training f_measure: 96.081%
+Testing for sequence pair 5:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 5, auc = 0.935, sens = 0.808, spec = 0.955, blAUC = 0.981, blSens = 0.885, blSpec = 1.000.
+
+
+Testing for sequence pair 8:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 8, auc = 0.986, sens = 0.864, spec = 1.000, blAUC = 0.993, blSens = 0.864, blSpec = 1.000.
+
+
+Testing for sequence pair 18:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 18, auc = 0.972, sens = 0.980, spec = 0.885, blAUC = 0.959, blSens = 0.971, blSpec = 0.900.
+
+
+Testing for sequence pair 27:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 27, auc = 0.962, sens = 0.931, spec = 0.856, blAUC = 0.952, blSens = 0.922, blSpec = 0.887.
+
+
+Testing for sequence pair 33:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 33, auc = 1.000, sens = 1.000, spec = 0.889, blAUC = 0.984, blSens = 1.000, blSpec = 0.727.
+
+
+Testing for sequence pair 37:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 37, auc = 0.954, sens = 0.863, spec = 0.880, blAUC = 0.974, blSens = 0.922, blSpec = 0.940.
+
+
+Testing for sequence pair 63:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 63, auc = 0.984, sens = 0.917, spec = 0.978, blAUC = 0.982, blSens = 0.917, blSpec = 0.978.
+
+
+Testing for sequence pair 84:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 84, auc = 0.946, sens = 0.909, spec = 0.923, blAUC = 0.976, blSens = 0.924, blSpec = 0.924.
+
+
+Testing for sequence pair 95:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 95, auc = 0.981, sens = 0.990, spec = 0.914, blAUC = 0.969, blSens = 0.990, blSpec = 0.865.
+
+
+Testing for sequence pair 111:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 111, auc = 0.959, sens = 0.981, spec = 0.849, blAUC = 0.957, blSens = 0.971, blSpec = 0.862.
+
+
+Testing for sequence pair 114:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 114, auc = 0.973, sens = 0.948, spec = 0.929, blAUC = 0.971, blSens = 0.938, blSpec = 0.909.
+
+
+Testing for sequence pair 126:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 126, auc = 0.982, sens = 0.833, spec = 0.962, blAUC = 0.970, blSens = 0.800, blSpec = 0.960.
+
+
+Testing for sequence pair 129:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 129, auc = 0.969, sens = 1.000, spec = 0.877, blAUC = 0.966, blSens = 1.000, blSpec = 0.885.
+
+
+Testing for sequence pair 130:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 130, auc = 0.988, sens = 0.989, spec = 0.901, blAUC = 0.982, blSens = 0.989, blSpec = 0.919.
+
+
+
+ans =
+
+fold 6 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.988%
+Training recall: 99.184%
+Training precision: 98.780%
+Training f_measure: 98.982%
+Testing for sequence pair 24:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 24, auc = 0.913, sens = 0.900, spec = 0.837, blAUC = 0.923, blSens = 0.912, blSpec = 0.830.
+
+
+Testing for sequence pair 51:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 51, auc = 0.924, sens = 0.810, spec = 0.879, blAUC = 0.898, blSens = 0.730, blSpec = 0.852.
+
+
+Testing for sequence pair 61:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 61, auc = 0.939, sens = 0.923, spec = 0.857, blAUC = 0.964, blSens = 0.949, blSpec = 0.881.
+
+
+Testing for sequence pair 62:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 62, auc = 0.983, sens = 1.000, spec = 0.972, blAUC = 0.996, blSens = 1.000, blSpec = 0.972.
+
+
+Testing for sequence pair 67:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 67, auc = 1.000, sens = 1.000, spec = 0.946, blAUC = 1.000, blSens = 1.000, blSpec = 0.972.
+
+
+Testing for sequence pair 68:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 68, auc = 0.946, sens = 0.850, spec = 0.850, blAUC = 0.907, blSens = 0.950, blSpec = 0.809.
+
+
+Testing for sequence pair 69:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 69, auc = 0.985, sens = 0.889, spec = 0.914, blAUC = 0.986, blSens = 0.944, blSpec = 0.944.
+
+
+
+ans =
+
+fold 7 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.838%
+Training recall: 99.677%
+Training precision: 100.000%
+Training f_measure: 99.838%
+Testing for sequence pair 13:
+
+
+
+RnaseH_int_RVT_connect, seqPair 13, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 16:
+
+
+
+RnaseH_int_RVT_connect, seqPair 16, auc = 0.968, sens = 1.000, spec = 0.962, blAUC = 0.973, blSens = 1.000, blSpec = 0.962.
+
+
+Testing for sequence pair 17:
+
+
+
+RnaseH_int_RVT_connect, seqPair 17, auc = 1.000, sens = 1.000, spec = 0.962, blAUC = 1.000, blSens = 1.000, blSpec = 0.962.
+
+
+Testing for sequence pair 18:
+
+
+
+RnaseH_int_RVT_connect, seqPair 18, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 36:
+
+
+
+RnaseH_int_RVT_connect, seqPair 36, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 44:
+
+
+
+RnaseH_int_RVT_connect, seqPair 44, auc = 0.997, sens = 0.963, spec = 0.963, blAUC = 0.999, blSens = 0.963, blSpec = 1.000.
+
+
+Testing for sequence pair 52:
+
+
+
+RnaseH_int_RVT_connect, seqPair 52, auc = 0.966, sens = 1.000, spec = 0.931, blAUC = 0.975, blSens = 1.000, blSpec = 0.931.
+
+
+Testing for sequence pair 56:
+
+
+
+RnaseH_int_RVT_connect, seqPair 56, auc = 0.982, sens = 0.939, spec = 0.969, blAUC = 0.961, blSens = 0.939, blSpec = 0.939.
+
+
+Testing for sequence pair 66:
+
+
+
+RnaseH_int_RVT_connect, seqPair 66, auc = 1.000, sens = 1.000, spec = 0.968, blAUC = 1.000, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 92:
+
+
+
+RnaseH_int_RVT_connect, seqPair 92, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.964, blSpec = 1.000.
+
+
+Testing for sequence pair 94:
+
+
+
+RnaseH_int_RVT_connect, seqPair 94, auc = 1.000, sens = 1.000, spec = 0.971, blAUC = 0.999, blSens = 0.970, blSpec = 0.970.
+
+
+Testing for sequence pair 99:
+
+
+
+RnaseH_int_RVT_connect, seqPair 99, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.966, blSpec = 1.000.
+
+
+Testing for sequence pair 107:
+
+
+
+RnaseH_int_RVT_connect, seqPair 107, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 109:
+
+
+
+RnaseH_int_RVT_connect, seqPair 109, auc = 0.971, sens = 0.967, spec = 0.967, blAUC = 0.969, blSens = 0.967, blSpec = 0.967.
+
+
+Testing for sequence pair 122:
+
+
+
+RnaseH_int_RVT_connect, seqPair 122, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 162:
+
+
+
+RnaseH_int_RVT_connect, seqPair 162, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 167:
+
+
+
+RnaseH_int_RVT_connect, seqPair 167, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 7 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.576%
+Training recall: 98.734%
+Training precision: 98.423%
+Training f_measure: 98.578%
+Testing for sequence pair 5:
+
+
+
+Ribosomal_S4_int_S4, seqPair 5, auc = 0.996, sens = 0.971, spec = 0.971, blAUC = 0.999, blSens = 0.971, blSpec = 1.000.
+
+
+Testing for sequence pair 14:
+
+
+
+Ribosomal_S4_int_S4, seqPair 14, auc = 1.000, sens = 1.000, spec = 0.973, blAUC = 1.000, blSens = 1.000, blSpec = 0.973.
+
+
+Testing for sequence pair 22:
+
+
+
+Ribosomal_S4_int_S4, seqPair 22, auc = 0.984, sens = 0.909, spec = 0.968, blAUC = 0.983, blSens = 0.939, blSpec = 1.000.
+
+
+Testing for sequence pair 35:
+
+
+
+Ribosomal_S4_int_S4, seqPair 35, auc = 0.956, sens = 0.944, spec = 0.895, blAUC = 0.958, blSens = 0.972, blSpec = 0.875.
+
+
+Testing for sequence pair 45:
+
+
+
+Ribosomal_S4_int_S4, seqPair 45, auc = 0.948, sens = 1.000, spec = 0.943, blAUC = 0.972, blSens = 1.000, blSpec = 0.943.
+
+
+Testing for sequence pair 49:
+
+
+
+Ribosomal_S4_int_S4, seqPair 49, auc = 0.996, sens = 1.000, spec = 0.917, blAUC = 0.999, blSens = 1.000, blSpec = 0.943.
+
+
+Testing for sequence pair 53:
+
+
+
+Ribosomal_S4_int_S4, seqPair 53, auc = 0.993, sens = 0.909, spec = 0.968, blAUC = 0.992, blSens = 0.939, blSpec = 1.000.
+
+
+Testing for sequence pair 60:
+
+
+
+Ribosomal_S4_int_S4, seqPair 60, auc = 0.951, sens = 0.857, spec = 0.938, blAUC = 0.943, blSens = 0.857, blSpec = 0.968.
+
+
+Testing for sequence pair 98:
+
+
+
+Ribosomal_S4_int_S4, seqPair 98, auc = 0.987, sens = 0.909, spec = 0.968, blAUC = 0.987, blSens = 0.939, blSpec = 1.000.
+
+
+Testing for sequence pair 102:
+
+
+
+Ribosomal_S4_int_S4, seqPair 102, auc = 1.000, sens = 1.000, spec = 0.971, blAUC = 1.000, blSens = 1.000, blSpec = 0.971.
+
+
+Testing for sequence pair 110:
+
+
+
+Ribosomal_S4_int_S4, seqPair 110, auc = 0.995, sens = 0.938, spec = 0.968, blAUC = 0.993, blSens = 0.969, blSpec = 1.000.
+
+
+Testing for sequence pair 111:
+
+
+
+Ribosomal_S4_int_S4, seqPair 111, auc = 0.991, sens = 0.912, spec = 0.969, blAUC = 0.988, blSens = 0.971, blSpec = 0.971.
+
+
+Testing for sequence pair 113:
+
+
+
+Ribosomal_S4_int_S4, seqPair 113, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.967.
+
+
+
+ans =
+
+fold 7 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.837%
+Training recall: 98.853%
+Training precision: 98.853%
+Training f_measure: 98.853%
+Testing for sequence pair 1:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 1, auc = 0.984, sens = 1.000, spec = 0.923, blAUC = 0.987, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 6:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 6, auc = 1.000, sens = 1.000, spec = 0.963, blAUC = 1.000, blSens = 1.000, blSpec = 0.929.
+
+
+Testing for sequence pair 32:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 32, auc = 0.998, sens = 0.980, spec = 1.000, blAUC = 0.999, blSens = 0.980, blSpec = 1.000.
+
+
+Testing for sequence pair 43:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 43, auc = 0.975, sens = 0.935, spec = 0.977, blAUC = 0.983, blSens = 0.913, blSpec = 0.894.
+
+
+Testing for sequence pair 45:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 45, auc = 0.981, sens = 1.000, spec = 0.894, blAUC = 0.980, blSens = 1.000, blSpec = 0.913.
+
+
+Testing for sequence pair 56:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 56, auc = 0.984, sens = 1.000, spec = 0.941, blAUC = 0.987, blSens = 1.000, blSpec = 0.980.
+
+
+Testing for sequence pair 67:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 67, auc = 0.997, sens = 1.000, spec = 0.978, blAUC = 0.988, blSens = 1.000, blSpec = 0.978.
+
+
+Testing for sequence pair 78:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 78, auc = 0.968, sens = 0.979, spec = 0.920, blAUC = 0.970, blSens = 0.979, blSpec = 0.920.
+
+
+Testing for sequence pair 88:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 88, auc = 0.969, sens = 0.938, spec = 0.978, blAUC = 0.977, blSens = 0.938, blSpec = 0.938.
+
+
+Testing for sequence pair 94:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 94, auc = 0.959, sens = 0.977, spec = 0.913, blAUC = 0.971, blSens = 0.977, blSpec = 0.913.
+
+
+Testing for sequence pair 105:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 105, auc = 0.938, sens = 0.938, spec = 0.938, blAUC = 0.956, blSens = 0.958, blSpec = 0.902.
+
+
+Testing for sequence pair 118:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 118, auc = 0.977, sens = 0.956, spec = 0.896, blAUC = 0.966, blSens = 0.978, blSpec = 0.898.
+
+
+Testing for sequence pair 130:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 130, auc = 0.992, sens = 0.979, spec = 1.000, blAUC = 0.984, blSens = 0.979, blSpec = 0.979.
+
+
+
+ans =
+
+fold 7 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.167%
+Training recall: 96.512%
+Training precision: 97.647%
+Training f_measure: 97.076%
+Testing for sequence pair 2:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 2, auc = 0.973, sens = 0.950, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 8:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 8, auc = 0.986, sens = 0.947, spec = 0.947, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 14:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 14, auc = 0.963, sens = 0.889, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 27:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 27, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 30:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 30, auc = 1.000, sens = 1.000, spec = 0.929, blAUC = 0.994, blSens = 1.000, blSpec = 0.929.
+
+
+Testing for sequence pair 37:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 37, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 44:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 44, auc = 0.974, sens = 0.643, spec = 1.000, blAUC = 0.964, blSens = 0.643, blSpec = 0.900.
+
+
+Testing for sequence pair 51:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 51, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 70:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 70, auc = 0.972, sens = 0.947, spec = 0.900, blAUC = 0.970, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 80:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 80, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 95:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 95, auc = 0.930, sens = 0.950, spec = 0.792, blAUC = 0.963, blSens = 1.000, blSpec = 0.800.
+
+
+Testing for sequence pair 101:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 101, auc = 0.941, sens = 1.000, spec = 0.941, blAUC = 0.938, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 122:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 122, auc = 0.967, sens = 0.947, spec = 0.900, blAUC = 0.975, blSens = 1.000, blSpec = 0.864.
+
+
+
+ans =
+
+fold 8 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.464%
+Training recall: 98.913%
+Training precision: 100.000%
+Training f_measure: 99.454%
+Testing for sequence pair 8:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 8, auc = 0.969, sens = 0.944, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 36:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 36, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 40:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 40, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 47:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 47, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 52:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 52, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.929.
+
+
+Testing for sequence pair 56:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 56, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 63:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 63, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 85:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 85, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 87:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 87, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 130:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 130, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 136:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 136, auc = 1.000, sens = 1.000, spec = 0.947, blAUC = 1.000, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 137:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 137, auc = 1.000, sens = 1.000, spec = 0.900, blAUC = 1.000, blSens = 1.000, blSpec = 0.900.
+
+
+Testing for sequence pair 138:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 138, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 146:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 146, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 148:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 148, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.941.
+
+
+
+ans =
+
+fold 8 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing for sequence pair 4:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 4, auc = 0.997, sens = 0.952, spec = 1.000, blAUC = 0.995, blSens = 0.903, blSpec = 1.000.
+
+
+Testing for sequence pair 20:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 20, auc = 0.943, sens = 0.933, spec = 0.778, blAUC = 0.932, blSens = 0.967, blSpec = 0.879.
+
+
+Testing for sequence pair 22:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 22, auc = 0.999, sens = 0.968, spec = 1.000, blAUC = 0.994, blSens = 0.968, blSpec = 0.938.
+
+
+Testing for sequence pair 32:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 32, auc = 0.943, sens = 0.613, spec = 1.000, blAUC = 0.922, blSens = 0.581, blSpec = 1.000.
+
+
+Testing for sequence pair 35:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 35, auc = 0.938, sens = 0.679, spec = 0.905, blAUC = 0.927, blSens = 0.643, blSpec = 0.900.
+
+
+Testing for sequence pair 47:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 47, auc = 0.916, sens = 0.857, spec = 0.909, blAUC = 0.895, blSens = 0.743, blSpec = 0.897.
+
+
+Testing for sequence pair 57:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 57, auc = 0.971, sens = 0.969, spec = 0.875, blAUC = 0.970, blSens = 0.908, blSpec = 0.894.
+
+
+
+ans =
+
+fold 8 :
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.177%
+Training recall: 98.382%
+Training precision: 96.051%
+Training f_measure: 97.202%
+Testing for sequence pair 3:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 3, auc = 0.992, sens = 0.990, spec = 0.960, blAUC = 0.979, blSens = 0.958, blSpec = 0.920.
+
+
+Testing for sequence pair 6:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 6, auc = 0.990, sens = 0.936, spec = 0.978, blAUC = 0.980, blSens = 0.915, blSpec = 0.977.
+
+
+Testing for sequence pair 7:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 7, auc = 0.903, sens = 0.704, spec = 0.864, blAUC = 0.885, blSens = 0.741, blSpec = 0.870.
+
+
+Testing for sequence pair 14:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 14, auc = 0.966, sens = 0.961, spec = 0.883, blAUC = 0.946, blSens = 0.902, blSpec = 0.876.
+
+
+Testing for sequence pair 25:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 25, auc = 0.897, sens = 0.887, spec = 0.878, blAUC = 0.886, blSens = 0.825, blSpec = 0.879.
+
+
+Testing for sequence pair 29:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 29, auc = 0.907, sens = 0.888, spec = 0.879, blAUC = 0.892, blSens = 0.806, blSpec = 0.849.
+
+
+Testing for sequence pair 32:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 32, auc = 0.974, sens = 1.000, spec = 0.920, blAUC = 0.947, blSens = 0.946, blSpec = 0.916.
+
+
+Testing for sequence pair 70:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 70, auc = 0.955, sens = 0.952, spec = 0.900, blAUC = 0.924, blSens = 0.894, blSpec = 0.886.
+
+
+Testing for sequence pair 87:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 87, auc = 0.876, sens = 0.439, spec = 0.967, blAUC = 0.870, blSens = 0.439, blSpec = 0.935.
+
+
+Testing for sequence pair 89:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 89, auc = 0.869, sens = 0.463, spec = 0.912, blAUC = 0.870, blSens = 0.448, blSpec = 0.882.
+
+
+Testing for sequence pair 97:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 97, auc = 0.852, sens = 0.463, spec = 0.912, blAUC = 0.882, blSens = 0.463, blSpec = 0.912.
+
+
+Testing for sequence pair 103:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 103, auc = 0.962, sens = 0.990, spec = 0.872, blAUC = 0.950, blSens = 0.927, blSpec = 0.890.
+
+
+Testing for sequence pair 110:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 110, auc = 0.980, sens = 0.955, spec = 0.955, blAUC = 0.965, blSens = 0.955, blSpec = 0.914.
+
+
+Testing for sequence pair 113:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 113, auc = 0.952, sens = 0.946, spec = 0.871, blAUC = 0.927, blSens = 0.892, blSpec = 0.874.
+
+
+
+ans =
+
+fold 7 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.334%
+Training recall: 100.000%
+Training precision: 98.684%
+Training f_measure: 99.338%
+Testing for sequence pair 1:
+
+
+
+RnaseH_int_RVT_connect, seqPair 1, auc = 1.000, sens = 1.000, spec = 0.952, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 2:
+
+
+
+RnaseH_int_RVT_connect, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 20:
+
+
+
+RnaseH_int_RVT_connect, seqPair 20, auc = 1.000, sens = 0.947, spec = 1.000, blAUC = 0.997, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 33:
+
+
+
+RnaseH_int_RVT_connect, seqPair 33, auc = 1.000, sens = 1.000, spec = 0.960, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 41:
+
+
+
+RnaseH_int_RVT_connect, seqPair 41, auc = 1.000, sens = 1.000, spec = 0.903, blAUC = 0.996, blSens = 1.000, blSpec = 0.903.
+
+
+Testing for sequence pair 48:
+
+
+
+RnaseH_int_RVT_connect, seqPair 48, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 50:
+
+
+
+RnaseH_int_RVT_connect, seqPair 50, auc = 1.000, sens = 1.000, spec = 0.963, blAUC = 1.000, blSens = 1.000, blSpec = 0.963.
+
+
+Testing for sequence pair 58:
+
+
+
+RnaseH_int_RVT_connect, seqPair 58, auc = 1.000, sens = 1.000, spec = 0.931, blAUC = 1.000, blSens = 1.000, blSpec = 0.900.
+
+
+Testing for sequence pair 59:
+
+
+
+RnaseH_int_RVT_connect, seqPair 59, auc = 0.999, sens = 0.964, spec = 0.964, blAUC = 0.999, blSens = 1.000, blSpec = 0.966.
+
+
+Testing for sequence pair 76:
+
+
+
+RnaseH_int_RVT_connect, seqPair 76, auc = 1.000, sens = 1.000, spec = 0.960, blAUC = 0.995, blSens = 1.000, blSpec = 0.960.
+
+
+Testing for sequence pair 108:
+
+
+
+RnaseH_int_RVT_connect, seqPair 108, auc = 0.999, sens = 0.968, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 112:
+
+
+
+RnaseH_int_RVT_connect, seqPair 112, auc = 1.000, sens = 1.000, spec = 0.963, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 131:
+
+
+
+RnaseH_int_RVT_connect, seqPair 131, auc = 0.997, sens = 0.963, spec = 0.963, blAUC = 0.993, blSens = 1.000, blSpec = 0.931.
+
+
+Testing for sequence pair 137:
+
+
+
+RnaseH_int_RVT_connect, seqPair 137, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 140:
+
+
+
+RnaseH_int_RVT_connect, seqPair 140, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.999, blSens = 1.000, blSpec = 0.966.
+
+
+Testing for sequence pair 157:
+
+
+
+RnaseH_int_RVT_connect, seqPair 157, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 164:
+
+
+
+RnaseH_int_RVT_connect, seqPair 164, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 8 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.939%
+Training recall: 100.000%
+Training precision: 97.872%
+Training f_measure: 98.925%
+Testing for sequence pair 11:
+
+
+
+Ribosomal_S4_int_S4, seqPair 11, auc = 0.994, sens = 1.000, spec = 0.925, blAUC = 0.976, blSens = 1.000, blSpec = 0.925.
+
+
+Testing for sequence pair 36:
+
+
+
+Ribosomal_S4_int_S4, seqPair 36, auc = 0.979, sens = 0.902, spec = 0.925, blAUC = 0.980, blSens = 0.902, blSpec = 0.925.
+
+
+Testing for sequence pair 41:
+
+
+
+Ribosomal_S4_int_S4, seqPair 41, auc = 0.993, sens = 0.931, spec = 0.964, blAUC = 0.994, blSens = 0.931, blSpec = 1.000.
+
+
+Testing for sequence pair 52:
+
+
+
+Ribosomal_S4_int_S4, seqPair 52, auc = 1.000, sens = 0.969, spec = 1.000, blAUC = 0.993, blSens = 0.938, blSpec = 1.000.
+
+
+Testing for sequence pair 64:
+
+
+
+Ribosomal_S4_int_S4, seqPair 64, auc = 0.999, sens = 1.000, spec = 0.921, blAUC = 0.998, blSens = 1.000, blSpec = 0.897.
+
+
+Testing for sequence pair 69:
+
+
+
+Ribosomal_S4_int_S4, seqPair 69, auc = 0.998, sens = 1.000, spec = 0.972, blAUC = 0.985, blSens = 1.000, blSpec = 0.972.
+
+
+Testing for sequence pair 86:
+
+
+
+Ribosomal_S4_int_S4, seqPair 86, auc = 1.000, sens = 1.000, spec = 0.973, blAUC = 0.993, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 96:
+
+
+
+Ribosomal_S4_int_S4, seqPair 96, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 101:
+
+
+
+Ribosomal_S4_int_S4, seqPair 101, auc = 0.991, sens = 0.970, spec = 0.941, blAUC = 0.996, blSens = 0.970, blSpec = 0.970.
+
+
+Testing for sequence pair 108:
+
+
+
+Ribosomal_S4_int_S4, seqPair 108, auc = 0.999, sens = 1.000, spec = 0.971, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 109:
+
+
+
+Ribosomal_S4_int_S4, seqPair 109, auc = 0.977, sens = 0.941, spec = 0.941, blAUC = 0.972, blSens = 0.941, blSpec = 0.941.
+
+
+Testing for sequence pair 121:
+
+
+
+Ribosomal_S4_int_S4, seqPair 121, auc = 0.989, sens = 1.000, spec = 0.872, blAUC = 1.000, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 122:
+
+
+
+Ribosomal_S4_int_S4, seqPair 122, auc = 1.000, sens = 1.000, spec = 0.972, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 8 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 94.783%
+Training recall: 95.977%
+Training precision: 93.820%
+Training f_measure: 94.886%
+Testing for sequence pair 3:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 3, auc = 0.953, sens = 0.947, spec = 0.857, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 11:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 11, auc = 1.000, sens = 1.000, spec = 0.889, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 24:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 24, auc = 0.975, sens = 0.957, spec = 0.917, blAUC = 0.992, blSens = 1.000, blSpec = 0.920.
+
+
+Testing for sequence pair 29:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 29, auc = 0.951, sens = 1.000, spec = 0.923, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 39:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 39, auc = 0.997, sens = 0.947, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 63:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 63, auc = 0.950, sens = 0.952, spec = 0.870, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 66:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 66, auc = 0.977, sens = 0.875, spec = 0.933, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 72:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 72, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 85:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 85, auc = 1.000, sens = 1.000, spec = 0.913, blAUC = 1.000, blSens = 1.000, blSpec = 0.955.
+
+
+Testing for sequence pair 112:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 112, auc = 0.994, sens = 0.947, spec = 0.900, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 114:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 114, auc = 0.964, sens = 0.947, spec = 0.900, blAUC = 0.953, blSens = 1.000, blSpec = 0.905.
+
+
+Testing for sequence pair 117:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 117, auc = 0.985, sens = 0.929, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 9 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.897%
+Training recall: 98.783%
+Training precision: 99.024%
+Training f_measure: 98.904%
+Testing for sequence pair 16:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 16, auc = 0.994, sens = 0.957, spec = 1.000, blAUC = 0.998, blSens = 0.957, blSpec = 0.978.
+
+
+Testing for sequence pair 28:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 28, auc = 0.975, sens = 1.000, spec = 0.909, blAUC = 0.987, blSens = 1.000, blSpec = 0.926.
+
+
+Testing for sequence pair 37:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 37, auc = 1.000, sens = 1.000, spec = 0.979, blAUC = 0.999, blSens = 0.979, blSpec = 0.939.
+
+
+Testing for sequence pair 46:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 46, auc = 0.917, sens = 0.900, spec = 0.878, blAUC = 0.935, blSens = 0.850, blSpec = 0.872.
+
+
+Testing for sequence pair 59:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 59, auc = 0.975, sens = 0.953, spec = 0.953, blAUC = 0.984, blSens = 1.000, blSpec = 0.915.
+
+
+Testing for sequence pair 64:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 64, auc = 1.000, sens = 1.000, spec = 0.959, blAUC = 0.988, blSens = 0.979, blSpec = 0.958.
+
+
+Testing for sequence pair 69:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 69, auc = 0.974, sens = 1.000, spec = 0.935, blAUC = 0.986, blSens = 1.000, blSpec = 0.935.
+
+
+Testing for sequence pair 73:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 73, auc = 0.986, sens = 1.000, spec = 0.900, blAUC = 0.980, blSens = 1.000, blSpec = 0.923.
+
+
+Testing for sequence pair 82:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 82, auc = 0.980, sens = 1.000, spec = 0.959, blAUC = 0.981, blSens = 1.000, blSpec = 0.979.
+
+
+Testing for sequence pair 84:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 84, auc = 0.972, sens = 0.942, spec = 0.942, blAUC = 0.981, blSens = 0.923, blSpec = 0.960.
+
+
+Testing for sequence pair 92:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 92, auc = 0.978, sens = 1.000, spec = 0.920, blAUC = 0.985, blSens = 1.000, blSpec = 0.939.
+
+
+Testing for sequence pair 108:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 108, auc = 0.940, sens = 0.896, spec = 0.878, blAUC = 0.963, blSens = 0.917, blSpec = 0.863.
+
+
+Testing for sequence pair 112:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 112, auc = 0.961, sens = 0.958, spec = 0.939, blAUC = 0.962, blSens = 0.938, blSpec = 0.957.
+
+
+
+ans =
+
+fold 8 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 100.000%
+Training recall: 100.000%
+Training precision: 100.000%
+Training f_measure: 100.000%
+Testing for sequence pair 7:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 7, auc = 0.964, sens = 0.947, spec = 0.900, blAUC = 0.989, blSens = 0.947, blSpec = 0.900.
+
+
+Testing for sequence pair 10:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 10, auc = 0.978, sens = 0.947, spec = 1.000, blAUC = 0.986, blSens = 0.947, blSpec = 1.000.
+
+
+Testing for sequence pair 18:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 18, auc = 1.000, sens = 0.933, spec = 1.000, blAUC = 1.000, blSens = 0.933, blSpec = 1.000.
+
+
+Testing for sequence pair 20:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 20, auc = 1.000, sens = 0.941, spec = 1.000, blAUC = 1.000, blSens = 0.941, blSpec = 1.000.
+
+
+Testing for sequence pair 34:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 34, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 51:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 51, auc = 1.000, sens = 1.000, spec = 0.929, blAUC = 0.994, blSens = 1.000, blSpec = 0.929.
+
+
+Testing for sequence pair 53:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 53, auc = 1.000, sens = 1.000, spec = 0.938, blAUC = 1.000, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 54:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 54, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 59:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 59, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 88:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 88, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 89:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 89, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 114:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 114, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 144:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 144, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 153:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 153, auc = 0.952, sens = 0.941, spec = 0.941, blAUC = 0.979, blSens = 0.941, blSpec = 0.941.
+
+
+Testing for sequence pair 154:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 154, auc = 0.953, sens = 0.938, spec = 0.938, blAUC = 0.977, blSens = 0.938, blSpec = 1.000.
+
+
+
+ans =
+
+fold 9 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.640%
+Training recall: 99.639%
+Training precision: 99.639%
+Training f_measure: 99.639%
+Testing for sequence pair 11:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 11, auc = 0.984, sens = 1.000, spec = 0.854, blAUC = 0.982, blSens = 1.000, blSpec = 0.972.
+
+
+Testing for sequence pair 12:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 12, auc = 0.998, sens = 1.000, spec = 0.921, blAUC = 0.996, blSens = 1.000, blSpec = 0.946.
+
+
+Testing for sequence pair 19:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 19, auc = 0.990, sens = 0.971, spec = 0.868, blAUC = 0.946, blSens = 0.912, blSpec = 0.816.
+
+
+Testing for sequence pair 26:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 26, auc = 0.954, sens = 1.000, spec = 0.837, blAUC = 0.969, blSens = 1.000, blSpec = 0.857.
+
+
+Testing for sequence pair 42:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 42, auc = 1.000, sens = 1.000, spec = 0.900, blAUC = 0.998, blSens = 0.972, blSpec = 0.972.
+
+
+Testing for sequence pair 65:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 65, auc = 0.997, sens = 1.000, spec = 0.921, blAUC = 0.996, blSens = 1.000, blSpec = 0.946.
+
+
+Testing for sequence pair 70:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 70, auc = 0.969, sens = 0.949, spec = 0.902, blAUC = 0.974, blSens = 0.949, blSpec = 0.925.
+
+
+
+ans =
+
+fold 9 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.504%
+Training recall: 100.000%
+Training precision: 99.007%
+Training f_measure: 99.501%
+Testing for sequence pair 23:
+
+
+
+RnaseH_int_RVT_connect, seqPair 23, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 29:
+
+
+
+RnaseH_int_RVT_connect, seqPair 29, auc = 1.000, sens = 1.000, spec = 0.962, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 34:
+
+
+
+RnaseH_int_RVT_connect, seqPair 34, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 39:
+
+
+
+RnaseH_int_RVT_connect, seqPair 39, auc = 1.000, sens = 1.000, spec = 0.963, blAUC = 0.999, blSens = 1.000, blSpec = 0.963.
+
+
+Testing for sequence pair 43:
+
+
+
+RnaseH_int_RVT_connect, seqPair 43, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 51:
+
+
+
+RnaseH_int_RVT_connect, seqPair 51, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 54:
+
+
+
+RnaseH_int_RVT_connect, seqPair 54, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.963.
+
+
+Testing for sequence pair 57:
+
+
+
+RnaseH_int_RVT_connect, seqPair 57, auc = 0.999, sens = 1.000, spec = 0.968, blAUC = 0.992, blSens = 1.000, blSpec = 0.968.
+
+
+Testing for sequence pair 74:
+
+
+
+RnaseH_int_RVT_connect, seqPair 74, auc = 0.998, sens = 1.000, spec = 0.955, blAUC = 0.995, blSens = 1.000, blSpec = 0.955.
+
+
+Testing for sequence pair 77:
+
+
+
+RnaseH_int_RVT_connect, seqPair 77, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 78:
+
+
+
+RnaseH_int_RVT_connect, seqPair 78, auc = 1.000, sens = 1.000, spec = 0.966, blAUC = 1.000, blSens = 1.000, blSpec = 0.966.
+
+
+Testing for sequence pair 83:
+
+
+
+RnaseH_int_RVT_connect, seqPair 83, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 90:
+
+
+
+RnaseH_int_RVT_connect, seqPair 90, auc = 1.000, sens = 1.000, spec = 0.955, blAUC = 1.000, blSens = 1.000, blSpec = 0.955.
+
+
+Testing for sequence pair 103:
+
+
+
+RnaseH_int_RVT_connect, seqPair 103, auc = 0.974, sens = 1.000, spec = 0.971, blAUC = 0.974, blSens = 0.971, blSpec = 0.971.
+
+
+Testing for sequence pair 113:
+
+
+
+RnaseH_int_RVT_connect, seqPair 113, auc = 1.000, sens = 1.000, spec = 0.963, blAUC = 1.000, blSens = 1.000, blSpec = 0.963.
+
+
+Testing for sequence pair 119:
+
+
+
+RnaseH_int_RVT_connect, seqPair 119, auc = 1.000, sens = 1.000, spec = 0.938, blAUC = 0.999, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 165:
+
+
+
+RnaseH_int_RVT_connect, seqPair 165, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 9 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 95.615%
+Training recall: 95.876%
+Training precision: 95.385%
+Training f_measure: 95.630%
+Testing for sequence pair 23:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 23, auc = 1.000, sens = 0.977, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 24:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 24, auc = 0.925, sens = 0.850, spec = 0.895, blAUC = 0.912, blSens = 0.850, blSpec = 0.850.
+
+
+Testing for sequence pair 44:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 44, auc = 0.955, sens = 0.870, spec = 1.000, blAUC = 0.953, blSens = 0.913, blSpec = 0.955.
+
+
+Testing for sequence pair 51:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 51, auc = 1.000, sens = 0.978, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 75:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 75, auc = 0.969, sens = 1.000, spec = 0.922, blAUC = 0.971, blSens = 1.000, blSpec = 0.913.
+
+
+Testing for sequence pair 81:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 81, auc = 0.969, sens = 0.943, spec = 0.885, blAUC = 0.966, blSens = 0.915, blSpec = 0.874.
+
+
+Testing for sequence pair 86:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 86, auc = 0.928, sens = 0.897, spec = 0.859, blAUC = 0.935, blSens = 0.941, blSpec = 0.877.
+
+
+Testing for sequence pair 88:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 88, auc = 0.989, sens = 0.897, spec = 0.929, blAUC = 0.986, blSens = 0.828, blSpec = 0.960.
+
+
+Testing for sequence pair 92:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 92, auc = 0.951, sens = 0.912, spec = 0.912, blAUC = 0.961, blSens = 0.926, blSpec = 0.926.
+
+
+Testing for sequence pair 112:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 112, auc = 0.951, sens = 0.967, spec = 0.848, blAUC = 0.947, blSens = 0.978, blSpec = 0.841.
+
+
+Testing for sequence pair 123:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 123, auc = 0.828, sens = 0.412, spec = 0.800, blAUC = 0.833, blSens = 0.485, blSpec = 0.868.
+
+
+Testing for sequence pair 137:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 137, auc = 0.949, sens = 0.971, spec = 0.842, blAUC = 0.958, blSens = 0.971, blSpec = 0.856.
+
+
+Testing for sequence pair 138:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 138, auc = 0.934, sens = 0.971, spec = 0.849, blAUC = 0.929, blSens = 0.981, blSpec = 0.836.
+
+
+Testing for sequence pair 140:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 140, auc = 0.980, sens = 0.970, spec = 0.873, blAUC = 0.966, blSens = 0.960, blSpec = 0.896.
+
+
+
+ans =
+
+fold 8 :
+
+Training AE 2/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.667%
+Training recall: 98.240%
+Training precision: 99.112%
+Training f_measure: 98.675%
+Testing for sequence pair 3:
+
+
+
+Ribosomal_S4_int_S4, seqPair 3, auc = 0.994, sens = 0.943, spec = 0.943, blAUC = 0.978, blSens = 0.971, blSpec = 0.944.
+
+
+Testing for sequence pair 10:
+
+
+
+Ribosomal_S4_int_S4, seqPair 10, auc = 0.999, sens = 1.000, spec = 0.972, blAUC = 0.995, blSens = 1.000, blSpec = 0.972.
+
+
+Testing for sequence pair 17:
+
+
+
+Ribosomal_S4_int_S4, seqPair 17, auc = 0.977, sens = 1.000, spec = 0.912, blAUC = 0.960, blSens = 1.000, blSpec = 0.912.
+
+
+Testing for sequence pair 28:
+
+
+
+Ribosomal_S4_int_S4, seqPair 28, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 38:
+
+
+
+Ribosomal_S4_int_S4, seqPair 38, auc = 0.966, sens = 0.970, spec = 0.914, blAUC = 0.980, blSens = 1.000, blSpec = 0.917.
+
+
+Testing for sequence pair 42:
+
+
+
+Ribosomal_S4_int_S4, seqPair 42, auc = 0.983, sens = 0.968, spec = 0.938, blAUC = 0.975, blSens = 0.968, blSpec = 0.938.
+
+
+Testing for sequence pair 43:
+
+
+
+Ribosomal_S4_int_S4, seqPair 43, auc = 0.971, sens = 0.912, spec = 0.912, blAUC = 0.957, blSens = 0.912, blSpec = 0.912.
+
+
+Testing for sequence pair 44:
+
+
+
+Ribosomal_S4_int_S4, seqPair 44, auc = 0.998, sens = 1.000, spec = 0.968, blAUC = 0.982, blSens = 1.000, blSpec = 0.968.
+
+
+Testing for sequence pair 48:
+
+
+
+Ribosomal_S4_int_S4, seqPair 48, auc = 0.973, sens = 1.000, spec = 0.917, blAUC = 0.939, blSens = 1.000, blSpec = 0.917.
+
+
+Testing for sequence pair 55:
+
+
+
+Ribosomal_S4_int_S4, seqPair 55, auc = 0.976, sens = 0.938, spec = 0.968, blAUC = 0.965, blSens = 0.938, blSpec = 0.909.
+
+
+Testing for sequence pair 65:
+
+
+
+Ribosomal_S4_int_S4, seqPair 65, auc = 0.984, sens = 1.000, spec = 0.972, blAUC = 0.969, blSens = 1.000, blSpec = 0.946.
+
+
+Testing for sequence pair 73:
+
+
+
+Ribosomal_S4_int_S4, seqPair 73, auc = 0.994, sens = 1.000, spec = 0.957, blAUC = 0.963, blSens = 1.000, blSpec = 0.957.
+
+
+Testing for sequence pair 106:
+
+
+
+Ribosomal_S4_int_S4, seqPair 106, auc = 0.998, sens = 1.000, spec = 0.971, blAUC = 0.987, blSens = 1.000, blSpec = 0.944.
+
+
+
+ans =
+
+fold 9 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.072%
+Training recall: 98.919%
+Training precision: 97.340%
+Training f_measure: 98.123%
+Testing for sequence pair 26:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 26, auc = 0.972, sens = 0.944, spec = 0.895, blAUC = 0.988, blSens = 0.889, blSpec = 1.000.
+
+
+Testing for sequence pair 46:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 46, auc = 0.996, sens = 1.000, spec = 0.957, blAUC = 1.000, blSens = 1.000, blSpec = 0.957.
+
+
+Testing for sequence pair 55:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 55, auc = 0.950, sens = 1.000, spec = 0.952, blAUC = 0.983, blSens = 1.000, blSpec = 0.952.
+
+
+Testing for sequence pair 62:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 62, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 67:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 67, auc = 1.000, sens = 1.000, spec = 0.929, blAUC = 0.988, blSens = 1.000, blSpec = 0.929.
+
+
+Testing for sequence pair 73:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 73, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 0.996, blSens = 0.938, blSpec = 0.938.
+
+
+Testing for sequence pair 77:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 77, auc = 0.979, sens = 1.000, spec = 0.944, blAUC = 0.955, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 90:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 90, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 91:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 91, auc = 0.997, sens = 1.000, spec = 0.950, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 93:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 93, auc = 0.963, sens = 0.900, spec = 1.000, blAUC = 0.968, blSens = 0.850, blSpec = 1.000.
+
+
+Testing for sequence pair 106:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 106, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 107:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 107, auc = 0.997, sens = 0.944, spec = 0.944, blAUC = 0.997, blSens = 0.944, blSpec = 1.000.
+
+
+
+ans =
+
+fold 10 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.797%
+Training recall: 96.782%
+Training precision: 98.737%
+Training f_measure: 97.750%
+Testing for sequence pair 31:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 31, auc = 0.973, sens = 0.927, spec = 0.950, blAUC = 0.995, blSens = 0.927, blSpec = 0.974.
+
+
+Testing for sequence pair 35:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 35, auc = 0.982, sens = 0.955, spec = 0.933, blAUC = 0.986, blSens = 0.955, blSpec = 0.955.
+
+
+Testing for sequence pair 36:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 36, auc = 0.963, sens = 0.955, spec = 0.933, blAUC = 0.972, blSens = 0.955, blSpec = 0.913.
+
+
+Testing for sequence pair 38:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 38, auc = 0.985, sens = 1.000, spec = 0.923, blAUC = 0.974, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 49:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 49, auc = 0.996, sens = 0.931, spec = 0.964, blAUC = 0.998, blSens = 0.966, blSpec = 1.000.
+
+
+Testing for sequence pair 55:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 55, auc = 0.962, sens = 0.960, spec = 0.941, blAUC = 0.961, blSens = 0.980, blSpec = 0.942.
+
+
+Testing for sequence pair 60:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 60, auc = 0.980, sens = 0.977, spec = 0.935, blAUC = 0.976, blSens = 1.000, blSpec = 0.936.
+
+
+Testing for sequence pair 80:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 80, auc = 0.973, sens = 0.913, spec = 0.977, blAUC = 0.978, blSens = 0.913, blSpec = 0.977.
+
+
+Testing for sequence pair 95:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 95, auc = 0.969, sens = 0.977, spec = 0.933, blAUC = 0.978, blSens = 0.977, blSpec = 0.955.
+
+
+Testing for sequence pair 101:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 101, auc = 0.986, sens = 0.977, spec = 0.913, blAUC = 0.982, blSens = 0.977, blSpec = 0.913.
+
+
+Testing for sequence pair 104:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 104, auc = 0.986, sens = 0.959, spec = 1.000, blAUC = 0.993, blSens = 0.959, blSpec = 0.979.
+
+
+Testing for sequence pair 107:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 107, auc = 0.971, sens = 0.950, spec = 0.927, blAUC = 0.959, blSens = 0.975, blSpec = 0.929.
+
+
+Testing for sequence pair 117:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 117, auc = 0.964, sens = 0.884, spec = 0.884, blAUC = 0.966, blSens = 0.884, blSpec = 0.927.
+
+
+
+ans =
+
+fold 9 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.730%
+Training recall: 99.432%
+Training precision: 100.000%
+Training f_measure: 99.715%
+Testing for sequence pair 1:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 1, auc = 0.981, sens = 0.947, spec = 1.000, blAUC = 1.000, blSens = 0.947, blSpec = 1.000.
+
+
+Testing for sequence pair 4:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 4, auc = 0.979, sens = 0.941, spec = 1.000, blAUC = 0.993, blSens = 0.941, blSpec = 1.000.
+
+
+Testing for sequence pair 5:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 5, auc = 0.978, sens = 0.947, spec = 0.900, blAUC = 0.989, blSens = 0.947, blSpec = 0.900.
+
+
+Testing for sequence pair 37:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 37, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 46:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 46, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 0.996, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 48:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 48, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 61:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 61, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 75:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 75, auc = 1.000, sens = 1.000, spec = 0.944, blAUC = 0.997, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 90:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 90, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 103:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 103, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 109:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 109, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 110:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 110, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 131:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 131, auc = 1.000, sens = 1.000, spec = 0.950, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 147:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 147, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.938.
+
+
+Testing for sequence pair 152:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 152, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+ans =
+
+fold 10 :
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.784%
+Training recall: 100.000%
+Training precision: 99.578%
+Training f_measure: 99.789%
+Testing for sequence pair 16:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 16, auc = 0.976, sens = 1.000, spec = 0.941, blAUC = 0.973, blSens = 0.969, blSpec = 0.886.
+
+
+Testing for sequence pair 36:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 36, auc = 0.879, sens = 0.654, spec = 0.911, blAUC = 0.881, blSens = 0.654, blSpec = 0.879.
+
+
+Testing for sequence pair 37:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 37, auc = 0.973, sens = 0.964, spec = 0.871, blAUC = 0.968, blSens = 0.964, blSpec = 0.844.
+
+
+Testing for sequence pair 41:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 41, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 46:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 46, auc = 0.908, sens = 0.813, spec = 0.847, blAUC = 0.917, blSens = 0.787, blSpec = 0.797.
+
+
+Testing for sequence pair 56:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 56, auc = 0.936, sens = 0.974, spec = 0.844, blAUC = 0.914, blSens = 0.949, blSpec = 0.860.
+
+
+Testing for sequence pair 58:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 58, auc = 0.976, sens = 0.985, spec = 0.825, blAUC = 0.985, blSens = 0.955, blSpec = 0.901.
+
+
+
+ans =
+
+fold 10 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.840%
+Training recall: 100.000%
+Training precision: 99.683%
+Training f_measure: 99.841%
+Testing for sequence pair 7:
+
+
+
+RnaseH_int_RVT_connect, seqPair 7, auc = 0.990, sens = 0.923, spec = 0.960, blAUC = 0.975, blSens = 0.923, blSpec = 0.960.
+
+
+Testing for sequence pair 10:
+
+
+
+RnaseH_int_RVT_connect, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 22:
+
+
+
+RnaseH_int_RVT_connect, seqPair 22, auc = 0.998, sens = 1.000, spec = 0.957, blAUC = 0.998, blSens = 0.955, blSpec = 0.955.
+
+
+Testing for sequence pair 26:
+
+
+
+RnaseH_int_RVT_connect, seqPair 26, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.846.
+
+
+Testing for sequence pair 30:
+
+
+
+RnaseH_int_RVT_connect, seqPair 30, auc = 0.989, sens = 1.000, spec = 0.964, blAUC = 0.984, blSens = 0.963, blSpec = 0.963.
+
+
+Testing for sequence pair 31:
+
+
+
+RnaseH_int_RVT_connect, seqPair 31, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 38:
+
+
+
+RnaseH_int_RVT_connect, seqPair 38, auc = 1.000, sens = 1.000, spec = 0.966, blAUC = 1.000, blSens = 1.000, blSpec = 0.933.
+
+
+Testing for sequence pair 67:
+
+
+
+RnaseH_int_RVT_connect, seqPair 67, auc = 0.972, sens = 1.000, spec = 0.966, blAUC = 0.968, blSens = 1.000, blSpec = 0.966.
+
+
+Testing for sequence pair 69:
+
+
+
+RnaseH_int_RVT_connect, seqPair 69, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.957, blSpec = 1.000.
+
+
+Testing for sequence pair 73:
+
+
+
+RnaseH_int_RVT_connect, seqPair 73, auc = 1.000, sens = 0.950, spec = 1.000, blAUC = 1.000, blSens = 0.950, blSpec = 1.000.
+
+
+Testing for sequence pair 88:
+
+
+
+RnaseH_int_RVT_connect, seqPair 88, auc = 0.997, sens = 0.941, spec = 1.000, blAUC = 1.000, blSens = 0.941, blSpec = 1.000.
+
+
+Testing for sequence pair 93:
+
+
+
+RnaseH_int_RVT_connect, seqPair 93, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 121:
+
+
+
+RnaseH_int_RVT_connect, seqPair 121, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 127:
+
+
+
+RnaseH_int_RVT_connect, seqPair 127, auc = 1.000, sens = 1.000, spec = 0.967, blAUC = 1.000, blSens = 1.000, blSpec = 0.935.
+
+
+Testing for sequence pair 147:
+
+
+
+RnaseH_int_RVT_connect, seqPair 147, auc = 1.000, sens = 1.000, spec = 0.966, blAUC = 1.000, blSens = 1.000, blSpec = 0.966.
+
+
+Testing for sequence pair 158:
+
+
+
+RnaseH_int_RVT_connect, seqPair 158, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.998, blSens = 0.966, blSpec = 0.933.
+
+
+
+ans =
+
+fold 10 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.227%
+Training recall: 98.649%
+Training precision: 97.893%
+Training f_measure: 98.269%
+Testing for sequence pair 4:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 4, auc = 0.952, sens = 0.960, spec = 0.890, blAUC = 0.968, blSens = 0.980, blSpec = 0.892.
+
+
+Testing for sequence pair 10:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 10, auc = 0.968, sens = 0.949, spec = 0.869, blAUC = 0.984, blSens = 0.980, blSpec = 0.914.
+
+
+Testing for sequence pair 11:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 11, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 13:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 13, auc = 0.997, sens = 1.000, spec = 0.944, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 28:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 28, auc = 0.905, sens = 0.853, spec = 0.897, blAUC = 0.918, blSens = 0.863, blSpec = 0.907.
+
+
+Testing for sequence pair 45:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 45, auc = 0.970, sens = 1.000, spec = 0.922, blAUC = 0.971, blSens = 1.000, blSpec = 0.904.
+
+
+Testing for sequence pair 46:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 46, auc = 0.950, sens = 0.920, spec = 0.958, blAUC = 0.997, blSens = 1.000, blSpec = 0.926.
+
+
+Testing for sequence pair 47:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 47, auc = 0.997, sens = 1.000, spec = 0.935, blAUC = 0.994, blSens = 0.977, blSpec = 1.000.
+
+
+Testing for sequence pair 50:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 50, auc = 0.946, sens = 0.909, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 58:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 58, auc = 0.959, sens = 0.952, spec = 0.952, blAUC = 0.980, blSens = 1.000, blSpec = 0.955.
+
+
+Testing for sequence pair 79:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 79, auc = 0.947, sens = 0.958, spec = 0.868, blAUC = 0.973, blSens = 0.969, blSpec = 0.877.
+
+
+Testing for sequence pair 94:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 94, auc = 0.983, sens = 0.989, spec = 0.911, blAUC = 0.991, blSens = 0.978, blSpec = 0.948.
+
+
+Testing for sequence pair 104:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 104, auc = 0.915, sens = 0.868, spec = 0.878, blAUC = 0.922, blSens = 0.857, blSpec = 0.918.
+
+
+Testing for sequence pair 115:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 115, auc = 0.943, sens = 0.969, spec = 0.877, blAUC = 0.971, blSens = 0.979, blSpec = 0.895.
+
+
+
+ans =
+
+fold 9 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.382%
+Training recall: 100.000%
+Training precision: 98.817%
+Training f_measure: 99.405%
+Testing for sequence pair 2:
+
+
+
+Ribosomal_S4_int_S4, seqPair 2, auc = 0.993, sens = 0.958, spec = 1.000, blAUC = 0.988, blSens = 0.917, blSpec = 1.000.
+
+
+Testing for sequence pair 8:
+
+
+
+Ribosomal_S4_int_S4, seqPair 8, auc = 0.982, sens = 1.000, spec = 0.974, blAUC = 0.996, blSens = 1.000, blSpec = 0.949.
+
+
+Testing for sequence pair 12:
+
+
+
+Ribosomal_S4_int_S4, seqPair 12, auc = 0.986, sens = 1.000, spec = 0.892, blAUC = 0.983, blSens = 1.000, blSpec = 0.917.
+
+
+Testing for sequence pair 19:
+
+
+
+Ribosomal_S4_int_S4, seqPair 19, auc = 0.996, sens = 1.000, spec = 0.944, blAUC = 1.000, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 21:
+
+
+
+Ribosomal_S4_int_S4, seqPair 21, auc = 0.968, sens = 0.970, spec = 0.941, blAUC = 0.988, blSens = 0.970, blSpec = 0.970.
+
+
+Testing for sequence pair 25:
+
+
+
+Ribosomal_S4_int_S4, seqPair 25, auc = 0.991, sens = 0.970, spec = 0.941, blAUC = 0.996, blSens = 0.970, blSpec = 0.941.
+
+
+Testing for sequence pair 78:
+
+
+
+Ribosomal_S4_int_S4, seqPair 78, auc = 1.000, sens = 1.000, spec = 0.970, blAUC = 1.000, blSens = 1.000, blSpec = 0.970.
+
+
+Testing for sequence pair 83:
+
+
+
+Ribosomal_S4_int_S4, seqPair 83, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 0.972.
+
+
+Testing for sequence pair 89:
+
+
+
+Ribosomal_S4_int_S4, seqPair 89, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 90:
+
+
+
+Ribosomal_S4_int_S4, seqPair 90, auc = 0.938, sens = 1.000, spec = 0.892, blAUC = 0.964, blSens = 1.000, blSpec = 0.917.
+
+
+Testing for sequence pair 91:
+
+
+
+Ribosomal_S4_int_S4, seqPair 91, auc = 0.945, sens = 1.000, spec = 0.919, blAUC = 0.962, blSens = 1.000, blSpec = 0.919.
+
+
+Testing for sequence pair 97:
+
+
+
+Ribosomal_S4_int_S4, seqPair 97, auc = 0.997, sens = 1.000, spec = 0.917, blAUC = 0.990, blSens = 1.000, blSpec = 0.943.
+
+
+Testing for sequence pair 124:
+
+
+
+Ribosomal_S4_int_S4, seqPair 124, auc = 0.994, sens = 1.000, spec = 0.974, blAUC = 0.985, blSens = 0.974, blSpec = 0.949.
+
+
+
+ans =
+
+fold 10 :
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.892%
+Training recall: 97.006%
+Training precision: 98.780%
+Training f_measure: 97.885%
+Testing for sequence pair 1:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 1, auc = 0.973, sens = 0.952, spec = 0.909, blAUC = 0.989, blSens = 1.000, blSpec = 0.913.
+
+
+Testing for sequence pair 15:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 15, auc = 0.947, sens = 0.933, spec = 0.737, blAUC = 0.982, blSens = 1.000, blSpec = 0.833.
+
+
+Testing for sequence pair 16:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 16, auc = 0.947, sens = 0.596, spec = 1.000, blAUC = 0.975, blSens = 0.553, blSpec = 1.000.
+
+
+Testing for sequence pair 41:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 41, auc = 0.936, sens = 0.571, spec = 1.000, blAUC = 0.935, blSens = 0.536, blSpec = 1.000.
+
+
+Testing for sequence pair 64:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 64, auc = 0.979, sens = 0.955, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 69:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 69, auc = 0.969, sens = 0.944, spec = 0.850, blAUC = 0.991, blSens = 1.000, blSpec = 0.857.
+
+
+Testing for sequence pair 76:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 76, auc = 0.966, sens = 0.905, spec = 0.950, blAUC = 0.995, blSens = 0.952, blSpec = 0.952.
+
+
+Testing for sequence pair 78:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 78, auc = 1.000, sens = 1.000, spec = 0.895, blAUC = 0.983, blSens = 1.000, blSpec = 0.895.
+
+
+Testing for sequence pair 97:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 97, auc = 0.970, sens = 0.846, spec = 0.846, blAUC = 0.959, blSens = 0.769, blSpec = 0.833.
+
+
+Testing for sequence pair 100:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 100, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 120:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 120, auc = 0.965, sens = 0.938, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 126:
+
+
+
+Ribosomal_S5_C_int_Ribosomal_S8, seqPair 126, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.984, blSens = 1.000, blSpec = 0.941.
+
+
+
+
+
+2014-5-8 14:56 SUCCESS: Ribosomal_S5_C_int_Ribosomal_S8.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 98.418%
+Training recall: 99.091%
+Training precision: 97.758%
+Training f_measure: 98.420%
+Testing for sequence pair 11:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 11, auc = 0.945, sens = 0.981, spec = 0.927, blAUC = 0.931, blSens = 0.981, blSpec = 0.911.
+
+
+Testing for sequence pair 12:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 12, auc = 0.978, sens = 1.000, spec = 0.943, blAUC = 0.986, blSens = 1.000, blSpec = 0.926.
+
+
+Testing for sequence pair 15:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 15, auc = 0.989, sens = 1.000, spec = 0.965, blAUC = 0.986, blSens = 1.000, blSpec = 0.948.
+
+
+Testing for sequence pair 40:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 40, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.998, blSens = 1.000, blSpec = 0.946.
+
+
+Testing for sequence pair 41:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 41, auc = 0.955, sens = 0.956, spec = 0.915, blAUC = 0.944, blSens = 1.000, blSpec = 0.900.
+
+
+Testing for sequence pair 50:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 50, auc = 0.994, sens = 0.981, spec = 1.000, blAUC = 0.996, blSens = 0.981, blSpec = 0.981.
+
+
+Testing for sequence pair 58:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 58, auc = 0.993, sens = 1.000, spec = 0.953, blAUC = 0.992, blSens = 0.976, blSpec = 0.930.
+
+
+Testing for sequence pair 65:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 65, auc = 0.970, sens = 1.000, spec = 0.960, blAUC = 0.967, blSens = 1.000, blSpec = 0.923.
+
+
+Testing for sequence pair 71:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 71, auc = 0.967, sens = 0.935, spec = 0.915, blAUC = 0.969, blSens = 0.978, blSpec = 0.938.
+
+
+Testing for sequence pair 77:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 77, auc = 0.994, sens = 0.958, spec = 0.958, blAUC = 0.984, blSens = 0.979, blSpec = 0.959.
+
+
+Testing for sequence pair 79:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 79, auc = 0.963, sens = 0.979, spec = 0.902, blAUC = 0.947, blSens = 1.000, blSpec = 0.887.
+
+
+Testing for sequence pair 99:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 99, auc = 0.969, sens = 0.950, spec = 0.905, blAUC = 0.950, blSens = 0.950, blSpec = 0.927.
+
+
+Testing for sequence pair 131:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 131, auc = 0.990, sens = 0.978, spec = 0.957, blAUC = 0.981, blSens = 0.978, blSpec = 0.918.
+
+
+
+ans =
+
+fold 10 :
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.474%
+Training recall: 98.930%
+Training precision: 100.000%
+Training f_measure: 99.462%
+Testing for sequence pair 6:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 6, auc = 0.985, sens = 0.950, spec = 1.000, blAUC = 0.998, blSens = 0.950, blSpec = 0.950.
+
+
+Testing for sequence pair 12:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 12, auc = 0.945, sens = 0.950, spec = 0.950, blAUC = 0.993, blSens = 0.950, blSpec = 0.950.
+
+
+Testing for sequence pair 16:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 16, auc = 0.983, sens = 0.947, spec = 1.000, blAUC = 1.000, blSens = 0.947, blSpec = 1.000.
+
+
+Testing for sequence pair 17:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 17, auc = 1.000, sens = 0.933, spec = 1.000, blAUC = 1.000, blSens = 0.867, blSpec = 1.000.
+
+
+Testing for sequence pair 19:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 19, auc = 1.000, sens = 0.929, spec = 1.000, blAUC = 1.000, blSens = 0.857, blSpec = 1.000.
+
+
+Testing for sequence pair 26:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 26, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 32:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 32, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.938, blSpec = 1.000.
+
+
+Testing for sequence pair 43:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 43, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 67:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 67, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 81:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 81, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 82:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 82, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 104:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 104, auc = 1.000, sens = 1.000, spec = 0.950, blAUC = 1.000, blSens = 1.000, blSpec = 0.950.
+
+
+Testing for sequence pair 108:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 108, auc = 0.986, sens = 1.000, spec = 0.944, blAUC = 0.997, blSens = 1.000, blSpec = 0.944.
+
+
+Testing for sequence pair 132:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 132, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 135:
+
+
+
+RuBisCO_large_N_int_RuBisCO_small, seqPair 135, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+
+
+2014-5-8 15:3 SUCCESS: RuBisCO_large_N_int_RuBisCO_small.
+
+
+Training AE 1/2
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.187%
+Training recall: 98.718%
+Training precision: 99.676%
+Training f_measure: 99.195%
+Testing for sequence pair 2:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 2, auc = 0.997, sens = 1.000, spec = 0.917, blAUC = 0.988, blSens = 0.970, blSpec = 0.970.
+
+
+Testing for sequence pair 3:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 3, auc = 0.866, sens = 0.587, spec = 0.804, blAUC = 0.808, blSens = 0.444, blSpec = 0.757.
+
+
+Testing for sequence pair 6:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 6, auc = 0.867, sens = 0.587, spec = 0.841, blAUC = 0.819, blSens = 0.444, blSpec = 0.875.
+
+
+Testing for sequence pair 10:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 10, auc = 0.988, sens = 1.000, spec = 0.878, blAUC = 0.988, blSens = 0.972, blSpec = 0.921.
+
+
+Testing for sequence pair 21:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 21, auc = 0.933, sens = 0.923, spec = 0.847, blAUC = 0.941, blSens = 0.910, blSpec = 0.887.
+
+
+Testing for sequence pair 33:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 33, auc = 0.958, sens = 0.840, spec = 0.907, blAUC = 0.968, blSens = 0.901, blSpec = 0.924.
+
+
+Testing for sequence pair 71:
+
+
+
+Rieske_int_Ring_hydroxyl_A, seqPair 71, auc = 0.951, sens = 0.895, spec = 0.872, blAUC = 0.926, blSens = 0.711, blSpec = 0.900.
+
+
+
+
+
+2014-5-8 15:8 SUCCESS: Rieske_int_Ring_hydroxyl_A.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 99.838%
+Training recall: 99.677%
+Training precision: 100.000%
+Training f_measure: 99.838%
+Testing for sequence pair 3:
+
+
+
+RnaseH_int_RVT_connect, seqPair 3, auc = 0.979, sens = 1.000, spec = 0.935, blAUC = 0.996, blSens = 0.966, blSpec = 0.966.
+
+
+Testing for sequence pair 19:
+
+
+
+RnaseH_int_RVT_connect, seqPair 19, auc = 0.996, sens = 0.955, spec = 1.000, blAUC = 1.000, blSens = 0.955, blSpec = 1.000.
+
+
+Testing for sequence pair 62:
+
+
+
+RnaseH_int_RVT_connect, seqPair 62, auc = 0.996, sens = 0.971, spec = 0.971, blAUC = 0.993, blSens = 0.971, blSpec = 0.971.
+
+
+Testing for sequence pair 65:
+
+
+
+RnaseH_int_RVT_connect, seqPair 65, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.998, blSens = 0.960, blSpec = 1.000.
+
+
+Testing for sequence pair 82:
+
+
+
+RnaseH_int_RVT_connect, seqPair 82, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 86:
+
+
+
+RnaseH_int_RVT_connect, seqPair 86, auc = 0.988, sens = 1.000, spec = 0.935, blAUC = 0.986, blSens = 0.966, blSpec = 0.875.
+
+
+Testing for sequence pair 87:
+
+
+
+RnaseH_int_RVT_connect, seqPair 87, auc = 0.993, sens = 0.950, spec = 0.950, blAUC = 0.978, blSens = 0.950, blSpec = 0.950.
+
+
+Testing for sequence pair 95:
+
+
+
+RnaseH_int_RVT_connect, seqPair 95, auc = 0.997, sens = 1.000, spec = 0.947, blAUC = 1.000, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 97:
+
+
+
+RnaseH_int_RVT_connect, seqPair 97, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 111:
+
+
+
+RnaseH_int_RVT_connect, seqPair 111, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 126:
+
+
+
+RnaseH_int_RVT_connect, seqPair 126, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 128:
+
+
+
+RnaseH_int_RVT_connect, seqPair 128, auc = 0.998, sens = 0.968, spec = 1.000, blAUC = 0.999, blSens = 0.968, blSpec = 1.000.
+
+
+Testing for sequence pair 135:
+
+
+
+RnaseH_int_RVT_connect, seqPair 135, auc = 0.997, sens = 0.960, spec = 1.000, blAUC = 0.995, blSens = 0.960, blSpec = 1.000.
+
+
+Testing for sequence pair 138:
+
+
+
+RnaseH_int_RVT_connect, seqPair 138, auc = 0.996, sens = 0.963, spec = 1.000, blAUC = 0.996, blSens = 0.963, blSpec = 1.000.
+
+
+Testing for sequence pair 143:
+
+
+
+RnaseH_int_RVT_connect, seqPair 143, auc = 0.992, sens = 0.966, spec = 0.903, blAUC = 0.992, blSens = 0.966, blSpec = 0.933.
+
+
+Testing for sequence pair 159:
+
+
+
+RnaseH_int_RVT_connect, seqPair 159, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+
+
+
+2014-5-8 15:15 SUCCESS: RnaseH_int_RVT_connect.
+
+
+Training AE 1/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.965%
+Training recall: 98.820%
+Training precision: 97.101%
+Training f_measure: 97.953%
+Testing for sequence pair 15:
+
+
+
+Ribosomal_S4_int_S4, seqPair 15, auc = 1.000, sens = 1.000, spec = 0.925, blAUC = 1.000, blSens = 1.000, blSpec = 0.974.
+
+
+Testing for sequence pair 26:
+
+
+
+Ribosomal_S4_int_S4, seqPair 26, auc = 0.951, sens = 0.935, spec = 0.879, blAUC = 0.928, blSens = 0.935, blSpec = 0.879.
+
+
+Testing for sequence pair 32:
+
+
+
+Ribosomal_S4_int_S4, seqPair 32, auc = 0.976, sens = 1.000, spec = 0.879, blAUC = 0.970, blSens = 1.000, blSpec = 0.935.
+
+
+Testing for sequence pair 34:
+
+
+
+Ribosomal_S4_int_S4, seqPair 34, auc = 0.988, sens = 0.906, spec = 0.935, blAUC = 0.984, blSens = 0.906, blSpec = 0.967.
+
+
+Testing for sequence pair 46:
+
+
+
+Ribosomal_S4_int_S4, seqPair 46, auc = 0.996, sens = 0.941, spec = 0.941, blAUC = 0.991, blSens = 0.971, blSpec = 0.971.
+
+
+Testing for sequence pair 67:
+
+
+
+Ribosomal_S4_int_S4, seqPair 67, auc = 0.977, sens = 1.000, spec = 0.900, blAUC = 0.974, blSens = 1.000, blSpec = 0.923.
+
+
+Testing for sequence pair 81:
+
+
+
+Ribosomal_S4_int_S4, seqPair 81, auc = 1.000, sens = 1.000, spec = 0.970, blAUC = 1.000, blSens = 1.000, blSpec = 1.000.
+
+
+Testing for sequence pair 88:
+
+
+
+Ribosomal_S4_int_S4, seqPair 88, auc = 0.990, sens = 1.000, spec = 0.914, blAUC = 0.986, blSens = 1.000, blSpec = 0.970.
+
+
+Testing for sequence pair 95:
+
+
+
+Ribosomal_S4_int_S4, seqPair 95, auc = 0.995, sens = 1.000, spec = 0.923, blAUC = 0.987, blSens = 1.000, blSpec = 0.947.
+
+
+Testing for sequence pair 112:
+
+
+
+Ribosomal_S4_int_S4, seqPair 112, auc = 0.996, sens = 1.000, spec = 0.914, blAUC = 0.982, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 119:
+
+
+
+Ribosomal_S4_int_S4, seqPair 119, auc = 0.971, sens = 1.000, spec = 0.919, blAUC = 0.966, blSens = 1.000, blSpec = 0.872.
+
+
+Testing for sequence pair 128:
+
+
+
+Ribosomal_S4_int_S4, seqPair 128, auc = 0.974, sens = 1.000, spec = 0.884, blAUC = 0.992, blSens = 1.000, blSpec = 0.927.
+
+
+Testing for sequence pair 133:
+
+
+
+Ribosomal_S4_int_S4, seqPair 133, auc = 0.942, sens = 1.000, spec = 0.892, blAUC = 0.969, blSens = 1.000, blSpec = 0.917.
+
+
+
+
+
+2014-5-8 15:19 SUCCESS: Ribosomal_S4_int_S4.
+
+
+Training performance on unsupervised reduced model:
+Training accuracy: 98.029%
+Training recall: 98.577%
+Training precision: 97.586%
+Training f_measure: 98.079%
+Testing for sequence pair 15:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 15, auc = 1.000, sens = 1.000, spec = 0.727, blAUC = 1.000, blSens = 1.000, blSpec = 0.889.
+
+
+Testing for sequence pair 30:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 30, auc = 0.961, sens = 0.989, spec = 0.879, blAUC = 0.952, blSens = 0.979, blSpec = 0.894.
+
+
+Testing for sequence pair 38:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 38, auc = 0.940, sens = 0.870, spec = 0.833, blAUC = 0.941, blSens = 0.913, blSpec = 0.913.
+
+
+Testing for sequence pair 49:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 49, auc = 0.937, sens = 0.960, spec = 0.889, blAUC = 0.975, blSens = 0.900, blSpec = 0.918.
+
+
+Testing for sequence pair 54:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 54, auc = 0.970, sens = 0.913, spec = 0.875, blAUC = 0.981, blSens = 0.957, blSpec = 0.917.
+
+
+Testing for sequence pair 64:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 64, auc = 0.983, sens = 0.895, spec = 1.000, blAUC = 0.994, blSens = 0.947, blSpec = 1.000.
+
+
+Testing for sequence pair 78:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 78, auc = 0.957, sens = 0.951, spec = 0.890, blAUC = 0.964, blSens = 0.961, blSpec = 0.942.
+
+
+Testing for sequence pair 96:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 96, auc = 0.990, sens = 0.968, spec = 0.929, blAUC = 0.989, blSens = 0.958, blSpec = 0.910.
+
+
+Testing for sequence pair 109:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 109, auc = 0.963, sens = 0.871, spec = 0.897, blAUC = 0.972, blSens = 0.871, blSpec = 0.953.
+
+
+Testing for sequence pair 116:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 116, auc = 0.948, sens = 0.989, spec = 0.864, blAUC = 0.950, blSens = 0.978, blSpec = 0.889.
+
+
+Testing for sequence pair 127:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 127, auc = 0.992, sens = 0.990, spec = 0.936, blAUC = 0.983, blSens = 0.981, blSpec = 0.918.
+
+
+Testing for sequence pair 133:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 133, auc = 0.953, sens = 1.000, spec = 0.901, blAUC = 0.967, blSens = 0.990, blSpec = 0.892.
+
+
+Testing for sequence pair 135:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 135, auc = 0.996, sens = 0.990, spec = 0.916, blAUC = 0.987, blSens = 0.980, blSpec = 0.924.
+
+
+Testing for sequence pair 136:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 136, auc = 0.852, sens = 0.447, spec = 0.913, blAUC = 0.851, blSens = 0.404, blSpec = 0.826.
+
+
+
+ans =
+
+fold 10 :
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 97.281%
+Training recall: 97.442%
+Training precision: 97.216%
+Training f_measure: 97.329%
+Testing for sequence pair 3:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 3, auc = 0.996, sens = 1.000, spec = 0.923, blAUC = 0.995, blSens = 0.979, blSpec = 0.959.
+
+
+Testing for sequence pair 19:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 19, auc = 0.965, sens = 0.812, spec = 1.000, blAUC = 0.977, blSens = 0.812, blSpec = 1.000.
+
+
+Testing for sequence pair 20:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 20, auc = 0.918, sens = 1.000, spec = 0.842, blAUC = 0.949, blSens = 1.000, blSpec = 0.842.
+
+
+Testing for sequence pair 25:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 25, auc = 0.988, sens = 0.959, spec = 0.940, blAUC = 0.994, blSens = 0.980, blSpec = 0.923.
+
+
+Testing for sequence pair 74:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 74, auc = 0.980, sens = 1.000, spec = 0.923, blAUC = 0.984, blSens = 1.000, blSpec = 0.941.
+
+
+Testing for sequence pair 83:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 83, auc = 1.000, sens = 1.000, spec = 0.939, blAUC = 0.992, blSens = 0.978, blSpec = 0.900.
+
+
+Testing for sequence pair 86:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 86, auc = 0.981, sens = 0.886, spec = 0.951, blAUC = 0.983, blSens = 0.909, blSpec = 0.930.
+
+
+Testing for sequence pair 97:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 97, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.994, blSens = 1.000, blSpec = 0.977.
+
+
+Testing for sequence pair 111:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 111, auc = 0.974, sens = 0.875, spec = 0.977, blAUC = 0.982, blSens = 0.896, blSpec = 0.956.
+
+
+Testing for sequence pair 113:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 113, auc = 0.991, sens = 0.961, spec = 0.980, blAUC = 0.993, blSens = 0.961, blSpec = 1.000.
+
+
+Testing for sequence pair 116:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 116, auc = 0.899, sens = 0.549, spec = 0.903, blAUC = 0.918, blSens = 0.608, blSpec = 0.861.
+
+
+Testing for sequence pair 119:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 119, auc = 0.973, sens = 0.978, spec = 0.978, blAUC = 0.973, blSens = 0.978, blSpec = 0.957.
+
+
+Testing for sequence pair 128:
+
+
+
+Ribosomal_S5_int_Ribosomal_S5_C, seqPair 128, auc = 0.962, sens = 0.920, spec = 0.979, blAUC = 0.942, blSens = 0.920, blSpec = 0.979.
+
+
+
+
+
+2014-5-8 15:29 SUCCESS: Ribosomal_S5_int_Ribosomal_S5_C.
+
+
+Training AE 1/2
+Training AE 2/2
+Training performance on unsupervised reduced model:
+Training accuracy: 95.512%
+Training recall: 95.758%
+Training precision: 95.181%
+Training f_measure: 95.468%
+Testing for sequence pair 9:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 9, auc = 0.973, sens = 0.867, spec = 0.929, blAUC = 0.898, blSens = 0.800, blSpec = 0.857.
+
+
+Testing for sequence pair 21:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 21, auc = 0.991, sens = 0.960, spec = 0.980, blAUC = 0.998, blSens = 0.980, blSpec = 0.980.
+
+
+Testing for sequence pair 36:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 36, auc = 0.916, sens = 0.778, spec = 0.955, blAUC = 0.905, blSens = 0.704, blSpec = 0.950.
+
+
+Testing for sequence pair 71:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 71, auc = 0.966, sens = 0.978, spec = 0.874, blAUC = 0.951, blSens = 0.957, blSpec = 0.846.
+
+
+Testing for sequence pair 83:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 83, auc = 0.932, sens = 0.887, spec = 0.926, blAUC = 0.935, blSens = 0.887, blSpec = 0.887.
+
+
+Testing for sequence pair 90:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 90, auc = 0.970, sens = 0.778, spec = 1.000, blAUC = 0.970, blSens = 0.667, blSpec = 1.000.
+
+
+Testing for sequence pair 91:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 91, auc = 0.958, sens = 0.894, spec = 0.983, blAUC = 0.976, blSens = 0.909, blSpec = 0.968.
+
+
+Testing for sequence pair 100:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 100, auc = 0.981, sens = 0.857, spec = 0.960, blAUC = 0.990, blSens = 0.786, blSpec = 1.000.
+
+
+Testing for sequence pair 102:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 102, auc = 0.980, sens = 0.821, spec = 1.000, blAUC = 0.974, blSens = 0.714, blSpec = 1.000.
+
+
+Testing for sequence pair 105:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 105, auc = 0.968, sens = 0.911, spec = 0.932, blAUC = 0.996, blSens = 0.956, blSpec = 1.000.
+
+
+Testing for sequence pair 106:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 106, auc = 0.968, sens = 0.700, spec = 0.933, blAUC = 0.963, blSens = 0.700, blSpec = 0.933.
+
+
+Testing for sequence pair 107:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 107, auc = 0.986, sens = 0.929, spec = 0.951, blAUC = 0.999, blSens = 0.976, blSpec = 1.000.
+
+
+Testing for sequence pair 118:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 118, auc = 0.978, sens = 0.980, spec = 0.883, blAUC = 0.971, blSens = 0.960, blSpec = 0.857.
+
+
+Testing for sequence pair 119:
+
+
+
+RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7, seqPair 119, auc = 0.977, sens = 0.971, spec = 0.903, blAUC = 0.979, blSens = 0.933, blSpec = 0.899.
+
+
+
+
+
+2014-5-8 15:47 SUCCESS: RNA_pol_Rpb1_1_int_RNA_pol_Rpb2_7.
+
+
+Sending a stop signal to all the labs ... stopped.
+2014-5-8 15:47 FINISHED.
+Number of total DDI is: 8
+Number of successed DDI is: 7
+Number of total sequence is: 924
+FisherMode: FisherM1 SVMMode: DL_RE_US Kernel: DL_RE_US, choseNegRatio: 1, choseNegRatioTest: 1
+The baseline AUC: 97.969%
+The baseline recall: 95.222%
+The baseline precision: 94.731%
+Testing AUC: 97.974%
+Testing recall: 95.514%
+Testing precision: 94.577%
+Testing f_measure: 94.763%
+Training accuracy: 98.490%
+Training recall: 98.688%
+Training precision: 98.320%
+Training f_measure: 98.501%

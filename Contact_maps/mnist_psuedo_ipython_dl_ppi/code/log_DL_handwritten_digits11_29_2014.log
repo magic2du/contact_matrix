@@ -1,0 +1,46 @@
+2014-11-29 14:37:21,647 - __main__ - INFO - DL: 1
+2014-11-29 14:37:21,647 - __main__ - INFO - Log: 1
+2014-11-29 14:37:21,648 - __main__ - INFO - DL_S: 1
+2014-11-29 14:37:21,648 - __main__ - INFO - predicted_score: False
+2014-11-29 14:37:21,648 - __main__ - INFO - SVM_POLY: 1
+2014-11-29 14:37:21,648 - __main__ - INFO - reduce_ratio: 1
+2014-11-29 14:37:21,649 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2014-11-29 14:37:21,649 - __main__ - INFO - corruption_levels: [0, 0]
+2014-11-29 14:37:21,649 - __main__ - INFO - pretrain_lr: 0.001
+2014-11-29 14:37:21,649 - __main__ - INFO - SAE_S_SVM: 1
+2014-11-29 14:37:21,650 - __main__ - INFO - SAE_SVM_POLY: 1
+2014-11-29 14:37:21,650 - __main__ - INFO - SVM: 1
+2014-11-29 14:37:21,650 - __main__ - INFO - SAE_S_SVM_RBF: 1
+2014-11-29 14:37:21,651 - __main__ - INFO - SVM_RBF: 1
+2014-11-29 14:37:21,657 - __main__ - INFO - batch_size: 30
+2014-11-29 14:37:21,657 - __main__ - INFO - SAE_S_SVM_POLY: 1
+2014-11-29 14:37:21,658 - __main__ - INFO - SAE_SVM_RBF: 1
+2014-11-29 14:37:21,658 - __main__ - INFO - SAE_SVM: 1
+2014-11-29 14:37:21,658 - __main__ - INFO - pretraining_interations: 10000
+2014-11-29 14:37:21,659 - __main__ - INFO - fisher_mode: FisherM1
+2014-11-29 14:37:21,659 - __main__ - INFO - number_iterations: 10
+2014-11-29 14:37:21,659 - __main__ - INFO - finetune_lr: 0.1
+2014-11-29 14:37:21,660 - __main__ - INFO - training_epochs: 300
+2014-12-15 14:52:51,639 - __main__ - INFO - DL: 1
+2014-12-15 14:52:51,694 - __main__ - INFO - Log: 1
+2014-12-15 14:52:51,694 - __main__ - INFO - DL_S: 1
+2014-12-15 14:52:51,694 - __main__ - INFO - SVM_POLY: 1
+2014-12-15 14:52:51,695 - __main__ - INFO - reduce_ratio: 1
+2014-12-15 14:52:51,695 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2014-12-15 14:52:51,695 - __main__ - INFO - corruption_levels: [0, 0]
+2014-12-15 14:52:51,695 - __main__ - INFO - pretrain_lr: 0.001
+2014-12-15 14:52:51,696 - __main__ - INFO - SAE_S_SVM: 1
+2014-12-15 14:52:51,696 - __main__ - INFO - SAE_SVM_POLY: 1
+2014-12-15 14:52:51,696 - __main__ - INFO - SVM: 1
+2014-12-15 14:52:51,696 - __main__ - INFO - SAE_S_SVM_RBF: 1
+2014-12-15 14:52:51,697 - __main__ - INFO - SVM_RBF: 1
+2014-12-15 14:52:51,697 - __main__ - INFO - batch_size: 30
+2014-12-15 14:52:51,697 - __main__ - INFO - SAE_S_SVM_POLY: 1
+2014-12-15 14:52:51,697 - __main__ - INFO - SAE_SVM_RBF: 1
+2014-12-15 14:52:51,697 - __main__ - INFO - SAE_SVM: 1
+2014-12-15 14:52:51,698 - __main__ - INFO - pretraining_interations: 10000
+2014-12-15 14:52:51,698 - __main__ - INFO - fisher_mode: FisherM1
+2014-12-15 14:52:51,698 - __main__ - INFO - number_iterations: 10
+2014-12-15 14:52:51,698 - __main__ - INFO - finetune_lr: 0.1
+2014-12-15 14:52:51,699 - __main__ - INFO - with_auc_score: False
+2014-12-15 14:52:51,699 - __main__ - INFO - training_epochs: 300

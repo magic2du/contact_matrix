@@ -1,0 +1,58 @@
+﻿1. I think run3DID_ContactMatrixAllVectors.m is doing an Leave-one-out training and testing. In the script runSeqPairContactMatrixAllVectors.m was called. In the training process, you randomly pick the same number of negative residues pairs as positives to make the training set even. But in the testing process, I don’t know why you still randomly pick the same number of negative residues pairs as positives, instead of testing on the whole contact matrix?
+
+
+This is a great question. We actually started out testing on the whole negative set, and got not good results. So with Li we reasoned that we weren't being fair on ourselves, since also in testing there is a huge unbalance between the number of negatives vs the number of positives. So the randomly picking as many negatives as there are positives in testing was a first approximation to "fairness", but obviously it's not ideal. We comment briefly on this in our paper. Maybe a better approximation would be to test on a region where there is a high likelihood of contacts (but how do you know what that region is?), and let the supervised learning give you a zoom-in of the region by telling you what the actual contacts are. This is an open question.
+
+
+
+
+2. I try to build up dataset in my own directory. I don’t want to mass up your data. I found over 200 matlab scripts in /home/alvaro/Contact_Matrix_Project/. Could you identify some key scripts go through the pipeline? I will figure out the rest called scripts.
+I’m thinking starts from run3DID_DomainIntVectorAndContactMatrix_15NOV2011.m. But I see ddi_str_array.mat already exists. And this script create matrix of distances between beta carbons by (8 angstroms). I am wondering why the contact matrix is built on calculating distance ourself instead of contact information from 3DID.
+
+
+Yes, I see a ton of matlab scripts in the folder, but fortunately I notice they are extremely well commented. So if you're wondering about one of those scripts, feel free to open it and go through it, and you'll see that the comments in the code will get you out of the woods. Also, the "Contact Matrix Project" google doc that I once shared with you is your friend. This is the place where I took notes for everything that was being done in this project, and it's chronologically organized, so if you browse it you'll get an idea of how things were done in this research project and how ideas evolved.
+
+
+For instance, this is the pipeline that was run to obtain the final results that were published in the paper:
+
+
+a) ContactMapsOn3DID.m: Goes through a set of DDIs and builds its contact matrices. For each DDI, it builds the contact matrix of each pair of interacting proteins in the family, and saves them to the family's directory. The script that you thought was doing this, run3DID_DomainIntVectorAndContactMatrix_15NOV2011.m, is actually doing the same job but for the folding problem, in which the contact matrix is defined for a protein within itself, and not for a pair of proteins. Hopefully we'll get to that problem at some point, because the work of Chris Sander at MSKCC shows that our approach is in essence his same approach, and he was able to put his papers in Plos One and Cell! The results that we included in my thesis for this problem, which use the diffusion kernel, aren't published yet, so maybe a low hanging fruit?
+
+
+Going back to the contact matrices for protein pairs, and to answer your question, the reason we use the ddi_str_array.mat to create the matrices is because the first thing that we do after we download the 3did information is to organize it in this type of matlab structures. This is a legacy from Tapan. So it's not that we're not using 3did to create the matrices. Of course we are. The way we read the 3did flat file and turn it into these structures was one of the first things I explained to you when you first came to the lab, so I'm sure you have code and notes for that. I don't remember myself what script was used for doing this, but I do know we went through it because that script is what you run when you're updating 3did. Let me know if you can't find it, in which case I would dig into my code to find it.
+
+
+b) run3DID_[AllVectors][Average]ChooseNegRand_02[03]NOV2011.m: This is a wrapper for running training and testing on each DDI that you want to include in your set. The set of DDIs to be used is given in the form of a text file. Read the code and you'll see what I'm talking about. [AllVectors] and [Average] are the two different ways in which we proposed learning. Each has its pros and cons. You can read about this in the paper. This script is basically a for loop that iteratively calls runDDI[AllVectors][Average]ChooseNegRand_02[03]NOV2011.m, explained next.
+
+
+c) runDDI[AllVectors][Average]ChooseNegRand_02[03]NOV2011.m: This script runs LOO cross-validation for all the protein pairs in a DDI family. Notice that we don't actually use all the examples provided by 3did, because we noticed that many of those pairs are almost identical, in terms of sequence similarity. So we first cluster pairs by sequence similarity and use, both in training and testing, only one example per cluster. You'll see how this is being done in the code. Then the LOO happens in another for look, in each for each sequence pair being tested, we call script runSeqPair[AllVectors][Average]ChooseNegRand_[02][03]NOV2011.m.
+
+
+d) runSeqPair[AllVectors][Average]ChooseNegRand_[02][03]NOV2011.m: Builds the training set, runs the baseline and the supervised learning, and calculates results, which are saved to files.
+
+
+e) reportResults[AllVectors][Average]ChooseNegRand_[02][03]NOV2011.m: Goes through all the DDIs in your set (I always used a 121 DDIs set, but of course we want to get to the point where we train and test on all of 3did), grabs the results that were previously saved, and organizes them in a table, which is save to a file.
+
+
+Thankfully, all the different algorithms that we tried follow the same type of syntax (run3DID => runDDI => runSeqPair => reportResults), so you can get an idea of the other flavors of learning that we attempted (all the scripts are in the same directory) before we found one that was publishable.
+
+
+3. I see you have graph clustering for sequences. What is the strategy for clustering? run3DID_DomainGraphClustering_15NOV2011.m.
+
+
+I explained before why we do use this clustering. To avoid training and testing on almost identical sequence pairs. Yes, that's the correct script. Follow along the code and you'll understand how we're doing it.
+
+
+4. I am adding sliding window and hydrophobicity scales as additional features. Can add it to runSeqPairAllVectorsAllTrainNeg_04NOV2011.m right in to the training vectors?
+
+
+This is a tough question for me. Of course you can do it, but the implementation details are entirely up to you. Just get to the part in the code in which we're creating the training and testing sets, and add the new features. Only thing I can recommend is to make sure the scales are comparable. You don't want to mix Fisher scores that are in the order of less than 1 with features that are in the order of hundreds or thousands. Make all features comparable by scaling.
+
+
+5. I see you are using 2009 dataset and still using “PF00001.13_int_PF00001.13” format. Do you think I can simply replace it with domain names and work on recent version of data?
+
+
+Again, this is an implementation detail that's hard for me to answer. Of course you can, and you should, use more recent versions of the data. Just make sure in your code that you read the data from the updated paths. It's not going to be as easy as replacing with domain names, I'm sure. You have to dig into the data and understand where data is being read, and change the paths accordingly.
+
+
+Hope this helps!

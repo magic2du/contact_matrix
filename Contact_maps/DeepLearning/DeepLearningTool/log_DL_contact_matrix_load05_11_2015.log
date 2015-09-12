@@ -1,0 +1,260 @@
+2015-05-11 14:23:52,476 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-11 14:23:52,476 - __main__ - INFO - DL: 1
+2015-05-11 14:23:52,477 - __main__ - INFO - SVM: 1
+2015-05-11 14:23:52,477 - __main__ - INFO - n_outs: 1
+2015-05-11 14:23:52,477 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-11 14:23:52,477 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-11 14:23:52,478 - __main__ - INFO - SVM_RBF: 1
+2015-05-11 14:23:52,478 - __main__ - INFO - DL_S: 1
+2015-05-11 14:23:52,478 - __main__ - INFO - sparsity_weight: 0
+2015-05-11 14:23:52,478 - __main__ - INFO - DL_U: 0
+2015-05-11 14:23:52,478 - __main__ - INFO - SVM_POLY: 0
+2015-05-11 14:23:52,479 - __main__ - INFO - reduce_ratio: 1
+2015-05-11 14:23:52,479 - __main__ - INFO - DL_xy: 1
+2015-05-11 14:23:52,479 - __main__ - INFO - batch_size: 100
+2015-05-11 14:23:52,479 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-11 14:23:52,479 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-11 14:23:52,480 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-11 14:23:52,480 - __main__ - INFO - SAE_SVM: 1
+2015-05-11 14:23:52,480 - __main__ - INFO - DL_S_new: 1
+2015-05-11 14:23:52,480 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-11 14:23:52,480 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-11 14:23:52,481 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-11 14:23:52,481 - __main__ - INFO - pretraining_interations: 2
+2015-05-11 14:23:52,481 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-11 14:23:52,481 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-11 14:23:52,481 - __main__ - INFO - training_interations: 2
+2015-05-11 14:23:52,482 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-11 14:23:52,482 - __main__ - INFO - finetune_lr: 1
+2015-05-11 14:23:52,482 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-11 14:23:52,482 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-11 14:23:52,483 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-11 14:23:52,483 - __main__ - INFO - n_cores: 1
+2015-05-11 14:23:52,483 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-11 14:23:52,483 - __main__ - INFO - sparsity: 0
+2015-05-11 14:23:52,483 - __main__ - INFO - with_auc_score: False
+2015-05-11 14:23:52,484 - __main__ - INFO - Sda_new: 1
+2015-05-11 14:23:52,484 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-11 14:23:52,484 - __main__ - INFO - learning_rate: 0.001
+2015-05-11 14:23:54,175 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-11 14:23:54,206 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-11 14:23:54,207 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-11 14:23:54,207 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-11 14:23:54,208 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-11 14:23:54,208 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-11 14:23:54,209 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-11 14:23:54,209 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-11 14:23:54,209 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-11 14:23:54,210 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-11 14:23:54,210 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-11 14:23:54,211 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-11 14:23:54,211 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-11 14:23:54,212 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-11 14:23:54,212 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-11 14:23:54,213 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-11 14:23:54,213 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-11 14:23:54,214 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-11 14:23:54,214 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-11 14:23:54,214 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-11 14:23:54,214 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-11 14:23:54,214 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-11 14:32:04,544 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-11 14:32:04,545 - __main__ - INFO - DL: 1
+2015-05-11 14:32:04,546 - __main__ - INFO - SVM: 1
+2015-05-11 14:32:04,546 - __main__ - INFO - n_outs: 1
+2015-05-11 14:32:04,547 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-11 14:32:04,547 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-11 14:32:04,548 - __main__ - INFO - SVM_RBF: 1
+2015-05-11 14:32:04,548 - __main__ - INFO - DL_S: 1
+2015-05-11 14:32:04,549 - __main__ - INFO - sparsity_weight: 0
+2015-05-11 14:32:04,549 - __main__ - INFO - DL_U: 0
+2015-05-11 14:32:04,549 - __main__ - INFO - SVM_POLY: 0
+2015-05-11 14:32:04,550 - __main__ - INFO - reduce_ratio: 1
+2015-05-11 14:32:04,550 - __main__ - INFO - DL_xy: 1
+2015-05-11 14:32:04,550 - __main__ - INFO - batch_size: 100
+2015-05-11 14:32:04,551 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-11 14:32:04,551 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-11 14:32:04,551 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-11 14:32:04,551 - __main__ - INFO - SAE_SVM: 1
+2015-05-11 14:32:04,551 - __main__ - INFO - DL_S_new: 1
+2015-05-11 14:32:04,552 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-11 14:32:04,552 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-11 14:32:04,552 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-11 14:32:04,552 - __main__ - INFO - pretraining_interations: 2
+2015-05-11 14:32:04,552 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-11 14:32:04,553 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-11 14:32:04,553 - __main__ - INFO - training_interations: 2
+2015-05-11 14:32:04,553 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-11 14:32:04,553 - __main__ - INFO - finetune_lr: 1
+2015-05-11 14:32:04,554 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-11 14:32:04,554 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-11 14:32:04,554 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-11 14:32:04,554 - __main__ - INFO - n_cores: 1
+2015-05-11 14:32:04,554 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-11 14:32:04,555 - __main__ - INFO - sparsity: 0
+2015-05-11 14:32:04,555 - __main__ - INFO - with_auc_score: False
+2015-05-11 14:32:04,555 - __main__ - INFO - Sda_new: 1
+2015-05-11 14:32:04,555 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-11 14:32:04,555 - __main__ - INFO - learning_rate: 0.001
+2015-05-11 14:32:06,294 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-11 14:32:06,295 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-11 14:32:06,296 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-11 14:32:06,296 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-11 14:32:06,296 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-11 14:32:06,297 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-11 14:32:06,297 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-11 14:32:06,298 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-11 14:32:06,298 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-11 14:32:06,298 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-11 14:32:06,298 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-11 14:32:06,298 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-11 14:32:06,299 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-11 14:32:06,299 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-11 14:32:06,299 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-11 14:32:06,299 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-11 14:32:06,300 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-11 14:32:06,300 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-11 14:32:06,300 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-11 14:32:06,300 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-11 14:32:06,300 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-11 14:32:06,301 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-11 14:59:53,864 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-11 14:59:53,873 - __main__ - INFO - DL: 1
+2015-05-11 14:59:53,873 - __main__ - INFO - SVM: 1
+2015-05-11 14:59:53,873 - __main__ - INFO - n_outs: 1
+2015-05-11 14:59:53,873 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-11 14:59:53,874 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-11 14:59:53,874 - __main__ - INFO - SVM_RBF: 1
+2015-05-11 14:59:53,874 - __main__ - INFO - DL_S: 1
+2015-05-11 14:59:53,875 - __main__ - INFO - sparsity_weight: 0
+2015-05-11 14:59:53,875 - __main__ - INFO - DL_U: 0
+2015-05-11 14:59:53,875 - __main__ - INFO - SVM_POLY: 0
+2015-05-11 14:59:53,875 - __main__ - INFO - reduce_ratio: 1
+2015-05-11 14:59:53,876 - __main__ - INFO - DL_xy: 1
+2015-05-11 14:59:53,876 - __main__ - INFO - batch_size: 100
+2015-05-11 14:59:53,876 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-11 14:59:53,877 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-11 14:59:53,877 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-11 14:59:53,877 - __main__ - INFO - SAE_SVM: 1
+2015-05-11 14:59:53,877 - __main__ - INFO - DL_S_new: 1
+2015-05-11 14:59:53,878 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-11 14:59:53,878 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-11 14:59:53,878 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-11 14:59:53,878 - __main__ - INFO - pretraining_interations: 2
+2015-05-11 14:59:53,878 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-11 14:59:53,879 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-11 14:59:53,879 - __main__ - INFO - training_interations: 2
+2015-05-11 14:59:53,879 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-11 14:59:53,879 - __main__ - INFO - finetune_lr: 1
+2015-05-11 14:59:53,879 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-11 14:59:53,880 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-11 14:59:53,880 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-11 14:59:53,880 - __main__ - INFO - n_cores: 1
+2015-05-11 14:59:53,880 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-11 14:59:53,880 - __main__ - INFO - sparsity: 0
+2015-05-11 14:59:53,881 - __main__ - INFO - with_auc_score: False
+2015-05-11 14:59:53,881 - __main__ - INFO - Sda_new: 1
+2015-05-11 14:59:53,881 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-11 14:59:53,881 - __main__ - INFO - learning_rate: 0.001
+2015-05-11 14:59:55,552 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-11 14:59:55,561 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-11 14:59:55,561 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-11 14:59:55,561 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-11 14:59:55,562 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-11 14:59:55,562 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-11 14:59:55,562 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-11 14:59:55,563 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-11 14:59:55,563 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-11 14:59:55,564 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-11 14:59:55,564 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-11 14:59:55,564 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-11 14:59:55,565 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-11 14:59:55,565 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-11 14:59:55,565 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-11 14:59:55,566 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-11 14:59:55,566 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-11 14:59:55,567 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-11 14:59:55,567 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-11 14:59:55,567 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-11 14:59:55,568 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-11 14:59:55,568 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-11 15:40:03,755 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-11 15:40:03,792 - __main__ - INFO - DL: 1
+2015-05-11 15:40:03,792 - __main__ - INFO - SVM: 1
+2015-05-11 15:40:03,792 - __main__ - INFO - n_outs: 1
+2015-05-11 15:40:03,792 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-11 15:40:03,792 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-11 15:40:03,792 - __main__ - INFO - SVM_RBF: 1
+2015-05-11 15:40:03,792 - __main__ - INFO - DL_S: 1
+2015-05-11 15:40:03,792 - __main__ - INFO - sparsity_weight: 0
+2015-05-11 15:40:03,792 - __main__ - INFO - DL_U: 0
+2015-05-11 15:40:03,792 - __main__ - INFO - SVM_POLY: 0
+2015-05-11 15:40:03,792 - __main__ - INFO - reduce_ratio: 1
+2015-05-11 15:40:03,793 - __main__ - INFO - DL_xy: 1
+2015-05-11 15:40:03,793 - __main__ - INFO - batch_size: 100
+2015-05-11 15:40:03,793 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-11 15:40:03,793 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-11 15:40:03,793 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-11 15:40:03,793 - __main__ - INFO - SAE_SVM: 1
+2015-05-11 15:40:03,793 - __main__ - INFO - DL_S_new: 1
+2015-05-11 15:40:03,793 - __main__ - INFO - hidden_layers_sizes: [100, 100]
+2015-05-11 15:40:03,793 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-11 15:40:03,793 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-11 15:40:03,793 - __main__ - INFO - pretraining_interations: 5000
+2015-05-11 15:40:03,794 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-11 15:40:03,794 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-11 15:40:03,794 - __main__ - INFO - training_interations: 10001
+2015-05-11 15:40:03,794 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-11 15:40:03,794 - __main__ - INFO - finetune_lr: 1
+2015-05-11 15:40:03,794 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-11 15:40:03,794 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-11 15:40:03,794 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-11 15:40:03,794 - __main__ - INFO - n_cores: 1
+2015-05-11 15:40:03,794 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-11 15:40:03,794 - __main__ - INFO - sparsity: 0
+2015-05-11 15:40:03,794 - __main__ - INFO - with_auc_score: False
+2015-05-11 15:40:03,794 - __main__ - INFO - Sda_new: 1
+2015-05-11 15:40:03,795 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-11 15:40:03,795 - __main__ - INFO - learning_rate: 0.001
+2015-05-11 15:40:03,821 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-11 15:40:03,847 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-11 15:40:03,847 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-11 15:40:03,847 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-11 15:40:03,847 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-11 15:40:03,847 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-11 15:40:03,847 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-11 15:40:03,848 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-11 15:40:03,848 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-11 15:40:03,848 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-11 15:40:03,848 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-11 15:40:03,848 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-11 15:40:03,848 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-11 15:40:03,848 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-11 15:40:03,848 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-11 15:40:03,848 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-11 15:40:03,849 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-11 15:40:03,849 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-11 15:40:03,849 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-11 15:40:03,849 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-11 15:40:03,849 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-11 15:40:03,849 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-11 20:34:15,621 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-12 01:38:38,757 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_C
+2015-05-12 06:35:06,483 - __main__ - INFO - DDI: OKR_DC_1_int_OKR_DC_1_N
+2015-05-12 11:10:31,451 - __main__ - INFO - DDI: SUFU_int_SUFU_C
+2015-05-12 15:25:52,701 - __main__ - INFO - DDI: Alpha-amylase_int_DUF3459
+2015-05-12 15:25:52,769 - __main__ - DEBUG - There is a error in this ddi: Alpha-amylase_int_DUF3459
+2015-05-12 15:25:52,770 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Alpha-amylase_int_DUF3459/allPairs.txt'
+2015-05-12 15:25:52,770 - __main__ - INFO - DDI: Sigma70_r2_int_Sigma70_r3
+2015-05-12 15:25:52,770 - __main__ - DEBUG - There is a error in this ddi: Sigma70_r2_int_Sigma70_r3
+2015-05-12 15:25:52,770 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Sigma70_r2_int_Sigma70_r3/allPairs.txt'
+2015-05-12 15:25:52,770 - __main__ - INFO - DDI: FXa_inhibition_int_Ldl_recept_b
+2015-05-12 15:25:52,770 - __main__ - DEBUG - There is a error in this ddi: FXa_inhibition_int_Ldl_recept_b
+2015-05-12 15:25:52,770 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/FXa_inhibition_int_Ldl_recept_b/allPairs.txt'
+2015-05-12 15:25:52,863 - __main__ - INFO - DDI: Fn3-like_int_Glyco_hydro_3
+2015-05-12 15:25:52,863 - __main__ - DEBUG - There is a error in this ddi: Fn3-like_int_Glyco_hydro_3
+2015-05-12 15:25:52,863 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Fn3-like_int_Glyco_hydro_3/allPairs.txt'
+2015-05-12 15:25:52,863 - __main__ - INFO - DDI: GT36_AF_int_Glyco_transf_36
+2015-05-12 15:25:52,863 - __main__ - DEBUG - There is a error in this ddi: GT36_AF_int_Glyco_transf_36
+2015-05-12 15:25:52,863 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/GT36_AF_int_Glyco_transf_36/allPairs.txt'
+2015-05-12 15:25:52,863 - __main__ - INFO - DDI: ERAP1_C_int_Peptidase_M1

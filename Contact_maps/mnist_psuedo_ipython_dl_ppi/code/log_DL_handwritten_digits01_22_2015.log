@@ -1,0 +1,50 @@
+2015-01-22 13:10:24,462 - __main__ - INFO - DL: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-01-22 13:10:24,463 - __main__ - INFO - SAE_Log: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - DL_S: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - SVM_POLY: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - reduce_ratio: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - Log: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - training_interations: 50001
+2015-01-22 13:10:24,463 - __main__ - INFO - corruption_levels: [0, 0]
+2015-01-22 13:10:24,463 - __main__ - INFO - pretrain_lr: 0.001
+2015-01-22 13:10:24,463 - __main__ - INFO - SAE_S_SVM: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - SAE_SVM_POLY: 0
+2015-01-22 13:10:24,463 - __main__ - INFO - SVM: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - SAE_S_SVM_RBF: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - number_of_training: [10000]
+2015-01-22 13:10:24,463 - __main__ - INFO - SVM_RBF: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - batch_size: 30
+2015-01-22 13:10:24,463 - __main__ - INFO - SAE_S_SVM_POLY: 0
+2015-01-22 13:10:24,463 - __main__ - INFO - SAE_SVM_RBF: 1
+2015-01-22 13:10:24,463 - __main__ - INFO - SAE_SVM: 1
+2015-01-22 13:10:24,464 - __main__ - INFO - pretraining_interations: 50001
+2015-01-22 13:10:24,464 - __main__ - INFO - number_iterations: 10
+2015-01-22 13:10:24,464 - __main__ - INFO - finetune_lr: 0.1
+2015-01-22 13:10:24,464 - __main__ - INFO - test_set_from_test: True
+2015-01-22 13:10:24,464 - __main__ - INFO - with_auc_score: False
+2015-01-22 13:10:39,952 - __main__ - INFO - DL: 1
+2015-01-22 13:10:39,952 - __main__ - INFO - hidden_layers_sizes: [200, 200, 200, 200, 200]
+2015-01-22 13:10:39,952 - __main__ - INFO - SAE_Log: 1
+2015-01-22 13:10:39,952 - __main__ - INFO - DL_S: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - SVM_POLY: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - reduce_ratio: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - Log: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - training_interations: 50002
+2015-01-22 13:10:39,953 - __main__ - INFO - corruption_levels: [0, 0, 0, 0, 0]
+2015-01-22 13:10:39,953 - __main__ - INFO - pretrain_lr: 0.001
+2015-01-22 13:10:39,953 - __main__ - INFO - SAE_S_SVM: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - SAE_SVM_POLY: 0
+2015-01-22 13:10:39,953 - __main__ - INFO - SVM: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - SAE_S_SVM_RBF: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - number_of_training: [10000]
+2015-01-22 13:10:39,953 - __main__ - INFO - SVM_RBF: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - batch_size: 30
+2015-01-22 13:10:39,953 - __main__ - INFO - SAE_S_SVM_POLY: 0
+2015-01-22 13:10:39,953 - __main__ - INFO - SAE_SVM_RBF: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - SAE_SVM: 1
+2015-01-22 13:10:39,953 - __main__ - INFO - pretraining_interations: 50002
+2015-01-22 13:10:39,953 - __main__ - INFO - number_iterations: 10
+2015-01-22 13:10:39,953 - __main__ - INFO - finetune_lr: 0.1
+2015-01-22 13:10:39,953 - __main__ - INFO - test_set_from_test: True
+2015-01-22 13:10:39,953 - __main__ - INFO - with_auc_score: False

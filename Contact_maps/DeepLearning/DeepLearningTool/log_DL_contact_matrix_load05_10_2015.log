@@ -1,0 +1,647 @@
+2015-05-10 22:18:34,787 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-10 22:18:34,787 - __main__ - INFO - DL: 1
+2015-05-10 22:18:34,788 - __main__ - INFO - SVM: 1
+2015-05-10 22:18:34,788 - __main__ - INFO - n_outs: 1
+2015-05-10 22:18:34,788 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-10 22:18:34,788 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-10 22:18:34,788 - __main__ - INFO - SVM_RBF: 1
+2015-05-10 22:18:34,789 - __main__ - INFO - DL_S: 1
+2015-05-10 22:18:34,789 - __main__ - INFO - sparsity_weight: 0
+2015-05-10 22:18:34,789 - __main__ - INFO - DL_U: 0
+2015-05-10 22:18:34,789 - __main__ - INFO - SVM_POLY: 0
+2015-05-10 22:18:34,789 - __main__ - INFO - reduce_ratio: 1
+2015-05-10 22:18:34,790 - __main__ - INFO - DL_xy: 1
+2015-05-10 22:18:34,790 - __main__ - INFO - batch_size: 100
+2015-05-10 22:18:34,790 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:1500
+2015-05-10 22:18:34,790 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-10 22:18:34,790 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-10 22:18:34,791 - __main__ - INFO - SAE_SVM: 1
+2015-05-10 22:18:34,791 - __main__ - INFO - DL_S_new: 1
+2015-05-10 22:18:34,791 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-10 22:18:34,791 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-10 22:18:34,791 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-10 22:18:34,792 - __main__ - INFO - pretraining_interations: 5000
+2015-05-10 22:18:34,792 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-10 22:18:34,792 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-10 22:18:34,792 - __main__ - INFO - training_interations: 10001
+2015-05-10 22:18:34,792 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-10 22:18:34,793 - __main__ - INFO - finetune_lr: 1
+2015-05-10 22:18:34,793 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-10 22:18:34,793 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-10 22:18:34,793 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-10 22:18:34,793 - __main__ - INFO - n_cores: 1
+2015-05-10 22:18:34,794 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-10 22:18:34,794 - __main__ - INFO - sparsity: 0
+2015-05-10 22:18:34,794 - __main__ - INFO - with_auc_score: False
+2015-05-10 22:18:34,794 - __main__ - INFO - Sda_new: 1
+2015-05-10 22:18:34,794 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-10 22:18:34,795 - __main__ - INFO - learning_rate: 0.001
+2015-05-10 22:18:36,534 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-10 22:18:36,535 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-10 22:18:36,536 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-10 22:18:36,536 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-10 22:18:36,537 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-10 22:18:36,537 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-10 22:18:36,537 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-10 22:18:36,538 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-10 22:18:36,538 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-10 22:18:36,538 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-10 22:18:36,538 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-10 22:18:36,539 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-10 22:18:36,539 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-10 22:18:36,539 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-10 22:18:36,539 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-10 22:18:36,540 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-10 22:18:36,540 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-10 22:18:36,540 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-10 22:18:36,540 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-10 22:18:36,541 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-10 22:18:36,541 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-10 22:18:36,541 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-10 22:43:58,537 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-10 22:43:58,537 - __main__ - INFO - DL: 1
+2015-05-10 22:43:58,538 - __main__ - INFO - SVM: 1
+2015-05-10 22:43:58,538 - __main__ - INFO - n_outs: 1
+2015-05-10 22:43:58,538 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-10 22:43:58,538 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-10 22:43:58,539 - __main__ - INFO - SVM_RBF: 1
+2015-05-10 22:43:58,539 - __main__ - INFO - DL_S: 1
+2015-05-10 22:43:58,539 - __main__ - INFO - sparsity_weight: 0
+2015-05-10 22:43:58,539 - __main__ - INFO - DL_U: 0
+2015-05-10 22:43:58,540 - __main__ - INFO - SVM_POLY: 0
+2015-05-10 22:43:58,540 - __main__ - INFO - reduce_ratio: 1
+2015-05-10 22:43:58,540 - __main__ - INFO - DL_xy: 1
+2015-05-10 22:43:58,540 - __main__ - INFO - batch_size: 100
+2015-05-10 22:43:58,541 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-10 22:43:58,541 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-10 22:43:58,542 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-10 22:43:58,542 - __main__ - INFO - SAE_SVM: 1
+2015-05-10 22:43:58,542 - __main__ - INFO - DL_S_new: 1
+2015-05-10 22:43:58,542 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-10 22:43:58,543 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-10 22:43:58,543 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-10 22:43:58,543 - __main__ - INFO - pretraining_interations: 2
+2015-05-10 22:43:58,543 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-10 22:43:58,544 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-10 22:43:58,544 - __main__ - INFO - training_interations: 2
+2015-05-10 22:43:58,544 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-10 22:43:58,545 - __main__ - INFO - finetune_lr: 1
+2015-05-10 22:43:58,545 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-10 22:43:58,545 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-10 22:43:58,545 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-10 22:43:58,546 - __main__ - INFO - n_cores: 1
+2015-05-10 22:43:58,546 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-10 22:43:58,546 - __main__ - INFO - sparsity: 0
+2015-05-10 22:43:58,546 - __main__ - INFO - with_auc_score: False
+2015-05-10 22:43:58,546 - __main__ - INFO - Sda_new: 1
+2015-05-10 22:43:58,547 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-10 22:43:58,547 - __main__ - INFO - learning_rate: 0.001
+2015-05-10 22:44:00,184 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-10 22:44:00,185 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-10 22:44:00,186 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-10 22:44:00,186 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-10 22:44:00,187 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-10 22:44:00,187 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-10 22:44:00,188 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-10 22:44:00,189 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-10 22:44:00,190 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-10 22:44:00,190 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-10 22:44:00,191 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-10 22:44:00,191 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-10 22:44:00,192 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-10 22:44:00,192 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-10 22:44:00,193 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-10 22:44:00,194 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-10 22:44:00,194 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-10 22:44:00,195 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-10 22:44:00,195 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-10 22:44:00,196 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-10 22:44:00,196 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-10 22:44:00,197 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-10 23:06:15,940 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-10 23:06:50,782 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-10 23:06:50,782 - __main__ - INFO - DL: 1
+2015-05-10 23:06:50,782 - __main__ - INFO - SVM: 1
+2015-05-10 23:06:50,782 - __main__ - INFO - n_outs: 1
+2015-05-10 23:06:50,783 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-10 23:06:50,783 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-10 23:06:50,783 - __main__ - INFO - SVM_RBF: 1
+2015-05-10 23:06:50,783 - __main__ - INFO - DL_S: 1
+2015-05-10 23:06:50,784 - __main__ - INFO - sparsity_weight: 0
+2015-05-10 23:06:50,784 - __main__ - INFO - DL_U: 0
+2015-05-10 23:06:50,784 - __main__ - INFO - SVM_POLY: 0
+2015-05-10 23:06:50,784 - __main__ - INFO - reduce_ratio: 1
+2015-05-10 23:06:50,785 - __main__ - INFO - DL_xy: 1
+2015-05-10 23:06:50,785 - __main__ - INFO - batch_size: 100
+2015-05-10 23:06:50,785 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-10 23:06:50,785 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-10 23:06:50,786 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-10 23:06:50,786 - __main__ - INFO - SAE_SVM: 1
+2015-05-10 23:06:50,786 - __main__ - INFO - DL_S_new: 1
+2015-05-10 23:06:50,786 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-10 23:06:50,786 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-10 23:06:50,787 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-10 23:06:50,787 - __main__ - INFO - pretraining_interations: 2
+2015-05-10 23:06:50,787 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-10 23:06:50,788 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-10 23:06:50,788 - __main__ - INFO - training_interations: 2
+2015-05-10 23:06:50,789 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-10 23:06:50,789 - __main__ - INFO - finetune_lr: 1
+2015-05-10 23:06:50,789 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-10 23:06:50,789 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-10 23:06:50,790 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-10 23:06:50,790 - __main__ - INFO - n_cores: 1
+2015-05-10 23:06:50,791 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-10 23:06:50,791 - __main__ - INFO - sparsity: 0
+2015-05-10 23:06:50,792 - __main__ - INFO - with_auc_score: False
+2015-05-10 23:06:50,792 - __main__ - INFO - Sda_new: 1
+2015-05-10 23:06:50,793 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-10 23:06:50,793 - __main__ - INFO - learning_rate: 0.001
+2015-05-10 23:06:52,445 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-10 23:06:52,470 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-10 23:06:52,471 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-10 23:06:52,471 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-10 23:06:52,471 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-10 23:06:52,471 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-10 23:06:52,472 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-10 23:06:52,472 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-10 23:06:52,472 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-10 23:06:52,472 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-10 23:06:52,473 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-10 23:06:52,473 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-10 23:06:52,473 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-10 23:06:52,473 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-10 23:06:52,474 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-10 23:06:52,474 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-10 23:06:52,474 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-10 23:06:52,475 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-10 23:06:52,475 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-10 23:06:52,475 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-10 23:06:52,475 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-10 23:06:52,476 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-10 23:35:32,185 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-10 23:35:32,227 - __main__ - INFO - DL: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - SVM: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - n_outs: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-10 23:35:32,227 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - SVM_RBF: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - DL_S: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - sparsity_weight: 0
+2015-05-10 23:35:32,227 - __main__ - INFO - DL_U: 0
+2015-05-10 23:35:32,227 - __main__ - INFO - SVM_POLY: 0
+2015-05-10 23:35:32,227 - __main__ - INFO - reduce_ratio: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - DL_xy: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - batch_size: 100
+2015-05-10 23:35:32,227 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:3
+2015-05-10 23:35:32,227 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-10 23:35:32,227 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-10 23:35:32,227 - __main__ - INFO - SAE_SVM: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - DL_S_new: 1
+2015-05-10 23:35:32,227 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-10 23:35:32,227 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-10 23:35:32,228 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-10 23:35:32,228 - __main__ - INFO - pretraining_interations: 2
+2015-05-10 23:35:32,228 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-10 23:35:32,228 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-10 23:35:32,228 - __main__ - INFO - training_interations: 2
+2015-05-10 23:35:32,228 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-10 23:35:32,228 - __main__ - INFO - finetune_lr: 1
+2015-05-10 23:35:32,228 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-10 23:35:32,228 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-10 23:35:32,228 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-10 23:35:32,228 - __main__ - INFO - n_cores: 1
+2015-05-10 23:35:32,228 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-10 23:35:32,228 - __main__ - INFO - sparsity: 0
+2015-05-10 23:35:32,228 - __main__ - INFO - with_auc_score: False
+2015-05-10 23:35:32,228 - __main__ - INFO - Sda_new: 1
+2015-05-10 23:35:32,228 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-10 23:35:32,228 - __main__ - INFO - learning_rate: 0.001
+2015-05-10 23:35:32,293 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-10 23:35:32,293 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-10 23:35:32,293 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-10 23:35:32,294 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-10 23:35:32,294 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-10 23:35:32,294 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-10 23:35:32,294 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-10 23:35:32,294 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-10 23:35:32,294 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-10 23:35:32,294 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-10 23:35:32,294 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-10 23:35:32,294 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-10 23:35:32,295 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-10 23:35:32,295 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-10 23:35:32,295 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-10 23:35:32,295 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-10 23:35:32,295 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-10 23:35:32,295 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-10 23:35:32,295 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-10 23:35:32,295 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-10 23:35:32,296 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-10 23:35:32,296 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-10 23:37:02,237 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-10 23:37:02,254 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-10 23:37:02,269 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-10 23:41:55,180 - __main__ - DEBUG - There is a error in this ddi: Lyase_8_int_Lyase_8_N
+2015-05-10 23:41:55,231 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-10 23:41:55,274 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_C
+2015-05-10 23:45:32,180 - __main__ - DEBUG - There is a error in this ddi: Lyase_8_int_Lyase_8_C
+2015-05-10 23:45:32,180 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-10 23:45:32,379 - __main__ - INFO - DDI: OKR_DC_1_int_OKR_DC_1_N
+2015-05-10 23:46:12,428 - __main__ - DEBUG - There is a error in this ddi: OKR_DC_1_int_OKR_DC_1_N
+2015-05-10 23:46:12,428 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-10 23:46:12,429 - __main__ - INFO - DDI: SUFU_int_SUFU_C
+2015-05-10 23:46:50,884 - __main__ - DEBUG - There is a error in this ddi: SUFU_int_SUFU_C
+2015-05-10 23:46:50,884 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-10 23:46:50,885 - __main__ - INFO - DDI: Alpha-amylase_int_DUF3459
+2015-05-10 23:46:50,895 - __main__ - DEBUG - There is a error in this ddi: Alpha-amylase_int_DUF3459
+2015-05-10 23:46:50,895 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Alpha-amylase_int_DUF3459/allPairs.txt'
+2015-05-10 23:46:50,895 - __main__ - INFO - DDI: Sigma70_r2_int_Sigma70_r3
+2015-05-10 23:46:50,895 - __main__ - DEBUG - There is a error in this ddi: Sigma70_r2_int_Sigma70_r3
+2015-05-10 23:46:50,895 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Sigma70_r2_int_Sigma70_r3/allPairs.txt'
+2015-05-10 23:46:50,895 - __main__ - INFO - DDI: FXa_inhibition_int_Ldl_recept_b
+2015-05-10 23:46:50,895 - __main__ - DEBUG - There is a error in this ddi: FXa_inhibition_int_Ldl_recept_b
+2015-05-10 23:46:50,895 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/FXa_inhibition_int_Ldl_recept_b/allPairs.txt'
+2015-05-10 23:46:50,895 - __main__ - INFO - DDI: Fn3-like_int_Glyco_hydro_3
+2015-05-10 23:46:50,895 - __main__ - DEBUG - There is a error in this ddi: Fn3-like_int_Glyco_hydro_3
+2015-05-10 23:46:50,895 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Fn3-like_int_Glyco_hydro_3/allPairs.txt'
+2015-05-10 23:46:50,895 - __main__ - INFO - DDI: GT36_AF_int_Glyco_transf_36
+2015-05-10 23:46:50,895 - __main__ - DEBUG - There is a error in this ddi: GT36_AF_int_Glyco_transf_36
+2015-05-10 23:46:50,895 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/GT36_AF_int_Glyco_transf_36/allPairs.txt'
+2015-05-10 23:46:50,895 - __main__ - INFO - DDI: ERAP1_C_int_Peptidase_M1
+2015-05-10 23:48:38,303 - __main__ - DEBUG - There is a error in this ddi: ERAP1_C_int_Peptidase_M1
+2015-05-10 23:48:38,303 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-10 23:48:38,308 - __main__ - INFO - DDI: DNA_PPF_int_gp45-slide_C
+2015-05-10 23:49:28,403 - __main__ - DEBUG - There is a error in this ddi: DNA_PPF_int_gp45-slide_C
+2015-05-10 23:49:28,403 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-10 23:49:28,404 - __main__ - INFO - DDI: Asn_synthase_int_GATase_7
+2015-05-10 23:50:10,606 - __main__ - DEBUG - There is a error in this ddi: Asn_synthase_int_GATase_7
+2015-05-10 23:50:10,606 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+

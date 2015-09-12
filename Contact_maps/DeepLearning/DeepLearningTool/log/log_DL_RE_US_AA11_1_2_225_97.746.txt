@@ -1,0 +1,4086 @@
+2014-3-20 11:19 STARTED.
+{Warning: Found 4 pre-existing parallel job(s) created by matlabpool that are
+running.
+You can use   'matlabpool close force local'    or create a configuration for
+the parallel.cluster.Local object and use   'matlabpool close force
+<configurationName>'    to remove all jobs created by matlabpool.} 
+{> In distcomp.interactiveclient.pRemoveOldJobs at 55
+  In distcomp.interactiveclient.start at 58
+  In MatlabpoolHelper>MatlabpoolHelper.doOpen at 286
+  In MatlabpoolHelper>MatlabpoolHelper.doMatlabpool at 137
+  In matlabpool at 139
+  In run3DID_Seq_Par_ChooseNegRand_aaIndex_test_load_DL_remote at 44} 
+Starting matlabpool using the 'local' profile ... connected to 8 labs.
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.666%
+Training recall: 97.186%
+Training precision: 94.318%
+Training f_measure: 95.731%
+Testing accuracy: 98.000%
+Testing recall: 98.000%
+Testing precision: 98.000%
+Testing f_measure: 98.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 127, auc = 0.997, sens = 0.980, spec = 0.980, blAUC = 0.955, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.726%
+Training recall: 97.266%
+Training precision: 94.360%
+Training f_measure: 95.791%
+Testing accuracy: 95.833%
+Testing recall: 98.333%
+Testing precision: 93.651%
+Testing f_measure: 95.935%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 112, auc = 0.987, sens = 0.983, spec = 0.937, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.656%
+Training recall: 98.415%
+Training precision: 93.268%
+Training f_measure: 95.772%
+Testing accuracy: 94.681%
+Testing recall: 100.000%
+Testing precision: 90.385%
+Testing f_measure: 94.949%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 76, auc = 0.973, sens = 1.000, spec = 0.904, blAUC = 0.950, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.585%
+Training recall: 95.869%
+Training precision: 93.469%
+Training f_measure: 94.654%
+Testing accuracy: 95.161%
+Testing recall: 95.161%
+Testing precision: 95.161%
+Testing f_measure: 95.161%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 57, auc = 0.977, sens = 0.952, spec = 0.952, blAUC = 0.963, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.014%
+Training recall: 92.817%
+Training precision: 93.183%
+Training f_measure: 93.000%
+Testing accuracy: 96.429%
+Testing recall: 95.238%
+Testing precision: 97.561%
+Testing f_measure: 96.386%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 95, auc = 0.963, sens = 0.952, spec = 0.976, blAUC = 0.971, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.035%
+Training recall: 98.149%
+Training precision: 94.168%
+Training f_measure: 96.117%
+Testing accuracy: 99.219%
+Testing recall: 98.438%
+Testing precision: 100.000%
+Testing f_measure: 99.213%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 140, auc = 0.996, sens = 0.984, spec = 1.000, blAUC = 0.981, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.420%
+Training recall: 96.120%
+Training precision: 94.793%
+Training f_measure: 95.452%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.428%
+Training recall: 94.189%
+Training precision: 94.641%
+Training f_measure: 94.415%
+Testing accuracy: 92.857%
+Testing recall: 98.214%
+Testing precision: 88.710%
+Testing f_measure: 93.220%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 38, auc = 0.958, sens = 0.982, spec = 0.887, blAUC = 0.961, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 96.006%
+Training recall: 97.662%
+Training precision: 94.531%
+Training f_measure: 96.071%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 126, auc = 0.965, sens = 1.000, spec = 0.923, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.094%
+Training recall: 96.399%
+Training precision: 93.946%
+Training f_measure: 95.157%
+Testing accuracy: 95.000%
+Testing recall: 98.000%
+Testing precision: 92.453%
+Testing f_measure: 95.146%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 111, auc = 0.992, sens = 0.980, spec = 0.925, blAUC = 0.956, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.924%
+Training recall: 97.760%
+Training precision: 94.298%
+Training f_measure: 95.998%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 56, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.025%
+Training recall: 98.010%
+Training precision: 94.268%
+Training f_measure: 96.102%
+Testing accuracy: 97.872%
+Testing recall: 100.000%
+Testing precision: 95.918%
+Testing f_measure: 97.917%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 139, auc = 0.981, sens = 1.000, spec = 0.959, blAUC = 0.967, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.559%
+Training recall: 95.811%
+Training precision: 93.471%
+Training f_measure: 94.626%
+Testing accuracy: 90.000%
+Testing recall: 80.000%
+Testing precision: 100.000%
+Testing f_measure: 88.889%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 75, auc = 0.970, sens = 0.800, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.153%
+Training recall: 94.397%
+Training precision: 93.938%
+Training f_measure: 94.167%
+Testing accuracy: 92.708%
+Testing recall: 95.833%
+Testing precision: 90.196%
+Testing f_measure: 92.929%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 37, auc = 0.968, sens = 0.958, spec = 0.902, blAUC = 0.964, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.465%
+Training recall: 96.646%
+Training precision: 94.415%
+Training f_measure: 95.518%
+Testing accuracy: 96.552%
+Testing recall: 96.552%
+Testing precision: 96.552%
+Testing f_measure: 96.552%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 18, auc = 0.984, sens = 0.966, spec = 0.966, blAUC = 0.979, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.151%
+Training recall: 96.855%
+Training precision: 93.664%
+Training f_measure: 95.233%
+Testing accuracy: 95.833%
+Testing recall: 91.667%
+Testing precision: 100.000%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 94, auc = 1.000, sens = 0.917, spec = 1.000, blAUC = 0.938, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.956%
+Training recall: 95.858%
+Training precision: 94.159%
+Training f_measure: 95.001%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 110, auc = 0.992, sens = 1.000, spec = 0.917, blAUC = 0.959, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.450%
+Training recall: 96.785%
+Training precision: 94.269%
+Training f_measure: 95.510%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 74, auc = 0.891, sens = 1.000, spec = 0.889, blAUC = 0.906, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.973%
+Training recall: 98.138%
+Training precision: 94.065%
+Training f_measure: 96.058%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 125, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.603%
+Training recall: 96.914%
+Training precision: 94.437%
+Training f_measure: 95.660%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 36, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.901, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.202%
+Training recall: 97.852%
+Training precision: 94.727%
+Training f_measure: 96.264%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 138, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.428%
+Training recall: 95.312%
+Training precision: 93.656%
+Training f_measure: 94.477%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 55, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.144%
+Training recall: 96.758%
+Training precision: 93.731%
+Training f_measure: 95.221%
+Testing accuracy: 95.652%
+Testing recall: 100.000%
+Testing precision: 92.000%
+Testing f_measure: 95.833%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 17, auc = 0.981, sens = 1.000, spec = 0.920, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.394%
+Training recall: 95.765%
+Training precision: 93.210%
+Training f_measure: 94.470%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 93, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.712%
+Training recall: 97.580%
+Training precision: 94.066%
+Training f_measure: 95.791%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 109, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.033%
+Training recall: 94.852%
+Training precision: 93.324%
+Training f_measure: 94.082%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 35, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.160%
+Training recall: 95.919%
+Training precision: 94.484%
+Training f_measure: 95.196%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 137, auc = 1.000, sens = 1.000, spec = 0.889, blAUC = 0.875, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.648%
+Training recall: 93.397%
+Training precision: 93.868%
+Training f_measure: 93.632%
+Testing accuracy: 97.581%
+Testing recall: 95.161%
+Testing precision: 100.000%
+Testing f_measure: 97.521%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 73, auc = 0.993, sens = 0.952, spec = 1.000, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.296%
+Training recall: 96.609%
+Training precision: 94.136%
+Training f_measure: 95.357%
+Testing accuracy: 97.581%
+Testing recall: 96.774%
+Testing precision: 98.361%
+Testing f_measure: 97.561%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 124, auc = 0.992, sens = 0.968, spec = 0.984, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.331%
+Training recall: 95.362%
+Training precision: 93.435%
+Training f_measure: 94.389%
+Testing accuracy: 93.878%
+Testing recall: 93.878%
+Testing precision: 93.878%
+Testing f_measure: 93.878%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 16, auc = 0.971, sens = 0.939, spec = 0.939, blAUC = 0.981, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.342%
+Training recall: 96.560%
+Training precision: 94.264%
+Training f_measure: 95.398%
+Testing accuracy: 95.312%
+Testing recall: 98.438%
+Testing precision: 92.647%
+Testing f_measure: 95.455%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 92, auc = 0.987, sens = 0.984, spec = 0.926, blAUC = 0.967, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.712%
+Training recall: 93.641%
+Training precision: 93.775%
+Training f_measure: 93.708%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 54, auc = 0.969, sens = 1.000, spec = 0.889, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.070%
+Training recall: 97.242%
+Training precision: 93.193%
+Training f_measure: 95.175%
+Testing accuracy: 96.667%
+Testing recall: 98.333%
+Testing precision: 95.161%
+Testing f_measure: 96.721%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 34, auc = 0.996, sens = 0.983, spec = 0.952, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.661%
+Training recall: 97.135%
+Training precision: 94.354%
+Training f_measure: 95.724%
+Testing accuracy: 94.915%
+Testing recall: 98.305%
+Testing precision: 92.063%
+Testing f_measure: 95.082%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 136, auc = 0.981, sens = 0.983, spec = 0.921, blAUC = 0.973, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.649%
+Training recall: 96.412%
+Training precision: 94.962%
+Training f_measure: 95.681%
+Testing accuracy: 96.939%
+Testing recall: 97.959%
+Testing precision: 96.000%
+Testing f_measure: 96.970%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 72, auc = 0.996, sens = 0.980, spec = 0.960, blAUC = 0.962, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.743%
+Training recall: 97.671%
+Training precision: 94.044%
+Training f_measure: 95.823%
+Testing accuracy: 95.238%
+Testing recall: 96.825%
+Testing precision: 93.846%
+Testing f_measure: 95.312%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 108, auc = 0.979, sens = 0.968, spec = 0.938, blAUC = 0.955, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.954%
+Training recall: 97.319%
+Training precision: 92.924%
+Training f_measure: 95.071%
+Testing accuracy: 94.318%
+Testing recall: 100.000%
+Testing precision: 89.796%
+Testing f_measure: 94.624%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 123, auc = 0.974, sens = 1.000, spec = 0.898, blAUC = 0.970, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.761%
+Training recall: 96.816%
+Training precision: 94.815%
+Training f_measure: 95.805%
+Testing accuracy: 97.059%
+Testing recall: 96.078%
+Testing precision: 98.000%
+Testing f_measure: 97.030%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 15, auc = 0.998, sens = 0.961, spec = 0.980, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.507%
+Training recall: 95.606%
+Training precision: 93.551%
+Training f_measure: 94.567%
+Testing accuracy: 91.935%
+Testing recall: 93.548%
+Testing precision: 90.625%
+Testing f_measure: 92.063%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 53, auc = 0.972, sens = 0.935, spec = 0.906, blAUC = 0.966, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.296%
+Training recall: 93.361%
+Training precision: 93.239%
+Training f_measure: 93.300%
+Testing accuracy: 92.553%
+Testing recall: 95.745%
+Testing precision: 90.000%
+Testing f_measure: 92.784%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 91, auc = 0.954, sens = 0.957, spec = 0.900, blAUC = 0.966, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.233%
+Training recall: 95.900%
+Training precision: 94.637%
+Training f_measure: 95.265%
+Testing accuracy: 96.739%
+Testing recall: 97.826%
+Testing precision: 95.745%
+Testing f_measure: 96.774%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 135, auc = 0.983, sens = 0.978, spec = 0.957, blAUC = 0.979, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.014%
+Training recall: 96.023%
+Training precision: 94.124%
+Training f_measure: 95.064%
+Testing accuracy: 93.651%
+Testing recall: 90.476%
+Testing precision: 96.610%
+Testing f_measure: 93.443%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 33, auc = 0.973, sens = 0.905, spec = 0.966, blAUC = 0.949, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.980%
+Training recall: 95.981%
+Training precision: 94.096%
+Training f_measure: 95.030%
+Testing accuracy: 90.196%
+Testing recall: 96.078%
+Testing precision: 85.965%
+Testing f_measure: 90.741%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 107, auc = 0.965, sens = 0.961, spec = 0.860, blAUC = 0.953, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.047%
+Training recall: 95.300%
+Training precision: 92.971%
+Training f_measure: 94.121%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 71, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.109%
+Training recall: 96.189%
+Training precision: 94.155%
+Training f_measure: 95.161%
+Testing accuracy: 96.154%
+Testing recall: 92.308%
+Testing precision: 100.000%
+Testing f_measure: 96.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 122, auc = 0.964, sens = 0.923, spec = 1.000, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.443%
+Training recall: 96.451%
+Training precision: 94.544%
+Training f_measure: 95.488%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 14, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.028%
+Training recall: 94.064%
+Training precision: 93.996%
+Training f_measure: 94.030%
+Testing accuracy: 95.833%
+Testing recall: 93.750%
+Testing precision: 97.826%
+Testing f_measure: 95.745%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 52, auc = 0.997, sens = 0.938, spec = 0.978, blAUC = 0.980, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.021%
+Training recall: 96.202%
+Training precision: 93.983%
+Training f_measure: 95.079%
+Testing accuracy: 95.455%
+Testing recall: 90.909%
+Testing precision: 100.000%
+Testing f_measure: 95.238%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 90, auc = 1.000, sens = 0.909, spec = 1.000, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.870%
+Training recall: 97.353%
+Training precision: 94.548%
+Training f_measure: 95.930%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 32, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 0.959, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.481%
+Training recall: 95.466%
+Training precision: 93.622%
+Training f_measure: 94.535%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 106, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.606%
+Training recall: 95.668%
+Training precision: 93.678%
+Training f_measure: 94.663%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 134, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.222%
+Training recall: 94.899%
+Training precision: 93.632%
+Training f_measure: 94.261%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 70, auc = 1.000, sens = 1.000, spec = 0.889, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.361%
+Training recall: 97.224%
+Training precision: 93.732%
+Training f_measure: 95.446%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 13, auc = 0.969, sens = 1.000, spec = 0.889, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.373%
+Training recall: 96.215%
+Training precision: 94.621%
+Training f_measure: 95.411%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 121, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.828%
+Training recall: 96.748%
+Training precision: 95.000%
+Training f_measure: 95.866%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 51, auc = 0.986, sens = 1.000, spec = 0.923, blAUC = 0.931, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.215%
+Training recall: 93.867%
+Training precision: 92.658%
+Training f_measure: 93.259%
+Testing accuracy: 78.571%
+Testing recall: 100.000%
+Testing precision: 70.000%
+Testing f_measure: 82.353%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 89, auc = 0.857, sens = 1.000, spec = 0.700, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.718%
+Training recall: 97.106%
+Training precision: 94.483%
+Training f_measure: 95.776%
+Testing accuracy: 85.714%
+Testing recall: 100.000%
+Testing precision: 77.778%
+Testing f_measure: 87.500%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 105, auc = 0.898, sens = 1.000, spec = 0.778, blAUC = 0.857, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.889%
+Training recall: 98.339%
+Training precision: 93.746%
+Training f_measure: 95.987%
+Testing accuracy: 93.750%
+Testing recall: 100.000%
+Testing precision: 88.889%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 31, auc = 0.875, sens = 1.000, spec = 0.889, blAUC = 0.906, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.753%
+Training recall: 95.833%
+Training precision: 93.806%
+Training f_measure: 94.809%
+Testing accuracy: 94.262%
+Testing recall: 96.721%
+Testing precision: 92.188%
+Testing f_measure: 94.400%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 69, auc = 0.976, sens = 0.967, spec = 0.922, blAUC = 0.955, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.060%
+Training recall: 96.181%
+Training precision: 94.072%
+Training f_measure: 95.115%
+Testing accuracy: 83.333%
+Testing recall: 100.000%
+Testing precision: 75.000%
+Testing f_measure: 85.714%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 133, auc = 0.944, sens = 1.000, spec = 0.750, blAUC = 0.806, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.070%
+Training recall: 95.810%
+Training precision: 94.412%
+Training f_measure: 95.106%
+Testing accuracy: 95.833%
+Testing recall: 96.667%
+Testing precision: 95.082%
+Testing f_measure: 95.868%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 12, auc = 0.988, sens = 0.967, spec = 0.951, blAUC = 0.971, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.859%
+Training recall: 97.697%
+Training precision: 94.233%
+Training f_measure: 95.934%
+Testing accuracy: 98.246%
+Testing recall: 98.246%
+Testing precision: 98.246%
+Testing f_measure: 98.246%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 120, auc = 0.982, sens = 0.982, spec = 0.982, blAUC = 0.968, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.012%
+Training recall: 95.421%
+Training precision: 94.646%
+Training f_measure: 95.032%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 50, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.416%
+Training recall: 95.585%
+Training precision: 93.401%
+Training f_measure: 94.480%
+Testing accuracy: 96.429%
+Testing recall: 98.214%
+Testing precision: 94.828%
+Testing f_measure: 96.491%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 88, auc = 0.993, sens = 0.982, spec = 0.948, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 96.240%
+Training recall: 97.290%
+Training precision: 95.288%
+Training f_measure: 96.279%
+Testing accuracy: 96.667%
+Testing recall: 95.000%
+Testing precision: 98.276%
+Testing f_measure: 96.610%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 30, auc = 0.989, sens = 0.950, spec = 0.983, blAUC = 0.971, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.060%
+Training recall: 97.815%
+Training precision: 94.498%
+Training f_measure: 96.128%
+Testing accuracy: 98.387%
+Testing recall: 100.000%
+Testing precision: 96.875%
+Testing f_measure: 98.413%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 104, auc = 0.999, sens = 1.000, spec = 0.969, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.815%
+Training recall: 96.162%
+Training precision: 93.639%
+Training f_measure: 94.884%
+Testing accuracy: 93.750%
+Testing recall: 97.917%
+Testing precision: 90.385%
+Testing f_measure: 94.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 68, auc = 0.980, sens = 0.979, spec = 0.904, blAUC = 0.970, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.832%
+Training recall: 95.082%
+Training precision: 94.608%
+Training f_measure: 94.845%
+Testing accuracy: 97.458%
+Testing recall: 96.610%
+Testing precision: 98.276%
+Testing f_measure: 97.436%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 132, auc = 0.975, sens = 0.966, spec = 0.983, blAUC = 0.975, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.589%
+Training recall: 95.614%
+Training precision: 93.693%
+Training f_measure: 94.644%
+Testing accuracy: 92.553%
+Testing recall: 95.745%
+Testing precision: 90.000%
+Testing f_measure: 92.784%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 11, auc = 0.969, sens = 0.957, spec = 0.900, blAUC = 0.955, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.769%
+Training recall: 97.032%
+Training precision: 94.641%
+Training f_measure: 95.822%
+Testing accuracy: 97.872%
+Testing recall: 100.000%
+Testing precision: 95.918%
+Testing f_measure: 97.917%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 119, auc = 0.983, sens = 1.000, spec = 0.959, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.092%
+Training recall: 95.605%
+Training precision: 94.634%
+Training f_measure: 95.117%
+Testing accuracy: 97.619%
+Testing recall: 96.825%
+Testing precision: 98.387%
+Testing f_measure: 97.600%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 49, auc = 0.982, sens = 0.968, spec = 0.984, blAUC = 0.979, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.339%
+Training recall: 96.197%
+Training precision: 94.574%
+Training f_measure: 95.379%
+Testing accuracy: 92.708%
+Testing recall: 93.750%
+Testing precision: 91.837%
+Testing f_measure: 92.784%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 87, auc = 0.986, sens = 0.938, spec = 0.918, blAUC = 0.968, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.855%
+Training recall: 95.397%
+Training precision: 94.373%
+Training f_measure: 94.882%
+Testing accuracy: 98.039%
+Testing recall: 96.078%
+Testing precision: 100.000%
+Testing f_measure: 98.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 103, auc = 0.985, sens = 0.961, spec = 1.000, blAUC = 0.965, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.037%
+Training recall: 98.126%
+Training precision: 94.191%
+Training f_measure: 96.118%
+Testing accuracy: 94.915%
+Testing recall: 93.220%
+Testing precision: 96.491%
+Testing f_measure: 94.828%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 29, auc = 0.990, sens = 0.932, spec = 0.965, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.000%
+Training recall: 97.187%
+Training precision: 94.934%
+Training f_measure: 96.047%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 67, auc = 0.934, sens = 1.000, spec = 0.917, blAUC = 0.917, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.974%
+Training recall: 95.397%
+Training precision: 94.596%
+Training f_measure: 94.995%
+Testing accuracy: 94.118%
+Testing recall: 94.118%
+Testing precision: 94.118%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 131, auc = 0.963, sens = 0.941, spec = 0.941, blAUC = 0.951, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.360%
+Training recall: 96.737%
+Training precision: 94.145%
+Training f_measure: 95.423%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 10, auc = 1.000, sens = 1.000, spec = 0.909, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.775%
+Training recall: 94.030%
+Training precision: 93.553%
+Training f_measure: 93.791%
+Testing accuracy: 86.364%
+Testing recall: 81.818%
+Testing precision: 90.000%
+Testing f_measure: 85.714%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 118, auc = 0.876, sens = 0.818, spec = 0.900, blAUC = 0.950, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.231%
+Training recall: 95.660%
+Training precision: 94.846%
+Training f_measure: 95.252%
+Testing accuracy: 95.918%
+Testing recall: 95.918%
+Testing precision: 95.918%
+Testing f_measure: 95.918%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 48, auc = 0.978, sens = 0.959, spec = 0.959, blAUC = 0.981, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.890%
+Training recall: 95.347%
+Training precision: 94.484%
+Training f_measure: 94.913%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 86, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.951, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.493%
+Training recall: 95.015%
+Training precision: 94.033%
+Training f_measure: 94.522%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 28, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 94.113%
+Training recall: 94.458%
+Training precision: 93.812%
+Training f_measure: 94.134%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 102, auc = 0.975, sens = 1.000, spec = 0.917, blAUC = 0.926, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 96.020%
+Training recall: 97.295%
+Training precision: 94.876%
+Training f_measure: 96.070%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 66, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.986%
+Training recall: 96.048%
+Training precision: 94.050%
+Training f_measure: 95.038%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 130, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.609%
+Training recall: 95.576%
+Training precision: 93.763%
+Training f_measure: 94.661%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 9, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.912%
+Training recall: 96.086%
+Training precision: 93.881%
+Training f_measure: 94.971%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 117, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.917, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.230%
+Training recall: 97.147%
+Training precision: 93.561%
+Training f_measure: 95.320%
+Testing accuracy: 97.541%
+Testing recall: 100.000%
+Testing precision: 95.312%
+Testing f_measure: 97.600%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 85, auc = 0.999, sens = 1.000, spec = 0.953, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.366%
+Training recall: 96.262%
+Training precision: 94.567%
+Training f_measure: 95.407%
+Testing accuracy: 90.909%
+Testing recall: 100.000%
+Testing precision: 84.615%
+Testing f_measure: 91.667%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 47, auc = 1.000, sens = 1.000, spec = 0.846, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.149%
+Training recall: 96.252%
+Training precision: 94.174%
+Training f_measure: 95.202%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 27, auc = 0.889, sens = 1.000, spec = 0.857, blAUC = 0.972, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.078%
+Training recall: 95.932%
+Training precision: 94.321%
+Training f_measure: 95.119%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 101, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.837%
+Training recall: 96.085%
+Training precision: 93.746%
+Training f_measure: 94.901%
+Testing accuracy: 93.333%
+Testing recall: 95.000%
+Testing precision: 91.935%
+Testing f_measure: 93.443%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 65, auc = 0.979, sens = 0.950, spec = 0.919, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.629%
+Training recall: 96.880%
+Training precision: 94.515%
+Training f_measure: 95.683%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 129, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.020%
+Training recall: 95.880%
+Training precision: 94.259%
+Training f_measure: 95.062%
+Testing accuracy: 96.875%
+Testing recall: 96.875%
+Testing precision: 96.875%
+Testing f_measure: 96.875%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 8, auc = 0.987, sens = 0.969, spec = 0.969, blAUC = 0.965, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.900%
+Training recall: 98.150%
+Training precision: 93.924%
+Training f_measure: 95.991%
+Testing accuracy: 96.552%
+Testing recall: 98.276%
+Testing precision: 95.000%
+Testing f_measure: 96.610%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 116, auc = 0.990, sens = 0.983, spec = 0.950, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.110%
+Training recall: 95.926%
+Training precision: 94.385%
+Training f_measure: 95.149%
+Testing accuracy: 93.023%
+Testing recall: 97.674%
+Testing precision: 89.362%
+Testing f_measure: 93.333%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 84, auc = 0.983, sens = 0.977, spec = 0.894, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.508%
+Training recall: 94.923%
+Training precision: 94.141%
+Training f_measure: 94.530%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 46, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.641%
+Training recall: 96.145%
+Training precision: 93.338%
+Training f_measure: 94.721%
+Testing accuracy: 95.690%
+Testing recall: 96.552%
+Testing precision: 94.915%
+Testing f_measure: 95.726%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 26, auc = 0.979, sens = 0.966, spec = 0.949, blAUC = 0.968, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.274%
+Training recall: 96.241%
+Training precision: 94.416%
+Training f_measure: 95.320%
+Testing accuracy: 93.860%
+Testing recall: 98.246%
+Testing precision: 90.323%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 100, auc = 0.975, sens = 0.982, spec = 0.903, blAUC = 0.965, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.015%
+Training recall: 95.064%
+Training precision: 93.111%
+Training f_measure: 94.077%
+Testing accuracy: 95.918%
+Testing recall: 93.878%
+Testing precision: 97.872%
+Testing f_measure: 95.833%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 64, auc = 0.960, sens = 0.939, spec = 0.979, blAUC = 0.977, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.760%
+Training recall: 95.512%
+Training precision: 94.097%
+Training f_measure: 94.799%
+Testing accuracy: 96.610%
+Testing recall: 96.610%
+Testing precision: 96.610%
+Testing f_measure: 96.610%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 128, auc = 0.995, sens = 0.966, spec = 0.966, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 96.191%
+Training recall: 97.842%
+Training precision: 94.714%
+Training f_measure: 96.252%
+Testing accuracy: 97.000%
+Testing recall: 100.000%
+Testing precision: 94.340%
+Testing f_measure: 97.087%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 7, auc = 0.991, sens = 1.000, spec = 0.943, blAUC = 0.972, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.231%
+Training recall: 96.221%
+Training precision: 94.354%
+Training f_measure: 95.278%
+Testing accuracy: 95.918%
+Testing recall: 97.959%
+Testing precision: 94.118%
+Testing f_measure: 96.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 115, auc = 0.983, sens = 0.980, spec = 0.941, blAUC = 0.962, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.117%
+Training recall: 97.511%
+Training precision: 94.867%
+Training f_measure: 96.171%
+Testing accuracy: 92.683%
+Testing recall: 92.683%
+Testing precision: 92.683%
+Testing f_measure: 92.683%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 83, auc = 0.985, sens = 0.927, spec = 0.927, blAUC = 0.970, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.173%
+Training recall: 97.636%
+Training precision: 94.860%
+Training f_measure: 96.228%
+Testing accuracy: 98.413%
+Testing recall: 100.000%
+Testing precision: 96.923%
+Testing f_measure: 98.437%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 45, auc = 0.993, sens = 1.000, spec = 0.969, blAUC = 0.952, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.703%
+Training recall: 95.772%
+Training precision: 93.768%
+Training f_measure: 94.759%
+Testing accuracy: 92.188%
+Testing recall: 90.625%
+Testing precision: 93.548%
+Testing f_measure: 92.063%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 25, auc = 0.960, sens = 0.906, spec = 0.935, blAUC = 0.939, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.327%
+Training recall: 97.032%
+Training precision: 93.833%
+Training f_measure: 95.406%
+Testing accuracy: 94.792%
+Testing recall: 97.917%
+Testing precision: 92.157%
+Testing f_measure: 94.949%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 99, auc = 0.998, sens = 0.979, spec = 0.922, blAUC = 0.944, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 92.595%
+Training recall: 92.192%
+Training precision: 92.942%
+Training f_measure: 92.565%
+Testing accuracy: 90.000%
+Testing recall: 90.000%
+Testing precision: 90.000%
+Testing f_measure: 90.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 63, auc = 0.990, sens = 0.900, spec = 0.900, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.309%
+Training recall: 94.470%
+Training precision: 94.167%
+Training f_measure: 94.318%
+Testing accuracy: 81.915%
+Testing recall: 68.085%
+Testing precision: 94.118%
+Testing f_measure: 79.012%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 151, auc = 0.947, sens = 0.681, spec = 0.941, blAUC = 0.921, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.576%
+Training recall: 94.837%
+Training precision: 94.345%
+Training f_measure: 94.590%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 6, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 93.924%
+Training recall: 94.303%
+Training precision: 93.592%
+Training f_measure: 93.947%
+Testing accuracy: 90.909%
+Testing recall: 81.818%
+Testing precision: 100.000%
+Testing f_measure: 90.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 114, auc = 0.950, sens = 0.818, spec = 1.000, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.297%
+Training recall: 96.412%
+Training precision: 94.309%
+Training f_measure: 95.349%
+Testing accuracy: 94.898%
+Testing recall: 95.918%
+Testing precision: 94.000%
+Testing f_measure: 94.949%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 82, auc = 0.992, sens = 0.959, spec = 0.940, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.205%
+Training recall: 96.684%
+Training precision: 93.906%
+Training f_measure: 95.274%
+Testing accuracy: 97.222%
+Testing recall: 98.148%
+Testing precision: 96.364%
+Testing f_measure: 97.248%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 44, auc = 0.983, sens = 0.981, spec = 0.964, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.713%
+Training recall: 95.692%
+Training precision: 93.854%
+Training f_measure: 94.764%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 24, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 0.934, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.264%
+Training recall: 96.214%
+Training precision: 94.421%
+Training f_measure: 95.309%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 98, auc = 1.000, sens = 1.000, spec = 0.923, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.308%
+Training recall: 96.429%
+Training precision: 94.315%
+Training f_measure: 95.360%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 62, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.797%
+Training recall: 96.293%
+Training precision: 93.495%
+Training f_measure: 94.873%
+Testing accuracy: 93.750%
+Testing recall: 91.667%
+Testing precision: 95.652%
+Testing f_measure: 93.617%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 150, auc = 0.958, sens = 0.917, spec = 0.957, blAUC = 0.925, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 96.091%
+Training recall: 97.271%
+Training precision: 95.028%
+Training f_measure: 96.136%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 5, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.201%
+Training recall: 96.204%
+Training precision: 94.313%
+Training f_measure: 95.249%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 113, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.651%
+Training recall: 97.950%
+Training precision: 93.643%
+Training f_measure: 95.748%
+Testing accuracy: 95.556%
+Testing recall: 100.000%
+Testing precision: 91.837%
+Testing f_measure: 95.745%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 81, auc = 0.977, sens = 1.000, spec = 0.918, blAUC = 0.980, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.499%
+Training recall: 94.707%
+Training precision: 94.315%
+Training f_measure: 94.511%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 43, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.807%
+Training recall: 97.900%
+Training precision: 93.966%
+Training f_measure: 95.893%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 97, auc = 0.980, sens = 1.000, spec = 0.875, blAUC = 0.980, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.000%
+Training recall: 95.528%
+Training precision: 94.530%
+Training f_measure: 95.026%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 23, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.615%
+Training recall: 95.690%
+Training precision: 93.676%
+Training f_measure: 94.672%
+Testing accuracy: 95.968%
+Testing recall: 95.161%
+Testing precision: 96.721%
+Testing f_measure: 95.935%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 61, auc = 0.990, sens = 0.952, spec = 0.967, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.471%
+Training recall: 96.210%
+Training precision: 94.809%
+Training f_measure: 95.504%
+Testing accuracy: 80.851%
+Testing recall: 68.085%
+Testing precision: 91.429%
+Testing f_measure: 78.049%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 149, auc = 0.900, sens = 0.681, spec = 0.914, blAUC = 0.920, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.222%
+Training recall: 94.807%
+Training precision: 93.711%
+Training f_measure: 94.256%
+Testing accuracy: 95.000%
+Testing recall: 98.333%
+Testing precision: 92.188%
+Testing f_measure: 95.161%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 4, auc = 0.978, sens = 0.983, spec = 0.922, blAUC = 0.967, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.168%
+Training recall: 95.698%
+Training precision: 94.694%
+Training f_measure: 95.194%
+Testing accuracy: 96.667%
+Testing recall: 97.778%
+Testing precision: 95.652%
+Testing f_measure: 96.703%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 161, auc = 0.998, sens = 0.978, spec = 0.957, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.065%
+Training recall: 96.269%
+Training precision: 94.005%
+Training f_measure: 95.124%
+Testing accuracy: 94.792%
+Testing recall: 95.833%
+Testing precision: 93.878%
+Testing f_measure: 94.845%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 80, auc = 0.994, sens = 0.958, spec = 0.939, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.271%
+Training recall: 96.477%
+Training precision: 94.205%
+Training f_measure: 95.327%
+Testing accuracy: 96.825%
+Testing recall: 95.238%
+Testing precision: 98.361%
+Testing f_measure: 96.774%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 42, auc = 0.993, sens = 0.952, spec = 0.984, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.594%
+Training recall: 95.680%
+Training precision: 93.646%
+Training f_measure: 94.652%
+Testing accuracy: 94.828%
+Testing recall: 98.276%
+Testing precision: 91.935%
+Testing f_measure: 95.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 96, auc = 0.970, sens = 0.983, spec = 0.919, blAUC = 0.958, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.139%
+Training recall: 97.756%
+Training precision: 94.694%
+Training f_measure: 96.201%
+Testing accuracy: 97.414%
+Testing recall: 98.276%
+Testing precision: 96.610%
+Testing f_measure: 97.436%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 22, auc = 0.991, sens = 0.983, spec = 0.966, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.920%
+Training recall: 95.981%
+Training precision: 93.986%
+Training f_measure: 94.973%
+Testing accuracy: 95.098%
+Testing recall: 96.078%
+Testing precision: 94.231%
+Testing f_measure: 95.146%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 60, auc = 0.975, sens = 0.961, spec = 0.942, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 94.901%
+Training recall: 96.057%
+Training precision: 93.887%
+Training f_measure: 94.959%
+Testing accuracy: 76.744%
+Testing recall: 55.814%
+Testing precision: 96.000%
+Testing f_measure: 70.588%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 148, auc = 0.940, sens = 0.558, spec = 0.960, blAUC = 0.931, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.320%
+Training recall: 95.256%
+Training precision: 93.506%
+Training f_measure: 94.373%
+Testing accuracy: 96.875%
+Testing recall: 97.917%
+Testing precision: 95.918%
+Testing f_measure: 96.907%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 3, auc = 0.982, sens = 0.979, spec = 0.959, blAUC = 0.968, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.518%
+Training recall: 96.865%
+Training precision: 94.324%
+Training f_measure: 95.578%
+Testing accuracy: 92.708%
+Testing recall: 91.667%
+Testing precision: 93.617%
+Testing f_measure: 92.632%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 160, auc = 0.965, sens = 0.917, spec = 0.936, blAUC = 0.981, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 94.826%
+Training recall: 95.549%
+Training precision: 94.186%
+Training f_measure: 94.863%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 79, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.124%
+Training recall: 94.887%
+Training precision: 93.461%
+Training f_measure: 94.168%
+Testing accuracy: 96.809%
+Testing recall: 97.872%
+Testing precision: 95.833%
+Testing f_measure: 96.842%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 41, auc = 0.974, sens = 0.979, spec = 0.958, blAUC = 0.971, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.692%
+Training recall: 95.409%
+Training precision: 94.059%
+Training f_measure: 94.729%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 169, auc = 0.796, sens = 0.000, spec = 0.000, blAUC = 0.571, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.266%
+Training recall: 96.884%
+Training precision: 93.848%
+Training f_measure: 95.342%
+Testing accuracy: 91.803%
+Testing recall: 91.803%
+Testing precision: 91.803%
+Testing f_measure: 91.803%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 21, auc = 0.958, sens = 0.918, spec = 0.918, blAUC = 0.927, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.728%
+Training recall: 96.653%
+Training precision: 94.896%
+Training f_measure: 95.767%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 59, auc = 0.992, sens = 1.000, spec = 0.917, blAUC = 0.934, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.589%
+Training recall: 96.794%
+Training precision: 92.705%
+Training f_measure: 94.706%
+Testing accuracy: 90.426%
+Testing recall: 89.362%
+Testing precision: 91.304%
+Testing f_measure: 90.323%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 147, auc = 0.959, sens = 0.894, spec = 0.913, blAUC = 0.971, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.700%
+Training recall: 95.407%
+Training precision: 94.078%
+Training f_measure: 94.737%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 2, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.746%
+Training recall: 95.306%
+Training precision: 94.250%
+Training f_measure: 94.775%
+Testing accuracy: 94.318%
+Testing recall: 97.727%
+Testing precision: 91.489%
+Testing f_measure: 94.505%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 159, auc = 0.968, sens = 0.977, spec = 0.915, blAUC = 0.972, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 94.170%
+Training recall: 95.125%
+Training precision: 93.343%
+Training f_measure: 94.225%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 78, auc = 0.917, sens = 1.000, spec = 0.857, blAUC = 0.944, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.808%
+Training recall: 96.178%
+Training precision: 93.612%
+Training f_measure: 94.878%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 40, auc = 0.967, sens = 1.000, spec = 0.917, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.242%
+Training recall: 93.873%
+Training precision: 94.572%
+Training f_measure: 94.221%
+Testing accuracy: 96.875%
+Testing recall: 97.917%
+Testing precision: 95.918%
+Testing f_measure: 96.907%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 168, auc = 0.989, sens = 0.979, spec = 0.959, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.060%
+Training recall: 94.742%
+Training precision: 93.467%
+Training f_measure: 94.100%
+Testing accuracy: 86.364%
+Testing recall: 90.909%
+Testing precision: 83.333%
+Testing f_measure: 86.957%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 20, auc = 0.959, sens = 0.909, spec = 0.833, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.119%
+Training recall: 95.397%
+Training precision: 94.868%
+Training f_measure: 95.132%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 58, auc = 0.980, sens = 1.000, spec = 0.875, blAUC = 0.980, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.970%
+Training recall: 97.532%
+Training precision: 94.578%
+Training f_measure: 96.032%
+Testing accuracy: 96.939%
+Testing recall: 100.000%
+Testing precision: 94.231%
+Testing f_measure: 97.030%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 146, auc = 1.000, sens = 1.000, spec = 0.942, blAUC = 0.973, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.557%
+Training recall: 95.488%
+Training precision: 93.742%
+Training f_measure: 94.607%
+Testing accuracy: 94.167%
+Testing recall: 96.667%
+Testing precision: 92.063%
+Testing f_measure: 94.309%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 1, auc = 0.980, sens = 0.967, spec = 0.921, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.157%
+Training recall: 96.295%
+Training precision: 94.153%
+Training f_measure: 95.212%
+Testing accuracy: 96.512%
+Testing recall: 97.674%
+Testing precision: 95.455%
+Testing f_measure: 96.552%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 158, auc = 0.996, sens = 0.977, spec = 0.955, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.232%
+Training recall: 94.674%
+Training precision: 93.845%
+Training f_measure: 94.258%
+Testing accuracy: 95.238%
+Testing recall: 96.825%
+Testing precision: 93.846%
+Testing f_measure: 95.312%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 77, auc = 0.961, sens = 0.968, spec = 0.938, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.622%
+Training recall: 97.354%
+Training precision: 94.095%
+Training f_measure: 95.697%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 39, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.338%
+Training recall: 95.244%
+Training precision: 93.549%
+Training f_measure: 94.389%
+Testing accuracy: 95.833%
+Testing recall: 95.833%
+Testing precision: 95.833%
+Testing f_measure: 95.833%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 167, auc = 0.989, sens = 0.958, spec = 0.958, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.109%
+Training recall: 97.688%
+Training precision: 94.697%
+Training f_measure: 96.169%
+Testing accuracy: 97.826%
+Testing recall: 100.000%
+Testing precision: 95.833%
+Testing f_measure: 97.872%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 176, auc = 1.000, sens = 1.000, spec = 0.958, blAUC = 0.972, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.444%
+Training recall: 94.575%
+Training precision: 94.328%
+Training f_measure: 94.451%
+Testing accuracy: 93.000%
+Testing recall: 98.000%
+Testing precision: 89.091%
+Testing f_measure: 93.333%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 183, auc = 0.989, sens = 0.980, spec = 0.891, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.974%
+Training recall: 96.629%
+Training precision: 93.532%
+Training f_measure: 95.056%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 145, auc = 0.959, sens = 1.000, spec = 0.917, blAUC = 0.926, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 96.144%
+Training recall: 97.068%
+Training precision: 95.307%
+Training f_measure: 96.180%
+Testing accuracy: 93.617%
+Testing recall: 97.872%
+Testing precision: 90.196%
+Testing f_measure: 93.878%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 189, auc = 0.995, sens = 0.979, spec = 0.902, blAUC = 0.957, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.210%
+Training recall: 96.699%
+Training precision: 93.902%
+Training f_measure: 95.280%
+Testing accuracy: 96.667%
+Testing recall: 100.000%
+Testing precision: 93.750%
+Testing f_measure: 96.774%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 157, auc = 0.984, sens = 1.000, spec = 0.938, blAUC = 0.977, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.875%
+Training recall: 96.234%
+Training precision: 93.688%
+Training f_measure: 94.944%
+Testing accuracy: 97.826%
+Testing recall: 100.000%
+Testing precision: 95.833%
+Testing f_measure: 97.872%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 194, auc = 0.992, sens = 1.000, spec = 0.958, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 94.142%
+Training recall: 94.112%
+Training precision: 94.168%
+Training f_measure: 94.140%
+Testing accuracy: 95.745%
+Testing recall: 93.617%
+Testing precision: 97.778%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 198, auc = 0.993, sens = 0.936, spec = 0.978, blAUC = 0.970, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.542%
+Training recall: 96.258%
+Training precision: 93.064%
+Training f_measure: 94.634%
+Testing accuracy: 97.826%
+Testing recall: 97.826%
+Testing precision: 97.826%
+Testing f_measure: 97.826%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 166, auc = 0.994, sens = 0.978, spec = 0.978, blAUC = 0.991, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.049%
+Training recall: 97.009%
+Training precision: 95.182%
+Training f_measure: 96.087%
+Testing accuracy: 91.304%
+Testing recall: 93.478%
+Testing precision: 89.583%
+Testing f_measure: 91.489%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 175, auc = 0.983, sens = 0.935, spec = 0.896, blAUC = 0.968, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.362%
+Training recall: 97.127%
+Training precision: 93.816%
+Training f_measure: 95.442%
+Testing accuracy: 96.000%
+Testing recall: 100.000%
+Testing precision: 92.593%
+Testing f_measure: 96.154%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 182, auc = 0.992, sens = 1.000, spec = 0.926, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.484%
+Training recall: 95.006%
+Training precision: 94.024%
+Training f_measure: 94.513%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 144, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.237%
+Training recall: 96.590%
+Training precision: 94.045%
+Training f_measure: 95.301%
+Testing accuracy: 98.980%
+Testing recall: 100.000%
+Testing precision: 98.000%
+Testing f_measure: 98.990%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 188, auc = 1.000, sens = 1.000, spec = 0.980, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.347%
+Training recall: 96.830%
+Training precision: 94.040%
+Training f_measure: 95.415%
+Testing accuracy: 97.778%
+Testing recall: 100.000%
+Testing precision: 95.745%
+Testing f_measure: 97.826%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 193, auc = 0.981, sens = 1.000, spec = 0.957, blAUC = 0.965, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.758%
+Training recall: 95.318%
+Training precision: 94.262%
+Training f_measure: 94.787%
+Testing accuracy: 94.318%
+Testing recall: 97.727%
+Testing precision: 91.489%
+Testing f_measure: 94.505%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 156, auc = 0.975, sens = 0.977, spec = 0.915, blAUC = 0.961, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.075%
+Training recall: 95.361%
+Training precision: 94.818%
+Training f_measure: 95.089%
+Testing accuracy: 90.385%
+Testing recall: 88.462%
+Testing precision: 92.000%
+Testing f_measure: 90.196%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 197, auc = 0.977, sens = 0.885, spec = 0.920, blAUC = 0.941, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.771%
+Training recall: 97.403%
+Training precision: 94.325%
+Training f_measure: 95.839%
+Testing accuracy: 85.714%
+Testing recall: 73.810%
+Testing precision: 96.875%
+Testing f_measure: 83.784%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 165, auc = 0.939, sens = 0.738, spec = 0.969, blAUC = 0.916, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.527%
+Training recall: 96.962%
+Training precision: 94.256%
+Training f_measure: 95.590%
+Testing accuracy: 91.860%
+Testing recall: 86.047%
+Testing precision: 97.368%
+Testing f_measure: 91.358%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 174, auc = 0.991, sens = 0.860, spec = 0.974, blAUC = 0.963, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.629%
+Training recall: 95.744%
+Training precision: 93.656%
+Training f_measure: 94.688%
+Testing accuracy: 97.959%
+Testing recall: 97.959%
+Testing precision: 97.959%
+Testing f_measure: 97.959%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 181, auc = 0.999, sens = 0.980, spec = 0.980, blAUC = 0.991, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.986%
+Training recall: 96.204%
+Training precision: 93.917%
+Training f_measure: 95.047%
+Testing accuracy: 94.167%
+Testing recall: 98.333%
+Testing precision: 90.769%
+Testing f_measure: 94.400%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 143, auc = 0.991, sens = 0.983, spec = 0.908, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.899%
+Training recall: 95.662%
+Training precision: 94.224%
+Training f_measure: 94.937%
+Testing accuracy: 93.617%
+Testing recall: 97.872%
+Testing precision: 90.196%
+Testing f_measure: 93.878%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 187, auc = 0.981, sens = 0.979, spec = 0.902, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.564%
+Training recall: 95.494%
+Training precision: 93.751%
+Training f_measure: 94.614%
+Testing accuracy: 96.875%
+Testing recall: 97.917%
+Testing precision: 95.918%
+Testing f_measure: 96.907%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 192, auc = 0.994, sens = 0.979, spec = 0.959, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.382%
+Training recall: 95.603%
+Training precision: 93.324%
+Training f_measure: 94.450%
+Testing accuracy: 93.182%
+Testing recall: 97.727%
+Testing precision: 89.583%
+Testing f_measure: 93.478%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 155, auc = 0.991, sens = 0.977, spec = 0.896, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.182%
+Training recall: 96.363%
+Training precision: 94.140%
+Training f_measure: 95.238%
+Testing accuracy: 94.231%
+Testing recall: 96.154%
+Testing precision: 92.593%
+Testing f_measure: 94.340%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 196, auc = 0.976, sens = 0.962, spec = 0.926, blAUC = 0.973, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 96.135%
+Training recall: 97.725%
+Training precision: 94.713%
+Training f_measure: 96.196%
+Testing accuracy: 89.024%
+Testing recall: 82.927%
+Testing precision: 94.444%
+Testing f_measure: 88.312%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 164, auc = 0.970, sens = 0.829, spec = 0.944, blAUC = 0.921, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 96.008%
+Training recall: 97.569%
+Training precision: 94.615%
+Training f_measure: 96.069%
+Testing accuracy: 94.444%
+Testing recall: 91.111%
+Testing precision: 97.619%
+Testing f_measure: 94.253%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 173, auc = 0.992, sens = 0.911, spec = 0.976, blAUC = 0.981, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 96.472%
+Training recall: 97.795%
+Training precision: 95.275%
+Training f_measure: 96.518%
+Testing accuracy: 95.652%
+Testing recall: 100.000%
+Testing precision: 92.000%
+Testing f_measure: 95.833%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 180, auc = 0.988, sens = 1.000, spec = 0.920, blAUC = 0.960, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.017%
+Training recall: 95.899%
+Training precision: 94.236%
+Training f_measure: 95.060%
+Testing accuracy: 95.918%
+Testing recall: 97.959%
+Testing precision: 94.118%
+Testing f_measure: 96.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 142, auc = 0.984, sens = 0.980, spec = 0.941, blAUC = 0.946, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 96.240%
+Training recall: 98.046%
+Training precision: 94.628%
+Training f_measure: 96.307%
+Testing accuracy: 97.826%
+Testing recall: 100.000%
+Testing precision: 95.833%
+Testing f_measure: 97.872%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 186, auc = 1.000, sens = 1.000, spec = 0.958, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.780%
+Training recall: 95.793%
+Training precision: 93.891%
+Training f_measure: 94.832%
+Testing accuracy: 94.565%
+Testing recall: 97.826%
+Testing precision: 91.837%
+Testing f_measure: 94.737%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 191, auc = 0.974, sens = 0.978, spec = 0.918, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.574%
+Training recall: 95.473%
+Training precision: 93.787%
+Training f_measure: 94.623%
+Testing accuracy: 94.048%
+Testing recall: 95.238%
+Testing precision: 93.023%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 154, auc = 0.989, sens = 0.952, spec = 0.930, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.434%
+Training recall: 97.592%
+Training precision: 93.555%
+Training f_measure: 95.531%
+Testing accuracy: 94.792%
+Testing recall: 97.917%
+Testing precision: 92.157%
+Testing f_measure: 94.949%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 195, auc = 0.990, sens = 0.979, spec = 0.922, blAUC = 0.986, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.745%
+Training recall: 95.007%
+Training precision: 94.512%
+Training f_measure: 94.759%
+Testing accuracy: 93.333%
+Testing recall: 95.556%
+Testing precision: 91.489%
+Testing f_measure: 93.478%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 163, auc = 0.993, sens = 0.956, spec = 0.915, blAUC = 0.998, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.218%
+Training recall: 95.601%
+Training precision: 93.028%
+Training f_measure: 94.297%
+Testing accuracy: 94.898%
+Testing recall: 97.959%
+Testing precision: 92.308%
+Testing f_measure: 95.050%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 172, auc = 0.979, sens = 0.980, spec = 0.923, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.438%
+Training recall: 95.291%
+Training precision: 93.694%
+Training f_measure: 94.485%
+Testing accuracy: 95.918%
+Testing recall: 97.959%
+Testing precision: 94.118%
+Testing f_measure: 96.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 179, auc = 0.990, sens = 0.980, spec = 0.941, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.593%
+Training recall: 95.098%
+Training precision: 94.148%
+Training f_measure: 94.621%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 141, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.382%
+Training recall: 95.301%
+Training precision: 93.580%
+Training f_measure: 94.433%
+Testing accuracy: 44.444%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 185, auc = 0.568, sens = 0.000, spec = 0.000, blAUC = 0.481, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.483%
+Training recall: 96.591%
+Training precision: 94.496%
+Training f_measure: 95.532%
+Testing accuracy: 96.809%
+Testing recall: 97.872%
+Testing precision: 95.833%
+Testing f_measure: 96.842%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 190, auc = 0.995, sens = 0.979, spec = 0.958, blAUC = 0.995, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.604%
+Training recall: 95.588%
+Training precision: 93.743%
+Training f_measure: 94.657%
+Testing accuracy: 93.137%
+Testing recall: 92.157%
+Testing precision: 94.000%
+Testing f_measure: 93.069%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 153, auc = 0.949, sens = 0.922, spec = 0.940, blAUC = 0.945, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.117%
+Training recall: 96.220%
+Training precision: 94.143%
+Training f_measure: 95.170%
+Testing accuracy: 94.118%
+Testing recall: 94.118%
+Testing precision: 94.118%
+Testing f_measure: 94.118%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 202, auc = 0.983, sens = 0.941, spec = 0.941, blAUC = 0.966, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.212%
+Training recall: 96.678%
+Training precision: 93.925%
+Training f_measure: 95.282%
+Testing accuracy: 50.000%
+Testing recall: 0.000%
+Testing precision: 0.000%
+Testing f_measure: 0.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 162, auc = 0.605, sens = 0.000, spec = 0.000, blAUC = 0.802, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.441%
+Training recall: 97.247%
+Training precision: 93.857%
+Training f_measure: 95.522%
+Testing accuracy: 95.745%
+Testing recall: 100.000%
+Testing precision: 92.157%
+Testing f_measure: 95.918%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 171, auc = 1.000, sens = 1.000, spec = 0.922, blAUC = 0.973, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.864%
+Training recall: 95.948%
+Training precision: 93.911%
+Training f_measure: 94.919%
+Testing accuracy: 96.739%
+Testing recall: 97.826%
+Testing precision: 95.745%
+Testing f_measure: 96.774%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 178, auc = 0.995, sens = 0.978, spec = 0.957, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.522%
+Training recall: 96.852%
+Training precision: 94.343%
+Training f_measure: 95.581%
+Testing accuracy: 99.020%
+Testing recall: 98.039%
+Testing precision: 100.000%
+Testing f_measure: 99.010%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 205, auc = 1.000, sens = 0.980, spec = 1.000, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.999%
+Training recall: 92.552%
+Training precision: 93.387%
+Training f_measure: 92.968%
+Testing accuracy: 94.444%
+Testing recall: 95.556%
+Testing precision: 93.478%
+Testing f_measure: 94.505%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 184, auc = 0.980, sens = 0.956, spec = 0.935, blAUC = 0.987, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.878%
+Training recall: 95.874%
+Training precision: 94.002%
+Training f_measure: 94.929%
+Testing accuracy: 91.176%
+Testing recall: 86.275%
+Testing precision: 95.652%
+Testing f_measure: 90.722%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 152, auc = 0.970, sens = 0.863, spec = 0.957, blAUC = 0.942, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.574%
+Training recall: 95.612%
+Training precision: 93.668%
+Training f_measure: 94.630%
+Testing accuracy: 92.157%
+Testing recall: 94.118%
+Testing precision: 90.566%
+Testing f_measure: 92.308%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 208, auc = 0.972, sens = 0.941, spec = 0.906, blAUC = 0.939, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.117%
+Training recall: 96.339%
+Training precision: 94.040%
+Training f_measure: 95.176%
+Testing accuracy: 94.118%
+Testing recall: 88.235%
+Testing precision: 100.000%
+Testing f_measure: 93.750%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 201, auc = 0.988, sens = 0.882, spec = 1.000, blAUC = 0.996, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.993%
+Training recall: 95.458%
+Training precision: 94.579%
+Training f_measure: 95.017%
+Testing accuracy: 94.792%
+Testing recall: 91.667%
+Testing precision: 97.778%
+Testing f_measure: 94.624%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 211, auc = 0.981, sens = 0.917, spec = 0.978, blAUC = 0.967, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.299%
+Training recall: 94.597%
+Training precision: 94.037%
+Training f_measure: 94.316%
+Testing accuracy: 92.308%
+Testing recall: 96.154%
+Testing precision: 89.286%
+Testing f_measure: 92.593%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 170, auc = 0.986, sens = 0.962, spec = 0.893, blAUC = 0.989, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.204%
+Training recall: 94.710%
+Training precision: 93.760%
+Training f_measure: 94.233%
+Testing accuracy: 94.318%
+Testing recall: 97.727%
+Testing precision: 91.489%
+Testing f_measure: 94.505%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 177, auc = 0.983, sens = 0.977, spec = 0.915, blAUC = 0.989, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.874%
+Training recall: 96.018%
+Training precision: 93.869%
+Training f_measure: 94.932%
+Testing accuracy: 94.898%
+Testing recall: 95.918%
+Testing precision: 94.000%
+Testing f_measure: 94.949%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 204, auc = 0.976, sens = 0.959, spec = 0.940, blAUC = 0.973, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.466%
+Training recall: 97.462%
+Training precision: 93.721%
+Training f_measure: 95.555%
+Testing accuracy: 95.556%
+Testing recall: 95.556%
+Testing precision: 95.556%
+Testing f_measure: 95.556%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 214, auc = 0.994, sens = 0.956, spec = 0.956, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.225%
+Training recall: 96.960%
+Training precision: 93.708%
+Training f_measure: 95.306%
+Testing accuracy: 96.000%
+Testing recall: 96.000%
+Testing precision: 96.000%
+Testing f_measure: 96.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 217, auc = 0.993, sens = 0.960, spec = 0.960, blAUC = 0.975, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.475%
+Training recall: 96.888%
+Training precision: 94.225%
+Training f_measure: 95.538%
+Testing accuracy: 92.157%
+Testing recall: 90.196%
+Testing precision: 93.878%
+Testing f_measure: 92.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 207, auc = 0.980, sens = 0.902, spec = 0.939, blAUC = 0.960, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 94.082%
+Training recall: 94.767%
+Training precision: 93.485%
+Training f_measure: 94.122%
+Testing accuracy: 87.500%
+Testing recall: 81.250%
+Testing precision: 92.857%
+Testing f_measure: 86.667%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 200, auc = 0.955, sens = 0.812, spec = 0.929, blAUC = 0.944, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.291%
+Training recall: 96.686%
+Training precision: 94.062%
+Training f_measure: 95.356%
+Testing accuracy: 93.750%
+Testing recall: 93.750%
+Testing precision: 93.750%
+Testing f_measure: 93.750%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 210, auc = 0.993, sens = 0.938, spec = 0.938, blAUC = 0.975, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.733%
+Training recall: 96.037%
+Training precision: 93.597%
+Training f_measure: 94.801%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 220, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.940%
+Training recall: 95.440%
+Training precision: 94.495%
+Training f_measure: 94.965%
+Testing accuracy: 93.421%
+Testing recall: 97.368%
+Testing precision: 90.244%
+Testing f_measure: 93.671%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 223, auc = 0.981, sens = 0.974, spec = 0.902, blAUC = 0.972, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.872%
+Training recall: 95.206%
+Training precision: 94.575%
+Training f_measure: 94.889%
+Testing accuracy: 95.098%
+Testing recall: 94.118%
+Testing precision: 96.000%
+Testing f_measure: 95.050%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 203, auc = 0.990, sens = 0.941, spec = 0.960, blAUC = 0.979, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.780%
+Training recall: 97.270%
+Training precision: 94.455%
+Training f_measure: 95.842%
+Testing accuracy: 97.959%
+Testing recall: 95.918%
+Testing precision: 100.000%
+Testing f_measure: 97.917%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 206, auc = 0.997, sens = 0.959, spec = 1.000, blAUC = 0.964, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.155%
+Training recall: 96.532%
+Training precision: 93.945%
+Training f_measure: 95.221%
+Testing accuracy: 94.681%
+Testing recall: 100.000%
+Testing precision: 90.385%
+Testing f_measure: 94.949%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 216, auc = 0.995, sens = 1.000, spec = 0.904, blAUC = 0.993, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.972%
+Training recall: 97.629%
+Training precision: 94.498%
+Training f_measure: 96.038%
+Testing accuracy: 95.556%
+Testing recall: 97.778%
+Testing precision: 93.617%
+Testing f_measure: 95.652%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 213, auc = 0.990, sens = 0.978, spec = 0.936, blAUC = 0.970, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 94.845%
+Training recall: 96.460%
+Training precision: 93.442%
+Training f_measure: 94.927%
+Testing accuracy: 93.617%
+Testing recall: 95.745%
+Testing precision: 91.837%
+Testing f_measure: 93.750%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 199, auc = 0.977, sens = 0.957, spec = 0.918, blAUC = 0.960, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.624%
+Training recall: 94.612%
+Training precision: 94.635%
+Training f_measure: 94.623%
+Testing accuracy: 94.792%
+Testing recall: 91.667%
+Testing precision: 97.778%
+Testing f_measure: 94.624%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 209, auc = 0.987, sens = 0.917, spec = 0.978, blAUC = 0.971, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.205%
+Training recall: 97.149%
+Training precision: 93.513%
+Training f_measure: 95.297%
+Testing accuracy: 93.396%
+Testing recall: 96.226%
+Testing precision: 91.071%
+Testing f_measure: 93.578%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 219, auc = 0.980, sens = 0.962, spec = 0.911, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.929%
+Training recall: 94.465%
+Training precision: 93.464%
+Training f_measure: 93.962%
+Testing accuracy: 98.611%
+Testing recall: 100.000%
+Testing precision: 97.297%
+Testing f_measure: 98.630%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 222, auc = 1.000, sens = 1.000, spec = 0.973, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 96.231%
+Training recall: 97.714%
+Training precision: 94.900%
+Training f_measure: 96.286%
+Testing accuracy: 93.590%
+Testing recall: 97.436%
+Testing precision: 90.476%
+Testing f_measure: 93.827%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 225, auc = 0.962, sens = 0.974, spec = 0.905, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.292%
+Training recall: 96.114%
+Training precision: 94.559%
+Training f_measure: 95.330%
+Testing accuracy: 93.617%
+Testing recall: 93.617%
+Testing precision: 93.617%
+Testing f_measure: 93.617%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 215, auc = 0.991, sens = 0.936, spec = 0.936, blAUC = 0.993, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.249%
+Training recall: 95.340%
+Training precision: 93.305%
+Training f_measure: 94.311%
+Testing accuracy: 97.872%
+Testing recall: 95.745%
+Testing precision: 100.000%
+Testing f_measure: 97.826%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 212, auc = 0.999, sens = 0.957, spec = 1.000, blAUC = 0.986, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.345%
+Training recall: 96.143%
+Training precision: 94.633%
+Training f_measure: 95.382%
+Testing accuracy: 97.297%
+Testing recall: 100.000%
+Testing precision: 94.872%
+Testing f_measure: 97.368%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 221, auc = 0.983, sens = 1.000, spec = 0.949, blAUC = 0.980, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 94.254%
+Training recall: 94.993%
+Training precision: 93.610%
+Training f_measure: 94.297%
+Testing accuracy: 94.792%
+Testing recall: 95.833%
+Testing precision: 93.878%
+Testing f_measure: 94.845%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 218, auc = 0.988, sens = 0.958, spec = 0.939, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.154%
+Training recall: 96.928%
+Training precision: 93.606%
+Training f_measure: 95.238%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+CPSase_L_chain_int_CPSase_L_D2, seqPair 224, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.993, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2014-3-23 17:40 SUCCESS: CPSase_L_chain_int_CPSase_L_D2.
+
+
+Sending a stop signal to all the labs ... stopped.
+2014-3-23 17:40 FINISHED.
+Number of total DDI is: 1
+Number of successed DDI is: 1
+Number of total sequence is: 225
+FisherMode: FisherM1 SVMMode: DL_RE_US Kernel: DL_RE_US, choseNegRatio: 1, choseNegRatioTest: 1
+The baseline AUC: 96.733%
+The baseline recall: 0.000%
+The baseline precision: 0.000%
+Testing AUC: 97.746%
+Testing recall: 95.177%
+Testing precision: 92.944%
+Testing f_measure: 93.891%
+Training accuracy: 95.028%
+Training recall: 96.113%
+Training precision: 94.072%
+Training f_measure: 95.078%

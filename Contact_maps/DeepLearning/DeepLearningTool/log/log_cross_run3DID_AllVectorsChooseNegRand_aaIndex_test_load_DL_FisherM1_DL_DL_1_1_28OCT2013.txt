@@ -1,0 +1,16 @@
+2013-10-28 17:8 STARTED.
+{Error using <a href="matlab:helpUtils.errorDocCallback('load')" style="font-weight:bold">load</a>
+Number of columns on line 2 of ASCII file
+/home/michael/Documents/Contact_Matrix_Project/Vectors_Fishers_aaIndex_raw/PF00037.19_int_PF00037.19/F0_20_F1_20_Sliding_17_11_F0_20_F1_20_Sliding_17_11_ouput_51.txt
+must be the same as previous lines.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('chooseAAIndexVectores', '/home/michael/Dropbox/Project/Contact_maps/chooseAAIndexVectores.m', 3)" style="font-weight:bold">chooseAAIndexVectores</a> (<a href="matlab: opentoline('/home/michael/Dropbox/Project/Contact_maps/chooseAAIndexVectores.m',3,0)">line 3</a>)
+data=load(dataFile);
+
+Error in
+<a href="matlab:helpUtils.errorDocCallback('run3DID_AllVectorsChooseNegRand_aaIndex_test_load_DL_cross', '/home/michael/Dropbox/Project/Contact_maps/DeepLearning/DeepLearningTool/run3DID_AllVectorsChooseNegRand_aaIndex_test_load_DL_cross.m', 84)" style="font-weight:bold">run3DID_AllVectorsChooseNegRand_aaIndex_test_load_DL_cross</a> (<a href="matlab: opentoline('/home/michael/Dropbox/Project/Contact_maps/DeepLearning/DeepLearningTool/run3DID_AllVectorsChooseNegRand_aaIndex_test_load_DL_cross.m',84,0)">line
+84</a>)
+            [selectedData, label]=chooseAAIndexVectores(dataFile,
+            FisherMode);
+} 
+run3DID_AllVectorsChooseNegRand_aaIndex_test_load_DL_cross('finishedDDIs_AllVectorsChooseNegRand_FisherM1_SVMLIGHT_POLY_02NOV2011.txt', 'FisherM1', 'DL', 'DL', 1, 1)

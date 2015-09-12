@@ -1,0 +1,8 @@
+ATP-synt_int_ATP-synt_ab
+Biotin_carb_C_int_CPSase_L_D2
+Biotin_carb_C_int_CPSase_L_chain
+E1_dh_int_Transket_pyr
+MHC_I_int_V-set
+Photo_RC_int_PRCH
+Pico_P1A_int_Rhv
+QRPTase_C_int_QRPTase_N

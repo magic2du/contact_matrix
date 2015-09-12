@@ -1,0 +1,11 @@
+Mur_ligase_int_Mur_ligase_M
+AMNp_N_int_PNP_UDP_1
+Photo_RC_int_PsbT
+Cbl_N_int_Cbl_N3		
+Cbl_N_int_Cbl_N2
+Amidase_int_GatB_N
+MutS_I_int_MutS_III
+Photo_RC_int_PsbL
+Phosphodiest_int_Somatomedin_B
+NUDIX_2_int_RRM_6
+GFRP_int_GTP_cyclohydroI

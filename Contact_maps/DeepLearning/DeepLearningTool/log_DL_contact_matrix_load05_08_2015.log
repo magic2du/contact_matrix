@@ -1,0 +1,1884 @@
+2015-05-08 14:20:34,305 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 14:20:34,305 - __main__ - INFO - DL: 1
+2015-05-08 14:20:34,305 - __main__ - INFO - SVM: 1
+2015-05-08 14:20:34,306 - __main__ - INFO - n_outs: 1
+2015-05-08 14:20:34,306 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 14:20:34,306 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 14:20:34,307 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 14:20:34,307 - __main__ - INFO - DL_S: 1
+2015-05-08 14:20:34,307 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 14:20:34,308 - __main__ - INFO - DL_U: 0
+2015-05-08 14:20:34,308 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 14:20:34,309 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 14:20:34,309 - __main__ - INFO - DL_xy: 1
+2015-05-08 14:20:34,309 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 14:20:34,310 - __main__ - INFO - batch_size: 100
+2015-05-08 14:20:34,310 - __main__ - INFO - weight_y: 1
+2015-05-08 14:20:34,310 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 14:20:34,310 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 14:20:34,311 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 14:20:34,311 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 14:20:34,311 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 14:20:34,312 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 14:20:34,312 - __main__ - INFO - training_interations: 3
+2015-05-08 14:20:34,312 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 14:20:34,312 - __main__ - INFO - finetune_lr: 1
+2015-05-08 14:20:34,313 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 14:20:34,313 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 14:20:34,313 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 14:20:34,313 - __main__ - INFO - n_cores: 1
+2015-05-08 14:20:34,314 - __main__ - INFO - sparsity: 0
+2015-05-08 14:20:34,314 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 14:20:34,314 - __main__ - INFO - with_auc_score: False
+2015-05-08 14:20:34,315 - __main__ - INFO - Sda_new: 1
+2015-05-08 14:20:34,315 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 14:20:34,315 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 14:20:36,255 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 14:22:54,069 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 14:22:54,069 - __main__ - INFO - DL: 1
+2015-05-08 14:22:54,070 - __main__ - INFO - SVM: 1
+2015-05-08 14:22:54,070 - __main__ - INFO - n_outs: 1
+2015-05-08 14:22:54,070 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 14:22:54,070 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 14:22:54,071 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 14:22:54,071 - __main__ - INFO - DL_S: 1
+2015-05-08 14:22:54,071 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 14:22:54,071 - __main__ - INFO - DL_U: 0
+2015-05-08 14:22:54,071 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 14:22:54,072 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 14:22:54,072 - __main__ - INFO - DL_xy: 1
+2015-05-08 14:22:54,072 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 14:22:54,072 - __main__ - INFO - batch_size: 100
+2015-05-08 14:22:54,072 - __main__ - INFO - weight_y: 1
+2015-05-08 14:22:54,073 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 14:22:54,073 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 14:22:54,073 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 14:22:54,073 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 14:22:54,074 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 14:22:54,074 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 14:22:54,074 - __main__ - INFO - training_interations: 3
+2015-05-08 14:22:54,074 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 14:22:54,074 - __main__ - INFO - finetune_lr: 1
+2015-05-08 14:22:54,075 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 14:22:54,075 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 14:22:54,075 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 14:22:54,075 - __main__ - INFO - n_cores: 1
+2015-05-08 14:22:54,075 - __main__ - INFO - sparsity: 0
+2015-05-08 14:22:54,076 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 14:22:54,076 - __main__ - INFO - with_auc_score: False
+2015-05-08 14:22:54,076 - __main__ - INFO - Sda_new: 1
+2015-05-08 14:22:54,076 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 14:22:54,076 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 14:22:55,887 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 14:26:30,063 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-08 14:34:25,840 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 14:34:25,841 - __main__ - INFO - DL: 1
+2015-05-08 14:34:25,841 - __main__ - INFO - SVM: 1
+2015-05-08 14:34:25,841 - __main__ - INFO - n_outs: 1
+2015-05-08 14:34:25,841 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 14:34:25,842 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 14:34:25,842 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 14:34:25,842 - __main__ - INFO - DL_S: 1
+2015-05-08 14:34:25,842 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 14:34:25,842 - __main__ - INFO - DL_U: 0
+2015-05-08 14:34:25,843 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 14:34:25,843 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 14:34:25,843 - __main__ - INFO - DL_xy: 1
+2015-05-08 14:34:25,843 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 14:34:25,843 - __main__ - INFO - batch_size: 100
+2015-05-08 14:34:25,844 - __main__ - INFO - weight_y: 1
+2015-05-08 14:34:25,844 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 14:34:25,844 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 14:34:25,844 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 14:34:25,844 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 14:34:25,845 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 14:34:25,845 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 14:34:25,845 - __main__ - INFO - training_interations: 3
+2015-05-08 14:34:25,845 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 14:34:25,846 - __main__ - INFO - finetune_lr: 1
+2015-05-08 14:34:25,846 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 14:34:25,846 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 14:34:25,846 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 14:34:25,846 - __main__ - INFO - n_cores: 1
+2015-05-08 14:34:25,847 - __main__ - INFO - sparsity: 0
+2015-05-08 14:34:25,847 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 14:34:25,847 - __main__ - INFO - with_auc_score: False
+2015-05-08 14:34:25,847 - __main__ - INFO - Sda_new: 1
+2015-05-08 14:34:25,847 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 14:34:25,848 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 14:34:27,658 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 14:46:51,809 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 14:46:51,809 - __main__ - INFO - DL: 1
+2015-05-08 14:46:51,810 - __main__ - INFO - SVM: 1
+2015-05-08 14:46:51,810 - __main__ - INFO - n_outs: 1
+2015-05-08 14:46:51,810 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 14:46:51,811 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 14:46:51,811 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 14:46:51,811 - __main__ - INFO - DL_S: 1
+2015-05-08 14:46:51,812 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 14:46:51,812 - __main__ - INFO - DL_U: 0
+2015-05-08 14:46:51,812 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 14:46:51,813 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 14:46:51,813 - __main__ - INFO - DL_xy: 1
+2015-05-08 14:46:51,813 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 14:46:51,814 - __main__ - INFO - batch_size: 100
+2015-05-08 14:46:51,814 - __main__ - INFO - weight_y: 1
+2015-05-08 14:46:51,814 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 14:46:51,814 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 14:46:51,815 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 14:46:51,815 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 14:46:51,815 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 14:46:51,816 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 14:46:51,816 - __main__ - INFO - training_interations: 3
+2015-05-08 14:46:51,816 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 14:46:51,817 - __main__ - INFO - finetune_lr: 1
+2015-05-08 14:46:51,817 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 14:46:51,817 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 14:46:51,817 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 14:46:51,818 - __main__ - INFO - n_cores: 1
+2015-05-08 14:46:51,818 - __main__ - INFO - sparsity: 0
+2015-05-08 14:46:51,818 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 14:46:51,819 - __main__ - INFO - with_auc_score: False
+2015-05-08 14:46:51,819 - __main__ - INFO - Sda_new: 1
+2015-05-08 14:46:51,819 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 14:46:51,820 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 14:46:53,530 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 14:51:20,568 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-08 14:51:21,371 - __main__ - INFO - integer division or modulo by zero
+2015-05-08 14:51:37,002 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 14:51:37,003 - __main__ - INFO - DL: 1
+2015-05-08 14:51:37,003 - __main__ - INFO - SVM: 1
+2015-05-08 14:51:37,004 - __main__ - INFO - n_outs: 1
+2015-05-08 14:51:37,004 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 14:51:37,004 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 14:51:37,004 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 14:51:37,005 - __main__ - INFO - DL_S: 1
+2015-05-08 14:51:37,005 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 14:51:37,005 - __main__ - INFO - DL_U: 0
+2015-05-08 14:51:37,006 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 14:51:37,006 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 14:51:37,006 - __main__ - INFO - DL_xy: 1
+2015-05-08 14:51:37,007 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 14:51:37,007 - __main__ - INFO - batch_size: 100
+2015-05-08 14:51:37,008 - __main__ - INFO - weight_y: 1
+2015-05-08 14:51:37,008 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 14:51:37,009 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 14:51:37,009 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 14:51:37,010 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 14:51:37,010 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 14:51:37,011 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 14:51:37,011 - __main__ - INFO - training_interations: 3
+2015-05-08 14:51:37,012 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 14:51:37,012 - __main__ - INFO - finetune_lr: 1
+2015-05-08 14:51:37,012 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 14:51:37,013 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 14:51:37,013 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 14:51:37,014 - __main__ - INFO - n_cores: 1
+2015-05-08 14:51:37,014 - __main__ - INFO - sparsity: 0
+2015-05-08 14:51:37,015 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 14:51:37,015 - __main__ - INFO - with_auc_score: False
+2015-05-08 14:51:37,016 - __main__ - INFO - Sda_new: 1
+2015-05-08 14:51:37,016 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 14:51:37,017 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 14:51:38,728 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 14:56:40,060 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 14:56:40,060 - __main__ - INFO - DL: 1
+2015-05-08 14:56:40,060 - __main__ - INFO - SVM: 1
+2015-05-08 14:56:40,060 - __main__ - INFO - n_outs: 1
+2015-05-08 14:56:40,060 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 14:56:40,060 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 14:56:40,060 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 14:56:40,061 - __main__ - INFO - DL_S: 1
+2015-05-08 14:56:40,061 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 14:56:40,061 - __main__ - INFO - DL_U: 0
+2015-05-08 14:56:40,061 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 14:56:40,061 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 14:56:40,061 - __main__ - INFO - DL_xy: 1
+2015-05-08 14:56:40,061 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 14:56:40,061 - __main__ - INFO - batch_size: 100
+2015-05-08 14:56:40,061 - __main__ - INFO - weight_y: 1
+2015-05-08 14:56:40,061 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 14:56:40,061 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 14:56:40,061 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 14:56:40,061 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 14:56:40,061 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 14:56:40,061 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 14:56:40,061 - __main__ - INFO - training_interations: 3
+2015-05-08 14:56:40,061 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 14:56:40,061 - __main__ - INFO - finetune_lr: 1
+2015-05-08 14:56:40,061 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 14:56:40,061 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 14:56:40,061 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 14:56:40,061 - __main__ - INFO - n_cores: 1
+2015-05-08 14:56:40,061 - __main__ - INFO - sparsity: 0
+2015-05-08 14:56:40,061 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 14:56:40,061 - __main__ - INFO - with_auc_score: False
+2015-05-08 14:56:40,061 - __main__ - INFO - Sda_new: 1
+2015-05-08 14:56:40,061 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 14:56:40,061 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 14:56:40,064 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 14:57:11,047 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-08 14:57:11,048 - __main__ - INFO - 'DL_S_new'
+2015-05-08 15:04:44,392 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 15:04:44,392 - __main__ - INFO - DL: 1
+2015-05-08 15:04:44,392 - __main__ - INFO - SVM: 1
+2015-05-08 15:04:44,392 - __main__ - INFO - n_outs: 1
+2015-05-08 15:04:44,392 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 15:04:44,392 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 15:04:44,392 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 15:04:44,392 - __main__ - INFO - DL_S: 1
+2015-05-08 15:04:44,392 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 15:04:44,392 - __main__ - INFO - DL_U: 0
+2015-05-08 15:04:44,392 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 15:04:44,392 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 15:04:44,392 - __main__ - INFO - DL_xy: 1
+2015-05-08 15:04:44,393 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 15:04:44,393 - __main__ - INFO - batch_size: 100
+2015-05-08 15:04:44,393 - __main__ - INFO - weight_y: 1
+2015-05-08 15:04:44,393 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 15:04:44,393 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 15:04:44,393 - __main__ - INFO - DL_S_new: 1
+2015-05-08 15:04:44,393 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 15:04:44,393 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 15:04:44,393 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 15:04:44,393 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 15:04:44,393 - __main__ - INFO - training_interations: 3
+2015-05-08 15:04:44,393 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 15:04:44,393 - __main__ - INFO - finetune_lr: 1
+2015-05-08 15:04:44,393 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 15:04:44,393 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 15:04:44,393 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 15:04:44,393 - __main__ - INFO - n_cores: 1
+2015-05-08 15:04:44,393 - __main__ - INFO - sparsity: 0
+2015-05-08 15:04:44,393 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 15:04:44,393 - __main__ - INFO - with_auc_score: False
+2015-05-08 15:04:44,393 - __main__ - INFO - Sda_new: 1
+2015-05-08 15:04:44,393 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 15:04:44,393 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 15:04:44,396 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 16:19:58,787 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 16:19:58,787 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 16:19:58,787 - __main__ - INFO - DL: 1
+2015-05-08 16:19:58,787 - __main__ - INFO - SVM: 1
+2015-05-08 16:19:58,787 - __main__ - INFO - n_outs: 1
+2015-05-08 16:19:58,788 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 16:19:58,788 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 16:19:58,788 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 16:19:58,788 - __main__ - INFO - DL_S: 1
+2015-05-08 16:19:58,788 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 16:19:58,788 - __main__ - INFO - DL_U: 0
+2015-05-08 16:19:58,788 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 16:19:58,788 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 16:19:58,789 - __main__ - INFO - DL_xy: 1
+2015-05-08 16:19:58,789 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 16:19:58,789 - __main__ - INFO - batch_size: 100
+2015-05-08 16:19:58,789 - __main__ - INFO - weight_y: 1
+2015-05-08 16:19:58,789 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 16:19:58,789 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 16:19:58,789 - __main__ - INFO - DL_S_new: 1
+2015-05-08 16:19:58,790 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 16:19:58,790 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 16:19:58,790 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 16:19:58,790 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 16:19:58,790 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 16:19:58,790 - __main__ - INFO - training_interations: 3
+2015-05-08 16:19:58,790 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 16:19:58,790 - __main__ - INFO - finetune_lr: 1
+2015-05-08 16:19:58,790 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 16:19:58,791 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 16:19:58,791 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 16:19:58,791 - __main__ - INFO - n_cores: 1
+2015-05-08 16:19:58,791 - __main__ - INFO - DL_S_new_sparsity_Drop_out: 1
+2015-05-08 16:19:58,791 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 16:19:58,791 - __main__ - INFO - sparsity: 0
+2015-05-08 16:19:58,791 - __main__ - INFO - with_auc_score: False
+2015-05-08 16:19:58,791 - __main__ - INFO - Sda_new: 1
+2015-05-08 16:19:58,791 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 16:19:58,791 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 16:19:58,797 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 16:20:29,865 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-08 16:20:29,865 - __main__ - INFO - Parellel_Sda_factory instance has no attribute 'settings'
+2015-05-08 16:33:48,385 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 16:33:48,411 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 16:33:48,411 - __main__ - INFO - DL: 1
+2015-05-08 16:33:48,411 - __main__ - INFO - SVM: 1
+2015-05-08 16:33:48,411 - __main__ - INFO - n_outs: 1
+2015-05-08 16:33:48,411 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 16:33:48,411 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 16:33:48,411 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 16:33:48,411 - __main__ - INFO - DL_S: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 16:33:48,412 - __main__ - INFO - DL_U: 0
+2015-05-08 16:33:48,412 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 16:33:48,412 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - DL_xy: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 16:33:48,412 - __main__ - INFO - batch_size: 100
+2015-05-08 16:33:48,412 - __main__ - INFO - weight_y: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 16:33:48,412 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 16:33:48,412 - __main__ - INFO - DL_S_new: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 16:33:48,412 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 16:33:48,412 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 16:33:48,412 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 16:33:48,412 - __main__ - INFO - training_interations: 3
+2015-05-08 16:33:48,412 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 16:33:48,412 - __main__ - INFO - finetune_lr: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 16:33:48,412 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 16:33:48,412 - __main__ - INFO - n_cores: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - DL_S_new_sparsity_Drop_out: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 16:33:48,412 - __main__ - INFO - sparsity: 0
+2015-05-08 16:33:48,412 - __main__ - INFO - with_auc_score: False
+2015-05-08 16:33:48,412 - __main__ - INFO - Sda_new: 1
+2015-05-08 16:33:48,412 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 16:33:48,412 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 16:33:48,549 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 18:06:52,863 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 18:06:52,863 - __main__ - INFO - DL: 1
+2015-05-08 18:06:52,863 - __main__ - INFO - SVM: 1
+2015-05-08 18:06:52,864 - __main__ - INFO - n_outs: 1
+2015-05-08 18:06:52,864 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 18:06:52,864 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 18:06:52,864 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 18:06:52,864 - __main__ - INFO - DL_S: 1
+2015-05-08 18:06:52,864 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 18:06:52,864 - __main__ - INFO - DL_U: 0
+2015-05-08 18:06:52,865 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 18:06:52,865 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 18:06:52,865 - __main__ - INFO - DL_xy: 1
+2015-05-08 18:06:52,865 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 18:06:52,865 - __main__ - INFO - batch_size: 100
+2015-05-08 18:06:52,865 - __main__ - INFO - weight_y: 1
+2015-05-08 18:06:52,865 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 18:06:52,865 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 18:06:52,866 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 18:06:52,866 - __main__ - INFO - DL_S_new: 1
+2015-05-08 18:06:52,866 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 18:06:52,866 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 18:06:52,866 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 18:06:52,866 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 18:06:52,866 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 18:06:52,867 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 18:06:52,867 - __main__ - INFO - training_interations: 3
+2015-05-08 18:06:52,867 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 18:06:52,867 - __main__ - INFO - finetune_lr: 1
+2015-05-08 18:06:52,867 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 18:06:52,867 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 18:06:52,867 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 18:06:52,868 - __main__ - INFO - n_cores: 1
+2015-05-08 18:06:52,868 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 18:06:52,868 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 18:06:52,868 - __main__ - INFO - sparsity: 0
+2015-05-08 18:06:52,868 - __main__ - INFO - with_auc_score: False
+2015-05-08 18:06:52,868 - __main__ - INFO - Sda_new: 1
+2015-05-08 18:06:52,868 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 18:06:52,868 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 18:06:52,952 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 18:07:53,746 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-08 18:07:53,746 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-08 18:12:42,585 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 18:12:42,585 - __main__ - INFO - DL: 1
+2015-05-08 18:12:42,585 - __main__ - INFO - SVM: 1
+2015-05-08 18:12:42,585 - __main__ - INFO - n_outs: 1
+2015-05-08 18:12:42,585 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 18:12:42,585 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 18:12:42,585 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 18:12:42,585 - __main__ - INFO - DL_S: 1
+2015-05-08 18:12:42,585 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 18:12:42,585 - __main__ - INFO - DL_U: 0
+2015-05-08 18:12:42,586 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 18:12:42,586 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - DL_xy: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 18:12:42,586 - __main__ - INFO - batch_size: 100
+2015-05-08 18:12:42,586 - __main__ - INFO - weight_y: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 18:12:42,586 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 18:12:42,586 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 18:12:42,586 - __main__ - INFO - DL_S_new: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 18:12:42,586 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 18:12:42,586 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 18:12:42,586 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 18:12:42,586 - __main__ - INFO - training_interations: 3
+2015-05-08 18:12:42,586 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 18:12:42,586 - __main__ - INFO - finetune_lr: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 18:12:42,586 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 18:12:42,586 - __main__ - INFO - n_cores: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 18:12:42,586 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 18:12:42,586 - __main__ - INFO - sparsity: 0
+2015-05-08 18:12:42,586 - __main__ - INFO - with_auc_score: False
+2015-05-08 18:12:42,586 - __main__ - INFO - Sda_new: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 18:12:42,586 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 18:12:42,590 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 18:13:24,591 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-08 18:13:24,591 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-08 18:14:47,069 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 18:14:47,069 - __main__ - INFO - DL: 1
+2015-05-08 18:14:47,069 - __main__ - INFO - SVM: 1
+2015-05-08 18:14:47,069 - __main__ - INFO - n_outs: 1
+2015-05-08 18:14:47,070 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 18:14:47,070 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 18:14:47,070 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 18:14:47,070 - __main__ - INFO - DL_S: 1
+2015-05-08 18:14:47,071 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 18:14:47,071 - __main__ - INFO - DL_U: 0
+2015-05-08 18:14:47,071 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 18:14:47,072 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 18:14:47,072 - __main__ - INFO - DL_xy: 1
+2015-05-08 18:14:47,072 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 18:14:47,072 - __main__ - INFO - batch_size: 100
+2015-05-08 18:14:47,073 - __main__ - INFO - weight_y: 1
+2015-05-08 18:14:47,073 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 18:14:47,073 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 18:14:47,073 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 18:14:47,074 - __main__ - INFO - DL_S_new: 1
+2015-05-08 18:14:47,074 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 18:14:47,074 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 18:14:47,074 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 18:14:47,074 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 18:14:47,075 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 18:14:47,075 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 18:14:47,075 - __main__ - INFO - training_interations: 3
+2015-05-08 18:14:47,075 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 18:14:47,075 - __main__ - INFO - finetune_lr: 1
+2015-05-08 18:14:47,076 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 18:14:47,076 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 18:14:47,076 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 18:14:47,076 - __main__ - INFO - n_cores: 1
+2015-05-08 18:14:47,076 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 18:14:47,077 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 18:14:47,077 - __main__ - INFO - sparsity: 0
+2015-05-08 18:14:47,077 - __main__ - INFO - with_auc_score: False
+2015-05-08 18:14:47,077 - __main__ - INFO - Sda_new: 1
+2015-05-08 18:14:47,077 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 18:14:47,078 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 18:14:48,888 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 18:22:16,729 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-08 18:22:17,531 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-08 18:23:26,796 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 18:23:26,796 - __main__ - INFO - DL: 1
+2015-05-08 18:23:26,797 - __main__ - INFO - SVM: 1
+2015-05-08 18:23:26,797 - __main__ - INFO - n_outs: 1
+2015-05-08 18:23:26,797 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 18:23:26,797 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 18:23:26,798 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 18:23:26,798 - __main__ - INFO - DL_S: 1
+2015-05-08 18:23:26,798 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 18:23:26,798 - __main__ - INFO - DL_U: 0
+2015-05-08 18:23:26,798 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 18:23:26,799 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 18:23:26,799 - __main__ - INFO - DL_xy: 1
+2015-05-08 18:23:26,799 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 18:23:26,799 - __main__ - INFO - batch_size: 100
+2015-05-08 18:23:26,800 - __main__ - INFO - weight_y: 1
+2015-05-08 18:23:26,800 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 18:23:26,800 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 18:23:26,800 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 18:23:26,800 - __main__ - INFO - DL_S_new: 1
+2015-05-08 18:23:26,801 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 18:23:26,801 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 18:23:26,801 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 18:23:26,801 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 18:23:26,801 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 18:23:26,802 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 18:23:26,802 - __main__ - INFO - training_interations: 3
+2015-05-08 18:23:26,802 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 18:23:26,802 - __main__ - INFO - finetune_lr: 1
+2015-05-08 18:23:26,802 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 18:23:26,803 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 18:23:26,803 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 18:23:26,803 - __main__ - INFO - n_cores: 1
+2015-05-08 18:23:26,803 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 18:23:26,804 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 18:23:26,804 - __main__ - INFO - sparsity: 0
+2015-05-08 18:23:26,805 - __main__ - INFO - with_auc_score: False
+2015-05-08 18:23:26,805 - __main__ - INFO - Sda_new: 1
+2015-05-08 18:23:26,805 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 18:23:26,806 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 18:23:28,416 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 18:42:30,043 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 18:42:30,043 - __main__ - INFO - DL: 1
+2015-05-08 18:42:30,044 - __main__ - INFO - SVM: 1
+2015-05-08 18:42:30,044 - __main__ - INFO - n_outs: 1
+2015-05-08 18:42:30,044 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 18:42:30,045 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 18:42:30,045 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 18:42:30,045 - __main__ - INFO - DL_S: 1
+2015-05-08 18:42:30,045 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 18:42:30,045 - __main__ - INFO - DL_U: 0
+2015-05-08 18:42:30,046 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 18:42:30,046 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 18:42:30,046 - __main__ - INFO - DL_xy: 1
+2015-05-08 18:42:30,046 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 18:42:30,047 - __main__ - INFO - batch_size: 100
+2015-05-08 18:42:30,047 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 18:42:30,047 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 18:42:30,047 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 18:42:30,047 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 18:42:30,048 - __main__ - INFO - DL_S_new: 1
+2015-05-08 18:42:30,048 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 18:42:30,048 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 18:42:30,048 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 18:42:30,048 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 18:42:30,049 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 18:42:30,049 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 18:42:30,049 - __main__ - INFO - training_interations: 3
+2015-05-08 18:42:30,049 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 18:42:30,049 - __main__ - INFO - finetune_lr: 1
+2015-05-08 18:42:30,050 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 18:42:30,050 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 18:42:30,050 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 18:42:30,050 - __main__ - INFO - n_cores: 1
+2015-05-08 18:42:30,050 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 18:42:30,051 - __main__ - INFO - sparsity: 0
+2015-05-08 18:42:30,051 - __main__ - INFO - with_auc_score: False
+2015-05-08 18:42:30,051 - __main__ - INFO - Sda_new: 1
+2015-05-08 18:42:30,051 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 18:42:30,051 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 18:42:31,662 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 18:45:58,209 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-08 18:45:58,209 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-08 18:47:11,504 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 18:47:11,504 - __main__ - INFO - DL: 1
+2015-05-08 18:47:11,504 - __main__ - INFO - SVM: 1
+2015-05-08 18:47:11,504 - __main__ - INFO - n_outs: 1
+2015-05-08 18:47:11,504 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 18:47:11,505 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 18:47:11,505 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 18:47:11,505 - __main__ - INFO - DL_S: 1
+2015-05-08 18:47:11,505 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 18:47:11,505 - __main__ - INFO - DL_U: 0
+2015-05-08 18:47:11,505 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 18:47:11,505 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 18:47:11,505 - __main__ - INFO - DL_xy: 1
+2015-05-08 18:47:11,505 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 18:47:11,505 - __main__ - INFO - batch_size: 100
+2015-05-08 18:47:11,505 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 18:47:11,505 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 18:47:11,505 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 18:47:11,505 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 18:47:11,505 - __main__ - INFO - DL_S_new: 1
+2015-05-08 18:47:11,505 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 18:47:11,505 - __main__ - INFO - DL_S_new_contraction: 0
+2015-05-08 18:47:11,505 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 18:47:11,505 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 18:47:11,505 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 18:47:11,505 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 18:47:11,505 - __main__ - INFO - training_interations: 3
+2015-05-08 18:47:11,505 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 18:47:11,505 - __main__ - INFO - finetune_lr: 1
+2015-05-08 18:47:11,505 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 18:47:11,505 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 18:47:11,505 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 18:47:11,505 - __main__ - INFO - n_cores: 1
+2015-05-08 18:47:11,506 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 18:47:11,506 - __main__ - INFO - sparsity: 0
+2015-05-08 18:47:11,506 - __main__ - INFO - with_auc_score: False
+2015-05-08 18:47:11,506 - __main__ - INFO - Sda_new: 1
+2015-05-08 18:47:11,506 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 18:47:11,506 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 18:47:11,508 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 18:48:20,407 - __main__ - DEBUG - There is a error in this ddi: Trypsin_int_V-set
+2015-05-08 18:48:20,408 - __main__ - INFO - y_i >= dx dimensions[1]
+Apply node that caused the error: CrossentropySoftmax1HotWithBiasDx(Alloc.0, SoftmaxWithBias.0, Elemwise{Cast{int32}}.0)
+Inputs shapes: [(100,), (100, 1), (100,)]
+Inputs strides: [(4,), (4, 4), (4,)]
+Inputs types: [TensorType(float32, vector), TensorType(float32, matrix), TensorType(int32, vector)]
+Debugprint of the apply node: 
+CrossentropySoftmax1HotWithBiasDx [@A] <TensorType(float32, matrix)> ''   
+ |Alloc [@B] <TensorType(float32, vector)> ''   
+ | |Elemwise{Composite{[inv(Cast{float32}(i0))]}} [@C] <TensorType(float32, (True,))> ''   
+ | | |InplaceDimShuffle{x} [@D] <TensorType(int64, (True,))> ''   
+ | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 2)] [@E] <TensorType(int64, scalar)> ''   
+ | |     |Elemwise{lt,no_inplace} [@F] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |TensorConstant{1} [@I] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | |     |Shape_i{0} [@L] <TensorType(int64, scalar)> ''   
+ | |     | |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+ | |     |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |TensorConstant{-1} [@N] <TensorType(int8, scalar)>
+ | |     |Elemwise{lt,no_inplace} [@O] <TensorType(int8, scalar)> ''   
+ | |     | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |     | | |TensorConstant{100} [@H] <TensorType(int64, scalar)>
+ | |     | | |index [@J] <TensorType(int64, scalar)>
+ | |     | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | |     |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 2)] [@E] <TensorType(int64, scalar)> ''   
+ |SoftmaxWithBias [@Q] <TensorType(float32, matrix)> ''   
+ | |Dot22 [@R] <TensorType(float32, matrix)> ''   
+ | | |Elemwise{mul,no_inplace} [@S] <TensorType(float32, matrix)> ''   
+ | | | |RandomFunction{binomial}.1 [@T] <TensorType(float32, matrix)> ''   
+ | | | | |<RandomStateType> [@U] <RandomStateType>
+ | | | | |Elemwise{Cast{int32}} [@V] <TensorType(int32, vector)> ''   
+ | | | | | |MakeVector [@W] <TensorType(int64, vector)> ''   
+ | | | | |   |Elemwise{Cast{int64}} [@X] <TensorType(int64, scalar)> ''   
+ | | | | |   | |Subtensor{0} [@Y] <TensorType(int32, scalar)> ''   
+ | | | | |   |   |Elemwise{Cast{int32}} [@Z] <TensorType(int32, vector)> ''   
+ | | | | |   |     |MakeVector [@BA] <TensorType(int64, vector)> ''   
+ | | | | |   |       |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(i0, add(i1, i2), i1)]}(i0, i1, i2), i3, i4, i2, Composite{[Switch(i0, add(i1, i2), i1)]}(i5, i6, i2))]}}[(0, 1)] [@BB] <TensorType(int64, scalar)> ''   
+ | | | | |   |       | |Elemwise{lt,no_inplace} [@F] <TensorType(int8, scalar)> ''   
+ | | | | |   |       | |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | | | | |   |       | |Shape_i{0} [@BC] <TensorType(int64, scalar)> ''   
+ | | | | |   |       | | |<TensorType(float32, matrix)> [@BD] <TensorType(float32, matrix)>
+ | | | | |   |       | |TensorConstant{0} [@K] <TensorType(int8, scalar)>
+ | | | | |   |       | |TensorConstant{-1} [@N] <TensorType(int8, scalar)>
+ | | | | |   |       | |Elemwise{lt,no_inplace} [@O] <TensorType(int8, scalar)> ''   
+ | | | | |   |       | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | | | | |   |       |Shape_i{1} [@BE] <TensorType(int64, scalar)> ''   
+ | | | | |   |         |W [@BF] <TensorType(float32, matrix)>
+ | | | | |   |Shape_i{1} [@BG] <TensorType(int64, scalar)> ''   
+ | | | | |     |W [@BH] <TensorType(float32, matrix)>
+ | | | | |TensorConstant{1} [@BI] <TensorType(int8, scalar)>
+ | | | | |TensorConstant{0.5} [@BJ] <TensorType(float32, scalar)>
+ | | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@BK] <TensorType(float32, matrix)> ''   
+ | | |   |Dot22 [@BL] <TensorType(float32, matrix)> ''   
+ | | |   | |Elemwise{mul,no_inplace} [@BM] <TensorType(float32, matrix)> ''   
+ | | |   | | |RandomFunction{binomial}.1 [@BN] <TensorType(float32, matrix)> ''   
+ | | |   | | | |<RandomStateType> [@BO] <RandomStateType>
+ | | |   | | | |Elemwise{Cast{int32}} [@Z] <TensorType(int32, vector)> ''   
+ | | |   | | | |TensorConstant{1} [@BI] <TensorType(int8, scalar)>
+ | | |   | | | |TensorConstant{0.5} [@BJ] <TensorType(float32, scalar)>
+ | | |   | | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@BP] <TensorType(float32, matrix)> ''   
+ | | |   | |   |Dot22 [@BQ] <TensorType(float32, matrix)> ''   
+ | | |   | |   | |Subtensor{int64:int64:} [@BR] <TensorType(float32, matrix)> ''   
+ | | |   | |   | | |<TensorType(float32, matrix)> [@BD] <TensorType(float32, matrix)>
+ | | |   | |   | | |ScalarFromTensor [@BS] <int64> ''   
+ | | |   | |   | | | |Elemwise{mul,no_inplace} [@P] <TensorType(int64, scalar)> ''   
+ | | |   | |   | | |ScalarFromTensor [@BT] <int64> ''   
+ | | |   | |   | |   |Elemwise{Composite{[mul(i0, add(i1, i2))]}} [@G] <TensorType(int64, scalar)> ''   
+ | | |   | |   | |W [@BF] <TensorType(float32, matrix)>
+ | | |   | |   |InplaceDimShuffle{x,0} [@BU] <TensorType(float32, row)> ''   
+ | | |   | |     |b [@BV] <TensorType(float32, vector)>
+ | | |   | |W [@BH] <TensorType(float32, matrix)>
+ | | |   |InplaceDimShuffle{x,0} [@BW] <TensorType(float32, row)> ''   
+ | | |     |b [@BX] <TensorType(float32, vector)>
+ | | |W [@BY] <TensorType(float32, matrix)>
+ | |b [@BZ] <TensorType(float32, vector)>
+ |Elemwise{Cast{int32}} [@CA] <TensorType(int32, vector)> ''   
+   |Subtensor{int64:int64:} [@CB] <TensorType(float32, vector)> ''   
+     |<TensorType(float32, vector)> [@M] <TensorType(float32, vector)>
+     |ScalarFromTensor [@BS] <int64> ''   
+     |ScalarFromTensor [@BT] <int64> ''   
+
+2015-05-08 21:15:01,937 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 21:15:01,937 - __main__ - INFO - DL: 1
+2015-05-08 21:15:01,937 - __main__ - INFO - SVM: 1
+2015-05-08 21:15:01,937 - __main__ - INFO - n_outs: 1
+2015-05-08 21:15:01,937 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 21:15:01,937 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 21:15:01,937 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 21:15:01,937 - __main__ - INFO - DL_S: 1
+2015-05-08 21:15:01,937 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 21:15:01,938 - __main__ - INFO - DL_U: 0
+2015-05-08 21:15:01,938 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 21:15:01,938 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 21:15:01,938 - __main__ - INFO - DL_xy: 1
+2015-05-08 21:15:01,938 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 21:15:01,938 - __main__ - INFO - batch_size: 100
+2015-05-08 21:15:01,938 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 21:15:01,938 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 21:15:01,938 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 21:15:01,938 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 21:15:01,938 - __main__ - INFO - DL_S_new: 1
+2015-05-08 21:15:01,938 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 21:15:01,938 - __main__ - INFO - DL_S_new_contraction: 0
+2015-05-08 21:15:01,938 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 21:15:01,938 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 21:15:01,938 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 21:15:01,938 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 21:15:01,938 - __main__ - INFO - training_interations: 3
+2015-05-08 21:15:01,938 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 21:15:01,938 - __main__ - INFO - finetune_lr: 1
+2015-05-08 21:15:01,938 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 21:15:01,938 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 21:15:01,938 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 21:15:01,938 - __main__ - INFO - n_cores: 1
+2015-05-08 21:15:01,938 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 21:15:01,938 - __main__ - INFO - sparsity: 0
+2015-05-08 21:15:01,938 - __main__ - INFO - with_auc_score: False
+2015-05-08 21:15:01,938 - __main__ - INFO - Sda_new: 1
+2015-05-08 21:15:01,938 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 21:15:01,938 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 21:15:01,941 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 21:18:27,347 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 21:18:27,347 - __main__ - INFO - DL: 1
+2015-05-08 21:18:27,347 - __main__ - INFO - SVM: 1
+2015-05-08 21:18:27,347 - __main__ - INFO - n_outs: 1
+2015-05-08 21:18:27,348 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 21:18:27,348 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 21:18:27,348 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 21:18:27,348 - __main__ - INFO - DL_S: 1
+2015-05-08 21:18:27,349 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 21:18:27,349 - __main__ - INFO - DL_U: 0
+2015-05-08 21:18:27,349 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 21:18:27,349 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 21:18:27,349 - __main__ - INFO - DL_xy: 1
+2015-05-08 21:18:27,350 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 21:18:27,350 - __main__ - INFO - batch_size: 100
+2015-05-08 21:18:27,350 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 21:18:27,351 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 21:18:27,351 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 21:18:27,351 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 21:18:27,352 - __main__ - INFO - DL_S_new: 1
+2015-05-08 21:18:27,352 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 21:18:27,353 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 21:18:27,353 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 21:18:27,353 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 21:18:27,354 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 21:18:27,354 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 21:18:27,354 - __main__ - INFO - training_interations: 3
+2015-05-08 21:18:27,355 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 21:18:27,355 - __main__ - INFO - finetune_lr: 1
+2015-05-08 21:18:27,356 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 21:18:27,356 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 21:18:27,356 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 21:18:27,357 - __main__ - INFO - n_cores: 1
+2015-05-08 21:18:27,357 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 21:18:27,357 - __main__ - INFO - sparsity: 0
+2015-05-08 21:18:27,357 - __main__ - INFO - with_auc_score: False
+2015-05-08 21:18:27,358 - __main__ - INFO - Sda_new: 1
+2015-05-08 21:18:27,358 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 21:18:27,358 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 21:18:28,969 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 21:28:23,232 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 21:28:23,233 - __main__ - INFO - DL: 1
+2015-05-08 21:28:23,233 - __main__ - INFO - SVM: 1
+2015-05-08 21:28:23,233 - __main__ - INFO - n_outs: 1
+2015-05-08 21:28:23,233 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 21:28:23,233 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 21:28:23,233 - __main__ - INFO - SVM_RBF: 0
+2015-05-08 21:28:23,233 - __main__ - INFO - DL_S: 1
+2015-05-08 21:28:23,233 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 21:28:23,233 - __main__ - INFO - DL_U: 0
+2015-05-08 21:28:23,233 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 21:28:23,233 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 21:28:23,233 - __main__ - INFO - DL_xy: 1
+2015-05-08 21:28:23,233 - __main__ - INFO - ptr-layer-number: 2
+2015-05-08 21:28:23,234 - __main__ - INFO - batch_size: 1
+2015-05-08 21:28:23,234 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 21:28:23,234 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 21:28:23,234 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 21:28:23,234 - __main__ - INFO - SAE_SVM: 0
+2015-05-08 21:28:23,234 - __main__ - INFO - DL_S_new: 1
+2015-05-08 21:28:23,234 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 21:28:23,234 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 21:28:23,234 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 21:28:23,234 - __main__ - INFO - pretraining_interations: 3
+2015-05-08 21:28:23,234 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 21:28:23,234 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 21:28:23,234 - __main__ - INFO - training_interations: 3
+2015-05-08 21:28:23,234 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 21:28:23,235 - __main__ - INFO - finetune_lr: 1
+2015-05-08 21:28:23,235 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 21:28:23,235 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 21:28:23,235 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 21:28:23,235 - __main__ - INFO - n_cores: 1
+2015-05-08 21:28:23,235 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 21:28:23,235 - __main__ - INFO - sparsity: 0
+2015-05-08 21:28:23,235 - __main__ - INFO - with_auc_score: False
+2015-05-08 21:28:23,235 - __main__ - INFO - Sda_new: 1
+2015-05-08 21:28:23,235 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 21:28:23,235 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 21:28:23,241 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 21:48:40,704 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 21:48:40,704 - __main__ - INFO - DL: 1
+2015-05-08 21:48:40,704 - __main__ - INFO - SVM: 1
+2015-05-08 21:48:40,704 - __main__ - INFO - n_outs: 1
+2015-05-08 21:48:40,704 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 21:48:40,704 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - SVM_RBF: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - DL_S: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 21:48:40,705 - __main__ - INFO - DL_U: 0
+2015-05-08 21:48:40,705 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 21:48:40,705 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - DL_xy: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - batch_size: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - lrate: C:0.08:5 
+2015-05-08 21:48:40,705 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 21:48:40,705 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 21:48:40,705 - __main__ - INFO - SAE_SVM: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - DL_S_new: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 21:48:40,705 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 21:48:40,705 - __main__ - INFO - pretraining_interations: 5000
+2015-05-08 21:48:40,705 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 21:48:40,705 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 21:48:40,705 - __main__ - INFO - training_interations: 10001
+2015-05-08 21:48:40,705 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 21:48:40,705 - __main__ - INFO - finetune_lr: 1
+2015-05-08 21:48:40,706 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 21:48:40,706 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 21:48:40,706 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 21:48:40,706 - __main__ - INFO - n_cores: 1
+2015-05-08 21:48:40,706 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 21:48:40,706 - __main__ - INFO - sparsity: 0
+2015-05-08 21:48:40,706 - __main__ - INFO - with_auc_score: False
+2015-05-08 21:48:40,706 - __main__ - INFO - Sda_new: 1
+2015-05-08 21:48:40,706 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 21:48:40,706 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 21:48:40,709 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 22:12:09,008 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:12:09,008 - __main__ - INFO - DL: 1
+2015-05-08 22:12:09,008 - __main__ - INFO - SVM: 1
+2015-05-08 22:12:09,008 - __main__ - INFO - n_outs: 1
+2015-05-08 22:12:09,008 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 22:12:09,008 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 22:12:09,008 - __main__ - INFO - SVM_RBF: 1
+2015-05-08 22:12:09,008 - __main__ - INFO - DL_S: 1
+2015-05-08 22:12:09,008 - __main__ - INFO - DL_U: 0
+2015-05-08 22:12:09,009 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 22:12:09,009 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - DL_xy: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - batch_size: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - lrate: D:1:0.5:0.05,0.005:1500
+2015-05-08 22:12:09,009 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 22:12:09,009 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:12:09,009 - __main__ - INFO - SAE_SVM: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - DL_S_new: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 22:12:09,009 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - pretraining_interations: 5000
+2015-05-08 22:12:09,009 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 22:12:09,009 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 22:12:09,009 - __main__ - INFO - training_interations: 10001
+2015-05-08 22:12:09,009 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 22:12:09,009 - __main__ - INFO - finetune_lr: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 22:12:09,009 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 22:12:09,009 - __main__ - INFO - n_cores: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 22:12:09,009 - __main__ - INFO - with_auc_score: False
+2015-05-08 22:12:09,009 - __main__ - INFO - Sda_new: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 22:12:09,009 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 22:12:09,013 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:12:09,025 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:12:09,025 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-08 22:12:09,026 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:12:09,026 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:12:09,026 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-08 22:12:09,026 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-08 22:12:09,026 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-08 22:12:09,026 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-08 22:12:09,026 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:12:09,026 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:12:09,026 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-08 22:12:09,026 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-08 22:12:09,026 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-08 22:12:09,026 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-08 22:12:09,026 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-08 22:12:09,026 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-08 22:12:09,026 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-08 22:12:09,026 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-08 22:12:09,026 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-08 22:12:09,026 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-08 22:12:09,026 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-08 22:12:29,579 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-08 22:12:29,579 - __main__ - INFO - ('Cannot convert None to TensorType', <type 'NoneType'>)
+2015-05-08 22:12:29,590 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-08 22:14:50,042 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:14:50,042 - __main__ - INFO - DL: 1
+2015-05-08 22:14:50,042 - __main__ - INFO - SVM: 1
+2015-05-08 22:14:50,042 - __main__ - INFO - n_outs: 1
+2015-05-08 22:14:50,043 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 22:14:50,043 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 22:14:50,043 - __main__ - INFO - SVM_RBF: 1
+2015-05-08 22:14:50,043 - __main__ - INFO - DL_S: 1
+2015-05-08 22:14:50,044 - __main__ - INFO - DL_U: 0
+2015-05-08 22:14:50,044 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 22:14:50,044 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 22:14:50,044 - __main__ - INFO - DL_xy: 1
+2015-05-08 22:14:50,044 - __main__ - INFO - batch_size: 1
+2015-05-08 22:14:50,045 - __main__ - INFO - lrate: D:1:0.5:0.05,0.005:1500
+2015-05-08 22:14:50,045 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 22:14:50,045 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:14:50,045 - __main__ - INFO - SAE_SVM: 1
+2015-05-08 22:14:50,046 - __main__ - INFO - DL_S_new: 1
+2015-05-08 22:14:50,046 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 22:14:50,046 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 22:14:50,046 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 22:14:50,046 - __main__ - INFO - pretraining_interations: 5000
+2015-05-08 22:14:50,047 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 22:14:50,047 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 22:14:50,047 - __main__ - INFO - training_interations: 10001
+2015-05-08 22:14:50,047 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 22:14:50,047 - __main__ - INFO - finetune_lr: 1
+2015-05-08 22:14:50,048 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 22:14:50,048 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 22:14:50,048 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 22:14:50,048 - __main__ - INFO - n_cores: 1
+2015-05-08 22:14:50,048 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 22:14:50,049 - __main__ - INFO - with_auc_score: False
+2015-05-08 22:14:50,049 - __main__ - INFO - Sda_new: 1
+2015-05-08 22:14:50,049 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 22:14:50,049 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 22:14:51,760 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:14:51,761 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:14:51,762 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-08 22:14:51,763 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:14:51,764 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:14:51,765 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-08 22:14:51,766 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-08 22:14:51,767 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-08 22:14:51,768 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-08 22:14:51,769 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:14:51,770 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:14:51,770 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-08 22:14:51,771 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-08 22:14:51,772 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-08 22:14:51,773 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-08 22:14:51,774 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-08 22:14:51,775 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-08 22:14:51,776 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-08 22:14:51,777 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-08 22:14:51,778 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-08 22:14:51,778 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-08 22:14:51,778 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-08 22:21:36,153 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:21:36,153 - __main__ - INFO - DL: 1
+2015-05-08 22:21:36,153 - __main__ - INFO - SVM: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - n_outs: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 22:21:36,154 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - SVM_RBF: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - DL_S: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - DL_U: 0
+2015-05-08 22:21:36,154 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 22:21:36,154 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - DL_xy: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - batch_size: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - lrate: D:1:0.5:0.05,0.005:1500
+2015-05-08 22:21:36,154 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 22:21:36,154 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:21:36,154 - __main__ - INFO - SAE_SVM: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - DL_S_new: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 22:21:36,154 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 22:21:36,154 - __main__ - INFO - pretraining_interations: 5000
+2015-05-08 22:21:36,154 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 22:21:36,154 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 22:21:36,154 - __main__ - INFO - training_interations: 10001
+2015-05-08 22:21:36,155 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 22:21:36,155 - __main__ - INFO - finetune_lr: 1
+2015-05-08 22:21:36,155 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 22:21:36,155 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 22:21:36,155 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 22:21:36,155 - __main__ - INFO - n_cores: 1
+2015-05-08 22:21:36,155 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 22:21:36,155 - __main__ - INFO - with_auc_score: False
+2015-05-08 22:21:36,155 - __main__ - INFO - Sda_new: 1
+2015-05-08 22:21:36,155 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 22:21:36,155 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 22:21:36,158 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:21:36,159 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:21:36,159 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-08 22:21:36,159 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:21:36,160 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:21:36,160 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-08 22:21:36,160 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-08 22:21:36,160 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-08 22:21:36,160 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-08 22:21:36,160 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:21:36,160 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:21:36,160 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-08 22:21:36,161 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-08 22:21:36,161 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-08 22:21:36,161 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-08 22:21:36,161 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-08 22:21:36,161 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-08 22:21:36,161 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-08 22:21:36,161 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-08 22:21:36,161 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-08 22:21:36,161 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-08 22:21:36,162 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-08 22:22:00,010 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-08 22:22:00,010 - __main__ - INFO - ('Cannot convert None to TensorType', <type 'NoneType'>)
+2015-05-08 22:22:00,020 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-08 22:23:08,796 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:23:08,796 - __main__ - INFO - DL: 1
+2015-05-08 22:23:08,797 - __main__ - INFO - SVM: 1
+2015-05-08 22:23:08,797 - __main__ - INFO - n_outs: 1
+2015-05-08 22:23:08,797 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 22:23:08,798 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 22:23:08,798 - __main__ - INFO - SVM_RBF: 1
+2015-05-08 22:23:08,798 - __main__ - INFO - DL_S: 1
+2015-05-08 22:23:08,798 - __main__ - INFO - DL_U: 0
+2015-05-08 22:23:08,798 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 22:23:08,799 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 22:23:08,799 - __main__ - INFO - DL_xy: 1
+2015-05-08 22:23:08,799 - __main__ - INFO - batch_size: 1
+2015-05-08 22:23:08,799 - __main__ - INFO - lrate: D:1:0.5:0.05,0.005:1500
+2015-05-08 22:23:08,800 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 22:23:08,800 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:23:08,800 - __main__ - INFO - SAE_SVM: 1
+2015-05-08 22:23:08,800 - __main__ - INFO - DL_S_new: 1
+2015-05-08 22:23:08,800 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 22:23:08,801 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 22:23:08,801 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 22:23:08,801 - __main__ - INFO - pretraining_interations: 5000
+2015-05-08 22:23:08,801 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 22:23:08,801 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 22:23:08,802 - __main__ - INFO - training_interations: 10001
+2015-05-08 22:23:08,802 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 22:23:08,802 - __main__ - INFO - finetune_lr: 1
+2015-05-08 22:23:08,802 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 22:23:08,802 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 22:23:08,803 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 22:23:08,803 - __main__ - INFO - n_cores: 1
+2015-05-08 22:23:08,803 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 22:23:08,803 - __main__ - INFO - with_auc_score: False
+2015-05-08 22:23:08,803 - __main__ - INFO - Sda_new: 1
+2015-05-08 22:23:08,804 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 22:23:08,804 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 22:23:10,560 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:23:10,575 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:23:10,576 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-08 22:23:10,576 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:23:10,576 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:23:10,576 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-08 22:23:10,577 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-08 22:23:10,577 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-08 22:23:10,577 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-08 22:23:10,577 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:23:10,578 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:23:10,578 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-08 22:23:10,578 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-08 22:23:10,578 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-08 22:23:10,578 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-08 22:23:10,579 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-08 22:23:10,579 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-08 22:23:10,579 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-08 22:23:10,579 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-08 22:23:10,580 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-08 22:23:10,580 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-08 22:23:10,580 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-08 22:27:13,660 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:27:13,661 - __main__ - INFO - DL: 1
+2015-05-08 22:27:13,661 - __main__ - INFO - SVM: 1
+2015-05-08 22:27:13,661 - __main__ - INFO - n_outs: 1
+2015-05-08 22:27:13,661 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 22:27:13,661 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 22:27:13,661 - __main__ - INFO - SVM_RBF: 1
+2015-05-08 22:27:13,661 - __main__ - INFO - DL_S: 1
+2015-05-08 22:27:13,661 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 22:27:13,661 - __main__ - INFO - DL_U: 0
+2015-05-08 22:27:13,661 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 22:27:13,661 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 22:27:13,662 - __main__ - INFO - DL_xy: 1
+2015-05-08 22:27:13,662 - __main__ - INFO - batch_size: 1
+2015-05-08 22:27:13,662 - __main__ - INFO - lrate: D:1:0.5:0.05,0.005:1500
+2015-05-08 22:27:13,662 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 22:27:13,662 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:27:13,662 - __main__ - INFO - SAE_SVM: 1
+2015-05-08 22:27:13,662 - __main__ - INFO - DL_S_new: 1
+2015-05-08 22:27:13,662 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 22:27:13,662 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 22:27:13,662 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 22:27:13,662 - __main__ - INFO - pretraining_interations: 5000
+2015-05-08 22:27:13,662 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 22:27:13,663 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 22:27:13,663 - __main__ - INFO - training_interations: 10001
+2015-05-08 22:27:13,663 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 22:27:13,663 - __main__ - INFO - finetune_lr: 1
+2015-05-08 22:27:13,663 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 22:27:13,663 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 22:27:13,663 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 22:27:13,663 - __main__ - INFO - n_cores: 1
+2015-05-08 22:27:13,663 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 22:27:13,663 - __main__ - INFO - sparsity: 0
+2015-05-08 22:27:13,663 - __main__ - INFO - with_auc_score: False
+2015-05-08 22:27:13,663 - __main__ - INFO - Sda_new: 1
+2015-05-08 22:27:13,663 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 22:27:13,664 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 22:27:13,702 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:27:13,703 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:27:13,703 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-08 22:27:13,703 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:27:13,703 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:27:13,703 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-08 22:27:13,703 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-08 22:27:13,703 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-08 22:27:13,703 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-08 22:27:13,703 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:27:13,703 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:27:13,703 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-08 22:27:13,703 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-08 22:27:13,703 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-08 22:27:13,703 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-08 22:27:13,703 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-08 22:27:13,703 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-08 22:27:13,703 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-08 22:27:13,704 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-08 22:27:13,704 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-08 22:27:13,704 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-08 22:27:13,704 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-08 22:34:01,060 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-05-08 22:34:01,060 - __main__ - INFO - DL: 1
+2015-05-08 22:34:01,060 - __main__ - INFO - SVM: 1
+2015-05-08 22:34:01,060 - __main__ - INFO - n_outs: 1
+2015-05-08 22:34:01,060 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 22:34:01,060 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 22:34:01,060 - __main__ - INFO - SVM_RBF: 1
+2015-05-08 22:34:01,060 - __main__ - INFO - DL_S: 1
+2015-05-08 22:34:01,060 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 22:34:01,060 - __main__ - INFO - DL_U: 0
+2015-05-08 22:34:01,060 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 22:34:01,061 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 22:34:01,061 - __main__ - INFO - DL_xy: 1
+2015-05-08 22:34:01,061 - __main__ - INFO - batch_size: 1
+2015-05-08 22:34:01,061 - __main__ - INFO - lrate: D:1:0.5:0.05,0.005:1500
+2015-05-08 22:34:01,061 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 22:34:01,061 - __main__ - INFO - filename: testDDI.txt
+2015-05-08 22:34:01,061 - __main__ - INFO - SAE_SVM: 1
+2015-05-08 22:34:01,061 - __main__ - INFO - DL_S_new: 1
+2015-05-08 22:34:01,061 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 22:34:01,061 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 22:34:01,061 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 22:34:01,061 - __main__ - INFO - pretraining_interations: 5000
+2015-05-08 22:34:01,061 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 22:34:01,061 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 22:34:01,061 - __main__ - INFO - training_interations: 10001
+2015-05-08 22:34:01,061 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 22:34:01,061 - __main__ - INFO - finetune_lr: 1
+2015-05-08 22:34:01,062 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 22:34:01,062 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 22:34:01,062 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 22:34:01,062 - __main__ - INFO - n_cores: 1
+2015-05-08 22:34:01,062 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 22:34:01,062 - __main__ - INFO - sparsity: 0
+2015-05-08 22:34:01,062 - __main__ - INFO - with_auc_score: False
+2015-05-08 22:34:01,062 - __main__ - INFO - Sda_new: 1
+2015-05-08 22:34:01,062 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 22:34:01,062 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 22:34:01,164 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-05-08 22:35:28,248 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:35:28,248 - __main__ - INFO - DL: 1
+2015-05-08 22:35:28,248 - __main__ - INFO - SVM: 1
+2015-05-08 22:35:28,248 - __main__ - INFO - n_outs: 1
+2015-05-08 22:35:28,248 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 22:35:28,248 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 22:35:28,248 - __main__ - INFO - SVM_RBF: 1
+2015-05-08 22:35:28,249 - __main__ - INFO - DL_S: 1
+2015-05-08 22:35:28,249 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 22:35:28,249 - __main__ - INFO - DL_U: 0
+2015-05-08 22:35:28,249 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 22:35:28,249 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 22:35:28,249 - __main__ - INFO - DL_xy: 1
+2015-05-08 22:35:28,249 - __main__ - INFO - batch_size: 100
+2015-05-08 22:35:28,249 - __main__ - INFO - lrate: D:1:0.5:0.05,0.005:1500
+2015-05-08 22:35:28,249 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 22:35:28,249 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:35:28,249 - __main__ - INFO - SAE_SVM: 1
+2015-05-08 22:35:28,249 - __main__ - INFO - DL_S_new: 1
+2015-05-08 22:35:28,249 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 22:35:28,249 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 22:35:28,249 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 22:35:28,250 - __main__ - INFO - pretraining_interations: 5000
+2015-05-08 22:35:28,250 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 22:35:28,250 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 22:35:28,250 - __main__ - INFO - training_interations: 10001
+2015-05-08 22:35:28,250 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 22:35:28,250 - __main__ - INFO - finetune_lr: 1
+2015-05-08 22:35:28,250 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 22:35:28,250 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 22:35:28,250 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 22:35:28,250 - __main__ - INFO - n_cores: 1
+2015-05-08 22:35:28,250 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 22:35:28,250 - __main__ - INFO - sparsity: 0
+2015-05-08 22:35:28,250 - __main__ - INFO - with_auc_score: False
+2015-05-08 22:35:28,250 - __main__ - INFO - Sda_new: 1
+2015-05-08 22:35:28,250 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 22:35:28,250 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 22:35:28,255 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:35:28,255 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:35:28,256 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-08 22:35:28,256 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:35:28,256 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:35:28,256 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-08 22:35:28,256 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-08 22:35:28,256 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-08 22:35:28,256 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-08 22:35:28,256 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:35:28,256 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:35:28,256 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-08 22:35:28,256 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-08 22:35:28,256 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-08 22:35:28,256 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-08 22:35:28,256 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-08 22:35:28,256 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-08 22:35:28,257 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-08 22:35:28,257 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-08 22:35:28,257 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-08 22:35:28,257 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-08 22:35:28,257 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-08 22:39:46,782 - __main__ - INFO - Input DDI file: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:39:46,782 - __main__ - INFO - DL: 1
+2015-05-08 22:39:46,782 - __main__ - INFO - SVM: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - n_outs: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-05-08 22:39:46,783 - __main__ - INFO - DL_S_new_sparsity: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - SVM_RBF: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - DL_S: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - sparsity_weight: 0
+2015-05-08 22:39:46,783 - __main__ - INFO - DL_U: 0
+2015-05-08 22:39:46,783 - __main__ - INFO - SVM_POLY: 0
+2015-05-08 22:39:46,783 - __main__ - INFO - reduce_ratio: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - DL_xy: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - batch_size: 100
+2015-05-08 22:39:46,783 - __main__ - INFO - lrate: D:0.1:0.5:0.05,0.005:1500
+2015-05-08 22:39:46,783 - __main__ - INFO - SAE_SVM_RBF: 0
+2015-05-08 22:39:46,783 - __main__ - INFO - filename: ddi_examples_40_60_over2top_diff_name_2014.txt
+2015-05-08 22:39:46,783 - __main__ - INFO - SAE_SVM: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - DL_S_new: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-05-08 22:39:46,783 - __main__ - INFO - DL_S_new_contraction: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - DL_S_new_weight_decay: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - pretraining_interations: 5000
+2015-05-08 22:39:46,783 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-05-08 22:39:46,783 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-05-08 22:39:46,783 - __main__ - INFO - training_interations: 10001
+2015-05-08 22:39:46,783 - __main__ - INFO - param-output-file: sda.mdl
+2015-05-08 22:39:46,783 - __main__ - INFO - finetune_lr: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - Sda_xy_with_first: 1
+2015-05-08 22:39:46,783 - __main__ - INFO - corruption_levels: [0, 0]
+2015-05-08 22:39:46,783 - __main__ - INFO - pretrain_lr: 0.001
+2015-05-08 22:39:46,784 - __main__ - INFO - n_cores: 1
+2015-05-08 22:39:46,784 - __main__ - INFO - wdir: /home/du/Documents/tmp
+2015-05-08 22:39:46,784 - __main__ - INFO - sparsity: 0
+2015-05-08 22:39:46,784 - __main__ - INFO - with_auc_score: False
+2015-05-08 22:39:46,784 - __main__ - INFO - Sda_new: 1
+2015-05-08 22:39:46,784 - __main__ - INFO - DL_S_new_Drop_out: 1
+2015-05-08 22:39:46,784 - __main__ - INFO - learning_rate: 0.001
+2015-05-08 22:39:46,787 - __main__ - INFO - DDI: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:39:46,800 - __main__ - DEBUG - There is a error in this ddi: RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N
+2015-05-08 22:39:46,800 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/RNA_pol_Rpb1_5_int_RNA_pol_Rpb5_N/allPairs.txt'
+2015-05-08 22:39:46,800 - __main__ - INFO - DDI: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:39:46,800 - __main__ - DEBUG - There is a error in this ddi: NTP_transf_2_int_tRNA_NucTransf2
+2015-05-08 22:39:46,800 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/NTP_transf_2_int_tRNA_NucTransf2/allPairs.txt'
+2015-05-08 22:39:46,800 - __main__ - INFO - DDI: Pkinase_int_TGF_beta_GS
+2015-05-08 22:39:46,800 - __main__ - DEBUG - There is a error in this ddi: Pkinase_int_TGF_beta_GS
+2015-05-08 22:39:46,800 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Pkinase_int_TGF_beta_GS/allPairs.txt'
+2015-05-08 22:39:46,800 - __main__ - INFO - DDI: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:39:46,801 - __main__ - DEBUG - There is a error in this ddi: Eno-Rase_FAD_bd_int_Enoyl_reductase
+2015-05-08 22:39:46,801 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Eno-Rase_FAD_bd_int_Enoyl_reductase/allPairs.txt'
+2015-05-08 22:39:46,801 - __main__ - INFO - DDI: C2-set_2_int_V-set
+2015-05-08 22:39:46,801 - __main__ - DEBUG - There is a error in this ddi: C2-set_2_int_V-set
+2015-05-08 22:39:46,801 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/C2-set_2_int_V-set/allPairs.txt'
+2015-05-08 22:39:46,801 - __main__ - INFO - DDI: LRR_1_int_LRR_7
+2015-05-08 22:39:46,801 - __main__ - DEBUG - There is a error in this ddi: LRR_1_int_LRR_7
+2015-05-08 22:39:46,802 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/LRR_1_int_LRR_7/allPairs.txt'
+2015-05-08 22:39:46,802 - __main__ - INFO - DDI: PSII_int_PsbU
+2015-05-08 22:39:46,802 - __main__ - DEBUG - There is a error in this ddi: PSII_int_PsbU
+2015-05-08 22:39:46,802 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/PSII_int_PsbU/allPairs.txt'
+2015-05-08 22:39:46,802 - __main__ - INFO - DDI: Skp1_int_Skp1_POZ
+2015-05-08 23:39:47,666 - __main__ - DEBUG - There is a error in this ddi: Skp1_int_Skp1_POZ
+2015-05-08 23:39:47,666 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-08 23:39:47,676 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_N
+2015-05-09 01:10:13,886 - __main__ - DEBUG - There is a error in this ddi: Lyase_8_int_Lyase_8_N
+2015-05-09 01:10:13,928 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-09 01:10:13,972 - __main__ - INFO - DDI: Lyase_8_int_Lyase_8_C
+2015-05-09 02:28:26,235 - __main__ - DEBUG - There is a error in this ddi: Lyase_8_int_Lyase_8_C
+2015-05-09 02:28:26,235 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-09 02:28:26,359 - __main__ - INFO - DDI: OKR_DC_1_int_OKR_DC_1_N
+2015-05-09 03:00:59,357 - __main__ - DEBUG - There is a error in this ddi: OKR_DC_1_int_OKR_DC_1_N
+2015-05-09 03:00:59,357 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-09 03:00:59,358 - __main__ - INFO - DDI: SUFU_int_SUFU_C
+2015-05-09 03:32:41,559 - __main__ - DEBUG - There is a error in this ddi: SUFU_int_SUFU_C
+2015-05-09 03:32:41,559 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-09 03:32:41,560 - __main__ - INFO - DDI: Alpha-amylase_int_DUF3459
+2015-05-09 03:32:41,560 - __main__ - DEBUG - There is a error in this ddi: Alpha-amylase_int_DUF3459
+2015-05-09 03:32:41,560 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Alpha-amylase_int_DUF3459/allPairs.txt'
+2015-05-09 03:32:41,560 - __main__ - INFO - DDI: Sigma70_r2_int_Sigma70_r3
+2015-05-09 03:32:41,560 - __main__ - DEBUG - There is a error in this ddi: Sigma70_r2_int_Sigma70_r3
+2015-05-09 03:32:41,561 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Sigma70_r2_int_Sigma70_r3/allPairs.txt'
+2015-05-09 03:32:41,561 - __main__ - INFO - DDI: FXa_inhibition_int_Ldl_recept_b
+2015-05-09 03:32:41,561 - __main__ - DEBUG - There is a error in this ddi: FXa_inhibition_int_Ldl_recept_b
+2015-05-09 03:32:41,561 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/FXa_inhibition_int_Ldl_recept_b/allPairs.txt'
+2015-05-09 03:32:41,561 - __main__ - INFO - DDI: Fn3-like_int_Glyco_hydro_3
+2015-05-09 03:32:41,561 - __main__ - DEBUG - There is a error in this ddi: Fn3-like_int_Glyco_hydro_3
+2015-05-09 03:32:41,561 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/Fn3-like_int_Glyco_hydro_3/allPairs.txt'
+2015-05-09 03:32:41,561 - __main__ - INFO - DDI: GT36_AF_int_Glyco_transf_36
+2015-05-09 03:32:41,561 - __main__ - DEBUG - There is a error in this ddi: GT36_AF_int_Glyco_transf_36
+2015-05-09 03:32:41,561 - __main__ - INFO - [Errno 2] No such file or directory: '/home/du/Documents/Vectors_Fishers_aaIndex_raw_2014_paper/GT36_AF_int_Glyco_transf_36/allPairs.txt'
+2015-05-09 03:32:41,561 - __main__ - INFO - DDI: ERAP1_C_int_Peptidase_M1
+2015-05-09 04:40:25,747 - __main__ - DEBUG - There is a error in this ddi: ERAP1_C_int_Peptidase_M1
+2015-05-09 04:40:25,747 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-09 04:40:25,748 - __main__ - INFO - DDI: DNA_PPF_int_gp45-slide_C
+2015-05-09 05:22:47,358 - __main__ - DEBUG - There is a error in this ddi: DNA_PPF_int_gp45-slide_C
+2015-05-09 05:22:47,358 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+
+2015-05-09 05:22:47,359 - __main__ - INFO - DDI: Asn_synthase_int_GATase_7
+2015-05-09 05:54:21,979 - __main__ - DEBUG - There is a error in this ddi: Asn_synthase_int_GATase_7
+2015-05-09 05:54:21,980 - __main__ - INFO - total size of new array must be unchanged
+Apply node that caused the error: Reshape{3}(Elemwise{mul,no_inplace}.0, TensorConstant{[  1   1 200]})
+Inputs shapes: [(100, 200), (3,)]
+Inputs strides: [(800, 4), (8,)]
+Inputs types: [TensorType(float32, matrix), TensorType(int64, vector)]
+Debugprint of the apply node: 
+Reshape{3} [@A] <TensorType(float32, (True, True, False))> ''   
+ |Elemwise{mul,no_inplace} [@B] <TensorType(float32, matrix)> ''   
+ | |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ | | |Dot22 [@D] <TensorType(float32, matrix)> ''   
+ | | | |Elemwise{Mul{output_types_preference=transfer_type{0}}}[(0, 0)] [@E] <TensorType(float32, matrix)> ''   
+ | | | | |RandomFunction{binomial}.1 [@F] <TensorType(float32, matrix)> ''   
+ | | | | | |<RandomStateType> [@G] <RandomStateType>
+ | | | | | |Elemwise{Cast{int32}} [@H] <TensorType(int32, vector)> ''   
+ | | | | | | |MakeVector [@I] <TensorType(int64, vector)> ''   
+ | | | | | |   |Elemwise{Composite{[Composite{[Composite{[Composite{[Composite{[Composite{[sub(i0, Switch(i1, i2, i0))]}(i0, LT(i1, i0), i1)]}(Composite{[Switch(LT(i0, i1), i1, i0)]}(i0, i1), Composite{[Switch(LT(i0, i1), i1, i0)]}(i2, i1))]}(Composite{[Switch(GE(i0, i1), i1, i0)]}(i0, i1), i2, Composite{[Switch(GE(i0, i1), i1, i0)]}(i3, i1))]}(Composite{[Switch(LT(i0, i1), i2, i0)]}(i0, i1, i2), i3, i1, Composite{[Switch(LT(i0, i1), i1, i0)]}(i4, i1))]}(Composite{[Switch(LT(i0, i1), add(i2, i3, i4), i0)]}(i0, i1, i2, i3, i4), i1, i5, i4, Composite{[Switch(LT(i0, i1), add(i0, i2), i0)]}(i3, i1, i4))]}}[(0, 0)] [@J] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |   |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |   |index [@N] <TensorType(int64, scalar)>
+ | | | | | |   | |TensorConstant{0} [@O] <TensorType(int8, scalar)>
+ | | | | | |   | |TensorConstant{100} [@L] <TensorType(int64, scalar)>
+ | | | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | | | |   | |Shape_i{0} [@P] <TensorType(int64, scalar)> ''   
+ | | | | | |   | | |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |   | |TensorConstant{-1} [@R] <TensorType(int8, scalar)>
+ | | | | | |   |Shape_i{1} [@S] <TensorType(int64, scalar)> ''   
+ | | | | | |     |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | | | |TensorConstant{1} [@T] <TensorType(int8, scalar)>
+ | | | | | |Elemwise{sub,no_inplace} [@U] <TensorType(float32, scalar)> ''   
+ | | | | |   |TensorConstant{1.0} [@V] <TensorType(float32, scalar)>
+ | | | | |   |corruption [@W] <TensorType(float32, scalar)>
+ | | | | |Subtensor{int64:int64:} [@X] <TensorType(float32, matrix)> ''   
+ | | | |   |<TensorType(float32, matrix)> [@Q] <TensorType(float32, matrix)>
+ | | | |   |ScalarFromTensor [@Y] <int64> ''   
+ | | | |   | |Elemwise{mul,no_inplace} [@M] <TensorType(int64, scalar)> ''   
+ | | | |   |ScalarFromTensor [@Z] <int64> ''   
+ | | | |     |Elemwise{add,no_inplace} [@K] <TensorType(int64, scalar)> ''   
+ | | | |W [@BA] <TensorType(float32, matrix)>
+ | | |InplaceDimShuffle{x,0} [@BB] <TensorType(float32, row)> ''   
+ | |   |b [@BC] <TensorType(float32, vector)>
+ | |Elemwise{sub} [@BD] <TensorType(float32, matrix)> ''   
+ |   |TensorConstant{(1, 1) of 1.0} [@BE] <TensorType(float32, (True, True))>
+ |   |Elemwise{Composite{[scalar_sigmoid(add(i0, i1))]}}[(0, 0)] [@C] <TensorType(float32, matrix)> ''   
+ |TensorConstant{[  1   1 200]} [@BF] <TensorType(int64, vector)>
+

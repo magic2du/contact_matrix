@@ -1,0 +1,48 @@
+2015-04-17 14:10:54,465 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-04-17 14:10:54,465 - __main__ - INFO - DL: 1
+2015-04-17 14:10:54,466 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-04-17 14:10:54,466 - __main__ - INFO - DL_S: 1
+2015-04-17 14:10:54,466 - __main__ - INFO - DL_U: 0
+2015-04-17 14:10:54,466 - __main__ - INFO - SVM_POLY: 0
+2015-04-17 14:10:54,467 - __main__ - INFO - reduce_ratio: 1
+2015-04-17 14:10:54,467 - __main__ - INFO - pretrain_lr: 0.001
+2015-04-17 14:10:54,467 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-04-17 14:10:54,467 - __main__ - INFO - corruption_levels: [0, 0]
+2015-04-17 14:10:54,468 - __main__ - INFO - filename: testDDI.txt
+2015-04-17 14:10:54,468 - __main__ - INFO - SVM: 1
+2015-04-17 14:10:54,468 - __main__ - INFO - SVM_RBF: 1
+2015-04-17 14:10:54,468 - __main__ - INFO - batch_size: 10000
+2015-04-17 14:10:54,468 - __main__ - INFO - SAE_SVM_RBF: 1
+2015-04-17 14:10:54,469 - __main__ - INFO - SAE_SVM: 1
+2015-04-17 14:10:54,469 - __main__ - INFO - pretraining_interations: 10001
+2015-04-17 14:10:54,469 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-04-17 14:10:54,469 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-04-17 14:10:54,469 - __main__ - INFO - finetune_lr: 10
+2015-04-17 14:10:54,470 - __main__ - INFO - n_cores: 1
+2015-04-17 14:10:54,470 - __main__ - INFO - with_auc_score: False
+2015-04-17 14:10:54,470 - __main__ - INFO - training_epochs: 10001
+2015-04-17 14:10:55,780 - __main__ - INFO - DDI: Trypsin_int_V-set
+2015-04-17 15:48:13,110 - __main__ - INFO - Input DDI file: testDDI.txt
+2015-04-17 15:48:13,111 - __main__ - INFO - DL: 1
+2015-04-17 15:48:13,111 - __main__ - INFO - SAE_SVM_RBF_COMBO: 0
+2015-04-17 15:48:13,111 - __main__ - INFO - DL_S: 1
+2015-04-17 15:48:13,111 - __main__ - INFO - DL_U: 0
+2015-04-17 15:48:13,112 - __main__ - INFO - SVM_POLY: 0
+2015-04-17 15:48:13,112 - __main__ - INFO - reduce_ratio: 1
+2015-04-17 15:48:13,112 - __main__ - INFO - pretrain_lr: 0.001
+2015-04-17 15:48:13,112 - __main__ - INFO - hidden_layers_sizes: [200, 200]
+2015-04-17 15:48:13,113 - __main__ - INFO - corruption_levels: [0, 0]
+2015-04-17 15:48:13,113 - __main__ - INFO - filename: testDDI.txt
+2015-04-17 15:48:13,113 - __main__ - INFO - SVM: 1
+2015-04-17 15:48:13,113 - __main__ - INFO - SVM_RBF: 1
+2015-04-17 15:48:13,114 - __main__ - INFO - batch_size: 10000
+2015-04-17 15:48:13,114 - __main__ - INFO - SAE_SVM_RBF: 1
+2015-04-17 15:48:13,114 - __main__ - INFO - SAE_SVM: 1
+2015-04-17 15:48:13,114 - __main__ - INFO - pretraining_interations: 10001
+2015-04-17 15:48:13,114 - __main__ - INFO - fisher_mode: FisherM1ONLY
+2015-04-17 15:48:13,115 - __main__ - INFO - SAE_SVM_COMBO: 0
+2015-04-17 15:48:13,115 - __main__ - INFO - finetune_lr: 10
+2015-04-17 15:48:13,115 - __main__ - INFO - n_cores: 1
+2015-04-17 15:48:13,115 - __main__ - INFO - with_auc_score: False
+2015-04-17 15:48:13,115 - __main__ - INFO - training_epochs: 10001
+2015-04-17 15:48:14,487 - __main__ - INFO - DDI: Trypsin_int_V-set

@@ -1,0 +1,11 @@
+2013-10-19 14:17 STARTED.
+{Error using <a href="matlab:helpUtils.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file
+'/big/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/Vectors_Fishers_aaIndex_raw/PF00004.21_int_PF09336.2/pairsToRun.txt':
+no such file or directory.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('run3DID_remote_ChooseNegRand_aaIndex_test_load_DL_cross', '/home/michael/Dropbox/Project/Contact_maps/DeepLearning/DeepLearningTool/run3DID_remote_ChooseNegRand_aaIndex_test_load_DL_cross.m', 55)" style="font-weight:bold">run3DID_remote_ChooseNegRand_aaIndex_test_load_DL_cross</a>
+(<a href="matlab: opentoline('/home/michael/Dropbox/Project/Contact_maps/DeepLearning/DeepLearningTool/run3DID_remote_ChooseNegRand_aaIndex_test_load_DL_cross.m',55,0)">line 55</a>)
+    pairsToRun= load(filePath);
+} 
+run3DID_AllVectorsChooseNegRand_aaIndex_test_load_DL_cross('finishedDDIs_AllVectorsChooseNegRand_FisherM1_SVMLIGHT_POLY_02NOV2011.txt', 'FisherM1AA3', 'DL', 'DL', 1, 1) 

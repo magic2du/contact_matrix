@@ -1,0 +1,497 @@
+2013-10-17 21:44 STARTED.
+Training AUC: 87.507%
+Training accuracy: 79.094%
+Training recall: 75.120%
+Training precision: 81.606%
+Training f_measure: 78.228%
+Testing AUC: 91.896%
+Testing accuracy: 84.177%
+Testing recall: 91.139%
+Testing precision: 80.000%
+Testing f_measure: 85.207%
+
+
+
+2013-10-17 23:12 SUCCESS: PF00004.21_int_PF09336.2.
+
+
+Training AUC: 87.856%
+Training accuracy: 79.612%
+Training recall: 76.303%
+Training precision: 81.710%
+Training f_measure: 78.914%
+Testing AUC: 83.876%
+Testing accuracy: 63.740%
+Testing recall: 29.008%
+Testing precision: 95.000%
+Testing f_measure: 44.444%
+
+
+
+2013-10-18 :4 SUCCESS: PF00017.16_int_PF00018.20.
+
+
+Training AUC: 87.938%
+Training accuracy: 79.718%
+Training recall: 78.672%
+Training precision: 80.353%
+Training f_measure: 79.504%
+Testing AUC: 87.188%
+Testing accuracy: 66.106%
+Testing recall: 33.654%
+Testing precision: 95.890%
+Testing f_measure: 49.822%
+
+
+
+2013-10-18 :53 SUCCESS: PF00025.13_int_PF00025.13.
+
+
+Training AUC: 88.035%
+Training accuracy: 79.401%
+Training recall: 76.444%
+Training precision: 81.249%
+Training f_measure: 78.773%
+Testing AUC: 72.698%
+Testing accuracy: 63.810%
+Testing recall: 28.571%
+Testing precision: 96.774%
+Testing f_measure: 44.118%
+
+
+
+2013-10-18 1:42 SUCCESS: PF00028.9_int_PF00028.9.
+
+
+Training AUC: 87.466%
+Training accuracy: 79.136%
+Training recall: 76.013%
+Training precision: 81.078%
+Training f_measure: 78.464%
+Testing AUC: 99.663%
+Testing accuracy: 91.549%
+Testing recall: 100.000%
+Testing precision: 85.542%
+Testing f_measure: 92.208%
+
+
+
+2013-10-18 2:31 SUCCESS: PF00032.9_int_PF02271.8.
+
+
+Training AUC: 87.383%
+Training accuracy: 78.979%
+Training recall: 75.454%
+Training precision: 81.177%
+Training f_measure: 78.211%
+Testing AUC: 99.692%
+Testing accuracy: 90.789%
+Testing recall: 100.000%
+Testing precision: 84.444%
+Testing f_measure: 91.566%
+
+
+
+2013-10-18 3:20 SUCCESS: PF00032.9_int_PF02939.8.
+
+
+Training AUC: 86.868%
+Training accuracy: 78.573%
+Training recall: 74.949%
+Training precision: 80.806%
+Training f_measure: 77.767%
+Testing AUC: 98.114%
+Testing accuracy: 90.909%
+Testing recall: 95.130%
+Testing precision: 87.725%
+Testing f_measure: 91.277%
+
+
+
+2013-10-18 4:9 SUCCESS: PF00033.11_int_PF00033.11.
+
+
+Training AUC: 87.417%
+Training accuracy: 79.020%
+Training recall: 76.448%
+Training precision: 80.594%
+Training f_measure: 78.466%
+Testing AUC: 99.518%
+Testing accuracy: 95.455%
+Testing recall: 98.485%
+Testing precision: 92.857%
+Testing f_measure: 95.588%
+
+
+
+2013-10-18 4:58 SUCCESS: PF00033.11_int_PF00355.18.
+
+
+Training AUC: 87.579%
+Training accuracy: 79.232%
+Training recall: 75.548%
+Training precision: 81.557%
+Training f_measure: 78.438%
+Testing AUC: 100.000%
+Testing accuracy: 97.619%
+Testing recall: 95.238%
+Testing precision: 100.000%
+Testing f_measure: 97.561%
+
+
+
+2013-10-18 5:48 SUCCESS: PF00033.11_int_PF02271.8.
+
+
+Training AUC: 87.602%
+Training accuracy: 79.197%
+Training recall: 76.037%
+Training precision: 81.167%
+Training f_measure: 78.519%
+Testing AUC: 100.000%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+2013-10-18 6:39 SUCCESS: PF00033.11_int_PF02939.8.
+
+
+Training AUC: 87.607%
+Training accuracy: 79.134%
+Training recall: 76.805%
+Training precision: 80.558%
+Training f_measure: 78.637%
+Testing AUC: 100.000%
+Testing accuracy: 98.077%
+Testing recall: 96.154%
+Testing precision: 100.000%
+Testing f_measure: 98.039%
+
+
+
+2013-10-18 7:29 SUCCESS: PF00034.13_int_PF00141.15.
+
+
+Training AUC: 87.606%
+Training accuracy: 79.255%
+Training recall: 75.412%
+Training precision: 81.690%
+Training f_measure: 78.426%
+Testing AUC: 100.000%
+Testing accuracy: 92.000%
+Testing recall: 100.000%
+Testing precision: 86.207%
+Testing f_measure: 92.593%
+
+
+
+2013-10-18 8:21 SUCCESS: PF00034.13_int_PF02239.8.
+
+
+Training AUC: 87.946%
+Training accuracy: 79.654%
+Training recall: 78.512%
+Training precision: 80.346%
+Training f_measure: 79.419%
+Testing AUC: 83.366%
+Testing accuracy: 56.771%
+Testing recall: 15.625%
+Testing precision: 88.235%
+Testing f_measure: 26.549%
+
+
+
+2013-10-18 9:10 SUCCESS: PF00051.10_int_PF00051.10.
+
+
+Training AUC: 87.671%
+Training accuracy: 79.253%
+Training recall: 75.303%
+Training precision: 81.762%
+Training f_measure: 78.400%
+Testing AUC: 87.036%
+Testing accuracy: 81.250%
+Testing recall: 65.625%
+Testing precision: 95.455%
+Testing f_measure: 77.778%
+
+
+
+2013-10-18 10: SUCCESS: PF00074.12_int_PF07686.9.
+
+
+Training AUC: 87.313%
+Training accuracy: 78.716%
+Training recall: 74.351%
+Training precision: 81.462%
+Training f_measure: 77.744%
+Testing AUC: 93.818%
+Testing accuracy: 87.209%
+Testing recall: 86.047%
+Testing precision: 88.095%
+Testing f_measure: 87.059%
+
+
+
+2013-10-18 10:51 SUCCESS: PF00081.14_int_PF00081.14.
+
+
+Training AUC: 87.965%
+Training accuracy: 79.387%
+Training recall: 76.990%
+Training precision: 80.868%
+Training f_measure: 78.881%
+Testing AUC: 84.971%
+Testing accuracy: 72.558%
+Testing recall: 52.558%
+Testing precision: 87.597%
+Testing f_measure: 65.698%
+
+
+
+2013-10-18 11:41 SUCCESS: PF00087.13_int_PF00087.13.
+
+
+Training AUC: 87.681%
+Training accuracy: 79.006%
+Training recall: 74.728%
+Training precision: 81.720%
+Training f_measure: 78.067%
+Testing AUC: 87.429%
+Testing accuracy: 81.783%
+Testing recall: 66.667%
+Testing precision: 95.556%
+Testing f_measure: 78.539%
+
+
+
+2013-10-18 12:30 SUCCESS: PF00104.22_int_PF08832.2.
+
+
+Training AUC: 87.540%
+Training accuracy: 79.280%
+Training recall: 75.311%
+Training precision: 81.805%
+Training f_measure: 78.423%
+Testing AUC: 100.000%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+2013-10-18 13:22 SUCCESS: PF00127.12_int_PF06433.3.
+
+
+Training AUC: 87.837%
+Training accuracy: 79.341%
+Training recall: 75.846%
+Training precision: 81.545%
+Training f_measure: 78.593%
+Testing AUC: 83.068%
+Testing accuracy: 76.378%
+Testing recall: 96.063%
+Testing precision: 68.927%
+Testing f_measure: 80.263%
+
+
+
+2013-10-18 14:12 SUCCESS: PF00149.20_int_PF08321.4.
+
+
+Training AUC: 87.479%
+Training accuracy: 78.869%
+Training recall: 75.535%
+Training precision: 80.931%
+Training f_measure: 78.140%
+Testing AUC: 90.436%
+Testing accuracy: 79.605%
+Testing recall: 68.421%
+Testing precision: 88.136%
+Testing f_measure: 77.037%
+
+
+
+2013-10-18 15:11 SUCCESS: PF00167.10_int_PF07679.8.
+
+
+Training AUC: 87.713%
+Training accuracy: 79.121%
+Training recall: 75.913%
+Training precision: 81.117%
+Training f_measure: 78.429%
+Testing AUC: 88.237%
+Testing accuracy: 79.043%
+Testing recall: 83.830%
+Testing precision: 76.505%
+Testing f_measure: 80.000%
+
+
+
+2013-10-18 16:12 SUCCESS: PF00243.10_int_PF00243.10.
+
+
+Training AUC: 88.146%
+Training accuracy: 79.736%
+Training recall: 76.802%
+Training precision: 81.590%
+Training f_measure: 79.124%
+Testing AUC: 68.500%
+Testing accuracy: 51.500%
+Testing recall: 4.000%
+Testing precision: 80.000%
+Testing f_measure: 7.619%
+
+
+
+2013-10-18 17:16 SUCCESS: PF00254.20_int_PF00254.20.
+
+
+Training AUC: 87.621%
+Training accuracy: 79.262%
+Training recall: 77.278%
+Training precision: 80.470%
+Training f_measure: 78.842%
+Testing AUC: 93.835%
+Testing accuracy: 77.326%
+Testing recall: 58.140%
+Testing precision: 94.340%
+Testing f_measure: 71.942%
+
+
+
+2013-10-18 18:23 SUCCESS: PF00385.16_int_PF00385.16.
+
+
+Training AUC: 88.740%
+Training accuracy: 80.059%
+Training recall: 74.042%
+Training precision: 84.172%
+Training f_measure: 78.783%
+Testing AUC: 88.138%
+Testing accuracy: 76.902%
+Testing recall: 92.527%
+Testing precision: 70.497%
+Testing f_measure: 80.024%
+
+
+
+2013-10-18 19:14 SUCCESS: PF00393.11_int_PF00393.11.
+
+
+Training AUC: 87.331%
+Training accuracy: 79.064%
+Training recall: 76.425%
+Training precision: 80.683%
+Training f_measure: 78.497%
+Testing AUC: 94.616%
+Testing accuracy: 87.716%
+Testing recall: 94.397%
+Testing precision: 83.270%
+Testing f_measure: 88.485%
+
+
+
+2013-10-18 20:17 SUCCESS: PF00511.9_int_PF00511.9.
+
+
+Training AUC: 88.826%
+Training accuracy: 80.497%
+Training recall: 79.240%
+Training precision: 81.284%
+Training f_measure: 80.249%
+Testing AUC: 61.668%
+Testing accuracy: 51.449%
+Testing recall: 7.246%
+Testing precision: 62.500%
+Testing f_measure: 12.987%
+
+
+
+2013-10-18 21:22 SUCCESS: PF00563.12_int_PF00563.12.
+
+
+Training AUC: 87.501%
+Training accuracy: 79.140%
+Training recall: 75.250%
+Training precision: 81.598%
+Training f_measure: 78.295%
+Testing AUC: 95.076%
+Testing accuracy: 88.667%
+Testing recall: 93.333%
+Testing precision: 85.366%
+Testing f_measure: 89.172%
+
+
+
+2013-10-18 22:26 SUCCESS: PF00617.11_int_PF00618.12.
+
+
+Training AUC: 87.672%
+Training accuracy: 79.272%
+Training recall: 76.753%
+Training precision: 80.824%
+Training f_measure: 78.736%
+Testing AUC: 76.562%
+Testing accuracy: 65.625%
+Testing recall: 37.500%
+Testing precision: 85.714%
+Testing f_measure: 52.174%
+
+
+
+2013-10-18 23:17 SUCCESS: PF00711.11_int_PF00711.11.
+
+
+Training AUC: 87.389%
+Training accuracy: 79.104%
+Training recall: 75.015%
+Training precision: 81.696%
+Training f_measure: 78.213%
+Testing AUC: 99.686%
+Testing accuracy: 90.659%
+Testing recall: 98.901%
+Testing precision: 84.906%
+Testing f_measure: 91.371%
+
+
+
+2013-10-19 :4 SUCCESS: PF00712.11_int_PF02768.7.
+
+
+Training AUC: 88.129%
+Training accuracy: 79.848%
+Training recall: 76.754%
+Training precision: 81.816%
+Training f_measure: 79.204%
+Testing AUC: 83.751%
+Testing accuracy: 54.202%
+Testing recall: 8.403%
+Testing precision: 100.000%
+Testing f_measure: 15.504%
+
+
+
+2013-10-19 :51 SUCCESS: PF00782.12_int_PF00782.12.
+
+
+2013-10-19 :51 FINISHED.
+Number of total DDI is: 30
+Number of successed DDI is: 30
+Number of total sequence is: 30
+FisherMode: FisherM1AA3 SVMMode: DL Kernel: DL, choseNegRatio: 1, choseNegRatioTest: 1
+The baseline AUC: 0.000%
+The baseline recall: 0.000%
+The baseline precision: 0.000%
+Testing AUC: 89.761%
+Testing recall: 69.889%
+Testing precision: 87.826%
+Testing f_measure: 72.073%
+Training accuracy: 79.299%
+Training recall: 76.108%
+Training precision: 81.308%
+Training f_measure: 78.613%

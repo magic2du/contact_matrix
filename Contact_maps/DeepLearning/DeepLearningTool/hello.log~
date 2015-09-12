@@ -1,0 +1,26 @@
+So should this
+2014-09-22 14:49:57,942 - __main__ - INFO - So should this
+Hello baby
+2014-09-22 14:49:57,943 - __main__ - INFO - Hello baby
+So should this
+2014-09-22 14:52:16,131 - __main__ - INFO - So should this
+2014-09-22 14:52:16,131 - __main__ - INFO - So should this
+So should this
+2014-09-22 14:52:51,305 - __main__ - INFO - So should this
+2014-09-22 14:52:51,305 - __main__ - INFO - So should this
+So should this
+2014-09-22 14:53:15,915 - __main__ - INFO - So should this
+2014-09-22 14:53:15,915 - __main__ - INFO - So should this
+This message should go to the log file
+Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+2014-09-22 14:57:03,969 - __main__ - INFO - Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+2014-09-22 14:57:03,969 - __main__ - INFO - Input DDI file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt
+DDI: 6PGD_int_NAD_binding_2
+2014-09-22 15:12:42,588 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-09-22 15:12:42,588 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+DDI: 6PGD_int_NAD_binding_2
+2014-09-22 15:21:51,112 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+2014-09-22 15:21:51,112 - __main__ - INFO - DDI: 6PGD_int_NAD_binding_2
+saving to file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt_100_100_0.01_1_4
+2014-09-22 16:38:50,840 - __main__ - INFO - saving to file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt_100_100_0.01_1_4
+2014-09-22 16:38:50,840 - __main__ - INFO - saving to file: listOfDDIsHaveOver2InterfacesHave40-75_Examples_2010_real_selected.txt_100_100_0.01_1_4

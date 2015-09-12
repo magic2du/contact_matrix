@@ -1,0 +1,14 @@
+2013-10-31 21:18 SUCCESS: Activin_recp_int_TGF_beta
+2013-10-31 21:43 SUCCESS: Desulfoferrod_N_int_Desulfoferrodox
+2013-10-31 23:17 SUCCESS: DrsE_int_DsrH
+2013-11-1 :48 SUCCESS: E2_bind_int_ThiF
+2013-11-1 1:31 SUCCESS: efhand_int_Troponin
+2013-11-1 2:32 SUCCESS: EpoR_lig-bind_int_fn3
+2013-11-1 5:49 SUCCESS: FGF_int_I-set
+2013-11-1 6:36 SUCCESS: Gelsolin_int_Sec23_helical
+2013-11-1 7:32 SUCCESS: GFRP_int_GTP_cyclohydroI
+2013-11-1 9:25 SUCCESS: MHC_II_alpha_int_V-set
+2013-11-1 9:41 SUCCESS: Ribosomal_L28_int_Ribosomal_L9_N
+2013-11-1 11:16 SUCCESS: Rieske_int_V-set
+2013-11-1 11:58 SUCCESS: TetR_C_2_int_TetR_N
+2013-11-1 12:40 SUCCESS: UreE_C_int_UreE_N2013-11-1 12:40 FINISHED.

@@ -1,0 +1,5 @@
+
+runtime on cuda. for DL_Stacked_Model_Mnist_Psuedo_04_22_2015.py
+real    595m46.852s
+user    0m0.024s
+sys     0m0.066s

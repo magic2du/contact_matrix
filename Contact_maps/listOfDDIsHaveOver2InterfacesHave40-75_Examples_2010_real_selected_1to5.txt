@@ -1,0 +1,5 @@
+6PGD_int_NAD_binding_2
+Activin_recp_int_TGF_beta
+ADSL_C_int_Lyase_1
+AICARFT_IMPCHas_int_MGS
+Ald_Xan_dh_C_int_FAD_binding_5

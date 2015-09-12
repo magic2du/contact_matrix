@@ -1,0 +1,13 @@
+function [newTrainSet, newTrainLable, validationSet, valicationlable]= splitTrainData2TrainAndValidation(trainData, trainLabel)
+    splitRatio=0.8;
+    m = size(trainLabel, 1); %number of instance
+    labelDimension=size(trainLabel, 2);
+    r = randperm(m);
+    nOfNewTrain = floor(splitRatio * m);
+    indexOfNewTrain = r(1:nOfNewTrain); % index of new training set
+    indexOfNewValidation = r(nOfNewTrain+1:end); % index of new v set
+    newTrainSet = trainData(indexOfNewTrain, :);
+    newTrainLable = trainLabel(indexOfNewTrain,:);
+    validationSet = trainData(indexOfNewValidation, :);
+    valicationlable =trainLabel(indexOfNewValidation, :);
+end

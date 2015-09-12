@@ -1,0 +1,112 @@
+function run3DID_CellectVectors_Fishers_aaIndex(file_ddis)
+%collect the training exmples and validation(last sequence pair) 
+%feature vectors{F0=20,F1=20, Sliding=17*11}*2 and output={0,1}. output 1 means residuepairs are contact pairs. 
+%Because for each DDI the training vectors and validation vectors are about 3Gb. I decided to write it to different DDI direcoty instead of just one big file
+%outputPath=['/big/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/Vectors_Fishers_aaIndex_raw/' ddiddiName '/'] 
+diary off;
+dateFormatted = upper(date);
+dateFormatted = dateFormatted(regexp(upper(date), '[A-Z0-9]'));
+logfile_name = ['log_run3DID_CellectVectors_Fishers_aaIndex_' ...
+             dateFormatted '.txt'];
+if exist(logfile_name, 'file')
+    command = ['rm -f ' logfile_name];
+    system(command);
+end
+diary(logfile_name);
+
+c = clock;
+time = [num2str(c(1), '%0.0d') '-' num2str(c(2), '%0.0d') '-' ...
+        num2str(c(3), '%0.0d') ' ' num2str(c(4), '%0.0d') ':' ...
+        num2str(c(5), '%0.0d')];
+logline = [time ' STARTED.\n'];
+fprintf(logline);
+
+% we'll only do the ddis in this dataset.
+%file_ddis = 'dataset_25JAN2011.txt';
+%file_ddis = 'dataset_09AUG2011_FinContMatrIphmmFisher.txt';
+%file_ddis = 'ddisFinishedByAll_11AUG2011.txt';
+%file_ddis = 'prototypeDDI.txt';
+%file_ddis = 'finishedDDIs_GraphClustering_18OCT2011.txt';
+%file_ddis = 'finishedDDIs_GraphClustering_31OCT2011.txt';
+%file_ddis = 'goodClusterings_02NOV2011.txt';
+%file_ddis = ...
+%'finishedDDIs_AllVectorsChooseNegRand_FisherM1_SVMLIGHT_POLY_02NOV2011.txt';
+fid = fopen(file_ddis, 'r');
+cell_ddis = textscan(fid, '%s', 'delimiter', '\n');
+cell_ddis = cell_ddis{1};
+fclose(fid);
+
+currDir = pwd;
+successCtr = 0;
+matrixTraining=[];
+matrixValidation=[];
+
+for ddi_ctr = 1:length(cell_ddis)
+    cd(currDir);
+
+    ddiName = cell_ddis{ddi_ctr};
+    
+    try
+        
+        %meanAUC = runDDIAllVectorsChooseNegRand_02NOV2011( ...
+        [tmpTraining,tmpValidation] = runDDI_CellectVectors_Fishers_aaIndex(ddiName);
+        size(tmpTraining)
+        size(tmpValidation)
+        %matrixTraining=[matrixTraining; tmpTraining];
+        %matrixValidation=[matrixTraining; tmpValidation];
+		outputPath=['/big/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/Vectors_Fishers_aaIndex_raw/' ddiName '/'] ;
+		if ~exist(outputPath, 'dir')
+			mkdir(outputPath);
+		end
+		filename=[outputPath file_ddis '_F0_20_F1_20_Sliding_17_11_F0_20_F1_20_Sliding_17_11_ouput_1_validation.txt']
+		save(filename, 'tmpValidation', '-ascii');
+		filename=[outputPath file_ddis '_F0_20_F1_20_Sliding_17_11_F0_20_F1_20_Sliding_17_11_ouput_1_training.txt']
+		save(filename, 'tmpTraining', '-ascii');
+        % finished! report SUCCESS to log file.
+        successCtr = successCtr + 1;
+        c = clock;
+        time = [num2str(c(1), '%0.0d') '-' num2str(c(2), '%0.0d') '-' ...
+                num2str(c(3), '%0.0d') ' ' num2str(c(4), '%0.0d') ':' ...
+                num2str(c(5), '%0.0d')];
+        logline = ['\n\n\n' time ' SUCCESS: ' ddiName ...
+                    ];
+        fprintf(logline);
+        
+        %{
+        if successCtr == 20
+            % force end.
+            break;
+        end
+        %}
+        
+    catch exc
+        cd(currDir);
+        c = clock;
+        time = [num2str(c(1), '%0.0d') '-' num2str(c(2), '%0.0d') '-' ...
+                num2str(c(3), '%0.0d') ' ' num2str(c(4), '%0.0d') ':' ...
+                num2str(c(5), '%0.0d')];
+        logline = [time ' ERROR: ' ddiName ...
+                                        '. Message: ' exc.message '\n'];
+        fprintf(logline);
+        % print the stack.
+        for stackCtr = length(exc.stack):-1:1
+            fprintf([exc.stack(stackCtr).file '; ' ...
+                        exc.stack(stackCtr).name '; ' ...
+                        num2str(exc.stack(stackCtr).line) '\n']);
+        end
+    end
+    
+end
+
+cd(currDir);
+c = clock;
+time = [num2str(c(1), '%0.0d') '-' num2str(c(2), '%0.0d') '-' ...
+        num2str(c(3), '%0.0d') ' ' num2str(c(4), '%0.0d') ':' ...
+        num2str(c(5), '%0.0d')];
+logline = [time ' FINISHED.\n'];
+fprintf(logline);
+
+diary off;
+
+
+return;

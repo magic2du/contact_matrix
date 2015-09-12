@@ -1,0 +1,74 @@
+'''
+Created on Apr 10, 2013
+
+@author: du
+'''
+import os
+class FileOperator:
+    def __init__(self, fileName):       #file name to be operated.
+        self.fileName=fileName
+    def read(self):                     #return file content as text
+        f=open(self.fileName, 'r')
+        data=f.read()
+        f.close()
+        return data
+    def readLines(self):
+        f=open(self.fileName, 'r')      #return file content as list of lines
+        data=f.readlines()
+        f.close()
+        print "number of lines in %s:" %self.fileName +str(len(data)) 
+        return data
+    def readStripLines(self):
+        f=open(self.fileName, 'r')      #return file content as list of lines
+        data=[]
+        for line in f.readlines()
+            line=line.strip()
+            data.append(line)
+        f.close()
+        print "number of lines in %s:" %self.fileName +str(len(data)) 
+        return data
+    def writeList(self,lst):    # write lst into filename.
+	    data_file = open(self.fileName,'w')
+	    for item in lst:
+		    data_file.write("%s\n" % item)
+	    print "number of lines wrote in %s:" %self.fileName +str(len(lst))
+	    data_file.close()	
+    
+class FilesInFolder:                    #return the list of files with path recursively 
+    def __init__(self, FOLDER):         #read filename
+        self.FOLDER=FOLDER
+    def getFiles(self):                 #return the list of files with path recursively 
+        data=[]
+        for dirname, dirnames, filenames in os.walk(self.FOLDER):
+            # print path to all subdirectories first.
+           
+    #        for subdirname in dirnames:
+    #            print os.path.join(dirname, subdirname)
+        
+            # print path to all filenames.
+            for filename in filenames:
+                data.append(os.path.join(dirname, filename))
+        return data
+
+
+class DictToCSVWriter:  # tab delimiter to filename of dictionary CSV file
+    def __init__(self, filename, dictionary):         #read filename
+        self.filename=filename
+        self.dictionary=dictionary  
+    def write(self):         #read filename
+        with open(self.filename, 'w') as f:  # This creates the file object for the context
+                                                        # below it and closes the file automatically
+            for k, v in self.dictionary.iteritems(): # Iterate over items returning key, value tuples
+                f.write('%s\t%s\n' % (str(k), str(v))) # write in to file.
+
+
+class CSVToDictReader:  # tab delimiter to filename of dictionary CSV file
+    def __init__(self, filename):         #read filename
+        self.filename=filename 
+    def read(self):         #read filename
+        dictionary={}
+        with open(self.filename, 'r') as f:  # This creates the file object for the context
+            for line in f.readlines():
+                k,v=line.split('\t')
+                dictionary[k]=v.strip()
+        return dictionary

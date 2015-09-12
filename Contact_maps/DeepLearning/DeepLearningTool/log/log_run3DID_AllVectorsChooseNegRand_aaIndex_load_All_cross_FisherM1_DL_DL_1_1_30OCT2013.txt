@@ -1,0 +1,109 @@
+2013-10-30 14:24 STARTED.
+<a href="matlab: opentoline('/home/michael/Dropbox/Project/Contact_maps/DeepLearning/DeepLearningTool/run3DID_AllVectorsChooseNegRand_aaIndex_load_All_cross.m',132,1)">132 </a>        [aucBL_Array, blSens_Array, blSpec_Array, ...
+if system_dependent('IsDebugMode')==1, dbcont; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep in; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+For two hidden layer whole family
+if system_dependent('IsDebugMode')==1, dbstep; end
+Training accuracy: 89.112%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Training recall: 90.725%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Training precision: 87.890%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Training f_measure: 89.285%
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Testing accuracy: 83.861%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Testing recall: 89.873%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Testing precision: 80.226%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Testing f_measure: 84.776%
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+Training AUC: 94.375%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Training accuracy: 89.112%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Training recall: 90.725%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Training precision: 87.890%
+if system_dependent('IsDebugMode')==1, dbstep; end
+Training f_measure: 89.285%
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+if system_dependent('IsDebugMode')==1, dbstep; end
+a=3/7
+
+a =
+
+    0.4286
+
+round(a)
+
+ans =
+
+     0
+
+ceiling(a)
+{Undefined function 'ceiling' for input arguments of type 'double'.
+} 
+ceil(a)
+
+ans =
+
+     1
+
+exit

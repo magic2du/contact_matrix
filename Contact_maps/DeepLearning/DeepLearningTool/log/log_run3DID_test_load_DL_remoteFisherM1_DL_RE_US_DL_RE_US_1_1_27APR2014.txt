@@ -1,0 +1,7108 @@
+2014-4-27 21:9 STARTED.
+{Warning: Found 4 pre-existing parallel job(s) created by matlabpool that are running.
+You can use   'matlabpool close force local'    or create a configuration for the parallel.cluster.Local object and use
+'matlabpool close force <configurationName>'    to remove all jobs created by matlabpool.} 
+{> In distcomp.interactiveclient.pRemoveOldJobs at 55
+  In distcomp.interactiveclient.start at 58
+  In MatlabpoolHelper>MatlabpoolHelper.doOpen at 286
+  In MatlabpoolHelper>MatlabpoolHelper.doMatlabpool at 137
+  In matlabpool at 139
+  In run3DID_Seq_Par_ChooseNegRand_aaIndex_test_load_DL_remote at 44} 
+Starting matlabpool using the 'local' profile ... connected to 8 labs.
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+2014-4-27 23:10 ERROR: Lys_int_V-set. Message: 
+diary: Can't open file.
+
+Error stack:
+SAE_AllVectorsChooseNegRand_aaIndex_test_DL_RE_US_remote.m at 120
+runSeqPairAllVectorsChooseNegRand_aaIndex_test_load_DL_remote.m at 329
+runDDI_Seq_Par_ChooseNegRand_aaIndex_test_load_DL_remote>(parfor body) at 43
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/DeepLearning/run3DID_Seq_Par_ChooseNegRand_aaIndex_test_load_DL_remote.m; run3DID_Seq_Par_ChooseNegRand_aaIndex_test_load_DL_remote; 50
+/home/du/Protein_Protein_Interaction_Project/Contact_Matrix_Project/DeepLearning/runDDI_Seq_Par_ChooseNegRand_aaIndex_test_load_DL_remote.m; runDDI_Seq_Par_ChooseNegRand_aaIndex_test_load_DL_remote; 31
+/net/biohen/opt/MATLAB/R2012a/toolbox/matlab/lang/parallel_function.m; parallel_function; 589
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.150%
+Training recall: 98.520%
+Training precision: 97.796%
+Training f_measure: 98.157%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 33, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.316%
+Training recall: 99.022%
+Training precision: 97.643%
+Training f_measure: 98.327%
+Testing accuracy: 98.077%
+Testing recall: 100.000%
+Testing precision: 96.296%
+Testing f_measure: 98.113%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 22, auc = 0.969, sens = 1.000, spec = 0.963, blAUC = 0.972, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.235%
+Training recall: 99.150%
+Training precision: 97.368%
+Training f_measure: 98.251%
+Testing accuracy: 98.684%
+Testing recall: 100.000%
+Testing precision: 97.436%
+Testing f_measure: 98.701%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 11, auc = 1.000, sens = 1.000, spec = 0.974, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.453%
+Training recall: 98.584%
+Training precision: 98.327%
+Training f_measure: 98.455%
+Testing accuracy: 97.297%
+Testing recall: 97.297%
+Testing precision: 97.297%
+Testing f_measure: 97.297%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 73, auc = 0.999, sens = 0.973, spec = 0.973, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.302%
+Training recall: 98.825%
+Training precision: 97.803%
+Training f_measure: 98.311%
+Testing accuracy: 98.485%
+Testing recall: 100.000%
+Testing precision: 97.059%
+Testing f_measure: 98.507%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 55, auc = 0.994, sens = 1.000, spec = 0.971, blAUC = 0.994, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.464%
+Training recall: 98.889%
+Training precision: 98.056%
+Training f_measure: 98.471%
+Testing accuracy: 98.649%
+Testing recall: 100.000%
+Testing precision: 97.368%
+Testing f_measure: 98.667%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 80, auc = 0.988, sens = 1.000, spec = 0.974, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.194%
+Training recall: 99.217%
+Training precision: 97.228%
+Training f_measure: 98.212%
+Testing accuracy: 96.875%
+Testing recall: 100.000%
+Testing precision: 94.118%
+Testing f_measure: 96.970%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 44, auc = 0.988, sens = 1.000, spec = 0.941, blAUC = 0.965, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.572%
+Training recall: 99.411%
+Training precision: 97.770%
+Training f_measure: 98.584%
+Testing accuracy: 98.780%
+Testing recall: 97.561%
+Testing precision: 100.000%
+Testing f_measure: 98.765%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 65, auc = 0.979, sens = 0.976, spec = 1.000, blAUC = 0.998, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.313%
+Training recall: 98.955%
+Training precision: 97.700%
+Training f_measure: 98.324%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 32, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.522%
+Training recall: 98.913%
+Training precision: 98.145%
+Training f_measure: 98.528%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 21, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 97.931%
+Training recall: 98.563%
+Training precision: 97.333%
+Training f_measure: 97.944%
+Testing accuracy: 97.143%
+Testing recall: 97.143%
+Testing precision: 97.143%
+Testing f_measure: 97.143%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 79, auc = 0.999, sens = 0.971, spec = 0.971, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 97.917%
+Training recall: 99.019%
+Training precision: 96.884%
+Training f_measure: 97.940%
+Testing accuracy: 98.810%
+Testing recall: 97.619%
+Testing precision: 100.000%
+Testing f_measure: 98.795%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 10, auc = 1.000, sens = 0.976, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.074%
+Training recall: 97.693%
+Training precision: 98.443%
+Training f_measure: 98.066%
+Testing accuracy: 98.485%
+Testing recall: 96.970%
+Testing precision: 100.000%
+Testing f_measure: 98.462%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 54, auc = 0.999, sens = 0.970, spec = 1.000, blAUC = 0.997, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.616%
+Training recall: 99.215%
+Training precision: 98.040%
+Training f_measure: 98.624%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 64, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.006%
+Training recall: 98.583%
+Training precision: 97.457%
+Training f_measure: 98.017%
+Testing accuracy: 96.154%
+Testing recall: 97.436%
+Testing precision: 95.000%
+Testing f_measure: 96.203%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 72, auc = 0.987, sens = 0.974, spec = 0.950, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.618%
+Training recall: 99.587%
+Training precision: 97.694%
+Training f_measure: 98.631%
+Testing accuracy: 98.438%
+Testing recall: 100.000%
+Testing precision: 96.970%
+Testing f_measure: 98.462%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 43, auc = 1.000, sens = 1.000, spec = 0.970, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.520%
+Training recall: 99.652%
+Training precision: 97.446%
+Training f_measure: 98.536%
+Testing accuracy: 95.455%
+Testing recall: 96.970%
+Testing precision: 94.118%
+Testing f_measure: 95.522%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 31, auc = 0.992, sens = 0.970, spec = 0.941, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.403%
+Training recall: 99.391%
+Training precision: 97.464%
+Training f_measure: 98.418%
+Testing accuracy: 98.077%
+Testing recall: 100.000%
+Testing precision: 96.296%
+Testing f_measure: 98.113%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 20, auc = 0.972, sens = 1.000, spec = 0.963, blAUC = 0.975, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.725%
+Training recall: 99.324%
+Training precision: 98.148%
+Training f_measure: 98.733%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 78, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.082%
+Training recall: 98.474%
+Training precision: 97.708%
+Training f_measure: 98.089%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 42, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.149%
+Training recall: 98.105%
+Training precision: 98.191%
+Training f_measure: 98.148%
+Testing accuracy: 98.611%
+Testing recall: 97.222%
+Testing precision: 100.000%
+Testing f_measure: 98.592%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 53, auc = 0.998, sens = 0.972, spec = 1.000, blAUC = 0.998, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.321%
+Training recall: 98.343%
+Training precision: 98.300%
+Training f_measure: 98.321%
+Testing accuracy: 98.780%
+Testing recall: 97.561%
+Testing precision: 100.000%
+Testing f_measure: 98.765%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 9, auc = 1.000, sens = 0.976, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.627%
+Training recall: 99.085%
+Training precision: 98.186%
+Training f_measure: 98.633%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 63, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.400%
+Training recall: 98.824%
+Training precision: 97.992%
+Training f_measure: 98.407%
+Testing accuracy: 94.118%
+Testing recall: 97.059%
+Testing precision: 91.667%
+Testing f_measure: 94.286%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 71, auc = 0.971, sens = 0.971, spec = 0.917, blAUC = 0.966, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.334%
+Training recall: 99.695%
+Training precision: 97.054%
+Training f_measure: 98.357%
+Testing accuracy: 94.118%
+Testing recall: 100.000%
+Testing precision: 89.474%
+Testing f_measure: 94.444%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 30, auc = 0.985, sens = 1.000, spec = 0.895, blAUC = 0.989, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.261%
+Training recall: 99.000%
+Training precision: 97.558%
+Training f_measure: 98.274%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 19, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.387%
+Training recall: 99.019%
+Training precision: 97.783%
+Training f_measure: 98.397%
+Testing accuracy: 98.750%
+Testing recall: 97.500%
+Testing precision: 100.000%
+Testing f_measure: 98.734%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 41, auc = 1.000, sens = 0.975, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.485%
+Training recall: 98.997%
+Training precision: 97.993%
+Training f_measure: 98.493%
+Testing accuracy: 98.750%
+Testing recall: 100.000%
+Testing precision: 97.561%
+Testing f_measure: 98.765%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 77, auc = 0.999, sens = 1.000, spec = 0.976, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.628%
+Training recall: 99.455%
+Training precision: 97.836%
+Training f_measure: 98.639%
+Testing accuracy: 98.611%
+Testing recall: 100.000%
+Testing precision: 97.297%
+Testing f_measure: 98.630%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 52, auc = 0.981, sens = 1.000, spec = 0.973, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.529%
+Training recall: 99.106%
+Training precision: 97.975%
+Training f_measure: 98.537%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 62, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.411%
+Training recall: 99.260%
+Training precision: 97.602%
+Training f_measure: 98.424%
+Testing accuracy: 98.529%
+Testing recall: 100.000%
+Testing precision: 97.143%
+Testing f_measure: 98.551%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 8, auc = 0.999, sens = 1.000, spec = 0.971, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.098%
+Training recall: 99.391%
+Training precision: 96.886%
+Training f_measure: 98.123%
+Testing accuracy: 94.231%
+Testing recall: 96.154%
+Testing precision: 92.593%
+Testing f_measure: 94.340%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 70, auc = 0.997, sens = 0.962, spec = 0.926, blAUC = 0.996, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.377%
+Training recall: 98.671%
+Training precision: 98.094%
+Training f_measure: 98.381%
+Testing accuracy: 97.368%
+Testing recall: 97.368%
+Testing precision: 97.368%
+Testing f_measure: 97.368%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 29, auc = 0.979, sens = 0.974, spec = 0.974, blAUC = 0.994, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.359%
+Training recall: 99.044%
+Training precision: 97.706%
+Training f_measure: 98.370%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 18, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.267%
+Training recall: 99.586%
+Training precision: 97.027%
+Training f_measure: 98.290%
+Testing accuracy: 93.590%
+Testing recall: 100.000%
+Testing precision: 88.636%
+Testing f_measure: 93.976%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 76, auc = 0.976, sens = 1.000, spec = 0.886, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 97.941%
+Training recall: 99.521%
+Training precision: 96.472%
+Training f_measure: 97.973%
+Testing accuracy: 98.684%
+Testing recall: 97.368%
+Testing precision: 100.000%
+Testing f_measure: 98.667%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 40, auc = 1.000, sens = 0.974, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.476%
+Training recall: 98.912%
+Training precision: 98.058%
+Training f_measure: 98.483%
+Testing accuracy: 98.485%
+Testing recall: 100.000%
+Testing precision: 97.059%
+Testing f_measure: 98.507%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 51, auc = 1.000, sens = 1.000, spec = 0.971, blAUC = 0.998, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.496%
+Training recall: 99.542%
+Training precision: 97.503%
+Training f_measure: 98.512%
+Testing accuracy: 97.368%
+Testing recall: 100.000%
+Testing precision: 95.000%
+Testing f_measure: 97.436%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 7, auc = 0.974, sens = 1.000, spec = 0.950, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.562%
+Training recall: 99.434%
+Training precision: 97.730%
+Training f_measure: 98.575%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 69, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.256%
+Training recall: 98.322%
+Training precision: 98.193%
+Training f_measure: 98.257%
+Testing accuracy: 98.718%
+Testing recall: 97.436%
+Testing precision: 100.000%
+Testing f_measure: 98.701%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 61, auc = 0.999, sens = 0.974, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.431%
+Training recall: 99.412%
+Training precision: 97.499%
+Training f_measure: 98.446%
+Testing accuracy: 96.154%
+Testing recall: 97.436%
+Testing precision: 95.000%
+Testing f_measure: 96.203%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 28, auc = 0.985, sens = 0.974, spec = 0.950, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.278%
+Training recall: 99.477%
+Training precision: 97.148%
+Training f_measure: 98.299%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 39, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.377%
+Training recall: 99.521%
+Training precision: 97.294%
+Training f_measure: 98.395%
+Testing accuracy: 90.789%
+Testing recall: 81.579%
+Testing precision: 100.000%
+Testing f_measure: 89.855%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 17, auc = 0.993, sens = 0.816, spec = 1.000, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.301%
+Training recall: 98.432%
+Training precision: 98.175%
+Training f_measure: 98.303%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 75, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.465%
+Training recall: 99.412%
+Training precision: 97.565%
+Training f_measure: 98.480%
+Testing accuracy: 96.970%
+Testing recall: 100.000%
+Testing precision: 94.286%
+Testing f_measure: 97.059%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 50, auc = 0.996, sens = 1.000, spec = 0.943, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.415%
+Training recall: 99.197%
+Training precision: 97.669%
+Training f_measure: 98.427%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 6, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 97.669%
+Training recall: 97.974%
+Training precision: 97.380%
+Training f_measure: 97.676%
+Testing accuracy: 97.297%
+Testing recall: 100.000%
+Testing precision: 94.872%
+Testing f_measure: 97.368%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 68, auc = 0.994, sens = 1.000, spec = 0.949, blAUC = 0.996, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.278%
+Training recall: 98.780%
+Training precision: 97.799%
+Training f_measure: 98.287%
+Testing accuracy: 98.684%
+Testing recall: 100.000%
+Testing precision: 97.436%
+Testing f_measure: 98.701%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 60, auc = 1.000, sens = 1.000, spec = 0.974, blAUC = 0.997, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.617%
+Training recall: 99.390%
+Training precision: 97.876%
+Training f_measure: 98.627%
+Testing accuracy: 98.649%
+Testing recall: 100.000%
+Testing precision: 97.368%
+Testing f_measure: 98.667%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 27, auc = 0.976, sens = 1.000, spec = 0.974, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.857%
+Training recall: 99.761%
+Training precision: 97.990%
+Training f_measure: 98.867%
+Testing accuracy: 98.529%
+Testing recall: 97.059%
+Testing precision: 100.000%
+Testing f_measure: 98.507%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 38, auc = 0.997, sens = 0.971, spec = 1.000, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.236%
+Training recall: 98.628%
+Training precision: 97.861%
+Training f_measure: 98.243%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 74, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.277%
+Training recall: 98.473%
+Training precision: 98.088%
+Training f_measure: 98.280%
+Testing accuracy: 95.238%
+Testing recall: 95.238%
+Testing precision: 95.238%
+Testing f_measure: 95.238%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 16, auc = 0.982, sens = 0.952, spec = 0.952, blAUC = 0.965, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.498%
+Training recall: 99.478%
+Training precision: 97.566%
+Training f_measure: 98.513%
+Testing accuracy: 98.485%
+Testing recall: 100.000%
+Testing precision: 97.059%
+Testing f_measure: 98.507%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 49, auc = 0.998, sens = 1.000, spec = 0.971, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.256%
+Training recall: 98.779%
+Training precision: 97.756%
+Training f_measure: 98.265%
+Testing accuracy: 98.750%
+Testing recall: 100.000%
+Testing precision: 97.561%
+Testing f_measure: 98.765%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 5, auc = 0.979, sens = 1.000, spec = 0.976, blAUC = 0.986, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.738%
+Training recall: 99.304%
+Training precision: 98.193%
+Training f_measure: 98.745%
+Testing accuracy: 98.387%
+Testing recall: 100.000%
+Testing precision: 96.875%
+Testing f_measure: 98.413%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 59, auc = 0.999, sens = 1.000, spec = 0.969, blAUC = 0.994, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.488%
+Training recall: 99.238%
+Training precision: 97.771%
+Training f_measure: 98.499%
+Testing accuracy: 96.774%
+Testing recall: 100.000%
+Testing precision: 93.939%
+Testing f_measure: 96.875%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 67, auc = 0.986, sens = 1.000, spec = 0.939, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.495%
+Training recall: 99.564%
+Training precision: 97.481%
+Training f_measure: 98.511%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 26, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.759%
+Training recall: 99.630%
+Training precision: 97.924%
+Training f_measure: 98.770%
+Testing accuracy: 97.059%
+Testing recall: 100.000%
+Testing precision: 94.444%
+Testing f_measure: 97.143%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 87, auc = 0.986, sens = 1.000, spec = 0.944, blAUC = 0.979, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.617%
+Training recall: 99.434%
+Training precision: 97.836%
+Training f_measure: 98.628%
+Testing accuracy: 98.571%
+Testing recall: 100.000%
+Testing precision: 97.222%
+Testing f_measure: 98.592%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 37, auc = 0.990, sens = 1.000, spec = 0.972, blAUC = 0.971, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.670%
+Training recall: 99.520%
+Training precision: 97.855%
+Training f_measure: 98.681%
+Testing accuracy: 97.619%
+Testing recall: 100.000%
+Testing precision: 95.455%
+Testing f_measure: 97.674%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 15, auc = 0.998, sens = 1.000, spec = 0.955, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.509%
+Training recall: 99.674%
+Training precision: 97.405%
+Training f_measure: 98.526%
+Testing accuracy: 96.875%
+Testing recall: 100.000%
+Testing precision: 94.118%
+Testing f_measure: 96.970%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 48, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.235%
+Training recall: 99.259%
+Training precision: 97.267%
+Training f_measure: 98.253%
+Testing accuracy: 95.946%
+Testing recall: 97.297%
+Testing precision: 94.737%
+Testing f_measure: 96.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 4, auc = 0.984, sens = 0.973, spec = 0.947, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.443%
+Training recall: 98.563%
+Training precision: 98.327%
+Training f_measure: 98.445%
+Testing accuracy: 98.571%
+Testing recall: 100.000%
+Testing precision: 97.222%
+Testing f_measure: 98.592%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 58, auc = 1.000, sens = 1.000, spec = 0.972, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.790%
+Training recall: 99.411%
+Training precision: 98.191%
+Training f_measure: 98.797%
+Testing accuracy: 97.561%
+Testing recall: 100.000%
+Testing precision: 95.349%
+Testing f_measure: 97.619%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 66, auc = 0.975, sens = 1.000, spec = 0.953, blAUC = 0.958, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.365%
+Training recall: 98.779%
+Training precision: 97.967%
+Training f_measure: 98.371%
+Testing accuracy: 98.780%
+Testing recall: 100.000%
+Testing precision: 97.619%
+Testing f_measure: 98.795%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 36, auc = 0.993, sens = 1.000, spec = 0.976, blAUC = 0.996, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.267%
+Training recall: 98.518%
+Training precision: 98.026%
+Training f_measure: 98.272%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 86, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.496%
+Training recall: 98.932%
+Training precision: 98.077%
+Training f_measure: 98.503%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 25, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.570%
+Training recall: 98.930%
+Training precision: 98.223%
+Training f_measure: 98.575%
+Testing accuracy: 96.739%
+Testing recall: 95.652%
+Testing precision: 97.778%
+Testing f_measure: 96.703%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 14, auc = 0.985, sens = 0.957, spec = 0.978, blAUC = 0.985, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.757%
+Training recall: 99.498%
+Training precision: 98.044%
+Training f_measure: 98.766%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 47, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.496%
+Training recall: 99.564%
+Training precision: 97.482%
+Training f_measure: 98.512%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 3, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.291%
+Training recall: 98.998%
+Training precision: 97.617%
+Training f_measure: 98.303%
+Testing accuracy: 98.529%
+Testing recall: 97.059%
+Testing precision: 100.000%
+Testing f_measure: 98.507%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 57, auc = 1.000, sens = 0.971, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.693%
+Training recall: 99.368%
+Training precision: 98.045%
+Training f_measure: 98.702%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 93, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.267%
+Training recall: 99.542%
+Training precision: 97.067%
+Training f_measure: 98.289%
+Testing accuracy: 97.436%
+Testing recall: 100.000%
+Testing precision: 95.122%
+Testing f_measure: 97.500%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 35, auc = 0.978, sens = 1.000, spec = 0.951, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.442%
+Training recall: 99.412%
+Training precision: 97.520%
+Training f_measure: 98.457%
+Testing accuracy: 98.684%
+Testing recall: 100.000%
+Testing precision: 97.436%
+Testing f_measure: 98.701%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 85, auc = 1.000, sens = 1.000, spec = 0.974, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 97.722%
+Training recall: 99.194%
+Training precision: 96.358%
+Training f_measure: 97.755%
+Testing accuracy: 98.718%
+Testing recall: 100.000%
+Testing precision: 97.500%
+Testing f_measure: 98.734%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 46, auc = 1.000, sens = 1.000, spec = 0.975, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.520%
+Training recall: 99.434%
+Training precision: 97.650%
+Training f_measure: 98.534%
+Testing accuracy: 96.774%
+Testing recall: 96.774%
+Testing precision: 96.774%
+Testing f_measure: 96.774%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 24, auc = 0.976, sens = 0.968, spec = 0.968, blAUC = 0.964, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.353%
+Training recall: 99.280%
+Training precision: 97.473%
+Training f_measure: 98.368%
+Testing accuracy: 94.048%
+Testing recall: 100.000%
+Testing precision: 89.362%
+Testing f_measure: 94.382%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 13, auc = 0.995, sens = 1.000, spec = 0.894, blAUC = 0.991, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.147%
+Training recall: 98.779%
+Training precision: 97.546%
+Training f_measure: 98.159%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.409%
+Training recall: 98.845%
+Training precision: 97.991%
+Training f_measure: 98.416%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 56, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.725%
+Training recall: 99.281%
+Training precision: 98.190%
+Training f_measure: 98.732%
+Testing accuracy: 98.684%
+Testing recall: 100.000%
+Testing precision: 97.436%
+Testing f_measure: 98.701%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 92, auc = 0.997, sens = 1.000, spec = 0.974, blAUC = 0.985, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.422%
+Training recall: 99.173%
+Training precision: 97.705%
+Training f_measure: 98.434%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 34, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.149%
+Training recall: 98.694%
+Training precision: 97.631%
+Training f_measure: 98.159%
+Testing accuracy: 97.059%
+Testing recall: 97.059%
+Testing precision: 97.059%
+Testing f_measure: 97.059%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 84, auc = 0.998, sens = 0.971, spec = 0.971, blAUC = 0.998, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.628%
+Training recall: 99.564%
+Training precision: 97.734%
+Training f_measure: 98.641%
+Testing accuracy: 98.571%
+Testing recall: 100.000%
+Testing precision: 97.222%
+Testing f_measure: 98.592%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 23, auc = 0.988, sens = 1.000, spec = 0.972, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.322%
+Training recall: 98.976%
+Training precision: 97.698%
+Training f_measure: 98.333%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 45, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.563%
+Training recall: 99.608%
+Training precision: 97.568%
+Training f_measure: 98.578%
+Testing accuracy: 98.571%
+Testing recall: 97.143%
+Testing precision: 100.000%
+Testing f_measure: 98.551%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 12, auc = 0.996, sens = 0.971, spec = 1.000, blAUC = 0.995, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.693%
+Training recall: 99.172%
+Training precision: 98.230%
+Training f_measure: 98.699%
+Testing accuracy: 98.684%
+Testing recall: 97.368%
+Testing precision: 100.000%
+Testing f_measure: 98.667%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 1, auc = 1.000, sens = 0.974, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.170%
+Training recall: 98.431%
+Training precision: 97.919%
+Training f_measure: 98.175%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 91, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.572%
+Training recall: 99.172%
+Training precision: 97.997%
+Training f_measure: 98.581%
+Testing accuracy: 97.500%
+Testing recall: 97.500%
+Testing precision: 97.500%
+Testing f_measure: 97.500%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 98, auc = 0.998, sens = 0.975, spec = 0.975, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.519%
+Training recall: 98.976%
+Training precision: 98.079%
+Training f_measure: 98.525%
+Testing accuracy: 97.297%
+Testing recall: 100.000%
+Testing precision: 94.872%
+Testing f_measure: 97.368%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 102, auc = 1.000, sens = 1.000, spec = 0.949, blAUC = 0.995, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.572%
+Training recall: 99.106%
+Training precision: 98.059%
+Training f_measure: 98.580%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 112, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.605%
+Training recall: 99.499%
+Training precision: 97.752%
+Training f_measure: 98.617%
+Testing accuracy: 97.436%
+Testing recall: 100.000%
+Testing precision: 95.122%
+Testing f_measure: 97.500%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 83, auc = 1.000, sens = 1.000, spec = 0.951, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.575%
+Training recall: 98.999%
+Training precision: 98.166%
+Training f_measure: 98.581%
+Testing accuracy: 95.312%
+Testing recall: 93.750%
+Testing precision: 96.774%
+Testing f_measure: 95.238%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 106, auc = 0.996, sens = 0.938, spec = 0.968, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.660%
+Training recall: 99.695%
+Training precision: 97.673%
+Training f_measure: 98.674%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 109, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 97.973%
+Training recall: 97.973%
+Training precision: 97.973%
+Training f_measure: 97.973%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 115, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.289%
+Training recall: 99.194%
+Training precision: 97.432%
+Training f_measure: 98.305%
+Testing accuracy: 98.684%
+Testing recall: 100.000%
+Testing precision: 97.436%
+Testing f_measure: 98.701%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 97, auc = 1.000, sens = 1.000, spec = 0.974, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.343%
+Training recall: 99.346%
+Training precision: 97.393%
+Training f_measure: 98.360%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 90, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.357%
+Training recall: 98.759%
+Training precision: 97.970%
+Training f_measure: 98.363%
+Testing accuracy: 98.485%
+Testing recall: 100.000%
+Testing precision: 97.059%
+Testing f_measure: 98.507%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 111, auc = 0.999, sens = 1.000, spec = 0.971, blAUC = 0.998, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.245%
+Training recall: 99.477%
+Training precision: 97.085%
+Training f_measure: 98.266%
+Testing accuracy: 98.750%
+Testing recall: 97.500%
+Testing precision: 100.000%
+Testing f_measure: 98.734%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 101, auc = 0.997, sens = 0.975, spec = 1.000, blAUC = 0.994, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.158%
+Training recall: 99.215%
+Training precision: 97.161%
+Training f_measure: 98.178%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 82, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.998, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.236%
+Training recall: 98.977%
+Training precision: 97.533%
+Training f_measure: 98.249%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 105, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.575%
+Training recall: 99.412%
+Training precision: 97.774%
+Training f_measure: 98.586%
+Testing accuracy: 98.438%
+Testing recall: 96.875%
+Testing precision: 100.000%
+Testing f_measure: 98.413%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 108, auc = 1.000, sens = 0.969, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.434%
+Training recall: 99.108%
+Training precision: 97.789%
+Training f_measure: 98.444%
+Testing accuracy: 93.333%
+Testing recall: 90.000%
+Testing precision: 96.429%
+Testing f_measure: 93.103%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 114, auc = 0.994, sens = 0.900, spec = 0.964, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.368%
+Training recall: 98.760%
+Training precision: 97.992%
+Training f_measure: 98.375%
+Testing accuracy: 96.774%
+Testing recall: 93.548%
+Testing precision: 100.000%
+Testing f_measure: 96.667%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 89, auc = 1.000, sens = 0.935, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.663%
+Training recall: 99.283%
+Training precision: 98.068%
+Training f_measure: 98.672%
+Testing accuracy: 96.154%
+Testing recall: 92.308%
+Testing precision: 100.000%
+Testing f_measure: 96.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 96, auc = 1.000, sens = 0.923, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.314%
+Training recall: 99.413%
+Training precision: 97.276%
+Training f_measure: 98.333%
+Testing accuracy: 98.276%
+Testing recall: 100.000%
+Testing precision: 96.667%
+Testing f_measure: 98.305%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 100, auc = 0.998, sens = 1.000, spec = 0.967, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.170%
+Training recall: 98.932%
+Training precision: 97.446%
+Training f_measure: 98.183%
+Testing accuracy: 98.684%
+Testing recall: 100.000%
+Testing precision: 97.436%
+Testing f_measure: 98.701%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 110, auc = 0.982, sens = 1.000, spec = 0.974, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.387%
+Training recall: 99.237%
+Training precision: 97.579%
+Training f_measure: 98.401%
+Testing accuracy: 97.368%
+Testing recall: 100.000%
+Testing precision: 95.000%
+Testing f_measure: 97.436%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 81, auc = 1.000, sens = 1.000, spec = 0.950, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.391%
+Training recall: 99.674%
+Training precision: 97.180%
+Training f_measure: 98.411%
+Testing accuracy: 98.214%
+Testing recall: 100.000%
+Testing precision: 96.552%
+Testing f_measure: 98.246%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 104, auc = 1.000, sens = 1.000, spec = 0.966, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 97.723%
+Training recall: 97.952%
+Training precision: 97.506%
+Training f_measure: 97.729%
+Testing accuracy: 98.649%
+Testing recall: 97.297%
+Testing precision: 100.000%
+Testing f_measure: 98.630%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 107, auc = 0.999, sens = 0.973, spec = 1.000, blAUC = 0.999, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 98.334%
+Training recall: 98.737%
+Training precision: 97.948%
+Training f_measure: 98.341%
+Testing accuracy: 98.529%
+Testing recall: 100.000%
+Testing precision: 97.143%
+Testing f_measure: 98.551%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 88, auc = 0.999, sens = 1.000, spec = 0.971, blAUC = 0.993, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.497%
+Training recall: 98.563%
+Training precision: 98.434%
+Training f_measure: 98.498%
+Testing accuracy: 92.857%
+Testing recall: 88.571%
+Testing precision: 96.875%
+Testing f_measure: 92.537%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 113, auc = 0.955, sens = 0.886, spec = 0.969, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.663%
+Training recall: 99.174%
+Training precision: 98.170%
+Training f_measure: 98.670%
+Testing accuracy: 94.643%
+Testing recall: 92.857%
+Testing precision: 96.296%
+Testing f_measure: 94.545%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 95, auc = 0.985, sens = 0.929, spec = 0.963, blAUC = 0.986, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 97.985%
+Training recall: 99.085%
+Training precision: 96.952%
+Training f_measure: 98.007%
+Testing accuracy: 94.595%
+Testing recall: 100.000%
+Testing precision: 90.244%
+Testing f_measure: 94.872%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 117, auc = 0.991, sens = 1.000, spec = 0.902, blAUC = 0.997, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.376%
+Training recall: 99.433%
+Training precision: 97.375%
+Training f_measure: 98.393%
+Testing accuracy: 98.718%
+Testing recall: 100.000%
+Testing precision: 97.500%
+Testing f_measure: 98.734%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 99, auc = 0.999, sens = 1.000, spec = 0.975, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.377%
+Training recall: 98.889%
+Training precision: 97.887%
+Training f_measure: 98.386%
+Testing accuracy: 97.222%
+Testing recall: 100.000%
+Testing precision: 94.737%
+Testing f_measure: 97.297%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 103, auc = 1.000, sens = 1.000, spec = 0.947, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.334%
+Training recall: 98.323%
+Training precision: 98.344%
+Training f_measure: 98.334%
+Testing accuracy: 98.611%
+Testing recall: 97.222%
+Testing precision: 100.000%
+Testing f_measure: 98.592%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 119, auc = 0.999, sens = 0.972, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.637%
+Training recall: 99.346%
+Training precision: 97.958%
+Training f_measure: 98.647%
+Testing accuracy: 98.750%
+Testing recall: 100.000%
+Testing precision: 97.561%
+Testing f_measure: 98.765%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 121, auc = 0.991, sens = 1.000, spec = 0.976, blAUC = 0.994, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 98.008%
+Training recall: 98.324%
+Training precision: 97.707%
+Training f_measure: 98.015%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 123, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.344%
+Training recall: 98.715%
+Training precision: 97.989%
+Training f_measure: 98.350%
+Testing accuracy: 97.297%
+Testing recall: 100.000%
+Testing precision: 94.872%
+Testing f_measure: 97.368%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 125, auc = 0.991, sens = 1.000, spec = 0.949, blAUC = 0.998, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 98.552%
+Training recall: 99.194%
+Training precision: 97.936%
+Training f_measure: 98.561%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 94, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.225%
+Training recall: 98.606%
+Training precision: 97.860%
+Training f_measure: 98.232%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 116, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 98.627%
+Training recall: 99.084%
+Training precision: 98.185%
+Training f_measure: 98.633%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 127, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.238%
+Training recall: 98.760%
+Training precision: 97.739%
+Training f_measure: 98.247%
+Testing accuracy: 96.774%
+Testing recall: 100.000%
+Testing precision: 93.939%
+Testing f_measure: 96.875%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 129, auc = 1.000, sens = 1.000, spec = 0.939, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 98.638%
+Training recall: 99.804%
+Training precision: 97.530%
+Training f_measure: 98.654%
+Testing accuracy: 98.649%
+Testing recall: 100.000%
+Testing precision: 97.368%
+Testing f_measure: 98.667%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 118, auc = 0.999, sens = 1.000, spec = 0.974, blAUC = 0.991, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 97.930%
+Training recall: 97.516%
+Training precision: 98.330%
+Training f_measure: 97.921%
+Testing accuracy: 94.737%
+Testing recall: 97.368%
+Testing precision: 92.500%
+Testing f_measure: 94.872%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 120, auc = 0.967, sens = 0.974, spec = 0.925, blAUC = 0.970, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 98.507%
+Training recall: 99.520%
+Training precision: 97.543%
+Training f_measure: 98.522%
+Testing accuracy: 97.436%
+Testing recall: 97.436%
+Testing precision: 97.436%
+Testing f_measure: 97.436%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 122, auc = 0.997, sens = 0.974, spec = 0.974, blAUC = 0.994, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 98.596%
+Training recall: 99.086%
+Training precision: 98.125%
+Training f_measure: 98.603%
+Testing accuracy: 98.485%
+Testing recall: 100.000%
+Testing precision: 97.059%
+Testing f_measure: 98.507%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 124, auc = 0.981, sens = 1.000, spec = 0.971, blAUC = 0.994, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 98.606%
+Training recall: 99.216%
+Training precision: 98.021%
+Training f_measure: 98.615%
+Testing accuracy: 98.571%
+Testing recall: 100.000%
+Testing precision: 97.222%
+Testing f_measure: 98.592%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 126, auc = 0.984, sens = 1.000, spec = 0.972, blAUC = 0.980, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 98.061%
+Training recall: 99.107%
+Training precision: 97.077%
+Training f_measure: 98.081%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_C, seqPair 128, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2014-4-29 2:4 SUCCESS: KH_2_int_Ribosomal_S3_C.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.510%
+Training recall: 98.184%
+Training precision: 93.201%
+Training f_measure: 95.627%
+Testing accuracy: 97.321%
+Testing recall: 100.000%
+Testing precision: 94.915%
+Testing f_measure: 97.391%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 24, auc = 0.969, sens = 1.000, spec = 0.949, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.341%
+Training recall: 98.139%
+Training precision: 92.937%
+Training f_measure: 95.468%
+Testing accuracy: 96.552%
+Testing recall: 100.000%
+Testing precision: 93.548%
+Testing f_measure: 96.667%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 12, auc = 0.988, sens = 1.000, spec = 0.935, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.849%
+Training recall: 98.902%
+Training precision: 93.210%
+Training f_measure: 95.972%
+Testing accuracy: 97.222%
+Testing recall: 100.000%
+Testing precision: 94.737%
+Testing f_measure: 97.297%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 86, auc = 0.975, sens = 1.000, spec = 0.947, blAUC = 0.980, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.874%
+Training recall: 97.144%
+Training precision: 92.925%
+Training f_measure: 94.988%
+Testing accuracy: 92.727%
+Testing recall: 94.545%
+Testing precision: 91.228%
+Testing f_measure: 92.857%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 69, auc = 0.966, sens = 0.945, spec = 0.912, blAUC = 0.945, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.162%
+Training recall: 97.424%
+Training precision: 93.207%
+Training f_measure: 95.269%
+Testing accuracy: 92.308%
+Testing recall: 96.154%
+Testing precision: 89.286%
+Testing f_measure: 92.593%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 48, auc = 0.941, sens = 0.962, spec = 0.893, blAUC = 0.955, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.747%
+Training recall: 98.022%
+Training precision: 91.997%
+Training f_measure: 94.914%
+Testing accuracy: 94.828%
+Testing recall: 100.000%
+Testing precision: 90.625%
+Testing f_measure: 95.082%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 59, auc = 0.985, sens = 1.000, spec = 0.906, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.057%
+Training recall: 97.364%
+Training precision: 93.070%
+Training f_measure: 95.169%
+Testing accuracy: 96.364%
+Testing recall: 96.364%
+Testing precision: 96.364%
+Testing f_measure: 96.364%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 36, auc = 0.992, sens = 0.964, spec = 0.964, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.944%
+Training recall: 96.927%
+Training precision: 93.230%
+Training f_measure: 95.043%
+Testing accuracy: 93.878%
+Testing recall: 100.000%
+Testing precision: 89.091%
+Testing f_measure: 94.231%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 78, auc = 0.923, sens = 1.000, spec = 0.891, blAUC = 0.954, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.024%
+Training recall: 98.051%
+Training precision: 92.454%
+Training f_measure: 95.170%
+Testing accuracy: 96.667%
+Testing recall: 100.000%
+Testing precision: 93.750%
+Testing f_measure: 96.774%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 11, auc = 0.970, sens = 1.000, spec = 0.938, blAUC = 0.966, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.019%
+Training recall: 95.957%
+Training precision: 94.190%
+Training f_measure: 95.065%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 23, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.302%
+Training recall: 97.965%
+Training precision: 93.010%
+Training f_measure: 95.423%
+Testing accuracy: 97.059%
+Testing recall: 100.000%
+Testing precision: 94.444%
+Testing f_measure: 97.143%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 85, auc = 0.980, sens = 1.000, spec = 0.944, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.130%
+Training recall: 98.242%
+Training precision: 92.485%
+Training f_measure: 95.277%
+Testing accuracy: 91.964%
+Testing recall: 98.214%
+Testing precision: 87.302%
+Testing f_measure: 92.437%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 68, auc = 0.941, sens = 0.982, spec = 0.873, blAUC = 0.934, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.384%
+Training recall: 98.036%
+Training precision: 93.098%
+Training f_measure: 95.503%
+Testing accuracy: 96.610%
+Testing recall: 100.000%
+Testing precision: 93.651%
+Testing f_measure: 96.721%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 58, auc = 0.960, sens = 1.000, spec = 0.937, blAUC = 0.965, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.106%
+Training recall: 97.084%
+Training precision: 93.390%
+Training f_measure: 95.201%
+Testing accuracy: 93.966%
+Testing recall: 96.552%
+Testing precision: 91.803%
+Testing f_measure: 94.118%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 35, auc = 0.976, sens = 0.966, spec = 0.918, blAUC = 0.971, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.281%
+Training recall: 97.644%
+Training precision: 93.237%
+Training f_measure: 95.390%
+Testing accuracy: 96.939%
+Testing recall: 97.959%
+Testing precision: 96.000%
+Testing f_measure: 96.970%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 47, auc = 0.980, sens = 0.980, spec = 0.960, blAUC = 0.973, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.366%
+Training recall: 98.111%
+Training precision: 93.005%
+Training f_measure: 95.490%
+Testing accuracy: 95.283%
+Testing recall: 98.113%
+Testing precision: 92.857%
+Testing f_measure: 95.413%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 77, auc = 0.984, sens = 0.981, spec = 0.929, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.374%
+Training recall: 98.917%
+Training precision: 92.372%
+Training f_measure: 95.532%
+Testing accuracy: 99.038%
+Testing recall: 100.000%
+Testing precision: 98.113%
+Testing f_measure: 99.048%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 84, auc = 0.991, sens = 1.000, spec = 0.981, blAUC = 0.987, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.251%
+Training recall: 97.377%
+Training precision: 93.406%
+Training f_measure: 95.350%
+Testing accuracy: 97.500%
+Testing recall: 100.000%
+Testing precision: 95.238%
+Testing f_measure: 97.561%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 10, auc = 0.986, sens = 1.000, spec = 0.952, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.391%
+Training recall: 98.007%
+Training precision: 93.135%
+Training f_measure: 95.509%
+Testing accuracy: 96.610%
+Testing recall: 98.305%
+Testing precision: 95.082%
+Testing f_measure: 96.667%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 67, auc = 0.973, sens = 0.983, spec = 0.951, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.619%
+Training recall: 96.844%
+Training precision: 92.718%
+Training f_measure: 94.736%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 22, auc = 0.959, sens = 1.000, spec = 0.875, blAUC = 0.878, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.239%
+Training recall: 98.125%
+Training precision: 92.771%
+Training f_measure: 95.373%
+Testing accuracy: 98.214%
+Testing recall: 100.000%
+Testing precision: 96.552%
+Testing f_measure: 98.246%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 57, auc = 0.972, sens = 1.000, spec = 0.966, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.351%
+Training recall: 97.892%
+Training precision: 93.159%
+Training f_measure: 95.467%
+Testing accuracy: 90.566%
+Testing recall: 94.340%
+Testing precision: 87.719%
+Testing f_measure: 90.909%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 76, auc = 0.952, sens = 0.943, spec = 0.877, blAUC = 0.921, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.401%
+Training recall: 98.257%
+Training precision: 92.947%
+Training f_measure: 95.528%
+Testing accuracy: 97.321%
+Testing recall: 100.000%
+Testing precision: 94.915%
+Testing f_measure: 97.391%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 34, auc = 0.993, sens = 1.000, spec = 0.949, blAUC = 0.987, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.162%
+Training recall: 97.804%
+Training precision: 92.896%
+Training f_measure: 95.287%
+Testing accuracy: 95.098%
+Testing recall: 100.000%
+Testing precision: 91.071%
+Testing f_measure: 95.327%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 46, auc = 0.980, sens = 1.000, spec = 0.911, blAUC = 0.967, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.317%
+Training recall: 98.010%
+Training precision: 93.001%
+Training f_measure: 95.440%
+Testing accuracy: 98.000%
+Testing recall: 100.000%
+Testing precision: 96.154%
+Testing f_measure: 98.039%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 83, auc = 0.977, sens = 1.000, spec = 0.962, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.738%
+Training recall: 99.297%
+Training precision: 92.698%
+Training f_measure: 95.884%
+Testing accuracy: 95.536%
+Testing recall: 100.000%
+Testing precision: 91.803%
+Testing f_measure: 95.726%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 66, auc = 0.962, sens = 1.000, spec = 0.918, blAUC = 0.953, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.530%
+Training recall: 98.976%
+Training precision: 92.594%
+Training f_measure: 95.679%
+Testing accuracy: 96.939%
+Testing recall: 100.000%
+Testing precision: 94.231%
+Testing f_measure: 97.030%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 75, auc = 0.972, sens = 1.000, spec = 0.942, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.639%
+Training recall: 96.909%
+Training precision: 92.700%
+Training f_measure: 94.758%
+Testing accuracy: 93.750%
+Testing recall: 92.857%
+Testing precision: 94.545%
+Testing f_measure: 93.694%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 21, auc = 0.939, sens = 0.929, spec = 0.945, blAUC = 0.946, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.366%
+Training recall: 98.661%
+Training precision: 92.561%
+Training f_measure: 95.514%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 9, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.545%
+Training recall: 96.749%
+Training precision: 92.664%
+Training f_measure: 94.662%
+Testing accuracy: 93.636%
+Testing recall: 96.364%
+Testing precision: 91.379%
+Testing f_measure: 93.805%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 33, auc = 0.962, sens = 0.964, spec = 0.914, blAUC = 0.952, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.100%
+Training recall: 98.828%
+Training precision: 91.971%
+Training f_measure: 95.276%
+Testing accuracy: 98.214%
+Testing recall: 100.000%
+Testing precision: 96.552%
+Testing f_measure: 98.246%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 56, auc = 0.983, sens = 1.000, spec = 0.966, blAUC = 0.995, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.236%
+Training recall: 97.907%
+Training precision: 92.942%
+Training f_measure: 95.360%
+Testing accuracy: 95.098%
+Testing recall: 100.000%
+Testing precision: 91.071%
+Testing f_measure: 95.327%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 45, auc = 0.932, sens = 1.000, spec = 0.911, blAUC = 0.959, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.739%
+Training recall: 98.112%
+Training precision: 91.911%
+Training f_measure: 94.910%
+Testing accuracy: 97.000%
+Testing recall: 100.000%
+Testing precision: 94.340%
+Testing f_measure: 97.087%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 82, auc = 0.960, sens = 1.000, spec = 0.943, blAUC = 0.975, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.503%
+Training recall: 98.242%
+Training precision: 93.140%
+Training f_measure: 95.623%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 74, auc = 0.974, sens = 1.000, spec = 0.933, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.303%
+Training recall: 97.611%
+Training precision: 93.304%
+Training f_measure: 95.409%
+Testing accuracy: 91.525%
+Testing recall: 98.305%
+Testing precision: 86.567%
+Testing f_measure: 92.063%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 65, auc = 0.952, sens = 0.983, spec = 0.866, blAUC = 0.953, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.003%
+Training recall: 96.712%
+Training precision: 93.515%
+Training f_measure: 95.087%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.777%
+Training recall: 97.876%
+Training precision: 92.164%
+Training f_measure: 94.934%
+Testing accuracy: 93.860%
+Testing recall: 96.491%
+Testing precision: 91.667%
+Testing f_measure: 94.017%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 20, auc = 0.963, sens = 0.965, spec = 0.917, blAUC = 0.972, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.355%
+Training recall: 98.330%
+Training precision: 92.809%
+Training f_measure: 95.489%
+Testing accuracy: 95.690%
+Testing recall: 98.276%
+Testing precision: 93.443%
+Testing f_measure: 95.798%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 32, auc = 0.978, sens = 0.983, spec = 0.934, blAUC = 0.977, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.885%
+Training recall: 97.044%
+Training precision: 93.027%
+Training f_measure: 94.993%
+Testing accuracy: 92.000%
+Testing recall: 94.000%
+Testing precision: 90.385%
+Testing f_measure: 92.157%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 55, auc = 0.970, sens = 0.940, spec = 0.904, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.172%
+Training recall: 98.244%
+Training precision: 92.557%
+Training f_measure: 95.316%
+Testing accuracy: 94.792%
+Testing recall: 100.000%
+Testing precision: 90.566%
+Testing f_measure: 95.050%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 44, auc = 0.977, sens = 1.000, spec = 0.906, blAUC = 0.950, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.343%
+Training recall: 98.184%
+Training precision: 92.905%
+Training f_measure: 95.471%
+Testing accuracy: 94.545%
+Testing recall: 96.364%
+Testing precision: 92.982%
+Testing f_measure: 94.643%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 81, auc = 0.957, sens = 0.964, spec = 0.930, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.267%
+Training recall: 97.718%
+Training precision: 93.152%
+Training f_measure: 95.380%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 73, auc = 0.977, sens = 1.000, spec = 0.923, blAUC = 0.985, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.660%
+Training recall: 95.959%
+Training precision: 93.530%
+Training f_measure: 94.729%
+Testing accuracy: 98.276%
+Testing recall: 100.000%
+Testing precision: 96.667%
+Testing f_measure: 98.305%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 7, auc = 1.000, sens = 1.000, spec = 0.967, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.580%
+Training recall: 98.101%
+Training precision: 93.393%
+Training f_measure: 95.689%
+Testing accuracy: 96.154%
+Testing recall: 94.872%
+Testing precision: 97.368%
+Testing f_measure: 96.104%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 64, auc = 0.968, sens = 0.949, spec = 0.974, blAUC = 0.964, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.190%
+Training recall: 97.657%
+Training precision: 93.064%
+Training f_measure: 95.305%
+Testing accuracy: 94.444%
+Testing recall: 92.593%
+Testing precision: 96.154%
+Testing f_measure: 94.340%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 19, auc = 0.985, sens = 0.926, spec = 0.962, blAUC = 0.980, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.254%
+Training recall: 96.499%
+Training precision: 94.155%
+Training f_measure: 95.312%
+Testing accuracy: 96.429%
+Testing recall: 96.429%
+Testing precision: 96.429%
+Testing f_measure: 96.429%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 31, auc = 0.989, sens = 0.964, spec = 0.964, blAUC = 0.979, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.483%
+Training recall: 98.404%
+Training precision: 92.973%
+Training f_measure: 95.611%
+Testing accuracy: 92.453%
+Testing recall: 98.113%
+Testing precision: 88.136%
+Testing f_measure: 92.857%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 54, auc = 0.933, sens = 0.981, spec = 0.881, blAUC = 0.956, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.764%
+Training recall: 97.935%
+Training precision: 92.095%
+Training f_measure: 94.925%
+Testing accuracy: 94.545%
+Testing recall: 98.182%
+Testing precision: 91.525%
+Testing f_measure: 94.737%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 43, auc = 0.982, sens = 0.982, spec = 0.915, blAUC = 0.991, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.577%
+Training recall: 98.052%
+Training precision: 93.427%
+Training f_measure: 95.684%
+Testing accuracy: 93.636%
+Testing recall: 98.182%
+Testing precision: 90.000%
+Testing f_measure: 93.913%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 80, auc = 0.939, sens = 0.982, spec = 0.900, blAUC = 0.935, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.237%
+Training recall: 97.186%
+Training precision: 93.540%
+Training f_measure: 95.328%
+Testing accuracy: 94.915%
+Testing recall: 96.610%
+Testing precision: 93.443%
+Testing f_measure: 95.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 72, auc = 0.958, sens = 0.966, spec = 0.934, blAUC = 0.953, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.459%
+Training recall: 98.359%
+Training precision: 92.966%
+Training f_measure: 95.587%
+Testing accuracy: 95.614%
+Testing recall: 98.246%
+Testing precision: 93.333%
+Testing f_measure: 95.726%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 6, auc = 0.990, sens = 0.982, spec = 0.933, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.766%
+Training recall: 99.004%
+Training precision: 92.982%
+Training f_measure: 95.898%
+Testing accuracy: 95.690%
+Testing recall: 100.000%
+Testing precision: 92.063%
+Testing f_measure: 95.868%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 63, auc = 0.959, sens = 1.000, spec = 0.921, blAUC = 0.968, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.975%
+Training recall: 96.982%
+Training precision: 93.239%
+Training f_measure: 95.074%
+Testing accuracy: 93.860%
+Testing recall: 92.982%
+Testing precision: 94.643%
+Testing f_measure: 93.805%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 18, auc = 0.987, sens = 0.930, spec = 0.946, blAUC = 0.981, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.149%
+Training recall: 97.776%
+Training precision: 92.895%
+Training f_measure: 95.273%
+Testing accuracy: 94.000%
+Testing recall: 94.000%
+Testing precision: 94.000%
+Testing f_measure: 94.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 30, auc = 0.985, sens = 0.940, spec = 0.940, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.022%
+Training recall: 97.511%
+Training precision: 92.887%
+Training f_measure: 95.143%
+Testing accuracy: 92.453%
+Testing recall: 96.226%
+Testing precision: 89.474%
+Testing f_measure: 92.727%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 53, auc = 0.952, sens = 0.962, spec = 0.895, blAUC = 0.932, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.932%
+Training recall: 97.587%
+Training precision: 92.667%
+Training f_measure: 95.063%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 42, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.997, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.048%
+Training recall: 97.333%
+Training precision: 93.078%
+Training f_measure: 95.158%
+Testing accuracy: 93.966%
+Testing recall: 98.276%
+Testing precision: 90.476%
+Testing f_measure: 94.215%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 79, auc = 0.942, sens = 0.983, spec = 0.905, blAUC = 0.946, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.517%
+Training recall: 98.682%
+Training precision: 92.808%
+Training f_measure: 95.655%
+Testing accuracy: 93.860%
+Testing recall: 100.000%
+Testing precision: 89.062%
+Testing f_measure: 94.215%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 62, auc = 0.935, sens = 1.000, spec = 0.891, blAUC = 0.945, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.137%
+Training recall: 98.286%
+Training precision: 92.462%
+Training f_measure: 95.285%
+Testing accuracy: 94.643%
+Testing recall: 100.000%
+Testing precision: 90.323%
+Testing f_measure: 94.915%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 5, auc = 0.989, sens = 1.000, spec = 0.903, blAUC = 0.986, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.354%
+Training recall: 97.892%
+Training precision: 93.164%
+Training f_measure: 95.469%
+Testing accuracy: 83.333%
+Testing recall: 100.000%
+Testing precision: 75.000%
+Testing f_measure: 85.714%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 17, auc = 0.833, sens = 1.000, spec = 0.750, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.391%
+Training recall: 97.948%
+Training precision: 93.182%
+Training f_measure: 95.506%
+Testing accuracy: 92.500%
+Testing recall: 98.333%
+Testing precision: 88.060%
+Testing f_measure: 92.913%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 71, auc = 0.942, sens = 0.983, spec = 0.881, blAUC = 0.951, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.100%
+Training recall: 97.129%
+Training precision: 93.342%
+Training f_measure: 95.198%
+Testing accuracy: 94.643%
+Testing recall: 98.214%
+Testing precision: 91.667%
+Testing f_measure: 94.828%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 52, auc = 0.978, sens = 0.982, spec = 0.917, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.266%
+Training recall: 97.936%
+Training precision: 92.970%
+Training f_measure: 95.389%
+Testing accuracy: 93.000%
+Testing recall: 94.000%
+Testing precision: 92.157%
+Testing f_measure: 93.069%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 29, auc = 0.970, sens = 0.940, spec = 0.922, blAUC = 0.946, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.939%
+Training recall: 96.913%
+Training precision: 93.231%
+Training f_measure: 95.037%
+Testing accuracy: 96.809%
+Testing recall: 97.872%
+Testing precision: 95.833%
+Testing f_measure: 96.842%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 41, auc = 0.983, sens = 0.979, spec = 0.958, blAUC = 0.996, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.664%
+Training recall: 97.233%
+Training precision: 92.481%
+Training f_measure: 94.798%
+Testing accuracy: 95.192%
+Testing recall: 96.154%
+Testing precision: 94.340%
+Testing f_measure: 95.238%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 93, auc = 0.959, sens = 0.962, spec = 0.943, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.114%
+Training recall: 98.139%
+Training precision: 92.541%
+Training f_measure: 95.258%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 16, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.079%
+Training recall: 97.671%
+Training precision: 92.857%
+Training f_measure: 95.203%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 70, auc = 0.967, sens = 1.000, spec = 0.917, blAUC = 0.975, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.196%
+Training recall: 97.422%
+Training precision: 93.270%
+Training f_measure: 95.301%
+Testing accuracy: 97.273%
+Testing recall: 100.000%
+Testing precision: 94.828%
+Testing f_measure: 97.345%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 4, auc = 0.988, sens = 1.000, spec = 0.948, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.113%
+Training recall: 97.274%
+Training precision: 93.243%
+Training f_measure: 95.216%
+Testing accuracy: 93.220%
+Testing recall: 98.305%
+Testing precision: 89.231%
+Testing f_measure: 93.548%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 61, auc = 0.953, sens = 0.983, spec = 0.892, blAUC = 0.949, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.143%
+Training recall: 97.177%
+Training precision: 93.379%
+Training f_measure: 95.240%
+Testing accuracy: 95.745%
+Testing recall: 97.872%
+Testing precision: 93.878%
+Testing f_measure: 95.833%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 40, auc = 0.977, sens = 0.979, spec = 0.939, blAUC = 0.991, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.551%
+Training recall: 97.805%
+Training precision: 93.586%
+Training f_measure: 95.649%
+Testing accuracy: 95.000%
+Testing recall: 94.000%
+Testing precision: 95.918%
+Testing f_measure: 94.949%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 28, auc = 0.989, sens = 0.940, spec = 0.959, blAUC = 0.991, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.265%
+Training recall: 95.371%
+Training precision: 93.307%
+Training f_measure: 94.327%
+Testing accuracy: 88.596%
+Testing recall: 92.982%
+Testing precision: 85.484%
+Testing f_measure: 89.076%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 51, auc = 0.905, sens = 0.930, spec = 0.855, blAUC = 0.919, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 96.019%
+Training recall: 99.005%
+Training precision: 93.425%
+Training f_measure: 96.134%
+Testing accuracy: 96.078%
+Testing recall: 100.000%
+Testing precision: 92.727%
+Testing f_measure: 96.226%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 99, auc = 0.981, sens = 1.000, spec = 0.927, blAUC = 0.978, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.379%
+Training recall: 98.108%
+Training precision: 93.031%
+Training f_measure: 95.502%
+Testing accuracy: 92.424%
+Testing recall: 90.909%
+Testing precision: 93.750%
+Testing f_measure: 92.308%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 92, auc = 0.973, sens = 0.909, spec = 0.938, blAUC = 0.963, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.158%
+Training recall: 98.182%
+Training precision: 92.582%
+Training f_measure: 95.300%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 15, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.413%
+Training recall: 97.992%
+Training precision: 93.185%
+Training f_measure: 95.528%
+Testing accuracy: 91.667%
+Testing recall: 96.667%
+Testing precision: 87.879%
+Testing f_measure: 92.063%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 60, auc = 0.947, sens = 0.967, spec = 0.879, blAUC = 0.955, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.064%
+Training recall: 97.217%
+Training precision: 93.203%
+Training f_measure: 95.168%
+Testing accuracy: 95.536%
+Testing recall: 100.000%
+Testing precision: 91.803%
+Testing f_measure: 95.726%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 3, auc = 0.971, sens = 1.000, spec = 0.918, blAUC = 0.964, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.430%
+Training recall: 98.374%
+Training precision: 92.904%
+Training f_measure: 95.561%
+Testing accuracy: 95.536%
+Testing recall: 96.429%
+Testing precision: 94.737%
+Testing f_measure: 95.575%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 39, auc = 0.978, sens = 0.964, spec = 0.947, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.910%
+Training recall: 98.654%
+Training precision: 93.521%
+Training f_measure: 96.019%
+Testing accuracy: 92.000%
+Testing recall: 94.000%
+Testing precision: 90.385%
+Testing f_measure: 92.157%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 27, auc = 0.944, sens = 0.940, spec = 0.904, blAUC = 0.960, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.072%
+Training recall: 97.554%
+Training precision: 92.940%
+Training f_measure: 95.191%
+Testing accuracy: 94.545%
+Testing recall: 96.364%
+Testing precision: 92.982%
+Testing f_measure: 94.643%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 50, auc = 0.966, sens = 0.964, spec = 0.930, blAUC = 0.977, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.667%
+Training recall: 98.419%
+Training precision: 93.285%
+Training f_measure: 95.783%
+Testing accuracy: 99.020%
+Testing recall: 100.000%
+Testing precision: 98.077%
+Testing f_measure: 99.029%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 98, auc = 1.000, sens = 1.000, spec = 0.981, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.616%
+Training recall: 98.448%
+Training precision: 93.170%
+Training f_measure: 95.736%
+Testing accuracy: 97.115%
+Testing recall: 100.000%
+Testing precision: 94.545%
+Testing f_measure: 97.196%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 91, auc = 0.985, sens = 1.000, spec = 0.945, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.587%
+Training recall: 98.575%
+Training precision: 93.016%
+Training f_measure: 95.715%
+Testing accuracy: 83.333%
+Testing recall: 100.000%
+Testing precision: 75.000%
+Testing f_measure: 85.714%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 14, auc = 0.944, sens = 1.000, spec = 0.750, blAUC = 0.889, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.504%
+Training recall: 98.345%
+Training precision: 93.057%
+Training f_measure: 95.628%
+Testing accuracy: 96.364%
+Testing recall: 98.182%
+Testing precision: 94.737%
+Testing f_measure: 96.429%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 104, auc = 0.997, sens = 0.982, spec = 0.947, blAUC = 0.995, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.289%
+Training recall: 98.124%
+Training precision: 92.858%
+Training f_measure: 95.419%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.988%
+Training recall: 97.117%
+Training precision: 93.150%
+Training f_measure: 95.092%
+Testing accuracy: 94.000%
+Testing recall: 94.000%
+Testing precision: 94.000%
+Testing f_measure: 94.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 26, auc = 0.965, sens = 0.940, spec = 0.940, blAUC = 0.968, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.984%
+Training recall: 97.012%
+Training precision: 93.230%
+Training f_measure: 95.084%
+Testing accuracy: 95.455%
+Testing recall: 94.545%
+Testing precision: 96.296%
+Testing f_measure: 95.413%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 38, auc = 0.986, sens = 0.945, spec = 0.963, blAUC = 0.993, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.389%
+Training recall: 97.877%
+Training precision: 93.237%
+Training f_measure: 95.501%
+Testing accuracy: 98.077%
+Testing recall: 100.000%
+Testing precision: 96.296%
+Testing f_measure: 98.113%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 49, auc = 0.988, sens = 1.000, spec = 0.963, blAUC = 0.996, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.242%
+Training recall: 97.994%
+Training precision: 92.881%
+Training f_measure: 95.369%
+Testing accuracy: 95.283%
+Testing recall: 98.113%
+Testing precision: 92.857%
+Testing f_measure: 95.413%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 97, auc = 0.969, sens = 0.981, spec = 0.929, blAUC = 0.985, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.381%
+Training recall: 97.701%
+Training precision: 93.368%
+Training f_measure: 95.485%
+Testing accuracy: 96.226%
+Testing recall: 100.000%
+Testing precision: 92.982%
+Testing f_measure: 96.364%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 90, auc = 0.976, sens = 1.000, spec = 0.930, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.467%
+Training recall: 97.876%
+Training precision: 93.376%
+Training f_measure: 95.573%
+Testing accuracy: 96.429%
+Testing recall: 100.000%
+Testing precision: 93.333%
+Testing f_measure: 96.552%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 13, auc = 0.972, sens = 1.000, spec = 0.933, blAUC = 0.968, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.056%
+Training recall: 97.261%
+Training precision: 93.154%
+Training f_measure: 95.163%
+Testing accuracy: 93.750%
+Testing recall: 96.429%
+Testing precision: 91.525%
+Testing f_measure: 93.913%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 25, auc = 0.960, sens = 0.964, spec = 0.915, blAUC = 0.987, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.933%
+Training recall: 97.771%
+Training precision: 92.520%
+Training f_measure: 95.073%
+Testing accuracy: 92.188%
+Testing recall: 93.750%
+Testing precision: 90.909%
+Testing f_measure: 92.308%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 103, auc = 0.945, sens = 0.938, spec = 0.909, blAUC = 0.948, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.003%
+Training recall: 97.586%
+Training precision: 92.793%
+Training f_measure: 95.129%
+Testing accuracy: 95.918%
+Testing recall: 97.959%
+Testing precision: 94.118%
+Testing f_measure: 96.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 37, auc = 0.988, sens = 0.980, spec = 0.941, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.641%
+Training recall: 98.140%
+Training precision: 91.720%
+Training f_measure: 94.822%
+Testing accuracy: 99.074%
+Testing recall: 100.000%
+Testing precision: 98.182%
+Testing f_measure: 99.083%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 1, auc = 0.997, sens = 1.000, spec = 0.982, blAUC = 0.989, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.757%
+Training recall: 98.742%
+Training precision: 93.180%
+Training f_measure: 95.880%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 108, auc = 0.974, sens = 1.000, spec = 0.923, blAUC = 0.985, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.685%
+Training recall: 98.549%
+Training precision: 93.210%
+Training f_measure: 95.805%
+Testing accuracy: 95.690%
+Testing recall: 100.000%
+Testing precision: 92.063%
+Testing f_measure: 95.868%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 89, auc = 0.962, sens = 1.000, spec = 0.921, blAUC = 0.968, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.284%
+Training recall: 97.789%
+Training precision: 93.124%
+Training f_measure: 95.399%
+Testing accuracy: 92.727%
+Testing recall: 100.000%
+Testing precision: 87.302%
+Testing f_measure: 93.220%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 96, auc = 0.948, sens = 1.000, spec = 0.873, blAUC = 0.940, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.921%
+Training recall: 98.021%
+Training precision: 92.298%
+Training f_measure: 95.074%
+Testing accuracy: 95.082%
+Testing recall: 100.000%
+Testing precision: 91.045%
+Testing f_measure: 95.312%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 112, auc = 0.968, sens = 1.000, spec = 0.910, blAUC = 0.975, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.081%
+Training recall: 97.390%
+Training precision: 93.091%
+Training f_measure: 95.192%
+Testing accuracy: 90.323%
+Testing recall: 90.323%
+Testing precision: 90.323%
+Testing f_measure: 90.323%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 102, auc = 0.950, sens = 0.903, spec = 0.903, blAUC = 0.934, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.291%
+Training recall: 97.587%
+Training precision: 93.303%
+Training f_measure: 95.397%
+Testing accuracy: 95.556%
+Testing recall: 100.000%
+Testing precision: 91.837%
+Testing f_measure: 95.745%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 118, auc = 0.970, sens = 1.000, spec = 0.918, blAUC = 0.949, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.231%
+Training recall: 98.037%
+Training precision: 92.828%
+Training f_measure: 95.362%
+Testing accuracy: 97.368%
+Testing recall: 100.000%
+Testing precision: 95.000%
+Testing f_measure: 97.436%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 115, auc = 0.984, sens = 1.000, spec = 0.950, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.597%
+Training recall: 98.332%
+Training precision: 93.232%
+Training f_measure: 95.714%
+Testing accuracy: 97.872%
+Testing recall: 100.000%
+Testing precision: 95.918%
+Testing f_measure: 97.917%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 121, auc = 0.981, sens = 1.000, spec = 0.959, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.690%
+Training recall: 98.888%
+Training precision: 92.944%
+Training f_measure: 95.824%
+Testing accuracy: 93.000%
+Testing recall: 98.000%
+Testing precision: 89.091%
+Testing f_measure: 93.333%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 107, auc = 0.946, sens = 0.980, spec = 0.891, blAUC = 0.934, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.508%
+Training recall: 98.403%
+Training precision: 93.018%
+Training f_measure: 95.635%
+Testing accuracy: 96.610%
+Testing recall: 100.000%
+Testing precision: 93.651%
+Testing f_measure: 96.721%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 111, auc = 0.973, sens = 1.000, spec = 0.937, blAUC = 0.963, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.908%
+Training recall: 96.527%
+Training precision: 93.500%
+Training f_measure: 94.990%
+Testing accuracy: 96.552%
+Testing recall: 98.276%
+Testing precision: 95.000%
+Testing f_measure: 96.610%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 88, auc = 0.982, sens = 0.983, spec = 0.950, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.145%
+Training recall: 98.916%
+Training precision: 91.979%
+Training f_measure: 95.321%
+Testing accuracy: 91.818%
+Testing recall: 100.000%
+Testing precision: 85.938%
+Testing f_measure: 92.437%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 95, auc = 0.961, sens = 1.000, spec = 0.859, blAUC = 0.956, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.415%
+Training recall: 98.389%
+Training precision: 92.866%
+Training f_measure: 95.548%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 101, auc = 0.967, sens = 1.000, spec = 0.875, blAUC = 0.945, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.900%
+Training recall: 97.509%
+Training precision: 92.674%
+Training f_measure: 95.030%
+Testing accuracy: 94.068%
+Testing recall: 93.220%
+Testing precision: 94.828%
+Testing f_measure: 94.017%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 114, auc = 0.967, sens = 0.932, spec = 0.948, blAUC = 0.955, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.527%
+Training recall: 96.190%
+Training precision: 93.094%
+Training f_measure: 94.617%
+Testing accuracy: 93.103%
+Testing recall: 93.103%
+Testing precision: 93.103%
+Testing f_measure: 93.103%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 117, auc = 0.948, sens = 0.931, spec = 0.931, blAUC = 0.938, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.290%
+Training recall: 97.990%
+Training precision: 92.970%
+Training f_measure: 95.414%
+Testing accuracy: 85.294%
+Testing recall: 77.941%
+Testing precision: 91.379%
+Testing f_measure: 84.127%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 120, auc = 0.900, sens = 0.779, spec = 0.914, blAUC = 0.926, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.461%
+Training recall: 97.994%
+Training precision: 93.269%
+Training f_measure: 95.573%
+Testing accuracy: 95.283%
+Testing recall: 98.113%
+Testing precision: 92.857%
+Testing f_measure: 95.413%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 106, auc = 0.961, sens = 0.981, spec = 0.929, blAUC = 0.954, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.248%
+Training recall: 97.847%
+Training precision: 93.011%
+Training f_measure: 95.368%
+Testing accuracy: 94.545%
+Testing recall: 96.364%
+Testing precision: 92.982%
+Testing f_measure: 94.643%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 87, auc = 0.982, sens = 0.964, spec = 0.930, blAUC = 0.972, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.578%
+Training recall: 98.269%
+Training precision: 93.250%
+Training f_measure: 95.694%
+Testing accuracy: 93.077%
+Testing recall: 93.846%
+Testing precision: 92.424%
+Testing f_measure: 93.130%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 110, auc = 0.950, sens = 0.938, spec = 0.924, blAUC = 0.957, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.410%
+Training recall: 98.741%
+Training precision: 92.574%
+Training f_measure: 95.558%
+Testing accuracy: 96.226%
+Testing recall: 98.113%
+Testing precision: 94.545%
+Testing f_measure: 96.296%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 94, auc = 0.981, sens = 0.981, spec = 0.945, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.889%
+Training recall: 98.169%
+Training precision: 92.125%
+Training f_measure: 95.051%
+Testing accuracy: 97.273%
+Testing recall: 100.000%
+Testing precision: 94.828%
+Testing f_measure: 97.345%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 113, auc = 0.974, sens = 1.000, spec = 0.948, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.575%
+Training recall: 98.800%
+Training precision: 92.813%
+Training f_measure: 95.713%
+Testing accuracy: 95.745%
+Testing recall: 100.000%
+Testing precision: 92.157%
+Testing f_measure: 95.918%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 116, auc = 0.957, sens = 1.000, spec = 0.922, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.335%
+Training recall: 98.198%
+Training precision: 92.879%
+Training f_measure: 95.465%
+Testing accuracy: 95.536%
+Testing recall: 100.000%
+Testing precision: 91.803%
+Testing f_measure: 95.726%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 100, auc = 0.973, sens = 1.000, spec = 0.918, blAUC = 0.957, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.760%
+Training recall: 98.462%
+Training precision: 93.414%
+Training f_measure: 95.872%
+Testing accuracy: 96.364%
+Testing recall: 100.000%
+Testing precision: 93.220%
+Testing f_measure: 96.491%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 119, auc = 0.979, sens = 1.000, spec = 0.932, blAUC = 0.986, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.955%
+Training recall: 97.349%
+Training precision: 92.900%
+Training f_measure: 95.073%
+Testing accuracy: 99.091%
+Testing recall: 98.182%
+Testing precision: 100.000%
+Testing f_measure: 99.083%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 105, auc = 0.998, sens = 0.982, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.061%
+Training recall: 98.215%
+Training precision: 92.388%
+Training f_measure: 95.212%
+Testing accuracy: 93.878%
+Testing recall: 97.959%
+Testing precision: 90.566%
+Testing f_measure: 94.118%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 123, auc = 0.973, sens = 0.980, spec = 0.906, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.113%
+Training recall: 97.542%
+Training precision: 93.024%
+Training f_measure: 95.229%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 125, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.143%
+Training recall: 98.359%
+Training precision: 92.415%
+Training f_measure: 95.294%
+Testing accuracy: 91.379%
+Testing recall: 98.276%
+Testing precision: 86.364%
+Testing f_measure: 91.935%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 127, auc = 0.971, sens = 0.983, spec = 0.864, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.838%
+Training recall: 97.818%
+Training precision: 92.316%
+Training f_measure: 94.988%
+Testing accuracy: 95.370%
+Testing recall: 100.000%
+Testing precision: 91.525%
+Testing f_measure: 95.575%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 109, auc = 0.970, sens = 1.000, spec = 0.915, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.146%
+Training recall: 97.569%
+Training precision: 93.059%
+Training f_measure: 95.261%
+Testing accuracy: 98.148%
+Testing recall: 100.000%
+Testing precision: 96.429%
+Testing f_measure: 98.182%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 129, auc = 0.981, sens = 1.000, spec = 0.964, blAUC = 0.985, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.299%
+Training recall: 97.964%
+Training precision: 93.006%
+Training f_measure: 95.421%
+Testing accuracy: 95.455%
+Testing recall: 94.545%
+Testing precision: 96.296%
+Testing f_measure: 95.413%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 131, auc = 0.993, sens = 0.945, spec = 0.963, blAUC = 0.980, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 95.274%
+Training recall: 97.615%
+Training precision: 93.249%
+Training f_measure: 95.382%
+Testing accuracy: 96.875%
+Testing recall: 100.000%
+Testing precision: 94.118%
+Testing f_measure: 96.970%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 133, auc = 0.990, sens = 1.000, spec = 0.941, blAUC = 0.984, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.990%
+Training recall: 97.480%
+Training precision: 92.855%
+Training f_measure: 95.111%
+Testing accuracy: 94.737%
+Testing recall: 98.246%
+Testing precision: 91.803%
+Testing f_measure: 94.915%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 135, auc = 0.958, sens = 0.982, spec = 0.918, blAUC = 0.954, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.399%
+Training recall: 97.966%
+Training precision: 93.181%
+Training f_measure: 95.514%
+Testing accuracy: 98.958%
+Testing recall: 100.000%
+Testing precision: 97.959%
+Testing f_measure: 98.969%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 122, auc = 1.000, sens = 1.000, spec = 0.980, blAUC = 0.998, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.915%
+Training recall: 97.673%
+Training precision: 92.567%
+Training f_measure: 95.052%
+Testing accuracy: 96.939%
+Testing recall: 100.000%
+Testing precision: 94.231%
+Testing f_measure: 97.030%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 124, auc = 0.974, sens = 1.000, spec = 0.942, blAUC = 0.981, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.581%
+Training recall: 98.332%
+Training precision: 93.204%
+Training f_measure: 95.699%
+Testing accuracy: 95.918%
+Testing recall: 100.000%
+Testing precision: 92.453%
+Testing f_measure: 96.078%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 126, auc = 0.968, sens = 1.000, spec = 0.925, blAUC = 0.965, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.352%
+Training recall: 98.068%
+Training precision: 93.016%
+Training f_measure: 95.475%
+Testing accuracy: 96.154%
+Testing recall: 100.000%
+Testing precision: 92.857%
+Testing f_measure: 96.296%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 128, auc = 0.981, sens = 1.000, spec = 0.929, blAUC = 0.958, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.575%
+Training recall: 96.193%
+Training precision: 93.178%
+Training f_measure: 94.662%
+Testing accuracy: 93.396%
+Testing recall: 96.226%
+Testing precision: 91.071%
+Testing f_measure: 93.578%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 130, auc = 0.967, sens = 0.962, spec = 0.911, blAUC = 0.975, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.101%
+Training recall: 97.481%
+Training precision: 93.052%
+Training f_measure: 95.215%
+Testing accuracy: 94.545%
+Testing recall: 96.364%
+Testing precision: 92.982%
+Testing f_measure: 94.643%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 132, auc = 0.967, sens = 0.964, spec = 0.930, blAUC = 0.971, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 95.792%
+Training recall: 98.974%
+Training precision: 93.052%
+Training f_measure: 95.922%
+Testing accuracy: 96.825%
+Testing recall: 98.413%
+Testing precision: 95.385%
+Testing f_measure: 96.875%
+
+
+
+KH_2_int_Ribosomal_S3_N, seqPair 134, auc = 0.983, sens = 0.984, spec = 0.954, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2014-4-30 7:50 SUCCESS: KH_2_int_Ribosomal_S3_N.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.336%
+Training recall: 95.191%
+Training precision: 95.468%
+Training f_measure: 95.329%
+Testing accuracy: 87.500%
+Testing recall: 100.000%
+Testing precision: 80.000%
+Testing f_measure: 88.889%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 64, auc = 0.993, sens = 1.000, spec = 0.800, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.061%
+Training recall: 95.410%
+Training precision: 94.749%
+Training f_measure: 95.078%
+Testing accuracy: 91.176%
+Testing recall: 88.235%
+Testing precision: 93.750%
+Testing f_measure: 90.909%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 72, auc = 0.990, sens = 0.882, spec = 0.938, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.222%
+Training recall: 94.367%
+Training precision: 94.094%
+Training f_measure: 94.230%
+Testing accuracy: 96.875%
+Testing recall: 100.000%
+Testing precision: 94.118%
+Testing f_measure: 96.970%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 79, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.962%
+Training recall: 94.875%
+Training precision: 95.041%
+Training f_measure: 94.958%
+Testing accuracy: 92.857%
+Testing recall: 90.476%
+Testing precision: 95.000%
+Testing f_measure: 92.683%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 22, auc = 0.984, sens = 0.905, spec = 0.950, blAUC = 0.977, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 92.878%
+Training recall: 91.430%
+Training precision: 94.156%
+Training f_measure: 92.773%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 11, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.017%
+Training recall: 92.312%
+Training precision: 95.572%
+Training f_measure: 93.914%
+Testing accuracy: 93.750%
+Testing recall: 87.500%
+Testing precision: 100.000%
+Testing f_measure: 93.333%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 33, auc = 1.000, sens = 0.875, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 93.312%
+Training recall: 93.457%
+Training precision: 93.187%
+Training f_measure: 93.322%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 44, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 90.690%
+Training recall: 87.239%
+Training precision: 93.707%
+Training f_measure: 90.357%
+Testing accuracy: 89.286%
+Testing recall: 78.571%
+Testing precision: 100.000%
+Testing f_measure: 88.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 55, auc = 0.990, sens = 0.786, spec = 1.000, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.461%
+Training recall: 91.667%
+Training precision: 95.078%
+Training f_measure: 93.341%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 63, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 92.232%
+Training recall: 87.884%
+Training precision: 96.254%
+Training f_measure: 91.879%
+Testing accuracy: 92.308%
+Testing recall: 92.308%
+Testing precision: 92.308%
+Testing f_measure: 92.308%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 21, auc = 0.970, sens = 0.923, spec = 0.923, blAUC = 0.982, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 93.797%
+Training recall: 92.754%
+Training precision: 94.731%
+Training f_measure: 93.732%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 10, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.003%
+Training recall: 94.670%
+Training precision: 93.425%
+Training f_measure: 94.043%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 71, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.931, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.824%
+Training recall: 96.819%
+Training precision: 93.103%
+Training f_measure: 94.925%
+Testing accuracy: 94.444%
+Testing recall: 100.000%
+Testing precision: 90.000%
+Testing f_measure: 94.737%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 43, auc = 1.000, sens = 1.000, spec = 0.900, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 93.177%
+Training recall: 88.734%
+Training precision: 97.387%
+Training f_measure: 92.859%
+Testing accuracy: 96.875%
+Testing recall: 100.000%
+Testing precision: 94.118%
+Testing f_measure: 96.970%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 78, auc = 1.000, sens = 1.000, spec = 0.941, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.627%
+Training recall: 95.771%
+Training precision: 91.833%
+Training f_measure: 93.761%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 54, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 91.339%
+Training recall: 86.721%
+Training precision: 95.547%
+Training f_measure: 90.920%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 32, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.481%
+Training recall: 97.045%
+Training precision: 94.101%
+Training f_measure: 95.550%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 62, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.246%
+Training recall: 94.725%
+Training precision: 95.723%
+Training f_measure: 95.221%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 42, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.264%
+Training recall: 93.859%
+Training precision: 94.626%
+Training f_measure: 94.241%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 70, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.791%
+Training recall: 92.762%
+Training precision: 92.816%
+Training f_measure: 92.789%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 9, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 93.721%
+Training recall: 90.625%
+Training precision: 96.607%
+Training f_measure: 93.520%
+Testing accuracy: 95.000%
+Testing recall: 90.000%
+Testing precision: 100.000%
+Testing f_measure: 94.737%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 20, auc = 0.960, sens = 0.900, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.635%
+Training recall: 93.735%
+Training precision: 95.452%
+Training f_measure: 94.586%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 77, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.985, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.772%
+Training recall: 97.103%
+Training precision: 91.037%
+Training f_measure: 93.973%
+Testing accuracy: 91.667%
+Testing recall: 91.667%
+Testing precision: 91.667%
+Testing f_measure: 91.667%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 31, auc = 0.986, sens = 0.917, spec = 0.917, blAUC = 0.958, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 93.743%
+Training recall: 90.035%
+Training precision: 97.247%
+Training f_measure: 93.502%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 53, auc = 1.000, sens = 1.000, spec = 0.923, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.874%
+Training recall: 91.020%
+Training precision: 94.525%
+Training f_measure: 92.739%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 61, auc = 1.000, sens = 1.000, spec = 0.923, blAUC = 0.993, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 96.350%
+Training recall: 97.161%
+Training precision: 95.610%
+Training f_measure: 96.379%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 8, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.797%
+Training recall: 93.275%
+Training precision: 94.259%
+Training f_measure: 93.765%
+Testing accuracy: 96.154%
+Testing recall: 100.000%
+Testing precision: 92.857%
+Testing f_measure: 96.296%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 41, auc = 1.000, sens = 1.000, spec = 0.929, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.029%
+Training recall: 93.391%
+Training precision: 94.598%
+Training f_measure: 93.991%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 69, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.213%
+Training recall: 89.327%
+Training precision: 96.855%
+Training f_measure: 92.939%
+Testing accuracy: 82.143%
+Testing recall: 64.286%
+Testing precision: 100.000%
+Testing f_measure: 78.261%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 19, auc = 0.995, sens = 0.643, spec = 1.000, blAUC = 0.995, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.896%
+Training recall: 96.346%
+Training precision: 93.630%
+Training f_measure: 94.969%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 76, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.202%
+Training recall: 93.931%
+Training precision: 96.382%
+Training f_measure: 95.141%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 30, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 90.255%
+Training recall: 83.991%
+Training precision: 96.021%
+Training f_measure: 89.604%
+Testing accuracy: 92.857%
+Testing recall: 100.000%
+Testing precision: 87.500%
+Testing f_measure: 93.333%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 52, auc = 1.000, sens = 1.000, spec = 0.875, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.873%
+Training recall: 96.466%
+Training precision: 93.487%
+Training f_measure: 94.953%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 60, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.557%
+Training recall: 96.005%
+Training precision: 93.303%
+Training f_measure: 94.635%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 40, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.003%
+Training recall: 91.483%
+Training precision: 96.339%
+Training f_measure: 93.848%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 68, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 92.067%
+Training recall: 87.609%
+Training precision: 96.186%
+Training f_measure: 91.697%
+Testing accuracy: 90.909%
+Testing recall: 100.000%
+Testing precision: 84.615%
+Testing f_measure: 91.667%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 7, auc = 1.000, sens = 1.000, spec = 0.846, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 92.704%
+Training recall: 90.793%
+Training precision: 94.401%
+Training f_measure: 92.562%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 18, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 91.342%
+Training recall: 85.415%
+Training precision: 96.902%
+Training f_measure: 90.797%
+Testing accuracy: 97.059%
+Testing recall: 94.118%
+Testing precision: 100.000%
+Testing f_measure: 96.970%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 75, auc = 0.997, sens = 0.941, spec = 1.000, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.192%
+Training recall: 89.513%
+Training precision: 96.623%
+Training f_measure: 92.932%
+Testing accuracy: 91.667%
+Testing recall: 83.333%
+Testing precision: 100.000%
+Testing f_measure: 90.909%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 29, auc = 0.979, sens = 0.833, spec = 1.000, blAUC = 0.958, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 93.888%
+Training recall: 94.090%
+Training precision: 93.710%
+Training f_measure: 93.900%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 51, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.696%
+Training recall: 88.638%
+Training precision: 96.467%
+Training f_measure: 92.387%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 59, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.371%
+Training recall: 93.533%
+Training precision: 95.126%
+Training f_measure: 94.323%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 6, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.432%
+Training recall: 94.676%
+Training precision: 92.377%
+Training f_measure: 93.512%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 39, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.251%
+Training recall: 92.044%
+Training precision: 96.294%
+Training f_measure: 94.121%
+Testing accuracy: 93.750%
+Testing recall: 93.750%
+Testing precision: 93.750%
+Testing f_measure: 93.750%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 67, auc = 0.941, sens = 0.938, spec = 0.938, blAUC = 0.957, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.492%
+Training recall: 96.277%
+Training precision: 94.788%
+Training f_measure: 95.527%
+Testing accuracy: 84.211%
+Testing recall: 68.421%
+Testing precision: 100.000%
+Testing f_measure: 81.250%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 17, auc = 0.970, sens = 0.684, spec = 1.000, blAUC = 0.964, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.102%
+Training recall: 93.027%
+Training precision: 95.071%
+Training f_measure: 94.038%
+Testing accuracy: 94.118%
+Testing recall: 94.118%
+Testing precision: 94.118%
+Testing f_measure: 94.118%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 74, auc = 0.979, sens = 0.941, spec = 0.941, blAUC = 0.952, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.221%
+Training recall: 93.569%
+Training precision: 92.923%
+Training f_measure: 93.245%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 28, auc = 1.000, sens = 1.000, spec = 0.923, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 91.541%
+Training recall: 86.906%
+Training precision: 95.785%
+Training f_measure: 91.130%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 50, auc = 0.993, sens = 1.000, spec = 0.923, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.725%
+Training recall: 95.188%
+Training precision: 94.314%
+Training f_measure: 94.749%
+Testing accuracy: 92.308%
+Testing recall: 100.000%
+Testing precision: 86.667%
+Testing f_measure: 92.857%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 58, auc = 1.000, sens = 1.000, spec = 0.867, blAUC = 0.976, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.003%
+Training recall: 95.249%
+Training precision: 92.934%
+Training f_measure: 94.077%
+Testing accuracy: 91.667%
+Testing recall: 100.000%
+Testing precision: 85.714%
+Testing f_measure: 92.308%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 5, auc = 1.000, sens = 1.000, spec = 0.857, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.271%
+Training recall: 92.708%
+Training precision: 95.699%
+Training f_measure: 94.180%
+Testing accuracy: 95.000%
+Testing recall: 90.000%
+Testing precision: 100.000%
+Testing f_measure: 94.737%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 66, auc = 1.000, sens = 0.900, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 91.817%
+Training recall: 87.696%
+Training precision: 95.572%
+Training f_measure: 91.465%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 38, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.913%
+Training recall: 92.116%
+Training precision: 95.550%
+Training f_measure: 93.802%
+Testing accuracy: 88.462%
+Testing recall: 92.308%
+Testing precision: 85.714%
+Testing f_measure: 88.889%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 16, auc = 0.959, sens = 0.923, spec = 0.857, blAUC = 0.917, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 93.056%
+Training recall: 89.018%
+Training precision: 96.839%
+Training f_measure: 92.764%
+Testing accuracy: 94.118%
+Testing recall: 88.235%
+Testing precision: 100.000%
+Testing f_measure: 93.750%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 73, auc = 0.990, sens = 0.882, spec = 1.000, blAUC = 0.983, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.713%
+Training recall: 97.740%
+Training precision: 93.931%
+Training f_measure: 95.798%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 27, auc = 1.000, sens = 1.000, spec = 0.923, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.177%
+Training recall: 94.438%
+Training precision: 93.948%
+Training f_measure: 94.192%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 57, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.366%
+Training recall: 91.599%
+Training precision: 94.955%
+Training f_measure: 93.247%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 49, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 92.758%
+Training recall: 91.136%
+Training precision: 94.192%
+Training f_measure: 92.638%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 4, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.793%
+Training recall: 95.035%
+Training precision: 92.732%
+Training f_measure: 93.869%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 37, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 92.613%
+Training recall: 91.483%
+Training precision: 93.598%
+Training f_measure: 92.529%
+Testing accuracy: 95.833%
+Testing recall: 91.667%
+Testing precision: 100.000%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 65, auc = 1.000, sens = 0.917, spec = 1.000, blAUC = 0.993, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 95.292%
+Training recall: 96.233%
+Training precision: 94.454%
+Training f_measure: 95.336%
+Testing accuracy: 70.652%
+Testing recall: 50.000%
+Testing precision: 85.185%
+Testing f_measure: 63.014%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 85, auc = 0.873, sens = 0.500, spec = 0.852, blAUC = 0.827, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.804%
+Training recall: 93.399%
+Training precision: 94.162%
+Training f_measure: 93.779%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 15, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.615%
+Training recall: 95.426%
+Training precision: 93.903%
+Training f_measure: 94.658%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 26, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.109%
+Training recall: 95.647%
+Training precision: 92.793%
+Training f_measure: 94.198%
+Testing accuracy: 93.333%
+Testing recall: 93.333%
+Testing precision: 93.333%
+Testing f_measure: 93.333%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 56, auc = 0.996, sens = 0.933, spec = 0.933, blAUC = 0.991, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.888%
+Training recall: 92.410%
+Training precision: 95.224%
+Training f_measure: 93.796%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 48, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.971%
+Training recall: 94.220%
+Training precision: 95.657%
+Training f_measure: 94.933%
+Testing accuracy: 81.250%
+Testing recall: 87.500%
+Testing precision: 77.778%
+Testing f_measure: 82.353%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 36, auc = 0.891, sens = 0.875, spec = 0.778, blAUC = 0.938, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 96.323%
+Training recall: 97.800%
+Training precision: 94.994%
+Training f_measure: 96.377%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 91, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.468%
+Training recall: 90.151%
+Training precision: 94.532%
+Training f_measure: 92.289%
+Testing accuracy: 95.833%
+Testing recall: 100.000%
+Testing precision: 92.308%
+Testing f_measure: 96.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 3, auc = 1.000, sens = 1.000, spec = 0.923, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.686%
+Training recall: 97.163%
+Training precision: 94.376%
+Training f_measure: 95.749%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 84, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 96.029%
+Training recall: 96.986%
+Training precision: 95.165%
+Training f_measure: 96.067%
+Testing accuracy: 88.462%
+Testing recall: 100.000%
+Testing precision: 81.250%
+Testing f_measure: 89.655%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 96, auc = 0.852, sens = 1.000, spec = 0.812, blAUC = 0.929, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.064%
+Training recall: 90.656%
+Training precision: 95.244%
+Training f_measure: 92.893%
+Testing accuracy: 90.000%
+Testing recall: 86.667%
+Testing precision: 92.857%
+Testing f_measure: 89.655%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 14, auc = 0.978, sens = 0.867, spec = 0.929, blAUC = 0.973, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.961%
+Training recall: 89.397%
+Training precision: 96.257%
+Training f_measure: 92.701%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 25, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.920%
+Training recall: 91.372%
+Training precision: 96.278%
+Training f_measure: 93.761%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 47, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.043%
+Training recall: 95.188%
+Training precision: 94.913%
+Training f_measure: 95.051%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 2, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.493%
+Training recall: 94.029%
+Training precision: 94.909%
+Training f_measure: 94.467%
+Testing accuracy: 96.154%
+Testing recall: 100.000%
+Testing precision: 92.857%
+Testing f_measure: 96.296%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 35, auc = 0.994, sens = 1.000, spec = 0.929, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.617%
+Training recall: 89.114%
+Training precision: 95.828%
+Training f_measure: 92.349%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 90, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 0.992, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.354%
+Training recall: 95.483%
+Training precision: 93.375%
+Training f_measure: 94.417%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 83, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 87.152%
+Training recall: 80.800%
+Training precision: 92.558%
+Training f_measure: 86.281%
+Testing accuracy: 92.857%
+Testing recall: 92.857%
+Testing precision: 92.857%
+Testing f_measure: 92.857%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 95, auc = 0.964, sens = 0.929, spec = 0.929, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.271%
+Training recall: 92.361%
+Training precision: 96.029%
+Training f_measure: 94.159%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 13, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 93.960%
+Training recall: 94.335%
+Training precision: 93.632%
+Training f_measure: 93.982%
+Testing accuracy: 87.500%
+Testing recall: 100.000%
+Testing precision: 80.000%
+Testing f_measure: 88.889%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 24, auc = 0.953, sens = 1.000, spec = 0.800, blAUC = 0.922, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.676%
+Training recall: 96.991%
+Training precision: 92.699%
+Training f_measure: 94.796%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 1, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.945%
+Training recall: 96.630%
+Training precision: 93.479%
+Training f_measure: 95.029%
+Testing accuracy: 94.118%
+Testing recall: 100.000%
+Testing precision: 89.474%
+Testing f_measure: 94.444%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 34, auc = 0.931, sens = 1.000, spec = 0.895, blAUC = 0.955, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.096%
+Training recall: 87.030%
+Training precision: 96.843%
+Training f_measure: 91.674%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 46, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.367%
+Training recall: 94.309%
+Training precision: 94.419%
+Training f_measure: 94.364%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 89, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.606%
+Training recall: 96.114%
+Training precision: 93.300%
+Training f_measure: 94.686%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 94, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 92.878%
+Training recall: 92.500%
+Training precision: 93.204%
+Training f_measure: 92.851%
+Testing accuracy: 97.222%
+Testing recall: 94.444%
+Testing precision: 100.000%
+Testing f_measure: 97.143%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 82, auc = 1.000, sens = 0.944, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 96.065%
+Training recall: 97.106%
+Training precision: 95.125%
+Training f_measure: 96.105%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 12, auc = 0.970, sens = 1.000, spec = 0.909, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.121%
+Training recall: 89.711%
+Training precision: 96.278%
+Training f_measure: 92.879%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 23, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.528%
+Training recall: 93.862%
+Training precision: 95.129%
+Training f_measure: 94.491%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 104, auc = 0.992, sens = 1.000, spec = 0.917, blAUC = 0.967, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 93.815%
+Training recall: 90.347%
+Training precision: 97.081%
+Training f_measure: 93.593%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 100, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 91.285%
+Training recall: 85.929%
+Training precision: 96.239%
+Training f_measure: 90.792%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 45, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 94.083%
+Training recall: 92.840%
+Training precision: 95.206%
+Training f_measure: 94.008%
+Testing accuracy: 79.167%
+Testing recall: 62.500%
+Testing precision: 93.750%
+Testing f_measure: 75.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 93, auc = 0.924, sens = 0.625, spec = 0.938, blAUC = 0.869, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.916%
+Training recall: 97.327%
+Training precision: 92.849%
+Training f_measure: 95.035%
+Testing accuracy: 94.118%
+Testing recall: 100.000%
+Testing precision: 89.474%
+Testing f_measure: 94.444%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 81, auc = 0.990, sens = 1.000, spec = 0.895, blAUC = 0.969, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.015%
+Training recall: 90.070%
+Training precision: 93.716%
+Training f_measure: 91.857%
+Testing accuracy: 96.875%
+Testing recall: 100.000%
+Testing precision: 94.118%
+Testing f_measure: 96.970%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 88, auc = 0.988, sens = 1.000, spec = 0.941, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.725%
+Training recall: 95.188%
+Training precision: 94.314%
+Training f_measure: 94.749%
+Testing accuracy: 96.154%
+Testing recall: 92.308%
+Testing precision: 100.000%
+Testing f_measure: 96.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 107, auc = 0.994, sens = 0.923, spec = 1.000, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 95.911%
+Training recall: 97.274%
+Training precision: 94.692%
+Training f_measure: 95.966%
+Testing accuracy: 96.429%
+Testing recall: 92.857%
+Testing precision: 100.000%
+Testing f_measure: 96.296%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 99, auc = 0.985, sens = 0.929, spec = 1.000, blAUC = 0.995, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.188%
+Training recall: 94.685%
+Training precision: 93.754%
+Training f_measure: 94.217%
+Testing accuracy: 57.692%
+Testing recall: 19.231%
+Testing precision: 83.333%
+Testing f_measure: 31.250%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 110, auc = 0.855, sens = 0.192, spec = 0.833, blAUC = 0.938, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 95.067%
+Training recall: 95.937%
+Training precision: 94.295%
+Training f_measure: 95.109%
+Testing accuracy: 90.000%
+Testing recall: 100.000%
+Testing precision: 83.333%
+Testing f_measure: 90.909%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 103, auc = 0.960, sens = 1.000, spec = 0.833, blAUC = 0.902, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 92.923%
+Training recall: 88.515%
+Training precision: 97.074%
+Training f_measure: 92.597%
+Testing accuracy: 96.429%
+Testing recall: 92.857%
+Testing precision: 100.000%
+Testing f_measure: 96.296%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 112, auc = 1.000, sens = 0.929, spec = 1.000, blAUC = 0.985, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 95.282%
+Training recall: 94.955%
+Training precision: 95.579%
+Training f_measure: 95.266%
+Testing accuracy: 82.075%
+Testing recall: 67.925%
+Testing precision: 94.737%
+Testing f_measure: 79.121%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 92, auc = 0.925, sens = 0.679, spec = 0.947, blAUC = 0.938, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.189%
+Training recall: 94.538%
+Training precision: 93.883%
+Training f_measure: 94.210%
+Testing accuracy: 97.059%
+Testing recall: 94.118%
+Testing precision: 100.000%
+Testing f_measure: 96.970%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 80, auc = 1.000, sens = 0.941, spec = 1.000, blAUC = 0.990, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.366%
+Training recall: 89.011%
+Training precision: 95.412%
+Training f_measure: 92.101%
+Testing accuracy: 94.444%
+Testing recall: 88.889%
+Testing precision: 100.000%
+Testing f_measure: 94.118%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 87, auc = 1.000, sens = 0.889, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.648%
+Training recall: 92.517%
+Training precision: 94.659%
+Training f_measure: 93.576%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 106, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.245%
+Training recall: 94.158%
+Training precision: 94.322%
+Training f_measure: 94.240%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 109, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.329%
+Training recall: 95.370%
+Training precision: 93.424%
+Training f_measure: 94.387%
+Testing accuracy: 85.000%
+Testing recall: 100.000%
+Testing precision: 76.923%
+Testing f_measure: 86.957%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 98, auc = 1.000, sens = 1.000, spec = 0.769, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.511%
+Training recall: 89.108%
+Training precision: 97.713%
+Training f_measure: 93.212%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 102, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.362%
+Training recall: 90.261%
+Training precision: 96.230%
+Training f_measure: 93.150%
+Testing accuracy: 88.462%
+Testing recall: 76.923%
+Testing precision: 100.000%
+Testing f_measure: 86.957%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 111, auc = 0.970, sens = 0.769, spec = 1.000, blAUC = 0.923, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 92.588%
+Training recall: 88.593%
+Training precision: 96.287%
+Training f_measure: 92.280%
+Testing accuracy: 95.455%
+Testing recall: 90.909%
+Testing precision: 100.000%
+Testing f_measure: 95.238%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 114, auc = 1.000, sens = 0.909, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.113%
+Training recall: 93.097%
+Training precision: 95.027%
+Training f_measure: 94.052%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 86, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.974, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 92.716%
+Training recall: 89.553%
+Training precision: 95.601%
+Training f_measure: 92.478%
+Testing accuracy: 96.667%
+Testing recall: 93.333%
+Testing precision: 100.000%
+Testing f_measure: 96.552%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 116, auc = 0.996, sens = 0.933, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.519%
+Training recall: 94.432%
+Training precision: 94.596%
+Training f_measure: 94.514%
+Testing accuracy: 85.714%
+Testing recall: 85.714%
+Testing precision: 85.714%
+Testing f_measure: 85.714%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 105, auc = 0.929, sens = 0.857, spec = 0.857, blAUC = 0.939, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.734%
+Training recall: 95.255%
+Training precision: 94.273%
+Training f_measure: 94.761%
+Testing accuracy: 95.000%
+Testing recall: 100.000%
+Testing precision: 90.909%
+Testing f_measure: 95.238%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 108, auc = 0.990, sens = 1.000, spec = 0.909, blAUC = 0.930, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.027%
+Training recall: 90.567%
+Training precision: 95.253%
+Training f_measure: 92.851%
+Testing accuracy: 95.000%
+Testing recall: 90.000%
+Testing precision: 100.000%
+Testing f_measure: 94.737%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 97, auc = 0.970, sens = 0.900, spec = 1.000, blAUC = 0.970, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training accuracy: 94.838%
+Training recall: 95.592%
+Training precision: 94.171%
+Training f_measure: 94.876%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 113, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.806%
+Training recall: 94.138%
+Training precision: 95.412%
+Training f_measure: 94.771%
+Testing accuracy: 96.667%
+Testing recall: 100.000%
+Testing precision: 93.750%
+Testing f_measure: 96.774%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 118, auc = 0.982, sens = 1.000, spec = 0.938, blAUC = 0.987, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 93.848%
+Training recall: 93.558%
+Training precision: 94.104%
+Training f_measure: 93.830%
+Testing accuracy: 96.667%
+Testing recall: 100.000%
+Testing precision: 93.750%
+Testing f_measure: 96.774%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 101, auc = 0.978, sens = 1.000, spec = 0.938, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training accuracy: 94.876%
+Training recall: 94.036%
+Training precision: 95.642%
+Training f_measure: 94.832%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 115, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 93.899%
+Training recall: 91.633%
+Training precision: 95.983%
+Training f_measure: 93.757%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 120, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.560%
+Training recall: 94.907%
+Training precision: 94.253%
+Training f_measure: 94.579%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 124, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 94.505%
+Training recall: 94.101%
+Training precision: 94.869%
+Training f_measure: 94.483%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 122, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 0.975, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training accuracy: 94.351%
+Training recall: 93.105%
+Training precision: 95.484%
+Training f_measure: 94.280%
+Testing accuracy: 91.667%
+Testing recall: 91.667%
+Testing precision: 91.667%
+Testing f_measure: 91.667%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 126, auc = 0.993, sens = 0.917, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 1/2
+Training AE 2/2
+Training AE 1/2
+Training AE 1/2
+Training accuracy: 94.499%
+Training recall: 93.862%
+Training precision: 95.073%
+Training f_measure: 94.464%
+Testing accuracy: 95.455%
+Testing recall: 100.000%
+Testing precision: 91.667%
+Testing f_measure: 95.652%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 117, auc = 1.000, sens = 1.000, spec = 0.917, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training AE 1/2
+Training AE 2/2
+Training AE 2/2
+Training AE 2/2
+Training accuracy: 93.517%
+Training recall: 93.895%
+Training precision: 93.191%
+Training f_measure: 93.542%
+Testing accuracy: 97.222%
+Testing recall: 94.444%
+Testing precision: 100.000%
+Testing f_measure: 97.143%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 119, auc = 0.997, sens = 0.944, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 95.431%
+Training recall: 94.853%
+Training precision: 95.963%
+Training f_measure: 95.404%
+Testing accuracy: 94.444%
+Testing recall: 88.889%
+Testing precision: 100.000%
+Testing f_measure: 94.118%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 123, auc = 0.988, sens = 0.889, spec = 1.000, blAUC = 0.988, blSens = 0.000, blSpec = 0.000.
+
+
+Training accuracy: 96.105%
+Training recall: 97.674%
+Training precision: 94.701%
+Training f_measure: 96.165%
+Testing accuracy: 97.222%
+Testing recall: 100.000%
+Testing precision: 94.737%
+Testing f_measure: 97.297%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 121, auc = 0.972, sens = 1.000, spec = 0.947, blAUC = 0.938, blSens = 0.000, blSpec = 0.000.
+
+
+Training AE 2/2
+Training accuracy: 92.849%
+Training recall: 88.940%
+Training precision: 96.482%
+Training f_measure: 92.558%
+Testing accuracy: 100.000%
+Testing recall: 100.000%
+Testing precision: 100.000%
+Testing f_measure: 100.000%
+
+
+
+Ribosomal_S13_int_Ribosomal_S19, seqPair 125, auc = 1.000, sens = 1.000, spec = 1.000, blAUC = 1.000, blSens = 0.000, blSpec = 0.000.
+
+
+
+
+
+2014-5-1 11:36 SUCCESS: Ribosomal_S13_int_Ribosomal_S19.
+
+
+Sending a stop signal to all the labs ... stopped.
+2014-5-1 11:37 FINISHED.
+Number of total DDI is: 4
+Number of successed DDI is: 3
+Number of total sequence is: 390
+FisherMode: FisherM1 SVMMode: DL_RE_US Kernel: DL_RE_US, choseNegRatio: 1, choseNegRatioTest: 1
+The baseline AUC: 98.302%
+The baseline recall: 0.000%
+The baseline precision: 0.000%
+Testing AUC: 98.374%
+Testing recall: 97.373%
+Testing precision: 95.389%
+Testing f_measure: 96.178%
+Training accuracy: 95.830%
+Training recall: 96.629%
+Training precision: 95.148%
+Training f_measure: 95.846%
