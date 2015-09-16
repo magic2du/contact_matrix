@@ -1,5 +1,6 @@
 function predictContactsFamilyLevelFromList_2010(file_ddis)
-
+% Get the interaction site prediction at the DDI family level.
+% file_ddis: a file name contains a list of DDI familes.
 % logfile.
 diary off;
 dateFormatted = upper(date);

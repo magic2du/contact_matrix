@@ -74,20 +74,18 @@ for i = 1:length(ddi_str_array)
      jointPredVector=[predVectorA predVectorB];
      jointTureVector=[ddi_str_array{i}.InteractionVectorA ddi_str_array{i}.InteractionVectorB];
     % save those ground truth and predicted value 
-    if ONSAVE==1
+    if ONSAVE == 1
         saveFile = [ddi_folder '/familyLevelLOOPredictedSiteSeqA' num2str(i) '.txt'];
         save(saveFile,'predVectorA','-ascii');
         
         saveFile = [ddi_folder '/familyLevelLOOTruthSiteSeqA' num2str(i) '.txt'];
-        truth = ddi_str_array{i}.InteractionVectorA;
-        save(saveFile, 'truth', '-ascii');
+        save(saveFile,'ddi_str_array{i}.InteractionVectorA','-ascii');
         
         saveFile = [ddi_folder '/familyLevelLOOPredictedSiteSeqB' num2str(i) '.txt'];
         save(saveFile,'predVectorB','-ascii');
         
         saveFile = [ddi_folder '/familyLevelLOOTruthSiteSeqB' num2str(i) '.txt'];
-        truth = ddi_str_array{i}.InteractionVectorB;
-        save(saveFile,'truth', '-ascii');
+        save(saveFile,'ddi_str_array{i}.InteractionVectorB','-ascii');
     end
     % get the cosine similarity and other average measurement
     SimilarityVector(i)=cosine_similarity(jointPredVector,jointTureVector);

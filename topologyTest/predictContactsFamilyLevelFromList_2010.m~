@@ -1,6 +1,5 @@
-function predictContactsFamilyLevelFromList_2010_LOO(file_ddis)
-% Get the interaction site prediction at the DDI family level with Leave one out cross validation.
-% file_ddis: a file name contains a list of DDI familes.
+function predictContactsFamilyLevelFromList_2010(file_ddis)
+
 % logfile.
 diary off;
 dateFormatted = upper(date);
@@ -47,7 +46,7 @@ for ddi_ctr = 1:length(cell_ddis)
         load(ddiStructFile);
         ddi_folder = [folder3did ddiName ''];
         [SimilarityVector, recallVector, specificityVector, precisionVector, accuracyVector, F1Vector, MCCVector, scoreVector] = ...
-                        predictContactsFamilyLevel_singleDDI_2010_LOO(ddi_folder, ddi_str_array);
+                        predictContactsFamilyLevel_singleDDI_2010(ddi_folder, ddi_str_array);
         saveFile = [folder3did ddiName '/SimilarityVector.txt'];
         save(saveFile,'SimilarityVector','-ascii');
         

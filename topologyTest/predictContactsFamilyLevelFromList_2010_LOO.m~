@@ -1,6 +1,5 @@
 function predictContactsFamilyLevelFromList_2010_LOO(file_ddis)
-% Get the interaction site prediction at the DDI family level with Leave one out cross validation.
-% file_ddis: a file name contains a list of DDI familes.
+
 % logfile.
 diary off;
 dateFormatted = upper(date);

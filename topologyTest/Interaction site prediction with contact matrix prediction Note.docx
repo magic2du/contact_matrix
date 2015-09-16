@@ -1,0 +1,9 @@
+﻿Input DDI file:
+single topology:
+	listOfSuccessCopied_listOfDDIWithSingleTop10to20Examples.txt
+multiple topology:
+	listOfDDIsHaveOver2InterfacesHave10-20ExamplesWithDifferentDomain.txt
+
+From iphmm code: 
+predictContactsFamilyLevelFromList_2010_LOO.m
+predictContactsFamilyLevel_singleDDI_2010_LOO.m
